@@ -11,11 +11,11 @@
 def render_toc_countries( countries, opts={} )
   buf = ''
   countries.each do |country|
-  
     #<!-- fix: add to models -> countries_w_breweries_or_beers ?? -->
     # <!-- todo: use helper e.g. has_beers_or_breweries? or similar  ?? -->
     teams_count = country.teams.count
-    
+    next if teams_count == 0   # skip country w/o teams
+
     # <!-- todo: add leagues, events count -->
   
     buf << link_to_country( country, opts )

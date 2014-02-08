@@ -40,7 +40,7 @@ puts 'Welcome'
 puts "Dir.pwd: #{Dir.pwd}"
 
 # --  db config
-FOOTBALL_DB_PATH = "../../build/build/football.db"
+FOOTBALL_DB_PATH = "../build/build/football.db"
 
 
 LogUtils::Logger.root.level = :info
@@ -65,10 +65,11 @@ Country   = WorldDb::Model::Country
 Region    = WorldDb::Model::Region
 City      = WorldDb::Model::City
 
-Team      = SportDb::Model::Team
-League    = SportDb::Model::League
-Event     = SportDb::Model::Event
-Game      = SportDb::Model::Game
+### fix: change to Model (singular)
+Team      = SportDb::Models::Team
+League    = SportDb::Models::League
+Event     = SportDb::Models::Event
+Game      = SportDb::Models::Game
 
 
 #####
@@ -103,6 +104,8 @@ end
 
 # Country.where( "key in ('at','mx','hr', 'de', 'be', 'nl', 'cz')" ).each do |country|
 Country.all.each do |country|
+  next if country.teams.count == 0   # skip country w/o teams
+
   puts "build country page #{country.key}..."
 
   path = country_to_md_path( country )
@@ -145,6 +148,7 @@ book_text += render_toc( inline: true )
 
 Continent.all.each do |continent|
   continent.countries.order(:title).each do |country|
+    next if country.teams.count == 0   # skip country w/o teams
 
     puts "build country page #{country.key}..."
     country_text = render_country( country )

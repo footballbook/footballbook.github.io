@@ -11,13 +11,13 @@
 
   .. <!-- list breweries w/o (missing) region -->
   .. <!-- todo/fix: change name to uncategorized_breweries -->
-{% teams_missing_regions = country.teams.where( 'region_id is null' )
-   if teams_missing_regions.count > 0
+{% teams_missing_cities = country.teams.where( 'city_id is null' )
+   if teams_missing_cities.count > 0
  %}
 
-### Uncategorized _({{ teams_missing_regions.count }})_{:.count}
+### Uncategorized _({{ teams_missing_cities.count }})_{:.count}
 
-  {{ render_teams( teams_missing_regions.order(:title) ) }}
+  {{ render_teams( teams_missing_cities.order(:title) ) }}
 {% end %}
 
 
