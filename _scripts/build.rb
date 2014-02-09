@@ -65,11 +65,10 @@ Country   = WorldDb::Model::Country
 Region    = WorldDb::Model::Region
 City      = WorldDb::Model::City
 
-### fix: change to Model (singular)
-Team      = SportDb::Models::Team
-League    = SportDb::Models::League
-Event     = SportDb::Models::Event
-Game      = SportDb::Models::Game
+Team      = SportDb::Model::Team
+League    = SportDb::Model::League
+Event     = SportDb::Model::Event
+Game      = SportDb::Model::Game
 
 
 #####
@@ -84,6 +83,34 @@ Game      = SportDb::Models::Game
 
 
 def build_book
+
+### generate events index
+
+File.open( '_pages/events.md', 'w+') do |file|
+  file.write render_events( frontmatter: <<EOS )
+---
+layout: book
+title: Contents
+permalink: /events.html
+---
+
+EOS
+end
+
+return # for debugging; stop here
+
+### generate teams a-z index
+
+File.open( '_pages/teams.md', 'w+') do |file|
+  file.write render_teams_idx( frontmatter: <<EOS )
+---
+layout: book
+title: Contents
+permalink: /teams.html
+---
+
+EOS
+end
 
 
 ### generate table of contents (toc)
@@ -172,7 +199,7 @@ end # method build_book_all_in_one
 
 
 build_book()
-build_book_all_in_one()
+## build_book_all_in_one()
 
 
 puts 'Done. Bye.'

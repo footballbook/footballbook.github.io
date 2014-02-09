@@ -3,6 +3,13 @@
 ##########################
 # page helpers
 
+def render_events( opts={} )
+  tmpl       = File.read_utf8( '_templates/events.md' )
+  text = ''
+  text << opts[:frontmatter]  if opts[:frontmatter]
+  text << render_erb_template( tmpl, binding )
+  text
+end
 
 def render_country( country, opts={} )
   tmpl       = File.read_utf8( '_templates/country.md' )
