@@ -173,6 +173,7 @@ end
 end # method build_book
 
 
+
 ##########################################
 # 2) generate all-in-one-page version
 
@@ -189,6 +190,24 @@ EOS
 
 book_text += render_toc( inline: true )
 
+### generate event pages
+# note: use same order as table of contents
+
+League.all.each do |league|
+  next if league.events.count == 0
+
+  book_text += <<EOS
+
+---------------------------------------
+
+EOS
+
+  league.events.each_with_index do |event,i|
+    puts " build event page #{event.key} #{event.title}..."
+    book_text += render_event( event )
+  end
+end
+
 
 ### generate pages for countries
 # note: use same order as table of contents
@@ -198,7 +217,6 @@ Continent.all.each do |continent|
     next if country.teams.count == 0   # skip country w/o teams
 
     puts "build country page #{country.key}..."
-    country_text = render_country( country )
 
     book_text += <<EOS
 
@@ -206,9 +224,15 @@ Continent.all.each do |continent|
 
 EOS
 
-    book_text += country_text
+    book_text += render_country( country )
   end
 end
+
+
+#### add team a-z index
+
+book_text += render_teams_idx()
+
 
 
 File.open( '_pages/book.md', 'w+') do |file|
