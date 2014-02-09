@@ -13,14 +13,17 @@ def render_toc_countries( countries, opts={} )
   countries.each do |country|
     #<!-- fix: add to models -> countries_w_breweries_or_beers ?? -->
     # <!-- todo: use helper e.g. has_beers_or_breweries? or similar  ?? -->
-    teams_count = country.teams.count
-    next if teams_count == 0   # skip country w/o teams
-
-    # <!-- todo: add leagues, events count -->
-  
+    teams_count   = country.teams.count
+    leagues_count = country.leagues.count
+    ## events_count  = country.events.count  <!-- fix: add to sportdb gem -->
+    
+    # skip country w/o teams
+    next if teams_count == 0 && leagues_count == 0
+    
     buf << link_to_country( country, opts )
-    buf << " - "
-    buf << "_#{teams_count} Teams_{:.count}"
+    buf << " -- "
+    buf << "_#{teams_count} Teams_{:.count}, "
+    buf << "_#{leagues_count} Leagues_{:.count} "
     buf << "  <br>"
     buf << "\n"
   end

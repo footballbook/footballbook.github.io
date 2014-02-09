@@ -12,7 +12,7 @@
 | ++
    {% league.events.each_with_index do |event,index| %} ++
           {{ '•' if index > 0 }} ++
-          {{ event.title }}  ++   <!-- fix: use link_to_event( event ) -->
+          {{ event.season.title }}  ++   <!-- fix: use link_to_event( event ) -->
    {% end %}  ++
 | ++
     {% if league.country.present? %} ++

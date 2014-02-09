@@ -97,7 +97,26 @@ permalink: /events.html
 EOS
 end
 
-return # for debugging; stop here
+
+### generate event pages
+
+Event.all.each do |event|
+  puts " build event page #{event.key} #{event.title}..."
+
+  key = event.key.gsub( '/', '_' )
+
+  File.open( "_pages/events/#{key}.md", 'w+') do |file|
+    file.write render_event( event, frontmatter: <<EOS )
+---
+layout: book
+title: #{event.title}
+permalink: /#{key}.html
+---
+
+EOS
+  end
+end
+
 
 ### generate teams a-z index
 
