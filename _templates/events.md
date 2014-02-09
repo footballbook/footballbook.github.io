@@ -12,11 +12,11 @@
 | ++
    {% league.events.each_with_index do |event,index| %} ++
           {{ '•' if index > 0 }} ++
-          {{ event.season.title }}  ++   <!-- fix: use link_to_event( event ) -->
+          {{ link_to_event( event, season: true ) }}  ++
    {% end %}  ++
 | ++
     {% if league.country.present? %} ++
-      {{ league.country.title }}  ++  <!-- fix: use link_to_country( league.country ) -->
+      {{ link_to_country( league.country ) }}  ++
       ({{ league.country.code }}) ++
     {% end %} ++
 |

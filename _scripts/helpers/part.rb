@@ -22,8 +22,8 @@ def render_toc_countries( countries, opts={} )
     
     buf << link_to_country( country, opts )
     buf << " -- "
-    buf << "_#{teams_count} Teams_{:.count}, "
-    buf << "_#{leagues_count} Leagues_{:.count} "
+    buf << "_#{teams_count} Teams_{:.count}"
+    buf << ", _#{leagues_count} Leagues_{:.count} "   if leagues_count > 0
     buf << "  <br>"
     buf << "\n"
   end

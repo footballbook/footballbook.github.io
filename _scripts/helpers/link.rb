@@ -2,14 +2,40 @@
 # link helpers
 
 
-def link_to_country( country, opts={} )
+def link_to_event( event, opts={} )
   if opts[:inline].nil?
-    # multi-page version
-    link_to "#{country.title} (#{country.code})", "#{country.key}.html"
+    href = "#{event.key.gsub('/','-')}.html"   # multi-page version
   else
-    # all-in-one page version
-    link_to "#{country.title} (#{country.code})", "##{country.key}"
+    href = "##{event.key.gsub('/','-')}"       # all-in-one page version
   end
+
+  if opts[:season].nil?
+    title = event.title          # use full title e.g. World Cup 2014
+  else
+    title = event.season.title   # use only season e.g. 2014
+  end
+
+  link_to title, href
 end
 
 
+def link_to_country( country, opts={} )
+  if opts[:inline].nil?
+    href = "#{country.key}.html"   # multi-page version
+  else
+    href = "##{country.key}"       # all-in-one page version
+  end
+
+  link_to "#{country.title} (#{country.code})", href
+end
+
+
+def link_to_team( team, opts={} )
+  if opts[:inline].nil?
+    href = "#{team.country.key}.html##{team.key}"   # multi-page version
+  else
+    href = "##{team.key}"       # all-in-one page version
+  end
+
+  link_to team.title, href
+end

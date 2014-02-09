@@ -15,76 +15,76 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Aalborg BK** ( Denmark ) _#aalborg_{: .key} <br>
-**VfR Aalen** ( Germany ) _#aalen_{: .key} <br>
-**Aalesunds FK** ( Norway ) _#aalesunds_{: .key} <br>
-**FC Aarau** ( Switzerland ) _#aarau_{: .key} <br>
-**AGF Aarhus** ( Denmark ) _#aarhus_{: .key} <br>
-**Aberdeen FC** ( Scotland ) _#aberdeen_{: .key} <br>
-**Adelaide United** ( Australia ) _#adelaide_{: .key} <br>
-**FC Admira Wacker** ( Austria ) _#admira_{: .key} <br>
-**AEK Athens FC** ( Greece ) _#aekathens_{: .key} <br>
-**Águila** ( El Salvador ) _#aguila_{: .key} <br>
-**AIK** ( Sweden ) _#aik_{: .key} <br>
-**AC Ajaccio** ( France ) _#ajaccio_{: .key} <br>
-**Ajax** ( Netherlands ) _#ajax_{: .key} <br>
-**ÍA Akranes** ( Iceland ) _#akranes_{: .key} <br>
-**FC Aktobe** ( Kazakhstan ) _#aktobe_{: .key} <br>
-**Thór Akureyri** ( Iceland ) _#akureyri_{: .key} <br>
-**Al Ahly** ( Egypt ) _#alahly_{: .key} <br>
-**Alajuelense** ( Costa Rica ) _#alajuelense_{: .key} <br>
-**Alavés** ( Spain ) _#alaves_{: .key} <br>
-**Alcorcón** ( Spain ) _#alcorcon_{: .key} <br>
-**Algeria** ( Algeria ) _#alg_{: .key} <br>
-**Alianza** ( El Salvador ) _#alianza_{: .key} <br>
-**Alianza Lima** ( Peru ) _#alianzalima_{: .key} <br>
-**Al Ittihad Al Sakandary [Alexandrian Union Club]** ( Egypt ) _#alittihad_{: .key} <br>
-**AZ Alkmaar** ( Netherlands ) _#alkmaar_{: .key} <br>
-**All Boys** ( Argentina ) _#allboys_{: .key} <br>
-**SV Allerheiligen** ( Austria ) _#allerheiligen_{: .key} <br>
-**UD Almería** ( Spain ) _#almeria_{: .key} <br>
-**Al Mokawloon Al Arab [Arab Contractors (Sporting Club)]** ( Egypt ) _#almokawloonalarab_{: .key} <br>
-**Alpha United** ( Guyana ) _#alphaunited_{: .key} <br>
-**SCR Altach** ( Austria ) _#altach_{: .key} <br>
-**América** ( México [Mexico] ) _#america_{: .key} <br>
-**FC Amkar Perm** ( Russia ) _#amkarperm_{: .key} <br>
-**SKU Amstetten** ( Austria ) _#amstetten_{: .key} <br>
-**Anderlecht** ( Belgium ) _#anderlecht_{: .key} <br>
-**Angola** ( Angola ) _#ang_{: .key} <br>
-**Anorthosis Famagusta FC** ( Cyprus ) _#anorthosis_{: .key} <br>
-**Anzhi Makhachkala** ( Russia ) _#anzhi_{: .key} <br>
-**APOEL** ( Cyprus ) _#apoel_{: .key} <br>
-**Apollon Limassol FC** ( Cyprus ) _#apollonlimassol_{: .key} <br>
-**Árabe Unido** ( Panamá [Panama] ) _#arabeunido_{: .key} <br>
-**FC Ararat** ( Armenia ) _#ararat_{: .key} <br>
-**Ardagger SCU** ( Austria ) _#ardagger_{: .key} <br>
-**Argentina** ( Argentina ) _#arg_{: .key} <br>
-**Argentions** ( Argentina ) _#argentinos_{: .key} <br>
-**Arsenal** ( England ) _#arsenal_{: .key} <br>
-**FC Arsenal Kyiv** ( Ukraine ) _#arsenalkyiv_{: .key} <br>
-**Arsenal** ( Argentina ) _#arsenalsarandi_{: .key} <br>
-**Aston Villa** ( England ) _#astonvilla_{: .key} <br>
-**Astra Giurgiu** ( Romania ) _#astra_{: .key} <br>
-**Atalanta** ( Italy ) _#atalanta_{: .key} <br>
-**Athletic** ( Spain ) _#athletic_{: .key} <br>
-**Atlante** ( México [Mexico] ) _#atlante_{: .key} <br>
-**Atlas** ( México [Mexico] ) _#atlas_{: .key} <br>
-**Atlético** ( Spain ) _#atletico_{: .key} <br>
-**Atlético GO** ( Brazil ) _#atleticogo_{: .key} <br>
-**Atlético Mineiro** ( Brazil ) _#atleticomg_{: .key} <br>
-**Atlético Nacional** ( Colombia ) _#atleticonacional_{: .key} <br>
-**Atlético Paranaense** ( Brazil ) _#atleticopr_{: .key} <br>
-**Atromitos FC** ( Greece ) _#atromitos_{: .key} <br>
-**FC Atyrau** ( Kazakhstan ) _#atyrau_{: .key} <br>
-**Auckland City** ( New Zealand ) _#auckland_{: .key} <br>
-**Erzgebirge Aue** ( Germany ) _#aue_{: .key} <br>
-**FC Augsburg** ( Germany ) _#augsburg_{: .key} <br>
-**Australia** ( Australia ) _#aus_{: .key} <br>
-**FK Austria Wien** ( Austria ) _#austria_{: .key} <br>
-**SK Austria Klagenfurt** ( Austria ) _#austriak_{: .key} <br>
-**SC Austria Lustenau** ( Austria ) _#austrial_{: .key} <br>
-**SV Austria Salzburg** ( Austria ) _#austrias_{: .key} <br>
-**Austria** ( Austria ) _#aut_{: .key} <br>
+**[Aalborg BK](dk.html#aalborg)** ( [Denmark (DEN)](dk.html) ) _#aalborg_{: .key} <br>
+**[VfR Aalen](de.html#aalen)** ( [Germany (GER)](de.html) ) _#aalen_{: .key} <br>
+**[Aalesunds FK](no.html#aalesunds)** ( [Norway (NOR)](no.html) ) _#aalesunds_{: .key} <br>
+**[FC Aarau](ch.html#aarau)** ( [Switzerland (SUI)](ch.html) ) _#aarau_{: .key} <br>
+**[AGF Aarhus](dk.html#aarhus)** ( [Denmark (DEN)](dk.html) ) _#aarhus_{: .key} <br>
+**[Aberdeen FC](sc.html#aberdeen)** ( [Scotland (SCO)](sc.html) ) _#aberdeen_{: .key} <br>
+**[Adelaide United](au.html#adelaide)** ( [Australia (AUS)](au.html) ) _#adelaide_{: .key} <br>
+**[FC Admira Wacker](at.html#admira)** ( [Austria (AUT)](at.html) ) _#admira_{: .key} <br>
+**[AEK Athens FC](gr.html#aekathens)** ( [Greece (GRE)](gr.html) ) _#aekathens_{: .key} <br>
+**[Águila](sv.html#aguila)** ( [El Salvador (SLV)](sv.html) ) _#aguila_{: .key} <br>
+**[AIK](se.html#aik)** ( [Sweden (SWE)](se.html) ) _#aik_{: .key} <br>
+**[AC Ajaccio](fr.html#ajaccio)** ( [France (FRA)](fr.html) ) _#ajaccio_{: .key} <br>
+**[Ajax](nl.html#ajax)** ( [Netherlands (NED)](nl.html) ) _#ajax_{: .key} <br>
+**[ÍA Akranes](is.html#akranes)** ( [Iceland (ISL)](is.html) ) _#akranes_{: .key} <br>
+**[FC Aktobe](kz.html#aktobe)** ( [Kazakhstan (KAZ)](kz.html) ) _#aktobe_{: .key} <br>
+**[Thór Akureyri](is.html#akureyri)** ( [Iceland (ISL)](is.html) ) _#akureyri_{: .key} <br>
+**[Al Ahly](eg.html#alahly)** ( [Egypt (EGY)](eg.html) ) _#alahly_{: .key} <br>
+**[Alajuelense](cr.html#alajuelense)** ( [Costa Rica (CRC)](cr.html) ) _#alajuelense_{: .key} <br>
+**[Alavés](es.html#alaves)** ( [Spain (ESP)](es.html) ) _#alaves_{: .key} <br>
+**[Alcorcón](es.html#alcorcon)** ( [Spain (ESP)](es.html) ) _#alcorcon_{: .key} <br>
+**[Algeria](dz.html#alg)** ( [Algeria (ALG)](dz.html) ) _#alg_{: .key} <br>
+**[Alianza](sv.html#alianza)** ( [El Salvador (SLV)](sv.html) ) _#alianza_{: .key} <br>
+**[Alianza Lima](pe.html#alianzalima)** ( [Peru (PER)](pe.html) ) _#alianzalima_{: .key} <br>
+**[Al Ittihad Al Sakandary [Alexandrian Union Club]](eg.html#alittihad)** ( [Egypt (EGY)](eg.html) ) _#alittihad_{: .key} <br>
+**[AZ Alkmaar](nl.html#alkmaar)** ( [Netherlands (NED)](nl.html) ) _#alkmaar_{: .key} <br>
+**[All Boys](ar.html#allboys)** ( [Argentina (ARG)](ar.html) ) _#allboys_{: .key} <br>
+**[SV Allerheiligen](at.html#allerheiligen)** ( [Austria (AUT)](at.html) ) _#allerheiligen_{: .key} <br>
+**[UD Almería](es.html#almeria)** ( [Spain (ESP)](es.html) ) _#almeria_{: .key} <br>
+**[Al Mokawloon Al Arab [Arab Contractors (Sporting Club)]](eg.html#almokawloonalarab)** ( [Egypt (EGY)](eg.html) ) _#almokawloonalarab_{: .key} <br>
+**[Alpha United](gy.html#alphaunited)** ( [Guyana (GUY)](gy.html) ) _#alphaunited_{: .key} <br>
+**[SCR Altach](at.html#altach)** ( [Austria (AUT)](at.html) ) _#altach_{: .key} <br>
+**[América](mx.html#america)** ( [México [Mexico] (MEX)](mx.html) ) _#america_{: .key} <br>
+**[FC Amkar Perm](ru.html#amkarperm)** ( [Russia (RUS)](ru.html) ) _#amkarperm_{: .key} <br>
+**[SKU Amstetten](at.html#amstetten)** ( [Austria (AUT)](at.html) ) _#amstetten_{: .key} <br>
+**[Anderlecht](be.html#anderlecht)** ( [Belgium (BEL)](be.html) ) _#anderlecht_{: .key} <br>
+**[Angola](ao.html#ang)** ( [Angola (ANG)](ao.html) ) _#ang_{: .key} <br>
+**[Anorthosis Famagusta FC](cy.html#anorthosis)** ( [Cyprus (CYP)](cy.html) ) _#anorthosis_{: .key} <br>
+**[Anzhi Makhachkala](ru.html#anzhi)** ( [Russia (RUS)](ru.html) ) _#anzhi_{: .key} <br>
+**[APOEL](cy.html#apoel)** ( [Cyprus (CYP)](cy.html) ) _#apoel_{: .key} <br>
+**[Apollon Limassol FC](cy.html#apollonlimassol)** ( [Cyprus (CYP)](cy.html) ) _#apollonlimassol_{: .key} <br>
+**[Árabe Unido](pa.html#arabeunido)** ( [Panamá [Panama] (PAN)](pa.html) ) _#arabeunido_{: .key} <br>
+**[FC Ararat](am.html#ararat)** ( [Armenia (ARM)](am.html) ) _#ararat_{: .key} <br>
+**[Ardagger SCU](at.html#ardagger)** ( [Austria (AUT)](at.html) ) _#ardagger_{: .key} <br>
+**[Argentina](ar.html#arg)** ( [Argentina (ARG)](ar.html) ) _#arg_{: .key} <br>
+**[Argentions](ar.html#argentinos)** ( [Argentina (ARG)](ar.html) ) _#argentinos_{: .key} <br>
+**[Arsenal](en.html#arsenal)** ( [England (ENG)](en.html) ) _#arsenal_{: .key} <br>
+**[FC Arsenal Kyiv](ua.html#arsenalkyiv)** ( [Ukraine (UKR)](ua.html) ) _#arsenalkyiv_{: .key} <br>
+**[Arsenal](ar.html#arsenalsarandi)** ( [Argentina (ARG)](ar.html) ) _#arsenalsarandi_{: .key} <br>
+**[Aston Villa](en.html#astonvilla)** ( [England (ENG)](en.html) ) _#astonvilla_{: .key} <br>
+**[Astra Giurgiu](ro.html#astra)** ( [Romania (ROU)](ro.html) ) _#astra_{: .key} <br>
+**[Atalanta](it.html#atalanta)** ( [Italy (ITA)](it.html) ) _#atalanta_{: .key} <br>
+**[Athletic](es.html#athletic)** ( [Spain (ESP)](es.html) ) _#athletic_{: .key} <br>
+**[Atlante](mx.html#atlante)** ( [México [Mexico] (MEX)](mx.html) ) _#atlante_{: .key} <br>
+**[Atlas](mx.html#atlas)** ( [México [Mexico] (MEX)](mx.html) ) _#atlas_{: .key} <br>
+**[Atlético](es.html#atletico)** ( [Spain (ESP)](es.html) ) _#atletico_{: .key} <br>
+**[Atlético GO](br.html#atleticogo)** ( [Brazil (BRA)](br.html) ) _#atleticogo_{: .key} <br>
+**[Atlético Mineiro](br.html#atleticomg)** ( [Brazil (BRA)](br.html) ) _#atleticomg_{: .key} <br>
+**[Atlético Nacional](co.html#atleticonacional)** ( [Colombia (COL)](co.html) ) _#atleticonacional_{: .key} <br>
+**[Atlético Paranaense](br.html#atleticopr)** ( [Brazil (BRA)](br.html) ) _#atleticopr_{: .key} <br>
+**[Atromitos FC](gr.html#atromitos)** ( [Greece (GRE)](gr.html) ) _#atromitos_{: .key} <br>
+**[FC Atyrau](kz.html#atyrau)** ( [Kazakhstan (KAZ)](kz.html) ) _#atyrau_{: .key} <br>
+**[Auckland City](nz.html#auckland)** ( [New Zealand (NZL)](nz.html) ) _#auckland_{: .key} <br>
+**[Erzgebirge Aue](de.html#aue)** ( [Germany (GER)](de.html) ) _#aue_{: .key} <br>
+**[FC Augsburg](de.html#augsburg)** ( [Germany (GER)](de.html) ) _#augsburg_{: .key} <br>
+**[Australia](au.html#aus)** ( [Australia (AUS)](au.html) ) _#aus_{: .key} <br>
+**[FK Austria Wien](at.html#austria)** ( [Austria (AUT)](at.html) ) _#austria_{: .key} <br>
+**[SK Austria Klagenfurt](at.html#austriak)** ( [Austria (AUT)](at.html) ) _#austriak_{: .key} <br>
+**[SC Austria Lustenau](at.html#austrial)** ( [Austria (AUT)](at.html) ) _#austrial_{: .key} <br>
+**[SV Austria Salzburg](at.html#austrias)** ( [Austria (AUT)](at.html) ) _#austrias_{: .key} <br>
+**[Austria](at.html#aut)** ( [Austria (AUT)](at.html) ) _#aut_{: .key} <br>
 
 </div>
 
@@ -95,67 +95,67 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**ASK Bad Vöslau** ( Austria ) _#badvoeslau_{: .key} <br>
-**Bahia** ( Brazil ) _#bahia_{: .key} <br>
-**Bakı FK** ( Azerbaijan ) _#bakufk_{: .key} <br>
-**FC Olimpia Balti** ( Moldova ) _#balti_{: .key} <br>
-**FC Banants** ( Armenia ) _#banants_{: .key} <br>
-**FK Banga** ( Lithuania ) _#banga_{: .key} <br>
-**Bangor City FC** ( Wales ) _#bangorcity_{: .key} <br>
-**FK Borac Banja Luka** ( Bosnia and Herzegovina ) _#banjaluka_{: .key} <br>
-**Barcelona** ( Spain ) _#barcelona_{: .key} <br>
-**Barcelona B** ( Spain ) _#barcelonab_{: .key} <br>
-**Barcelona** ( Ecuador ) _#barcelonaguayaquil_{: .key} <br>
-**FC Basel 1893** ( Switzerland ) _#basel_{: .key} <br>
-**SC Bastia** ( France ) _#bastia_{: .key} <br>
-**FC Bayern München** ( Germany ) _#bayern_{: .key} <br>
-**Beitar Jerusalem FC** ( Israel ) _#beitarjerusalem_{: .key} <br>
-**Belgium** ( Belgium ) _#bel_{: .key} <br>
-**Belgrano** ( Argentina ) _#belgrano_{: .key} <br>
-**Benfica** ( Portugal ) _#benfica_{: .key} <br>
-**OFK Beograd** ( Serbia ) _#beograd_{: .key} <br>
-**KS Besa** ( Albania ) _#besa_{: .key} <br>
-**Beşiktaş JK** ( Turkey ) _#besiktas_{: .key} <br>
-**Betis** ( Spain ) _#betis_{: .key} <br>
-**Burkina Faso** ( Burkina Faso ) _#bfa_{: .key} <br>
-**Jagiellonia Białystok** ( Poland ) _#bialystok_{: .key} <br>
-**Bielefeld** ( Germany ) _#bielefeld_{: .key} <br>
-**Bosnia-Herzegovina** ( Bosnia and Herzegovina ) _#bih_{: .key} <br>
-**Birkirkara FC** ( Malta ) _#birkirkara_{: .key} <br>
-**Belarus** ( Belarus ) _#blr_{: .key} <br>
-**Suwon Bluewings** ( South Korea ) _#bluewings_{: .key} <br>
-**Belize** ( Belize ) _#blz_{: .key} <br>
-**Bnei Yehuda Tel-Aviv FC** ( Israel ) _#bneiyehudatelaviv_{: .key} <br>
-**Boca** ( Argentina ) _#bocajuniors_{: .key} <br>
-**VfL Bochum** ( Germany ) _#bochum_{: .key} <br>
-**Bohemian FC** ( Irland ) _#bohemian_{: .key} <br>
-**Bolivia** ( Bolivia ) _#bol_{: .key} <br>
-**FK Mladá Boleslav** ( Czech Republic ) _#boleslav_{: .key} <br>
-**Bolívar** ( Bolivia ) _#bolivar_{: .key} <br>
-**Bologna** ( Italy ) _#bologna_{: .key} <br>
-**Bordeaux** ( France ) _#bordeaux_{: .key} <br>
-**BATE Borissow** ( Belarus ) _#borissow_{: .key} <br>
-**Botafogo** ( Brazil ) _#botafogo_{: .key} <br>
-**Brazil** ( Brazil ) _#bra_{: .key} <br>
-**Braga** ( Portugal ) _#braga_{: .key} <br>
-**SK Brann** ( Norway ) _#brann_{: .key} <br>
-**ŠK Slovan Bratislava** ( Slovakia ) _#bratislava_{: .key} <br>
-**Eintr. Braunschweig** ( Germany ) _#braunschweig_{: .key} <br>
-**NAC Breda** ( Netherlands ) _#breda_{: .key} <br>
-**SC Bregenz** ( Austria ) _#bregenz_{: .key} <br>
-**Breidablik** ( Iceland ) _#breidablik_{: .key} <br>
-**Werder Bremen** ( Germany ) _#bremen_{: .key} <br>
-**Stade Brestois** ( France ) _#brest_{: .key} <br>
-**NK Široki Brijeg** ( Bosnia and Herzegovina ) _#brijeg_{: .key} <br>
-**Brisbane Roar** ( Australia ) _#brisbane_{: .key} <br>
-**Brøndby IF** ( Denmark ) _#brondby_{: .key} <br>
-**Club Brugge KV** ( Belgium ) _#brugge_{: .key} <br>
-**Budapest Honvéd FC** ( Hungary ) _#budapesthonved_{: .key} <br>
-**Burghausen** ( Germany ) _#burghausen_{: .key} <br>
-**Bursaspor** ( Turkey ) _#bursaspor_{: .key} <br>
-**Busan I'Park** ( South Korea ) _#busanipar_{: .key} <br>
-**B36 Tórshavn** ( Faroe Islands ) _#bxxxvitorshavn_{: .key} <br>
-**Dukla Banská Bystrica** ( Slovakia ) _#bystrica_{: .key} <br>
+**[ASK Bad Vöslau](at.html#badvoeslau)** ( [Austria (AUT)](at.html) ) _#badvoeslau_{: .key} <br>
+**[Bahia](br.html#bahia)** ( [Brazil (BRA)](br.html) ) _#bahia_{: .key} <br>
+**[Bakı FK](az.html#bakufk)** ( [Azerbaijan (AZE)](az.html) ) _#bakufk_{: .key} <br>
+**[FC Olimpia Balti](md.html#balti)** ( [Moldova (MDA)](md.html) ) _#balti_{: .key} <br>
+**[FC Banants](am.html#banants)** ( [Armenia (ARM)](am.html) ) _#banants_{: .key} <br>
+**[FK Banga](lt.html#banga)** ( [Lithuania (LTU)](lt.html) ) _#banga_{: .key} <br>
+**[Bangor City FC](wa.html#bangorcity)** ( [Wales (WAL)](wa.html) ) _#bangorcity_{: .key} <br>
+**[FK Borac Banja Luka](ba.html#banjaluka)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#banjaluka_{: .key} <br>
+**[Barcelona](es.html#barcelona)** ( [Spain (ESP)](es.html) ) _#barcelona_{: .key} <br>
+**[Barcelona B](es.html#barcelonab)** ( [Spain (ESP)](es.html) ) _#barcelonab_{: .key} <br>
+**[Barcelona](ec.html#barcelonaguayaquil)** ( [Ecuador (ECU)](ec.html) ) _#barcelonaguayaquil_{: .key} <br>
+**[FC Basel 1893](ch.html#basel)** ( [Switzerland (SUI)](ch.html) ) _#basel_{: .key} <br>
+**[SC Bastia](fr.html#bastia)** ( [France (FRA)](fr.html) ) _#bastia_{: .key} <br>
+**[FC Bayern München](de.html#bayern)** ( [Germany (GER)](de.html) ) _#bayern_{: .key} <br>
+**[Beitar Jerusalem FC](il.html#beitarjerusalem)** ( [Israel (ISR)](il.html) ) _#beitarjerusalem_{: .key} <br>
+**[Belgium](be.html#bel)** ( [Belgium (BEL)](be.html) ) _#bel_{: .key} <br>
+**[Belgrano](ar.html#belgrano)** ( [Argentina (ARG)](ar.html) ) _#belgrano_{: .key} <br>
+**[Benfica](pt.html#benfica)** ( [Portugal (POR)](pt.html) ) _#benfica_{: .key} <br>
+**[OFK Beograd](rs.html#beograd)** ( [Serbia (SRB)](rs.html) ) _#beograd_{: .key} <br>
+**[KS Besa](al.html#besa)** ( [Albania (ALB)](al.html) ) _#besa_{: .key} <br>
+**[Beşiktaş JK](tr.html#besiktas)** ( [Turkey (TUR)](tr.html) ) _#besiktas_{: .key} <br>
+**[Betis](es.html#betis)** ( [Spain (ESP)](es.html) ) _#betis_{: .key} <br>
+**[Burkina Faso](bf.html#bfa)** ( [Burkina Faso (BFA)](bf.html) ) _#bfa_{: .key} <br>
+**[Jagiellonia Białystok](pl.html#bialystok)** ( [Poland (POL)](pl.html) ) _#bialystok_{: .key} <br>
+**[Bielefeld](de.html#bielefeld)** ( [Germany (GER)](de.html) ) _#bielefeld_{: .key} <br>
+**[Bosnia-Herzegovina](ba.html#bih)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#bih_{: .key} <br>
+**[Birkirkara FC](mt.html#birkirkara)** ( [Malta (MLT)](mt.html) ) _#birkirkara_{: .key} <br>
+**[Belarus](by.html#blr)** ( [Belarus (BLR)](by.html) ) _#blr_{: .key} <br>
+**[Suwon Bluewings](kr.html#bluewings)** ( [South Korea (KOR)](kr.html) ) _#bluewings_{: .key} <br>
+**[Belize](bz.html#blz)** ( [Belize (BLZ)](bz.html) ) _#blz_{: .key} <br>
+**[Bnei Yehuda Tel-Aviv FC](il.html#bneiyehudatelaviv)** ( [Israel (ISR)](il.html) ) _#bneiyehudatelaviv_{: .key} <br>
+**[Boca](ar.html#bocajuniors)** ( [Argentina (ARG)](ar.html) ) _#bocajuniors_{: .key} <br>
+**[VfL Bochum](de.html#bochum)** ( [Germany (GER)](de.html) ) _#bochum_{: .key} <br>
+**[Bohemian FC](ie.html#bohemian)** ( [Irland (IRL)](ie.html) ) _#bohemian_{: .key} <br>
+**[Bolivia](bo.html#bol)** ( [Bolivia (BOL)](bo.html) ) _#bol_{: .key} <br>
+**[FK Mladá Boleslav](cz.html#boleslav)** ( [Czech Republic (CZE)](cz.html) ) _#boleslav_{: .key} <br>
+**[Bolívar](bo.html#bolivar)** ( [Bolivia (BOL)](bo.html) ) _#bolivar_{: .key} <br>
+**[Bologna](it.html#bologna)** ( [Italy (ITA)](it.html) ) _#bologna_{: .key} <br>
+**[Bordeaux](fr.html#bordeaux)** ( [France (FRA)](fr.html) ) _#bordeaux_{: .key} <br>
+**[BATE Borissow](by.html#borissow)** ( [Belarus (BLR)](by.html) ) _#borissow_{: .key} <br>
+**[Botafogo](br.html#botafogo)** ( [Brazil (BRA)](br.html) ) _#botafogo_{: .key} <br>
+**[Brazil](br.html#bra)** ( [Brazil (BRA)](br.html) ) _#bra_{: .key} <br>
+**[Braga](pt.html#braga)** ( [Portugal (POR)](pt.html) ) _#braga_{: .key} <br>
+**[SK Brann](no.html#brann)** ( [Norway (NOR)](no.html) ) _#brann_{: .key} <br>
+**[ŠK Slovan Bratislava](sk.html#bratislava)** ( [Slovakia (SVK)](sk.html) ) _#bratislava_{: .key} <br>
+**[Eintr. Braunschweig](de.html#braunschweig)** ( [Germany (GER)](de.html) ) _#braunschweig_{: .key} <br>
+**[NAC Breda](nl.html#breda)** ( [Netherlands (NED)](nl.html) ) _#breda_{: .key} <br>
+**[SC Bregenz](at.html#bregenz)** ( [Austria (AUT)](at.html) ) _#bregenz_{: .key} <br>
+**[Breidablik](is.html#breidablik)** ( [Iceland (ISL)](is.html) ) _#breidablik_{: .key} <br>
+**[Werder Bremen](de.html#bremen)** ( [Germany (GER)](de.html) ) _#bremen_{: .key} <br>
+**[Stade Brestois](fr.html#brest)** ( [France (FRA)](fr.html) ) _#brest_{: .key} <br>
+**[NK Široki Brijeg](ba.html#brijeg)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#brijeg_{: .key} <br>
+**[Brisbane Roar](au.html#brisbane)** ( [Australia (AUS)](au.html) ) _#brisbane_{: .key} <br>
+**[Brøndby IF](dk.html#brondby)** ( [Denmark (DEN)](dk.html) ) _#brondby_{: .key} <br>
+**[Club Brugge KV](be.html#brugge)** ( [Belgium (BEL)](be.html) ) _#brugge_{: .key} <br>
+**[Budapest Honvéd FC](hu.html#budapesthonved)** ( [Hungary (HUN)](hu.html) ) _#budapesthonved_{: .key} <br>
+**[Burghausen](de.html#burghausen)** ( [Germany (GER)](de.html) ) _#burghausen_{: .key} <br>
+**[Bursaspor](tr.html#bursaspor)** ( [Turkey (TUR)](tr.html) ) _#bursaspor_{: .key} <br>
+**[Busan I'Park](kr.html#busanipar)** ( [South Korea (KOR)](kr.html) ) _#busanipar_{: .key} <br>
+**[B36 Tórshavn](fo.html#bxxxvitorshavn)** ( [Faroe Islands (FRO)](fo.html) ) _#bxxxvitorshavn_{: .key} <br>
+**[Dukla Banská Bystrica](sk.html#bystrica)** ( [Slovakia (SVK)](sk.html) ) _#bystrica_{: .key} <br>
 
 </div>
 
@@ -166,67 +166,67 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**FK Borac Čačak** ( Serbia ) _#cacak_{: .key} <br>
-**Cagliari** ( Italy ) _#cagliari_{: .key} <br>
-**Caledonia** ( Trinidad and Tobago ) _#caledonia_{: .key} <br>
-**Canada** ( Canada ) _#can_{: .key} <br>
-**Canterbury United** ( New Zealand ) _#canterbury_{: .key} <br>
-**Caracas** ( Venezuela ) _#caracas_{: .key} <br>
-**Cardiff City** ( Wales ) _#cardiff_{: .key} <br>
-**Cartaginés** ( Costa Rica ) _#cartagines_{: .key} <br>
-**Raja Casablanca** ( Morocco ) _#casablanca_{: .key} <br>
-**Castilla** ( Spain ) _#castilla_{: .key} <br>
-**Catania** ( Italy ) _#catania_{: .key} <br>
-**Universidad Católica** ( Chile ) _#cduc_{: .key} <br>
-**Victoria** ( Honduras ) _#cdvictoria_{: .key} <br>
-**Ceahlaul Piatra Neamt** ( Romania ) _#ceahlau_{: .key} <br>
-**Cefn Druids AFC** ( Wales ) _#cefndruids_{: .key} <br>
-**NK Celje** ( Slovenia ) _#celje_{: .key} <br>
-**Celta** ( Spain ) _#celta_{: .key} <br>
-**Celtic** ( Scotland ) _#celtic_{: .key} <br>
-**Central Coast Mariners** ( Australia ) _#centralcoast_{: .key} <br>
-**Cercle Brugge KSV** ( Belgium ) _#cerclebrugge_{: .key} <br>
-**CFR Cluj** ( Romania ) _#cfrcluj_{: .key} <br>
-**Chelsea** ( England ) _#chelsea_{: .key} <br>
-**Chemnitz** ( Germany ) _#chemnitz_{: .key} <br>
-**PFC Cherno More Varna** ( Bulgaria ) _#chernomorevarna_{: .key} <br>
-**Chile** ( Chile ) _#chi_{: .key} <br>
-**Concordia Chiajna** ( Romania ) _#chiajna_{: .key} <br>
-**Chicago Fire** ( United States ) _#chicago_{: .key} <br>
-**Chievo** ( Italy ) _#chievoverona_{: .key} <br>
-**Guadalajara** ( México [Mexico] ) _#chivas_{: .key} <br>
-**Club Deportivo Chivas US** ( United States ) _#chivasusa_{: .key} <br>
-**Chorrillo** ( Panamá [Panama] ) _#chorrillo_{: .key} <br>
-**Ruch Chorzów** ( Poland ) _#chorzow_{: .key} <br>
-**HNK Cibalia** ( Croatia ) _#cibalia_{: .key} <br>
-**Côte d'Ivoire** ( Côte d'Ivoire ) _#civ_{: .key} <br>
-**Cliftonville FC** ( Northern Ireland ) _#cliftonville_{: .key} <br>
-**Cameroon** ( Cameroon ) _#cmr_{: .key} <br>
-**Congo DR** ( Congo DR ) _#cod_{: .key} <br>
-**A. Académica de Coimbra** ( Portugal ) _#coimbra_{: .key} <br>
-**Colombia** ( Colombia ) _#col_{: .key} <br>
-**Colón** ( Argentina ) _#colon_{: .key} <br>
-**Colorado Rapids** ( United States ) _#colorado_{: .key} <br>
-**Columbus Crew** ( United States ) _#columbus_{: .key} <br>
-**Comunicaciones** ( Guatemala ) _#comunicaciones_{: .key} <br>
-**Córdoba** ( Spain ) _#cordoba_{: .key} <br>
-**Corinthians** ( Brazil ) _#corinthians_{: .key} <br>
-**Coritiba** ( Brazil ) _#coritiba_{: .key} <br>
-**Cork City FC** ( Irland ) _#corkcity_{: .key} <br>
-**Cerezo Osaka** ( Japan ) _#cosaka_{: .key} <br>
-**Energie Cottbus** ( Germany ) _#cottbus_{: .key} <br>
-**Cape Verde** ( Cape Verde ) _#cpv_{: .key} <br>
-**Costa Rica** ( Costa Rica ) _#crc_{: .key} <br>
-**Criciúma** ( Brazil ) _#criciuma_{: .key} <br>
-**Croatia** ( Croatia ) _#cro_{: .key} <br>
-**Crusaders FC** ( Northern Ireland ) _#crusaders_{: .key} <br>
-**Cruz Azul** ( México [Mexico] ) _#cruzazul_{: .key} <br>
-**Cruzeiro** ( Brazil ) _#cruzeiro_{: .key} <br>
-**FK Crvena zvezda** ( Serbia ) _#crvenazvezda_{: .key} <br>
-**Crystal Palace** ( England ) _#crystalpalace_{: .key} <br>
-**PFC CSKA Sofia** ( Bulgaria ) _#cskasofia_{: .key} <br>
-**Cuba** ( Cuba ) _#cub_{: .key} <br>
-**Czech Republic** ( Czech Republic ) _#cze_{: .key} <br>
+**[FK Borac Čačak](rs.html#cacak)** ( [Serbia (SRB)](rs.html) ) _#cacak_{: .key} <br>
+**[Cagliari](it.html#cagliari)** ( [Italy (ITA)](it.html) ) _#cagliari_{: .key} <br>
+**[Caledonia](tt.html#caledonia)** ( [Trinidad and Tobago (TRI)](tt.html) ) _#caledonia_{: .key} <br>
+**[Canada](ca.html#can)** ( [Canada (CAN)](ca.html) ) _#can_{: .key} <br>
+**[Canterbury United](nz.html#canterbury)** ( [New Zealand (NZL)](nz.html) ) _#canterbury_{: .key} <br>
+**[Caracas](ve.html#caracas)** ( [Venezuela (VEN)](ve.html) ) _#caracas_{: .key} <br>
+**[Cardiff City](wa.html#cardiff)** ( [Wales (WAL)](wa.html) ) _#cardiff_{: .key} <br>
+**[Cartaginés](cr.html#cartagines)** ( [Costa Rica (CRC)](cr.html) ) _#cartagines_{: .key} <br>
+**[Raja Casablanca](ma.html#casablanca)** ( [Morocco (MAR)](ma.html) ) _#casablanca_{: .key} <br>
+**[Castilla](es.html#castilla)** ( [Spain (ESP)](es.html) ) _#castilla_{: .key} <br>
+**[Catania](it.html#catania)** ( [Italy (ITA)](it.html) ) _#catania_{: .key} <br>
+**[Universidad Católica](cl.html#cduc)** ( [Chile (CHI)](cl.html) ) _#cduc_{: .key} <br>
+**[Victoria](hn.html#cdvictoria)** ( [Honduras (HON)](hn.html) ) _#cdvictoria_{: .key} <br>
+**[Ceahlaul Piatra Neamt](ro.html#ceahlau)** ( [Romania (ROU)](ro.html) ) _#ceahlau_{: .key} <br>
+**[Cefn Druids AFC](wa.html#cefndruids)** ( [Wales (WAL)](wa.html) ) _#cefndruids_{: .key} <br>
+**[NK Celje](si.html#celje)** ( [Slovenia (SVN)](si.html) ) _#celje_{: .key} <br>
+**[Celta](es.html#celta)** ( [Spain (ESP)](es.html) ) _#celta_{: .key} <br>
+**[Celtic](sc.html#celtic)** ( [Scotland (SCO)](sc.html) ) _#celtic_{: .key} <br>
+**[Central Coast Mariners](au.html#centralcoast)** ( [Australia (AUS)](au.html) ) _#centralcoast_{: .key} <br>
+**[Cercle Brugge KSV](be.html#cerclebrugge)** ( [Belgium (BEL)](be.html) ) _#cerclebrugge_{: .key} <br>
+**[CFR Cluj](ro.html#cfrcluj)** ( [Romania (ROU)](ro.html) ) _#cfrcluj_{: .key} <br>
+**[Chelsea](en.html#chelsea)** ( [England (ENG)](en.html) ) _#chelsea_{: .key} <br>
+**[Chemnitz](de.html#chemnitz)** ( [Germany (GER)](de.html) ) _#chemnitz_{: .key} <br>
+**[PFC Cherno More Varna](bg.html#chernomorevarna)** ( [Bulgaria (BUL)](bg.html) ) _#chernomorevarna_{: .key} <br>
+**[Chile](cl.html#chi)** ( [Chile (CHI)](cl.html) ) _#chi_{: .key} <br>
+**[Concordia Chiajna](ro.html#chiajna)** ( [Romania (ROU)](ro.html) ) _#chiajna_{: .key} <br>
+**[Chicago Fire](us.html#chicago)** ( [United States (USA)](us.html) ) _#chicago_{: .key} <br>
+**[Chievo](it.html#chievoverona)** ( [Italy (ITA)](it.html) ) _#chievoverona_{: .key} <br>
+**[Guadalajara](mx.html#chivas)** ( [México [Mexico] (MEX)](mx.html) ) _#chivas_{: .key} <br>
+**[Club Deportivo Chivas US](us.html#chivasusa)** ( [United States (USA)](us.html) ) _#chivasusa_{: .key} <br>
+**[Chorrillo](pa.html#chorrillo)** ( [Panamá [Panama] (PAN)](pa.html) ) _#chorrillo_{: .key} <br>
+**[Ruch Chorzów](pl.html#chorzow)** ( [Poland (POL)](pl.html) ) _#chorzow_{: .key} <br>
+**[HNK Cibalia](hr.html#cibalia)** ( [Croatia (CRO)](hr.html) ) _#cibalia_{: .key} <br>
+**[Côte d'Ivoire](ci.html#civ)** ( [Côte d'Ivoire (CIV)](ci.html) ) _#civ_{: .key} <br>
+**[Cliftonville FC](nd.html#cliftonville)** ( [Northern Ireland (NIR)](nd.html) ) _#cliftonville_{: .key} <br>
+**[Cameroon](cm.html#cmr)** ( [Cameroon (CMR)](cm.html) ) _#cmr_{: .key} <br>
+**[Congo DR](cd.html#cod)** ( [Congo DR (COD)](cd.html) ) _#cod_{: .key} <br>
+**[A. Académica de Coimbra](pt.html#coimbra)** ( [Portugal (POR)](pt.html) ) _#coimbra_{: .key} <br>
+**[Colombia](co.html#col)** ( [Colombia (COL)](co.html) ) _#col_{: .key} <br>
+**[Colón](ar.html#colon)** ( [Argentina (ARG)](ar.html) ) _#colon_{: .key} <br>
+**[Colorado Rapids](us.html#colorado)** ( [United States (USA)](us.html) ) _#colorado_{: .key} <br>
+**[Columbus Crew](us.html#columbus)** ( [United States (USA)](us.html) ) _#columbus_{: .key} <br>
+**[Comunicaciones](gt.html#comunicaciones)** ( [Guatemala (GUA)](gt.html) ) _#comunicaciones_{: .key} <br>
+**[Córdoba](es.html#cordoba)** ( [Spain (ESP)](es.html) ) _#cordoba_{: .key} <br>
+**[Corinthians](br.html#corinthians)** ( [Brazil (BRA)](br.html) ) _#corinthians_{: .key} <br>
+**[Coritiba](br.html#coritiba)** ( [Brazil (BRA)](br.html) ) _#coritiba_{: .key} <br>
+**[Cork City FC](ie.html#corkcity)** ( [Irland (IRL)](ie.html) ) _#corkcity_{: .key} <br>
+**[Cerezo Osaka](jp.html#cosaka)** ( [Japan (JPN)](jp.html) ) _#cosaka_{: .key} <br>
+**[Energie Cottbus](de.html#cottbus)** ( [Germany (GER)](de.html) ) _#cottbus_{: .key} <br>
+**[Cape Verde](cv.html#cpv)** ( [Cape Verde (CPV)](cv.html) ) _#cpv_{: .key} <br>
+**[Costa Rica](cr.html#crc)** ( [Costa Rica (CRC)](cr.html) ) _#crc_{: .key} <br>
+**[Criciúma](br.html#criciuma)** ( [Brazil (BRA)](br.html) ) _#criciuma_{: .key} <br>
+**[Croatia](hr.html#cro)** ( [Croatia (CRO)](hr.html) ) _#cro_{: .key} <br>
+**[Crusaders FC](nd.html#crusaders)** ( [Northern Ireland (NIR)](nd.html) ) _#crusaders_{: .key} <br>
+**[Cruz Azul](mx.html#cruzazul)** ( [México [Mexico] (MEX)](mx.html) ) _#cruzazul_{: .key} <br>
+**[Cruzeiro](br.html#cruzeiro)** ( [Brazil (BRA)](br.html) ) _#cruzeiro_{: .key} <br>
+**[FK Crvena zvezda](rs.html#crvenazvezda)** ( [Serbia (SRB)](rs.html) ) _#crvenazvezda_{: .key} <br>
+**[Crystal Palace](en.html#crystalpalace)** ( [England (ENG)](en.html) ) _#crystalpalace_{: .key} <br>
+**[PFC CSKA Sofia](bg.html#cskasofia)** ( [Bulgaria (BUL)](bg.html) ) _#cskasofia_{: .key} <br>
+**[Cuba](cu.html#cub)** ( [Cuba (CUB)](cu.html) ) _#cub_{: .key} <br>
+**[Czech Republic](cz.html#cze)** ( [Czech Republic (CZE)](cz.html) ) _#cze_{: .key} <br>
 
 </div>
 
@@ -237,50 +237,50 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**FC Dacia Chisinau** ( Moldova ) _#daciachisinau_{: .key} <br>
-**Daegu FC** ( South Korea ) _#daegufc_{: .key} <br>
-**FC Dallas** ( United States ) _#dallas_{: .key} <br>
-**Darmstadt** ( Germany ) _#darmstadt_{: .key} <br>
-**FC Daugava Daugavpils** ( Latvija [Latvia] ) _#daugavpils_{: .key} <br>
-**Daejeon Citizen** ( South Korea ) _#dcfc_{: .key} <br>
-**D.C. United** ( United States ) _#dcunited_{: .key} <br>
-**Debreceni VSC** ( Hungary ) _#debreceni_{: .key} <br>
-**Defensor Sporting** ( Uruguay ) _#defensorsporting_{: .key} <br>
-**Denmark** ( Denmark ) _#den_{: .key} <br>
-**ADO Den Haag** ( Netherlands ) _#denhaag_{: .key} <br>
-**Deportes Tolima** ( Colombia ) _#deportestolima_{: .key} <br>
-**Deportivo** ( Spain ) _#deportivo_{: .key} <br>
-**Deportivo Anzoátegui** ( Venezuela ) _#deportivoanzoategui_{: .key} <br>
-**Deportivo Lara** ( Venezuela ) _#deportivolara_{: .key} <br>
-**Deportivo Táchira** ( Venezuela ) _#deportivotachira_{: .key} <br>
-**Derry City FC** ( Irland ) _#derrycity_{: .key} <br>
-**FC Differdange 03** ( Luxembourg ) _#differdange_{: .key} <br>
-**FC Dinaburg** ( Latvija [Latvia] ) _#dinaburg_{: .key} <br>
-**Dinamo București** ( Romania ) _#dinamobu_{: .key} <br>
-**FC Dinamo Minsk** ( Belarus ) _#dinamominsk_{: .key} <br>
-**FC Dinamo Moskva** ( Russia ) _#dinamomoskva_{: .key} <br>
-**FC Dinamo Tbilisi** ( Georgia ) _#dinamotbilisi_{: .key} <br>
-**FK Dinamo Tirana** ( Albania ) _#dinamotirana_{: .key} <br>
-**Djurgårdens IF** ( Sweden ) _#djurgardens_{: .key} <br>
-**FC Dnepr Mogilev** ( Belarus ) _#dneprmogilev_{: .key} <br>
-**FC Dnipro** ( Ukraine ) _#dnipro_{: .key} <br>
-**AC Juvenes-Dogana** ( San Marino ) _#dogana_{: .key} <br>
-**NK Domžale** ( Slovenia ) _#domzale_{: .key} <br>
-**Shakhtar Donetsk** ( Ukraine ) _#donezk_{: .key} <br>
-**FC Dornbirn 1913** ( Austria ) _#dornbirn_{: .key} <br>
-**Dornbirner SV** ( Austria ) _#dornbirnersv_{: .key} <br>
-**Borussia Dortmund** ( Germany ) _#dortmund_{: .key} <br>
-**Dortmund II** ( Germany ) _#dortmundii_{: .key} <br>
-**Chunnam Dragons** ( South Korea ) _#dragons_{: .key} <br>
-**ASV Draßburg** ( Austria ) _#drassburg_{: .key} <br>
-**Dynamo Dresden** ( Germany ) _#dresden_{: .key} <br>
-**Drogheda United FC** ( Irland ) _#drogheda_{: .key} <br>
-**Deutschlandsberger SC** ( Austria ) _#dsc_{: .key} <br>
-**F91 Dudelange** ( Luxembourg ) _#dudelange_{: .key} <br>
-**Fortuna Düsseldorf** ( Germany ) _#duesseldorf_{: .key} <br>
-**MSV Duisburg** ( Germany ) _#duisburg_{: .key} <br>
-**Dundalk FC** ( Irland ) _#dundalk_{: .key} <br>
-**Dundee United FC** ( Scotland ) _#dundeeunited_{: .key} <br>
+**[FC Dacia Chisinau](md.html#daciachisinau)** ( [Moldova (MDA)](md.html) ) _#daciachisinau_{: .key} <br>
+**[Daegu FC](kr.html#daegufc)** ( [South Korea (KOR)](kr.html) ) _#daegufc_{: .key} <br>
+**[FC Dallas](us.html#dallas)** ( [United States (USA)](us.html) ) _#dallas_{: .key} <br>
+**[Darmstadt](de.html#darmstadt)** ( [Germany (GER)](de.html) ) _#darmstadt_{: .key} <br>
+**[FC Daugava Daugavpils](lv.html#daugavpils)** ( [Latvija [Latvia] (LVA)](lv.html) ) _#daugavpils_{: .key} <br>
+**[Daejeon Citizen](kr.html#dcfc)** ( [South Korea (KOR)](kr.html) ) _#dcfc_{: .key} <br>
+**[D.C. United](us.html#dcunited)** ( [United States (USA)](us.html) ) _#dcunited_{: .key} <br>
+**[Debreceni VSC](hu.html#debreceni)** ( [Hungary (HUN)](hu.html) ) _#debreceni_{: .key} <br>
+**[Defensor Sporting](uy.html#defensorsporting)** ( [Uruguay (URU)](uy.html) ) _#defensorsporting_{: .key} <br>
+**[Denmark](dk.html#den)** ( [Denmark (DEN)](dk.html) ) _#den_{: .key} <br>
+**[ADO Den Haag](nl.html#denhaag)** ( [Netherlands (NED)](nl.html) ) _#denhaag_{: .key} <br>
+**[Deportes Tolima](co.html#deportestolima)** ( [Colombia (COL)](co.html) ) _#deportestolima_{: .key} <br>
+**[Deportivo](es.html#deportivo)** ( [Spain (ESP)](es.html) ) _#deportivo_{: .key} <br>
+**[Deportivo Anzoátegui](ve.html#deportivoanzoategui)** ( [Venezuela (VEN)](ve.html) ) _#deportivoanzoategui_{: .key} <br>
+**[Deportivo Lara](ve.html#deportivolara)** ( [Venezuela (VEN)](ve.html) ) _#deportivolara_{: .key} <br>
+**[Deportivo Táchira](ve.html#deportivotachira)** ( [Venezuela (VEN)](ve.html) ) _#deportivotachira_{: .key} <br>
+**[Derry City FC](ie.html#derrycity)** ( [Irland (IRL)](ie.html) ) _#derrycity_{: .key} <br>
+**[FC Differdange 03](lu.html#differdange)** ( [Luxembourg (LUX)](lu.html) ) _#differdange_{: .key} <br>
+**[FC Dinaburg](lv.html#dinaburg)** ( [Latvija [Latvia] (LVA)](lv.html) ) _#dinaburg_{: .key} <br>
+**[Dinamo București](ro.html#dinamobu)** ( [Romania (ROU)](ro.html) ) _#dinamobu_{: .key} <br>
+**[FC Dinamo Minsk](by.html#dinamominsk)** ( [Belarus (BLR)](by.html) ) _#dinamominsk_{: .key} <br>
+**[FC Dinamo Moskva](ru.html#dinamomoskva)** ( [Russia (RUS)](ru.html) ) _#dinamomoskva_{: .key} <br>
+**[FC Dinamo Tbilisi](ge.html#dinamotbilisi)** ( [Georgia (GEO)](ge.html) ) _#dinamotbilisi_{: .key} <br>
+**[FK Dinamo Tirana](al.html#dinamotirana)** ( [Albania (ALB)](al.html) ) _#dinamotirana_{: .key} <br>
+**[Djurgårdens IF](se.html#djurgardens)** ( [Sweden (SWE)](se.html) ) _#djurgardens_{: .key} <br>
+**[FC Dnepr Mogilev](by.html#dneprmogilev)** ( [Belarus (BLR)](by.html) ) _#dneprmogilev_{: .key} <br>
+**[FC Dnipro](ua.html#dnipro)** ( [Ukraine (UKR)](ua.html) ) _#dnipro_{: .key} <br>
+**[AC Juvenes-Dogana](sm.html#dogana)** ( [San Marino (SMR)](sm.html) ) _#dogana_{: .key} <br>
+**[NK Domžale](si.html#domzale)** ( [Slovenia (SVN)](si.html) ) _#domzale_{: .key} <br>
+**[Shakhtar Donetsk](ua.html#donezk)** ( [Ukraine (UKR)](ua.html) ) _#donezk_{: .key} <br>
+**[FC Dornbirn 1913](at.html#dornbirn)** ( [Austria (AUT)](at.html) ) _#dornbirn_{: .key} <br>
+**[Dornbirner SV](at.html#dornbirnersv)** ( [Austria (AUT)](at.html) ) _#dornbirnersv_{: .key} <br>
+**[Borussia Dortmund](de.html#dortmund)** ( [Germany (GER)](de.html) ) _#dortmund_{: .key} <br>
+**[Dortmund II](de.html#dortmundii)** ( [Germany (GER)](de.html) ) _#dortmundii_{: .key} <br>
+**[Chunnam Dragons](kr.html#dragons)** ( [South Korea (KOR)](kr.html) ) _#dragons_{: .key} <br>
+**[ASV Draßburg](at.html#drassburg)** ( [Austria (AUT)](at.html) ) _#drassburg_{: .key} <br>
+**[Dynamo Dresden](de.html#dresden)** ( [Germany (GER)](de.html) ) _#dresden_{: .key} <br>
+**[Drogheda United FC](ie.html#drogheda)** ( [Irland (IRL)](ie.html) ) _#drogheda_{: .key} <br>
+**[Deutschlandsberger SC](at.html#dsc)** ( [Austria (AUT)](at.html) ) _#dsc_{: .key} <br>
+**[F91 Dudelange](lu.html#dudelange)** ( [Luxembourg (LUX)](lu.html) ) _#dudelange_{: .key} <br>
+**[Fortuna Düsseldorf](de.html#duesseldorf)** ( [Germany (GER)](de.html) ) _#duesseldorf_{: .key} <br>
+**[MSV Duisburg](de.html#duisburg)** ( [Germany (GER)](de.html) ) _#duisburg_{: .key} <br>
+**[Dundalk FC](ie.html#dundalk)** ( [Irland (IRL)](ie.html) ) _#dundalk_{: .key} <br>
+**[Dundee United FC](sc.html#dundeeunited)** ( [Scotland (SCO)](sc.html) ) _#dundeeunited_{: .key} <br>
 
 </div>
 
@@ -291,31 +291,31 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Ecuador** ( Ecuador ) _#ecu_{: .key} <br>
-**Egypt** ( Egypt ) _#egy_{: .key} <br>
-**Eibar** ( Spain ) _#eibar_{: .key} <br>
-**FK Ekranas** ( Lithuania ) _#ekranas_{: .key} <br>
-**Elche CF** ( Spain ) _#elche_{: .key} <br>
-**El Dakhleya** ( Egypt ) _#eldakhleya_{: .key} <br>
-**El Entag El Harby [Military Production]** ( Egypt ) _#elentagelharby_{: .key} <br>
-**IF Elfsborg** ( Sweden ) _#elfsborg_{: .key} <br>
-**El Gouna** ( Egypt ) _#elgouna_{: .key} <br>
-**El Nacional** ( Ecuador ) _#elnacional_{: .key} <br>
-**SV Elversberg** ( Germany ) _#elversberg_{: .key} <br>
-**CS Emelec** ( Ecuador ) _#emelec_{: .key} <br>
-**England** ( England ) _#eng_{: .key} <br>
-**Enppi** ( Egypt ) _#enppi_{: .key} <br>
-**AS Jeunesse Esch** ( Luxembourg ) _#esch_{: .key} <br>
-**FC USV Eschen/Mauren** ( Liechtenstein ) _#eschen_{: .key} <br>
-**Eskişehirspor** ( Turkey ) _#eskisehirspor_{: .key} <br>
-**Spain** ( Spain ) _#esp_{: .key} <br>
-**Real España** ( Honduras ) _#espana_{: .key} <br>
-**Espanyol** ( Spain ) _#espanyol_{: .key} <br>
-**R. Estelí** ( Nicaragua ) _#esteli_{: .key} <br>
-**Estudiantes** ( Argentina ) _#estudiantes_{: .key} <br>
-**Ethiopia** ( Ethiopia ) _#eth_{: .key} <br>
-**Everton** ( England ) _#everton_{: .key} <br>
-**Évian TG** ( France ) _#evian_{: .key} <br>
+**[Ecuador](ec.html#ecu)** ( [Ecuador (ECU)](ec.html) ) _#ecu_{: .key} <br>
+**[Egypt](eg.html#egy)** ( [Egypt (EGY)](eg.html) ) _#egy_{: .key} <br>
+**[Eibar](es.html#eibar)** ( [Spain (ESP)](es.html) ) _#eibar_{: .key} <br>
+**[FK Ekranas](lt.html#ekranas)** ( [Lithuania (LTU)](lt.html) ) _#ekranas_{: .key} <br>
+**[Elche CF](es.html#elche)** ( [Spain (ESP)](es.html) ) _#elche_{: .key} <br>
+**[El Dakhleya](eg.html#eldakhleya)** ( [Egypt (EGY)](eg.html) ) _#eldakhleya_{: .key} <br>
+**[El Entag El Harby [Military Production]](eg.html#elentagelharby)** ( [Egypt (EGY)](eg.html) ) _#elentagelharby_{: .key} <br>
+**[IF Elfsborg](se.html#elfsborg)** ( [Sweden (SWE)](se.html) ) _#elfsborg_{: .key} <br>
+**[El Gouna](eg.html#elgouna)** ( [Egypt (EGY)](eg.html) ) _#elgouna_{: .key} <br>
+**[El Nacional](ec.html#elnacional)** ( [Ecuador (ECU)](ec.html) ) _#elnacional_{: .key} <br>
+**[SV Elversberg](de.html#elversberg)** ( [Germany (GER)](de.html) ) _#elversberg_{: .key} <br>
+**[CS Emelec](ec.html#emelec)** ( [Ecuador (ECU)](ec.html) ) _#emelec_{: .key} <br>
+**[England](en.html#eng)** ( [England (ENG)](en.html) ) _#eng_{: .key} <br>
+**[Enppi](eg.html#enppi)** ( [Egypt (EGY)](eg.html) ) _#enppi_{: .key} <br>
+**[AS Jeunesse Esch](lu.html#esch)** ( [Luxembourg (LUX)](lu.html) ) _#esch_{: .key} <br>
+**[FC USV Eschen/Mauren](li.html#eschen)** ( [Liechtenstein (LIE)](li.html) ) _#eschen_{: .key} <br>
+**[Eskişehirspor](tr.html#eskisehirspor)** ( [Turkey (TUR)](tr.html) ) _#eskisehirspor_{: .key} <br>
+**[Spain](es.html#esp)** ( [Spain (ESP)](es.html) ) _#esp_{: .key} <br>
+**[Real España](hn.html#espana)** ( [Honduras (HON)](hn.html) ) _#espana_{: .key} <br>
+**[Espanyol](es.html#espanyol)** ( [Spain (ESP)](es.html) ) _#espanyol_{: .key} <br>
+**[R. Estelí](ni.html#esteli)** ( [Nicaragua (NCA)](ni.html) ) _#esteli_{: .key} <br>
+**[Estudiantes](ar.html#estudiantes)** ( [Argentina (ARG)](ar.html) ) _#estudiantes_{: .key} <br>
+**[Ethiopia](et.html#eth)** ( [Ethiopia (ETH)](et.html) ) _#eth_{: .key} <br>
+**[Everton](en.html#everton)** ( [England (ENG)](en.html) ) _#everton_{: .key} <br>
+**[Évian TG](fr.html#evian)** ( [France (FRA)](fr.html) ) _#evian_{: .key} <br>
 
 </div>
 
@@ -326,41 +326,41 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Floridsdorfer AC** ( Austria ) _#fac_{: .key} <br>
-**SC Faetano** ( San Marino ) _#faetano_{: .key} <br>
-**Falkirk FC** ( Scotland ) _#falkirk_{: .key} <br>
-**CD FAS** ( El Salvador ) _#fas_{: .key} <br>
-**FC Brasov** ( Romania ) _#fcbrasov_{: .key} <br>
-**FC Minsk** ( Belarus ) _#fcminsk_{: .key} <br>
-**FC Moskva** ( Russia ) _#fcmoskva_{: .key} <br>
-**FC Santa Coloma** ( Andorra ) _#fcsantacoloma_{: .key} <br>
-**FC Seoul** ( South Korea ) _#fcseoul_{: .key} <br>
-**FC Tokyo** ( Japan ) _#fctokyo_{: .key} <br>
-**Fenerbahçe** ( Turkey ) _#fenerbahce_{: .key} <br>
-**Ferencvárosi TC** ( Hungary ) _#ferencvarosi_{: .key} <br>
-**FC Paços de Ferreira** ( Portugal ) _#ferreira_{: .key} <br>
-**Feyenoord** ( Netherlands ) _#feyenoord_{: .key} <br>
-**Figueirense** ( Brazil ) _#figueirense_{: .key} <br>
-**Finland** ( Finland ) _#fin_{: .key} <br>
-**Sporting Fingal FC** ( Irland ) _#fingal_{: .key} <br>
-**Fiorentina** ( Italy ) _#fiorentina_{: .key} <br>
-**Flamengo** ( Brazil ) _#flamengo_{: .key} <br>
-**KS Flamurtari** ( Albania ) _#flamurtari_{: .key} <br>
-**FC Flora Tallinn** ( Estonia ) _#floratallinn_{: .key} <br>
-**Floriana FC** ( Malta ) _#floriana_{: .key} <br>
-**Fluminense** ( Brazil ) _#fluminense_{: .key} <br>
-**CS Fola Esch** ( Luxembourg ) _#folaesch_{: .key} <br>
-**France** ( France ) _#fra_{: .key} <br>
-**Fram Reykjavík** ( Iceland ) _#framreykjavik_{: .key} <br>
-**Eintracht Frankfurt** ( Germany ) _#frankfurt_{: .key} <br>
-**Fredrikstad FK** ( Norway ) _#fredrikstad_{: .key} <br>
-**SC Freiburg** ( Germany ) _#freiburg_{: .key} <br>
-**Faroe Islands** ( Faroe Islands ) _#fro_{: .key} <br>
-**FSV Frankfurt** ( Germany ) _#fsvfrankfurt_{: .key} <br>
-**Greuther Fürth** ( Germany ) _#fuerth_{: .key} <br>
-**ÍF Fuglafjørdur** ( Faroe Islands ) _#fuglafjordur_{: .key} <br>
-**Fulham** ( England ) _#fulham_{: .key} <br>
-**Fylkir** ( Iceland ) _#fylkir_{: .key} <br>
+**[Floridsdorfer AC](at.html#fac)** ( [Austria (AUT)](at.html) ) _#fac_{: .key} <br>
+**[SC Faetano](sm.html#faetano)** ( [San Marino (SMR)](sm.html) ) _#faetano_{: .key} <br>
+**[Falkirk FC](sc.html#falkirk)** ( [Scotland (SCO)](sc.html) ) _#falkirk_{: .key} <br>
+**[CD FAS](sv.html#fas)** ( [El Salvador (SLV)](sv.html) ) _#fas_{: .key} <br>
+**[FC Brasov](ro.html#fcbrasov)** ( [Romania (ROU)](ro.html) ) _#fcbrasov_{: .key} <br>
+**[FC Minsk](by.html#fcminsk)** ( [Belarus (BLR)](by.html) ) _#fcminsk_{: .key} <br>
+**[FC Moskva](ru.html#fcmoskva)** ( [Russia (RUS)](ru.html) ) _#fcmoskva_{: .key} <br>
+**[FC Santa Coloma](ad.html#fcsantacoloma)** ( [Andorra (AND)](ad.html) ) _#fcsantacoloma_{: .key} <br>
+**[FC Seoul](kr.html#fcseoul)** ( [South Korea (KOR)](kr.html) ) _#fcseoul_{: .key} <br>
+**[FC Tokyo](jp.html#fctokyo)** ( [Japan (JPN)](jp.html) ) _#fctokyo_{: .key} <br>
+**[Fenerbahçe](tr.html#fenerbahce)** ( [Turkey (TUR)](tr.html) ) _#fenerbahce_{: .key} <br>
+**[Ferencvárosi TC](hu.html#ferencvarosi)** ( [Hungary (HUN)](hu.html) ) _#ferencvarosi_{: .key} <br>
+**[FC Paços de Ferreira](pt.html#ferreira)** ( [Portugal (POR)](pt.html) ) _#ferreira_{: .key} <br>
+**[Feyenoord](nl.html#feyenoord)** ( [Netherlands (NED)](nl.html) ) _#feyenoord_{: .key} <br>
+**[Figueirense](br.html#figueirense)** ( [Brazil (BRA)](br.html) ) _#figueirense_{: .key} <br>
+**[Finland](fi.html#fin)** ( [Finland (FIN)](fi.html) ) _#fin_{: .key} <br>
+**[Sporting Fingal FC](ie.html#fingal)** ( [Irland (IRL)](ie.html) ) _#fingal_{: .key} <br>
+**[Fiorentina](it.html#fiorentina)** ( [Italy (ITA)](it.html) ) _#fiorentina_{: .key} <br>
+**[Flamengo](br.html#flamengo)** ( [Brazil (BRA)](br.html) ) _#flamengo_{: .key} <br>
+**[KS Flamurtari](al.html#flamurtari)** ( [Albania (ALB)](al.html) ) _#flamurtari_{: .key} <br>
+**[FC Flora Tallinn](ee.html#floratallinn)** ( [Estonia (EST)](ee.html) ) _#floratallinn_{: .key} <br>
+**[Floriana FC](mt.html#floriana)** ( [Malta (MLT)](mt.html) ) _#floriana_{: .key} <br>
+**[Fluminense](br.html#fluminense)** ( [Brazil (BRA)](br.html) ) _#fluminense_{: .key} <br>
+**[CS Fola Esch](lu.html#folaesch)** ( [Luxembourg (LUX)](lu.html) ) _#folaesch_{: .key} <br>
+**[France](fr.html#fra)** ( [France (FRA)](fr.html) ) _#fra_{: .key} <br>
+**[Fram Reykjavík](is.html#framreykjavik)** ( [Iceland (ISL)](is.html) ) _#framreykjavik_{: .key} <br>
+**[Eintracht Frankfurt](de.html#frankfurt)** ( [Germany (GER)](de.html) ) _#frankfurt_{: .key} <br>
+**[Fredrikstad FK](no.html#fredrikstad)** ( [Norway (NOR)](no.html) ) _#fredrikstad_{: .key} <br>
+**[SC Freiburg](de.html#freiburg)** ( [Germany (GER)](de.html) ) _#freiburg_{: .key} <br>
+**[Faroe Islands](fo.html#fro)** ( [Faroe Islands (FRO)](fo.html) ) _#fro_{: .key} <br>
+**[FSV Frankfurt](de.html#fsvfrankfurt)** ( [Germany (GER)](de.html) ) _#fsvfrankfurt_{: .key} <br>
+**[Greuther Fürth](de.html#fuerth)** ( [Germany (GER)](de.html) ) _#fuerth_{: .key} <br>
+**[ÍF Fuglafjørdur](fo.html#fuglafjordur)** ( [Faroe Islands (FRO)](fo.html) ) _#fuglafjordur_{: .key} <br>
+**[Fulham](en.html#fulham)** ( [England (ENG)](en.html) ) _#fulham_{: .key} <br>
+**[Fylkir](is.html#fylkir)** ( [Iceland (ISL)](is.html) ) _#fylkir_{: .key} <br>
 
 </div>
 
@@ -371,49 +371,49 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**SV Gaflenz** ( Austria ) _#gaflenz_{: .key} <br>
-**FC Gagra** ( Georgia ) _#gagra_{: .key} <br>
-**Grazer AK** ( Austria ) _#gak_{: .key} <br>
-**Galatasaray** ( Turkey ) _#galatasaray_{: .key} <br>
-**Los Angeles Galaxy** ( United States ) _#galaxy_{: .key} <br>
-**FC Gandzasar** ( Armenia ) _#gandzasar_{: .key} <br>
-**Gangwon FC** ( South Korea ) _#gangwonfc_{: .key} <br>
-**Gaziantepspor** ( Turkey ) _#gaziantepspor_{: .key} <br>
-**Gaz Metan Medias** ( Romania ) _#gazmetanmedias_{: .key} <br>
-**Gefle IF** ( Sweden ) _#gefle_{: .key} <br>
-**Genk** ( Belgium ) _#genk_{: .key} <br>
-**Genoa** ( Italy ) _#genoa_{: .key} <br>
-**KAA Gent** ( Belgium ) _#gent_{: .key} <br>
-**Georgia** ( Georgia ) _#geo_{: .key} <br>
-**FC WIT Georgia** ( Georgia ) _#georgia_{: .key} <br>
-**Germany** ( Germany ) _#ger_{: .key} <br>
-**Getafe** ( Spain ) _#getafe_{: .key} <br>
-**Ghana** ( Ghana ) _#gha_{: .key} <br>
-**Ghazl El Mahalla** ( Egypt ) _#ghazlelmahalla_{: .key} <br>
-**Girona** ( Spain ) _#girona_{: .key} <br>
-**Glentoran FC** ( Northern Ireland ) _#glentoran_{: .key} <br>
-**Gloria Bistrita** ( Romania ) _#gloriabistrita_{: .key} <br>
-**Godoy Cruz** ( Argentina ) _#godoycruz_{: .key} <br>
-**IFK Göteborg** ( Sweden ) _#goeteborg_{: .key} <br>
-**Goiás** ( Brazil ) _#goias_{: .key} <br>
-**FC Gomel** ( Belarus ) _#gomel_{: .key} <br>
-**FC Dila Gori** ( Georgia ) _#gori_{: .key} <br>
-**ND Gorica** ( Slovenia ) _#gorica_{: .key} <br>
-**Guadeloupe** ( Guadeloupe ) _#gpe_{: .key} <br>
-**Granada** ( Spain ) _#granada_{: .key} <br>
-**Grasshopper Club Zürich** ( Switzerland ) _#grasshopper_{: .key} <br>
-**FC Gratkorn** ( Austria ) _#gratkorn_{: .key} <br>
-**Greece** ( Greece ) _#gre_{: .key} <br>
-**Grêmio** ( Brazil ) _#gremio_{: .key} <br>
-**CS Grevenmacher** ( Luxembourg ) _#grevenmacher_{: .key} <br>
-**Grenada** ( Grenada ) _#grn_{: .key} <br>
-**SV Grödig** ( Austria ) _#groedig_{: .key} <br>
-**FC Groningen** ( Netherlands ) _#groningen_{: .key} <br>
-**Guatemala** ( Guatemala ) _#gua_{: .key} <br>
-**Guangzhou Evergrande** ( China ) _#guangzhou_{: .key} <br>
-**Guyana** ( Guyana ) _#guy_{: .key} <br>
-**Gyeongnam FC** ( South Korea ) _#gyeongnamfc_{: .key} <br>
-**Győri ETO FC** ( Hungary ) _#gyori_{: .key} <br>
+**[SV Gaflenz](at.html#gaflenz)** ( [Austria (AUT)](at.html) ) _#gaflenz_{: .key} <br>
+**[FC Gagra](ge.html#gagra)** ( [Georgia (GEO)](ge.html) ) _#gagra_{: .key} <br>
+**[Grazer AK](at.html#gak)** ( [Austria (AUT)](at.html) ) _#gak_{: .key} <br>
+**[Galatasaray](tr.html#galatasaray)** ( [Turkey (TUR)](tr.html) ) _#galatasaray_{: .key} <br>
+**[Los Angeles Galaxy](us.html#galaxy)** ( [United States (USA)](us.html) ) _#galaxy_{: .key} <br>
+**[FC Gandzasar](am.html#gandzasar)** ( [Armenia (ARM)](am.html) ) _#gandzasar_{: .key} <br>
+**[Gangwon FC](kr.html#gangwonfc)** ( [South Korea (KOR)](kr.html) ) _#gangwonfc_{: .key} <br>
+**[Gaziantepspor](tr.html#gaziantepspor)** ( [Turkey (TUR)](tr.html) ) _#gaziantepspor_{: .key} <br>
+**[Gaz Metan Medias](ro.html#gazmetanmedias)** ( [Romania (ROU)](ro.html) ) _#gazmetanmedias_{: .key} <br>
+**[Gefle IF](se.html#gefle)** ( [Sweden (SWE)](se.html) ) _#gefle_{: .key} <br>
+**[Genk](be.html#genk)** ( [Belgium (BEL)](be.html) ) _#genk_{: .key} <br>
+**[Genoa](it.html#genoa)** ( [Italy (ITA)](it.html) ) _#genoa_{: .key} <br>
+**[KAA Gent](be.html#gent)** ( [Belgium (BEL)](be.html) ) _#gent_{: .key} <br>
+**[Georgia](ge.html#geo)** ( [Georgia (GEO)](ge.html) ) _#geo_{: .key} <br>
+**[FC WIT Georgia](ge.html#georgia)** ( [Georgia (GEO)](ge.html) ) _#georgia_{: .key} <br>
+**[Germany](de.html#ger)** ( [Germany (GER)](de.html) ) _#ger_{: .key} <br>
+**[Getafe](es.html#getafe)** ( [Spain (ESP)](es.html) ) _#getafe_{: .key} <br>
+**[Ghana](gh.html#gha)** ( [Ghana (GHA)](gh.html) ) _#gha_{: .key} <br>
+**[Ghazl El Mahalla](eg.html#ghazlelmahalla)** ( [Egypt (EGY)](eg.html) ) _#ghazlelmahalla_{: .key} <br>
+**[Girona](es.html#girona)** ( [Spain (ESP)](es.html) ) _#girona_{: .key} <br>
+**[Glentoran FC](nd.html#glentoran)** ( [Northern Ireland (NIR)](nd.html) ) _#glentoran_{: .key} <br>
+**[Gloria Bistrita](ro.html#gloriabistrita)** ( [Romania (ROU)](ro.html) ) _#gloriabistrita_{: .key} <br>
+**[Godoy Cruz](ar.html#godoycruz)** ( [Argentina (ARG)](ar.html) ) _#godoycruz_{: .key} <br>
+**[IFK Göteborg](se.html#goeteborg)** ( [Sweden (SWE)](se.html) ) _#goeteborg_{: .key} <br>
+**[Goiás](br.html#goias)** ( [Brazil (BRA)](br.html) ) _#goias_{: .key} <br>
+**[FC Gomel](by.html#gomel)** ( [Belarus (BLR)](by.html) ) _#gomel_{: .key} <br>
+**[FC Dila Gori](ge.html#gori)** ( [Georgia (GEO)](ge.html) ) _#gori_{: .key} <br>
+**[ND Gorica](si.html#gorica)** ( [Slovenia (SVN)](si.html) ) _#gorica_{: .key} <br>
+**[Guadeloupe](gp.html#gpe)** ( [Guadeloupe (GPE)](gp.html) ) _#gpe_{: .key} <br>
+**[Granada](es.html#granada)** ( [Spain (ESP)](es.html) ) _#granada_{: .key} <br>
+**[Grasshopper Club Zürich](ch.html#grasshopper)** ( [Switzerland (SUI)](ch.html) ) _#grasshopper_{: .key} <br>
+**[FC Gratkorn](at.html#gratkorn)** ( [Austria (AUT)](at.html) ) _#gratkorn_{: .key} <br>
+**[Greece](gr.html#gre)** ( [Greece (GRE)](gr.html) ) _#gre_{: .key} <br>
+**[Grêmio](br.html#gremio)** ( [Brazil (BRA)](br.html) ) _#gremio_{: .key} <br>
+**[CS Grevenmacher](lu.html#grevenmacher)** ( [Luxembourg (LUX)](lu.html) ) _#grevenmacher_{: .key} <br>
+**[Grenada](gd.html#grn)** ( [Grenada (GRN)](gd.html) ) _#grn_{: .key} <br>
+**[SV Grödig](at.html#groedig)** ( [Austria (AUT)](at.html) ) _#groedig_{: .key} <br>
+**[FC Groningen](nl.html#groningen)** ( [Netherlands (NED)](nl.html) ) _#groningen_{: .key} <br>
+**[Guatemala](gt.html#gua)** ( [Guatemala (GUA)](gt.html) ) _#gua_{: .key} <br>
+**[Guangzhou Evergrande](cn.html#guangzhou)** ( [China (CHN)](cn.html) ) _#guangzhou_{: .key} <br>
+**[Guyana](gy.html#guy)** ( [Guyana (GUY)](gy.html) ) _#guy_{: .key} <br>
+**[Gyeongnam FC](kr.html#gyeongnamfc)** ( [South Korea (KOR)](kr.html) ) _#gyeongnamfc_{: .key} <br>
+**[Győri ETO FC](hu.html#gyori)** ( [Hungary (HUN)](hu.html) ) _#gyori_{: .key} <br>
 
 </div>
 
@@ -424,44 +424,44 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**BK Häcken** ( Sweden ) _#haecken_{: .key} <br>
-**FH Hafnarfjördur** ( Iceland ) _#hafnarfjoerdur_{: .key} <br>
-**Haiti** ( Haiti ) _#hai_{: .key} <br>
-**Maccabi Haifa FC** ( Israel ) _#haifa_{: .key} <br>
-**HNK Hajduk Split** ( Croatia ) _#hajduksplit_{: .key} <br>
-**Valkeakosken Haka** ( Finland ) _#haka_{: .key} <br>
-**Halle** ( Germany ) _#halle_{: .key} <br>
-**Hannover 96** ( Germany ) _#hannover_{: .key} <br>
-**Hapoel Tel-Aviv FC** ( Israel ) _#hapoeltelaviv_{: .key} <br>
-**Haras El Hodood** ( Egypt ) _#haraselhodood_{: .key} <br>
-**FC Hard** ( Austria ) _#hard_{: .key} <br>
-**TSV Hartberg** ( Austria ) _#hartberg_{: .key} <br>
-**Hawke's Bay United** ( New Zealand ) _#hawkesbay_{: .key} <br>
-**HB Tórshavn** ( Faroe Islands ) _#hbtorshavn_{: .key} <br>
-**SC Heerenveen** ( Netherlands ) _#heerenveen_{: .key} <br>
-**Heidenheim** ( Germany ) _#heidenheim_{: .key} <br>
-**SV Heiligenkreuz** ( Austria ) _#heiligenkreuz_{: .key} <br>
-**Verona** ( Italy ) _#hellasverona_{: .key} <br>
-**Helsingborgs IF** ( Sweden ) _#helsingborgs_{: .key} <br>
-**HJK Helsinki** ( Finland ) _#helsinki_{: .key} <br>
-**Heracles Almelo** ( Netherlands ) _#heracles_{: .key} <br>
-**Hércules** ( Spain ) _#hercules_{: .key} <br>
-**Heredia** ( Guatemala ) _#heredia_{: .key} <br>
-**Herediano** ( Costa Rica ) _#herediano_{: .key} <br>
-**Hertha BSC** ( Germany ) _#herthabsc_{: .key} <br>
-**Hibernian FC** ( Scotland ) _#hibernian_{: .key} <br>
-**Hibernians FC** ( Malta ) _#hibernians_{: .key} <br>
-**Sanfrecce Hiroshima** ( Japan ) _#hiroshima_{: .key} <br>
-**1899 Hoffenheim** ( Germany ) _#hoffenheim_{: .key} <br>
-**Honduras** ( Honduras ) _#hon_{: .key} <br>
-**FC Honka Espoo** ( Finland ) _#honkaespoo_{: .key} <br>
-**SV Horn** ( Austria ) _#horn_{: .key} <br>
-**AC Horsens** ( Denmark ) _#horsens_{: .key} <br>
-**Houston Dynamo** ( United States ) _#houston_{: .key} <br>
-**Hamburger SV** ( Germany ) _#hsv_{: .key} <br>
-**Huachipato** ( Chile ) _#huachipato_{: .key} <br>
-**Hull City** ( England ) _#hull_{: .key} <br>
-**Jeonbuk Motors** ( South Korea ) _#hyundaimotorsfc_{: .key} <br>
+**[BK Häcken](se.html#haecken)** ( [Sweden (SWE)](se.html) ) _#haecken_{: .key} <br>
+**[FH Hafnarfjördur](is.html#hafnarfjoerdur)** ( [Iceland (ISL)](is.html) ) _#hafnarfjoerdur_{: .key} <br>
+**[Haiti](ht.html#hai)** ( [Haiti (HAI)](ht.html) ) _#hai_{: .key} <br>
+**[Maccabi Haifa FC](il.html#haifa)** ( [Israel (ISR)](il.html) ) _#haifa_{: .key} <br>
+**[HNK Hajduk Split](hr.html#hajduksplit)** ( [Croatia (CRO)](hr.html) ) _#hajduksplit_{: .key} <br>
+**[Valkeakosken Haka](fi.html#haka)** ( [Finland (FIN)](fi.html) ) _#haka_{: .key} <br>
+**[Halle](de.html#halle)** ( [Germany (GER)](de.html) ) _#halle_{: .key} <br>
+**[Hannover 96](de.html#hannover)** ( [Germany (GER)](de.html) ) _#hannover_{: .key} <br>
+**[Hapoel Tel-Aviv FC](il.html#hapoeltelaviv)** ( [Israel (ISR)](il.html) ) _#hapoeltelaviv_{: .key} <br>
+**[Haras El Hodood](eg.html#haraselhodood)** ( [Egypt (EGY)](eg.html) ) _#haraselhodood_{: .key} <br>
+**[FC Hard](at.html#hard)** ( [Austria (AUT)](at.html) ) _#hard_{: .key} <br>
+**[TSV Hartberg](at.html#hartberg)** ( [Austria (AUT)](at.html) ) _#hartberg_{: .key} <br>
+**[Hawke's Bay United](nz.html#hawkesbay)** ( [New Zealand (NZL)](nz.html) ) _#hawkesbay_{: .key} <br>
+**[HB Tórshavn](fo.html#hbtorshavn)** ( [Faroe Islands (FRO)](fo.html) ) _#hbtorshavn_{: .key} <br>
+**[SC Heerenveen](nl.html#heerenveen)** ( [Netherlands (NED)](nl.html) ) _#heerenveen_{: .key} <br>
+**[Heidenheim](de.html#heidenheim)** ( [Germany (GER)](de.html) ) _#heidenheim_{: .key} <br>
+**[SV Heiligenkreuz](at.html#heiligenkreuz)** ( [Austria (AUT)](at.html) ) _#heiligenkreuz_{: .key} <br>
+**[Verona](it.html#hellasverona)** ( [Italy (ITA)](it.html) ) _#hellasverona_{: .key} <br>
+**[Helsingborgs IF](se.html#helsingborgs)** ( [Sweden (SWE)](se.html) ) _#helsingborgs_{: .key} <br>
+**[HJK Helsinki](fi.html#helsinki)** ( [Finland (FIN)](fi.html) ) _#helsinki_{: .key} <br>
+**[Heracles Almelo](nl.html#heracles)** ( [Netherlands (NED)](nl.html) ) _#heracles_{: .key} <br>
+**[Hércules](es.html#hercules)** ( [Spain (ESP)](es.html) ) _#hercules_{: .key} <br>
+**[Heredia](gt.html#heredia)** ( [Guatemala (GUA)](gt.html) ) _#heredia_{: .key} <br>
+**[Herediano](cr.html#herediano)** ( [Costa Rica (CRC)](cr.html) ) _#herediano_{: .key} <br>
+**[Hertha BSC](de.html#herthabsc)** ( [Germany (GER)](de.html) ) _#herthabsc_{: .key} <br>
+**[Hibernian FC](sc.html#hibernian)** ( [Scotland (SCO)](sc.html) ) _#hibernian_{: .key} <br>
+**[Hibernians FC](mt.html#hibernians)** ( [Malta (MLT)](mt.html) ) _#hibernians_{: .key} <br>
+**[Sanfrecce Hiroshima](jp.html#hiroshima)** ( [Japan (JPN)](jp.html) ) _#hiroshima_{: .key} <br>
+**[1899 Hoffenheim](de.html#hoffenheim)** ( [Germany (GER)](de.html) ) _#hoffenheim_{: .key} <br>
+**[Honduras](hn.html#hon)** ( [Honduras (HON)](hn.html) ) _#hon_{: .key} <br>
+**[FC Honka Espoo](fi.html#honkaespoo)** ( [Finland (FIN)](fi.html) ) _#honkaespoo_{: .key} <br>
+**[SV Horn](at.html#horn)** ( [Austria (AUT)](at.html) ) _#horn_{: .key} <br>
+**[AC Horsens](dk.html#horsens)** ( [Denmark (DEN)](dk.html) ) _#horsens_{: .key} <br>
+**[Houston Dynamo](us.html#houston)** ( [United States (USA)](us.html) ) _#houston_{: .key} <br>
+**[Hamburger SV](de.html#hsv)** ( [Germany (GER)](de.html) ) _#hsv_{: .key} <br>
+**[Huachipato](cl.html#huachipato)** ( [Chile (CHI)](cl.html) ) _#huachipato_{: .key} <br>
+**[Hull City](en.html#hull)** ( [England (ENG)](en.html) ) _#hull_{: .key} <br>
+**[Jeonbuk Motors](kr.html#hyundaimotorsfc)** ( [South Korea (KOR)](kr.html) ) _#hyundaimotorsfc_{: .key} <br>
 
 </div>
 
@@ -472,26 +472,26 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**CSMS Iasi** ( Romania ) _#iasi_{: .key} <br>
-**NK IB Ljubljana** ( Slovenia ) _#ibljubljana_{: .key} <br>
-**Incheon United** ( South Korea ) _#incheonutd_{: .key} <br>
-**Independiente** ( Argentina ) _#independiente_{: .key} <br>
-**FC Ingolstadt 04** ( Germany ) _#ingolstadt_{: .key} <br>
-**FC Wacker Innsbruck** ( Austria ) _#innsbruck_{: .key} <br>
-**Inter** ( Italy ) _#inter_{: .key} <br>
-**İnter Bakı PİK** ( Azerbaijan ) _#interbaku_{: .key} <br>
-**Internacional** ( Brazil ) _#interrs_{: .key} <br>
-**FC Inter Turku** ( Finland ) _#interturku_{: .key} <br>
-**Iquique** ( Chile ) _#iquique_{: .key} <br>
-**Irland** ( Irland ) _#irl_{: .key} <br>
-**Iran** ( Iran ) _#irn_{: .key} <br>
-**Iraq** ( Iraq ) _#irq_{: .key} <br>
-**FC Iskra-Stal** ( Moldova ) _#iskrastal_{: .key} <br>
-**Iceland** ( Iceland ) _#isl_{: .key} <br>
-**Ismaily** ( Egypt ) _#ismaily_{: .key} <br>
-**Italy** ( Italy ) _#ita_{: .key} <br>
-**Ittihad El Shorta [Police Union]** ( Egypt ) _#ittihadelshorta_{: .key} <br>
-**Júbilo Iwata** ( Japan ) _#iwata_{: .key} <br>
+**[CSMS Iasi](ro.html#iasi)** ( [Romania (ROU)](ro.html) ) _#iasi_{: .key} <br>
+**[NK IB Ljubljana](si.html#ibljubljana)** ( [Slovenia (SVN)](si.html) ) _#ibljubljana_{: .key} <br>
+**[Incheon United](kr.html#incheonutd)** ( [South Korea (KOR)](kr.html) ) _#incheonutd_{: .key} <br>
+**[Independiente](ar.html#independiente)** ( [Argentina (ARG)](ar.html) ) _#independiente_{: .key} <br>
+**[FC Ingolstadt 04](de.html#ingolstadt)** ( [Germany (GER)](de.html) ) _#ingolstadt_{: .key} <br>
+**[FC Wacker Innsbruck](at.html#innsbruck)** ( [Austria (AUT)](at.html) ) _#innsbruck_{: .key} <br>
+**[Inter](it.html#inter)** ( [Italy (ITA)](it.html) ) _#inter_{: .key} <br>
+**[İnter Bakı PİK](az.html#interbaku)** ( [Azerbaijan (AZE)](az.html) ) _#interbaku_{: .key} <br>
+**[Internacional](br.html#interrs)** ( [Brazil (BRA)](br.html) ) _#interrs_{: .key} <br>
+**[FC Inter Turku](fi.html#interturku)** ( [Finland (FIN)](fi.html) ) _#interturku_{: .key} <br>
+**[Iquique](cl.html#iquique)** ( [Chile (CHI)](cl.html) ) _#iquique_{: .key} <br>
+**[Irland](ie.html#irl)** ( [Irland (IRL)](ie.html) ) _#irl_{: .key} <br>
+**[Iran](ir.html#irn)** ( [Iran (IRN)](ir.html) ) _#irn_{: .key} <br>
+**[Iraq](iq.html#irq)** ( [Iraq (IRQ)](iq.html) ) _#irq_{: .key} <br>
+**[FC Iskra-Stal](md.html#iskrastal)** ( [Moldova (MDA)](md.html) ) _#iskrastal_{: .key} <br>
+**[Iceland](is.html#isl)** ( [Iceland (ISL)](is.html) ) _#isl_{: .key} <br>
+**[Ismaily](eg.html#ismaily)** ( [Egypt (EGY)](eg.html) ) _#ismaily_{: .key} <br>
+**[Italy](it.html#ita)** ( [Italy (ITA)](it.html) ) _#ita_{: .key} <br>
+**[Ittihad El Shorta [Police Union]](eg.html#ittihadelshorta)** ( [Egypt (EGY)](eg.html) ) _#ittihadelshorta_{: .key} <br>
+**[Júbilo Iwata](jp.html#iwata)** ( [Japan (JPN)](jp.html) ) _#iwata_{: .key} <br>
 
 </div>
 
@@ -502,19 +502,19 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**FK Jablonec** ( Czech Republic ) _#jablonec_{: .key} <br>
-**Jaén** ( Spain ) _#jaen_{: .key} <br>
-**FK Jagodina** ( Serbia ) _#jagodina_{: .key} <br>
-**Jaguares** ( México [Mexico] ) _#jaguares_{: .key} <br>
-**Jamaica** ( Jamaica ) _#jam_{: .key} <br>
-**Jeju United** ( South Korea ) _#jejeutd_{: .key} <br>
-**FK Jelgava** ( Latvija [Latvia] ) _#jelgava_{: .key} <br>
-**Jordan** ( Jordan ) _#jor_{: .key} <br>
-**Japan** ( Japan ) _#jpn_{: .key} <br>
-**Juan Aurich** ( Peru ) _#juanaurich_{: .key} <br>
-**Junior** ( Colombia ) _#junior_{: .key} <br>
-**Juventus** ( Italy ) _#juventus_{: .key} <br>
-**JJK Jyväskylä** ( Finland ) _#jyvaskyla_{: .key} <br>
+**[FK Jablonec](cz.html#jablonec)** ( [Czech Republic (CZE)](cz.html) ) _#jablonec_{: .key} <br>
+**[Jaén](es.html#jaen)** ( [Spain (ESP)](es.html) ) _#jaen_{: .key} <br>
+**[FK Jagodina](rs.html#jagodina)** ( [Serbia (SRB)](rs.html) ) _#jagodina_{: .key} <br>
+**[Jaguares](mx.html#jaguares)** ( [México [Mexico] (MEX)](mx.html) ) _#jaguares_{: .key} <br>
+**[Jamaica](jm.html#jam)** ( [Jamaica (JAM)](jm.html) ) _#jam_{: .key} <br>
+**[Jeju United](kr.html#jejeutd)** ( [South Korea (KOR)](kr.html) ) _#jejeutd_{: .key} <br>
+**[FK Jelgava](lv.html#jelgava)** ( [Latvija [Latvia] (LVA)](lv.html) ) _#jelgava_{: .key} <br>
+**[Jordan](jo.html#jor)** ( [Jordan (JOR)](jo.html) ) _#jor_{: .key} <br>
+**[Japan](jp.html#jpn)** ( [Japan (JPN)](jp.html) ) _#jpn_{: .key} <br>
+**[Juan Aurich](pe.html#juanaurich)** ( [Peru (PER)](pe.html) ) _#juanaurich_{: .key} <br>
+**[Junior](co.html#junior)** ( [Colombia (COL)](co.html) ) _#junior_{: .key} <br>
+**[Juventus](it.html#juventus)** ( [Italy (ITA)](it.html) ) _#juventus_{: .key} <br>
+**[JJK Jyväskylä](fi.html#jyvaskyla)** ( [Finland (FIN)](fi.html) ) _#jyvaskyla_{: .key} <br>
 
 </div>
 
@@ -525,45 +525,45 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**UN Käerjéng 97** ( Luxembourg ) _#kaerjeng_{: .key} <br>
-**JK Sillamäe Kalev** ( Estonia ) _#kalev_{: .key} <br>
-**JK Nõmme Kalju** ( Estonia ) _#kalju_{: .key} <br>
-**Kalmar FF** ( Sweden ) _#kalmar_{: .key} <br>
-**SC Kalsdorf** ( Austria ) _#kalsdorf_{: .key} <br>
-**Sporting KC** ( United States ) _#kansascity_{: .key} <br>
-**Shakhter** ( Kazakhstan ) _#karagandy_{: .key} <br>
-**Karlsruhe** ( Germany ) _#karlsruhe_{: .key} <br>
-**Kashima Antlers** ( Japan ) _#kashima_{: .key} <br>
-**Kashiwa Reysol** ( Japan ) _#kashiwa_{: .key} <br>
-**FBK Kaunas** ( Lithuania ) _#kaunas_{: .key} <br>
-**Kawasaki Frontale** ( Japan ) _#kawasaki_{: .key} <br>
-**Kayserispor** ( Turkey ) _#kayserispor_{: .key} <br>
-**Kazakhstan** ( Kazakhstan ) _#kaz_{: .key} <br>
-**Kecskeméti TE** ( Hungary ) _#kecskemeti_{: .key} <br>
-**Keflavík** ( Iceland ) _#keflavik_{: .key} <br>
-**KF Tirana** ( Albania ) _#kftirana_{: .key} <br>
-**Holstein Kiel** ( Germany ) _#kiel_{: .key} <br>
-**Dynamo Kiew** ( Ukraine ) _#kiew_{: .key} <br>
-**APOP/Kinyras Peyias FC** ( Cyprus ) _#kinyraspeyias_{: .key} <br>
-**Hapoel Kiryat Shmona FC** ( Israel ) _#kiryatshmona_{: .key} <br>
-**FC Kitzbühel** ( Austria ) _#kitzbuehel_{: .key} <br>
-**SAK Klagenfurt** ( Austria ) _#klagenfurt_{: .key} <br>
-**1. FC Kaiserslautern** ( Germany ) _#klautern_{: .key} <br>
-**FC København** ( Denmark ) _#kobenhavn_{: .key} <br>
-**1. FC Köln** ( Germany ) _#koeln_{: .key} <br>
-**Ventforet Kofu** ( Japan ) _#kofu_{: .key} <br>
-**FC Okzhetpes Kokshetau** ( Kazakhstan ) _#kokshetau_{: .key} <br>
-**FC Koper** ( Slovenia ) _#koper_{: .key} <br>
-**NK Slaven Koprivnica** ( Croatia ) _#koprivnica_{: .key} <br>
-**South Korea** ( South Korea ) _#kor_{: .key} <br>
-**MFK Košice** ( Slovakia ) _#kosice_{: .key} <br>
-**FC Tobol Kostanay** ( Kazakhstan ) _#kostanay_{: .key} <br>
-**Wisła Kraków** ( Poland ) _#krakow_{: .key} <br>
-**KR Reykjavík** ( Iceland ) _#krreykjavik_{: .key} <br>
-**Kapfenberger SV** ( Austria ) _#ksv_{: .key} <br>
-**FC Kufstein** ( Austria ) _#kufstein_{: .key} <br>
-**KuPS Kuopio** ( Finland ) _#kuopio_{: .key} <br>
-**FC Torpedo Kutaisi** ( Georgia ) _#kutaisi_{: .key} <br>
+**[UN Käerjéng 97](lu.html#kaerjeng)** ( [Luxembourg (LUX)](lu.html) ) _#kaerjeng_{: .key} <br>
+**[JK Sillamäe Kalev](ee.html#kalev)** ( [Estonia (EST)](ee.html) ) _#kalev_{: .key} <br>
+**[JK Nõmme Kalju](ee.html#kalju)** ( [Estonia (EST)](ee.html) ) _#kalju_{: .key} <br>
+**[Kalmar FF](se.html#kalmar)** ( [Sweden (SWE)](se.html) ) _#kalmar_{: .key} <br>
+**[SC Kalsdorf](at.html#kalsdorf)** ( [Austria (AUT)](at.html) ) _#kalsdorf_{: .key} <br>
+**[Sporting KC](us.html#kansascity)** ( [United States (USA)](us.html) ) _#kansascity_{: .key} <br>
+**[Shakhter](kz.html#karagandy)** ( [Kazakhstan (KAZ)](kz.html) ) _#karagandy_{: .key} <br>
+**[Karlsruhe](de.html#karlsruhe)** ( [Germany (GER)](de.html) ) _#karlsruhe_{: .key} <br>
+**[Kashima Antlers](jp.html#kashima)** ( [Japan (JPN)](jp.html) ) _#kashima_{: .key} <br>
+**[Kashiwa Reysol](jp.html#kashiwa)** ( [Japan (JPN)](jp.html) ) _#kashiwa_{: .key} <br>
+**[FBK Kaunas](lt.html#kaunas)** ( [Lithuania (LTU)](lt.html) ) _#kaunas_{: .key} <br>
+**[Kawasaki Frontale](jp.html#kawasaki)** ( [Japan (JPN)](jp.html) ) _#kawasaki_{: .key} <br>
+**[Kayserispor](tr.html#kayserispor)** ( [Turkey (TUR)](tr.html) ) _#kayserispor_{: .key} <br>
+**[Kazakhstan](kz.html#kaz)** ( [Kazakhstan (KAZ)](kz.html) ) _#kaz_{: .key} <br>
+**[Kecskeméti TE](hu.html#kecskemeti)** ( [Hungary (HUN)](hu.html) ) _#kecskemeti_{: .key} <br>
+**[Keflavík](is.html#keflavik)** ( [Iceland (ISL)](is.html) ) _#keflavik_{: .key} <br>
+**[KF Tirana](al.html#kftirana)** ( [Albania (ALB)](al.html) ) _#kftirana_{: .key} <br>
+**[Holstein Kiel](de.html#kiel)** ( [Germany (GER)](de.html) ) _#kiel_{: .key} <br>
+**[Dynamo Kiew](ua.html#kiew)** ( [Ukraine (UKR)](ua.html) ) _#kiew_{: .key} <br>
+**[APOP/Kinyras Peyias FC](cy.html#kinyraspeyias)** ( [Cyprus (CYP)](cy.html) ) _#kinyraspeyias_{: .key} <br>
+**[Hapoel Kiryat Shmona FC](il.html#kiryatshmona)** ( [Israel (ISR)](il.html) ) _#kiryatshmona_{: .key} <br>
+**[FC Kitzbühel](at.html#kitzbuehel)** ( [Austria (AUT)](at.html) ) _#kitzbuehel_{: .key} <br>
+**[SAK Klagenfurt](at.html#klagenfurt)** ( [Austria (AUT)](at.html) ) _#klagenfurt_{: .key} <br>
+**[1. FC Kaiserslautern](de.html#klautern)** ( [Germany (GER)](de.html) ) _#klautern_{: .key} <br>
+**[FC København](dk.html#kobenhavn)** ( [Denmark (DEN)](dk.html) ) _#kobenhavn_{: .key} <br>
+**[1. FC Köln](de.html#koeln)** ( [Germany (GER)](de.html) ) _#koeln_{: .key} <br>
+**[Ventforet Kofu](jp.html#kofu)** ( [Japan (JPN)](jp.html) ) _#kofu_{: .key} <br>
+**[FC Okzhetpes Kokshetau](kz.html#kokshetau)** ( [Kazakhstan (KAZ)](kz.html) ) _#kokshetau_{: .key} <br>
+**[FC Koper](si.html#koper)** ( [Slovenia (SVN)](si.html) ) _#koper_{: .key} <br>
+**[NK Slaven Koprivnica](hr.html#koprivnica)** ( [Croatia (CRO)](hr.html) ) _#koprivnica_{: .key} <br>
+**[South Korea](kr.html#kor)** ( [South Korea (KOR)](kr.html) ) _#kor_{: .key} <br>
+**[MFK Košice](sk.html#kosice)** ( [Slovakia (SVK)](sk.html) ) _#kosice_{: .key} <br>
+**[FC Tobol Kostanay](kz.html#kostanay)** ( [Kazakhstan (KAZ)](kz.html) ) _#kostanay_{: .key} <br>
+**[Wisła Kraków](pl.html#krakow)** ( [Poland (POL)](pl.html) ) _#krakow_{: .key} <br>
+**[KR Reykjavík](is.html#krreykjavik)** ( [Iceland (ISL)](is.html) ) _#krreykjavik_{: .key} <br>
+**[Kapfenberger SV](at.html#ksv)** ( [Austria (AUT)](at.html) ) _#ksv_{: .key} <br>
+**[FC Kufstein](at.html#kufstein)** ( [Austria (AUT)](at.html) ) _#kufstein_{: .key} <br>
+**[KuPS Kuopio](fi.html#kuopio)** ( [Finland (FIN)](fi.html) ) _#kuopio_{: .key} <br>
+**[FC Torpedo Kutaisi](ge.html#kutaisi)** ( [Georgia (GEO)](ge.html) ) _#kutaisi_{: .key} <br>
 
 </div>
 
@@ -574,58 +574,58 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**KF Laçi** ( Albania ) _#laci_{: .key} <br>
-**SP La Fiorita** ( San Marino ) _#lafiorita_{: .key} <br>
-**SV Lafnitz** ( Austria ) _#lafnitz_{: .key} <br>
-**FC Lahti** ( Finland ) _#lahti_{: .key} <br>
-**Xäzär Länkäran FK** ( Azerbaijan ) _#lankaran_{: .key} <br>
-**FC Lankowitz** ( Austria ) _#lankowitz_{: .key} <br>
-**Lanús** ( Argentina ) _#lanus_{: .key} <br>
-**Larissa FC** ( Greece ) _#larissa_{: .key} <br>
-**AEK Larnaca FC** ( Cyprus ) _#larnaca_{: .key} <br>
-**LASK Linz** ( Austria ) _#lask_{: .key} <br>
-**Las Palmas** ( Spain ) _#laspalmas_{: .key} <br>
-**FC Lausanne-Sport** ( Switzerland ) _#lausanne_{: .key} <br>
-**Lazio** ( Italy ) _#lazio_{: .key} <br>
-**Legia** ( Poland ) _#legiawarszawa_{: .key} <br>
-**RB Leipzig** ( Germany ) _#leipzip_{: .key} <br>
-**DSV Leoben** ( Austria ) _#leoben_{: .key} <br>
-**León** ( México [Mexico] ) _#leon_{: .key} <br>
-**SC Leopoldsdorf** ( Austria ) _#leopoldsdorf_{: .key} <br>
-**Racing FC Union Lëtzebuerg** ( Luxembourg ) _#letzebuerg_{: .key} <br>
-**FC Levadia Tallinn** ( Estonia ) _#levadiatallinn_{: .key} <br>
-**Levante** ( Spain ) _#levante_{: .key} <br>
-**Bayer 04 Leverkusen** ( Germany ) _#leverkusen_{: .key} <br>
-**PFC Levski Sofia** ( Bulgaria ) _#levskisofia_{: .key} <br>
-**FC Slovan Liberec** ( Czech Republic ) _#liberec_{: .key} <br>
-**Club Libertad Asunción** ( Paraguay ) _#libertad_{: .key} <br>
-**AC Libertas** ( San Marino ) _#libertas_{: .key} <br>
-**FC Liefering** ( Austria ) _#liefering_{: .key} <br>
-**SK Liepājas Metalurgs** ( Latvija [Latvia] ) _#liepajas_{: .key} <br>
-**LDU Quito** ( Ecuador ) _#ligadequito_{: .key} <br>
-**OSC Lille** ( France ) _#lille_{: .key} <br>
-**Lillestrøm SK** ( Norway ) _#lillestrom_{: .key} <br>
-**AEL Limassol FC** ( Cyprus ) _#limassol_{: .key} <br>
-**Linfield FC** ( Northern Ireland ) _#linfield_{: .key} <br>
-**FC Blau-Weiß Linz** ( Austria ) _#linz_{: .key} <br>
-**Lisburn Distillery FC** ( Northern Ireland ) _#lisburn_{: .key} <br>
-**PFC Litex Lovech** ( Bulgaria ) _#litexlovech_{: .key} <br>
-**Liverpool** ( England ) _#liverpool_{: .key} <br>
-**Liverpool FC Montevideo** ( Uruguay ) _#liverpoolmontevideo_{: .key} <br>
-**Livorno** ( Italy ) _#livorno_{: .key} <br>
-**Llanelli AFC** ( Wales ) _#llanelli_{: .key} <br>
-**LDU Loja** ( Ecuador ) _#loja_{: .key} <br>
-**KSC Lokeren OV** ( Belgium ) _#lokeren_{: .key} <br>
-**FC Lokomotiv Moskva** ( Russia ) _#lokomotiv_{: .key} <br>
-**PFC Lokomotiv Sofia** ( Bulgaria ) _#lokomotivsofia_{: .key} <br>
-**FC Lorient** ( France ) _#lorient_{: .key} <br>
-**Lugo** ( Spain ) _#lugo_{: .key} <br>
-**L.A. Firpo** ( El Salvador ) _#luisangelfirpo_{: .key} <br>
-**FC Lusitans** ( Andorra ) _#lusitans_{: .key} <br>
-**FC Lustenau 1907** ( Austria ) _#lustenau_{: .key} <br>
-**FC Luzern** ( Switzerland ) _#luzern_{: .key} <br>
-**FC Karpaty Lviv** ( Ukraine ) _#lviv_{: .key} <br>
-**Lyon** ( France ) _#lyon_{: .key} <br>
+**[KF Laçi](al.html#laci)** ( [Albania (ALB)](al.html) ) _#laci_{: .key} <br>
+**[SP La Fiorita](sm.html#lafiorita)** ( [San Marino (SMR)](sm.html) ) _#lafiorita_{: .key} <br>
+**[SV Lafnitz](at.html#lafnitz)** ( [Austria (AUT)](at.html) ) _#lafnitz_{: .key} <br>
+**[FC Lahti](fi.html#lahti)** ( [Finland (FIN)](fi.html) ) _#lahti_{: .key} <br>
+**[Xäzär Länkäran FK](az.html#lankaran)** ( [Azerbaijan (AZE)](az.html) ) _#lankaran_{: .key} <br>
+**[FC Lankowitz](at.html#lankowitz)** ( [Austria (AUT)](at.html) ) _#lankowitz_{: .key} <br>
+**[Lanús](ar.html#lanus)** ( [Argentina (ARG)](ar.html) ) _#lanus_{: .key} <br>
+**[Larissa FC](gr.html#larissa)** ( [Greece (GRE)](gr.html) ) _#larissa_{: .key} <br>
+**[AEK Larnaca FC](cy.html#larnaca)** ( [Cyprus (CYP)](cy.html) ) _#larnaca_{: .key} <br>
+**[LASK Linz](at.html#lask)** ( [Austria (AUT)](at.html) ) _#lask_{: .key} <br>
+**[Las Palmas](es.html#laspalmas)** ( [Spain (ESP)](es.html) ) _#laspalmas_{: .key} <br>
+**[FC Lausanne-Sport](ch.html#lausanne)** ( [Switzerland (SUI)](ch.html) ) _#lausanne_{: .key} <br>
+**[Lazio](it.html#lazio)** ( [Italy (ITA)](it.html) ) _#lazio_{: .key} <br>
+**[Legia](pl.html#legiawarszawa)** ( [Poland (POL)](pl.html) ) _#legiawarszawa_{: .key} <br>
+**[RB Leipzig](de.html#leipzip)** ( [Germany (GER)](de.html) ) _#leipzip_{: .key} <br>
+**[DSV Leoben](at.html#leoben)** ( [Austria (AUT)](at.html) ) _#leoben_{: .key} <br>
+**[León](mx.html#leon)** ( [México [Mexico] (MEX)](mx.html) ) _#leon_{: .key} <br>
+**[SC Leopoldsdorf](at.html#leopoldsdorf)** ( [Austria (AUT)](at.html) ) _#leopoldsdorf_{: .key} <br>
+**[Racing FC Union Lëtzebuerg](lu.html#letzebuerg)** ( [Luxembourg (LUX)](lu.html) ) _#letzebuerg_{: .key} <br>
+**[FC Levadia Tallinn](ee.html#levadiatallinn)** ( [Estonia (EST)](ee.html) ) _#levadiatallinn_{: .key} <br>
+**[Levante](es.html#levante)** ( [Spain (ESP)](es.html) ) _#levante_{: .key} <br>
+**[Bayer 04 Leverkusen](de.html#leverkusen)** ( [Germany (GER)](de.html) ) _#leverkusen_{: .key} <br>
+**[PFC Levski Sofia](bg.html#levskisofia)** ( [Bulgaria (BUL)](bg.html) ) _#levskisofia_{: .key} <br>
+**[FC Slovan Liberec](cz.html#liberec)** ( [Czech Republic (CZE)](cz.html) ) _#liberec_{: .key} <br>
+**[Club Libertad Asunción](py.html#libertad)** ( [Paraguay (PAR)](py.html) ) _#libertad_{: .key} <br>
+**[AC Libertas](sm.html#libertas)** ( [San Marino (SMR)](sm.html) ) _#libertas_{: .key} <br>
+**[FC Liefering](at.html#liefering)** ( [Austria (AUT)](at.html) ) _#liefering_{: .key} <br>
+**[SK Liepājas Metalurgs](lv.html#liepajas)** ( [Latvija [Latvia] (LVA)](lv.html) ) _#liepajas_{: .key} <br>
+**[LDU Quito](ec.html#ligadequito)** ( [Ecuador (ECU)](ec.html) ) _#ligadequito_{: .key} <br>
+**[OSC Lille](fr.html#lille)** ( [France (FRA)](fr.html) ) _#lille_{: .key} <br>
+**[Lillestrøm SK](no.html#lillestrom)** ( [Norway (NOR)](no.html) ) _#lillestrom_{: .key} <br>
+**[AEL Limassol FC](cy.html#limassol)** ( [Cyprus (CYP)](cy.html) ) _#limassol_{: .key} <br>
+**[Linfield FC](nd.html#linfield)** ( [Northern Ireland (NIR)](nd.html) ) _#linfield_{: .key} <br>
+**[FC Blau-Weiß Linz](at.html#linz)** ( [Austria (AUT)](at.html) ) _#linz_{: .key} <br>
+**[Lisburn Distillery FC](nd.html#lisburn)** ( [Northern Ireland (NIR)](nd.html) ) _#lisburn_{: .key} <br>
+**[PFC Litex Lovech](bg.html#litexlovech)** ( [Bulgaria (BUL)](bg.html) ) _#litexlovech_{: .key} <br>
+**[Liverpool](en.html#liverpool)** ( [England (ENG)](en.html) ) _#liverpool_{: .key} <br>
+**[Liverpool FC Montevideo](uy.html#liverpoolmontevideo)** ( [Uruguay (URU)](uy.html) ) _#liverpoolmontevideo_{: .key} <br>
+**[Livorno](it.html#livorno)** ( [Italy (ITA)](it.html) ) _#livorno_{: .key} <br>
+**[Llanelli AFC](wa.html#llanelli)** ( [Wales (WAL)](wa.html) ) _#llanelli_{: .key} <br>
+**[LDU Loja](ec.html#loja)** ( [Ecuador (ECU)](ec.html) ) _#loja_{: .key} <br>
+**[KSC Lokeren OV](be.html#lokeren)** ( [Belgium (BEL)](be.html) ) _#lokeren_{: .key} <br>
+**[FC Lokomotiv Moskva](ru.html#lokomotiv)** ( [Russia (RUS)](ru.html) ) _#lokomotiv_{: .key} <br>
+**[PFC Lokomotiv Sofia](bg.html#lokomotivsofia)** ( [Bulgaria (BUL)](bg.html) ) _#lokomotivsofia_{: .key} <br>
+**[FC Lorient](fr.html#lorient)** ( [France (FRA)](fr.html) ) _#lorient_{: .key} <br>
+**[Lugo](es.html#lugo)** ( [Spain (ESP)](es.html) ) _#lugo_{: .key} <br>
+**[L.A. Firpo](sv.html#luisangelfirpo)** ( [El Salvador (SLV)](sv.html) ) _#luisangelfirpo_{: .key} <br>
+**[FC Lusitans](ad.html#lusitans)** ( [Andorra (AND)](ad.html) ) _#lusitans_{: .key} <br>
+**[FC Lustenau 1907](at.html#lustenau)** ( [Austria (AUT)](at.html) ) _#lustenau_{: .key} <br>
+**[FC Luzern](ch.html#luzern)** ( [Switzerland (SUI)](ch.html) ) _#luzern_{: .key} <br>
+**[FC Karpaty Lviv](ua.html#lviv)** ( [Ukraine (UKR)](ua.html) ) _#lviv_{: .key} <br>
+**[Lyon](fr.html#lyon)** ( [France (FRA)](fr.html) ) _#lyon_{: .key} <br>
 
 </div>
 
@@ -636,60 +636,60 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Maccabi Tel-Aviv FC** ( Israel ) _#maccabitelaviv_{: .key} <br>
-**R. Madrid** ( Spain ) _#madrid_{: .key} <br>
-**1. FSV Mainz 05** ( Germany ) _#mainz_{: .key} <br>
-**FK Makedonija Skopje** ( Macedonia ) _#makedonijaskopje_{: .key} <br>
-**Málaga** ( Spain ) _#malaga_{: .key} <br>
-**Mallorca** ( Spain ) _#mallorca_{: .key} <br>
-**Malmö FF** ( Sweden ) _#malmoe_{: .key} <br>
-**YoungHeart Manawatu** ( New Zealand ) _#manawatu_{: .key} <br>
-**Manchester City** ( England ) _#mancity_{: .key} <br>
-**SC Mannsdorf** ( Austria ) _#mannsdorf_{: .key} <br>
-**Manchester United** ( England ) _#manunited_{: .key} <br>
-**Morocco** ( Morocco ) _#mar_{: .key} <br>
-**Marathón** ( Honduras ) _#marathon_{: .key} <br>
-**Maribor** ( Slovenia ) _#maribor_{: .key} <br>
-**CS Marítimo** ( Portugal ) _#maritimo_{: .key} <br>
-**Marsaxlokk FC** ( Malta ) _#marsaxlokk_{: .key} <br>
-**Marseille** ( France ) _#marseille_{: .key} <br>
-**SV Mattersburg** ( Austria ) _#mattersburg_{: .key} <br>
-**Melbourne Heart** ( Australia ) _#melbourneheart_{: .key} <br>
-**Melbourne Victory** ( Australia ) _#melbournevictory_{: .key} <br>
-**FC Metalist Kharkiv** ( Ukraine ) _#metalist_{: .key} <br>
-**FK Metalurg Skopje** ( Macedonia ) _#metalurgskopje_{: .key} <br>
-**FC Metalurh Donetsk** ( Ukraine ) _#metalurh_{: .key} <br>
-**Metapán** ( El Salvador ) _#metapan_{: .key} <br>
-**Mexico** ( México [Mexico] ) _#mex_{: .key} <br>
-**Borussia M'gladbach** ( Germany ) _#mgladbach_{: .key} <br>
-**SV Micheldorf** ( Austria ) _#micheldorf_{: .key} <br>
-**Heart of Midlothian FC** ( Scotland ) _#midlothian_{: .key} <br>
-**FC Midtjylland** ( Denmark ) _#midtjylland_{: .key} <br>
-**FC Mika** ( Armenia ) _#mika_{: .key} <br>
-**Milan** ( Italy ) _#milan_{: .key} <br>
-**FK Milano** ( Macedonia ) _#milano_{: .key} <br>
-**Millonarios Bogotá** ( Colombia ) _#millonarios_{: .key} <br>
-**Mirandés** ( Spain ) _#mirandes_{: .key} <br>
-**Misr El Makasa** ( Egypt ) _#misrelmakasa_{: .key} <br>
-**Mali** ( Mali ) _#mli_{: .key} <br>
-**FK Modriča** ( Bosnia and Herzegovina ) _#modrica_{: .key} <br>
-**FK Mogren** ( Montenegro ) _#mogren_{: .key} <br>
-**Molde FK** ( Norway ) _#molde_{: .key} <br>
-**Monterrey** ( México [Mexico] ) _#monterrey_{: .key} <br>
-**HSC Montpellier** ( France ) _#montpellier_{: .key} <br>
-**Montreal Impact** ( Canada ) _#montreal_{: .key} <br>
-**Morelia** ( México [Mexico] ) _#morelia_{: .key} <br>
-**CSKA Moskva** ( Russia ) _#moskva_{: .key} <br>
-**Motagua** ( Honduras ) _#motagua_{: .key} <br>
-**Motherwell FC** ( Scotland ) _#motherwell_{: .key} <br>
-**MTK Budapest** ( Hungary ) _#mtkbudapest_{: .key} <br>
-**Martinique** ( Martinique ) _#mtq_{: .key} <br>
-**Münster** ( Germany ) _#muenster_{: .key} <br>
-**Municipal** ( Guatemala ) _#municipal_{: .key} <br>
-**ND Mura 05** ( Slovenia ) _#mura_{: .key} <br>
-**SS Murata** ( San Marino ) _#murata_{: .key} <br>
-**Murcia** ( Spain ) _#murcia_{: .key} <br>
-**Myllykosken Pallo-47** ( Finland ) _#myllykosken_{: .key} <br>
+**[Maccabi Tel-Aviv FC](il.html#maccabitelaviv)** ( [Israel (ISR)](il.html) ) _#maccabitelaviv_{: .key} <br>
+**[R. Madrid](es.html#madrid)** ( [Spain (ESP)](es.html) ) _#madrid_{: .key} <br>
+**[1. FSV Mainz 05](de.html#mainz)** ( [Germany (GER)](de.html) ) _#mainz_{: .key} <br>
+**[FK Makedonija Skopje](mk.html#makedonijaskopje)** ( [Macedonia (MKD)](mk.html) ) _#makedonijaskopje_{: .key} <br>
+**[Málaga](es.html#malaga)** ( [Spain (ESP)](es.html) ) _#malaga_{: .key} <br>
+**[Mallorca](es.html#mallorca)** ( [Spain (ESP)](es.html) ) _#mallorca_{: .key} <br>
+**[Malmö FF](se.html#malmoe)** ( [Sweden (SWE)](se.html) ) _#malmoe_{: .key} <br>
+**[YoungHeart Manawatu](nz.html#manawatu)** ( [New Zealand (NZL)](nz.html) ) _#manawatu_{: .key} <br>
+**[Manchester City](en.html#mancity)** ( [England (ENG)](en.html) ) _#mancity_{: .key} <br>
+**[SC Mannsdorf](at.html#mannsdorf)** ( [Austria (AUT)](at.html) ) _#mannsdorf_{: .key} <br>
+**[Manchester United](en.html#manunited)** ( [England (ENG)](en.html) ) _#manunited_{: .key} <br>
+**[Morocco](ma.html#mar)** ( [Morocco (MAR)](ma.html) ) _#mar_{: .key} <br>
+**[Marathón](hn.html#marathon)** ( [Honduras (HON)](hn.html) ) _#marathon_{: .key} <br>
+**[Maribor](si.html#maribor)** ( [Slovenia (SVN)](si.html) ) _#maribor_{: .key} <br>
+**[CS Marítimo](pt.html#maritimo)** ( [Portugal (POR)](pt.html) ) _#maritimo_{: .key} <br>
+**[Marsaxlokk FC](mt.html#marsaxlokk)** ( [Malta (MLT)](mt.html) ) _#marsaxlokk_{: .key} <br>
+**[Marseille](fr.html#marseille)** ( [France (FRA)](fr.html) ) _#marseille_{: .key} <br>
+**[SV Mattersburg](at.html#mattersburg)** ( [Austria (AUT)](at.html) ) _#mattersburg_{: .key} <br>
+**[Melbourne Heart](au.html#melbourneheart)** ( [Australia (AUS)](au.html) ) _#melbourneheart_{: .key} <br>
+**[Melbourne Victory](au.html#melbournevictory)** ( [Australia (AUS)](au.html) ) _#melbournevictory_{: .key} <br>
+**[FC Metalist Kharkiv](ua.html#metalist)** ( [Ukraine (UKR)](ua.html) ) _#metalist_{: .key} <br>
+**[FK Metalurg Skopje](mk.html#metalurgskopje)** ( [Macedonia (MKD)](mk.html) ) _#metalurgskopje_{: .key} <br>
+**[FC Metalurh Donetsk](ua.html#metalurh)** ( [Ukraine (UKR)](ua.html) ) _#metalurh_{: .key} <br>
+**[Metapán](sv.html#metapan)** ( [El Salvador (SLV)](sv.html) ) _#metapan_{: .key} <br>
+**[Mexico](mx.html#mex)** ( [México [Mexico] (MEX)](mx.html) ) _#mex_{: .key} <br>
+**[Borussia M'gladbach](de.html#mgladbach)** ( [Germany (GER)](de.html) ) _#mgladbach_{: .key} <br>
+**[SV Micheldorf](at.html#micheldorf)** ( [Austria (AUT)](at.html) ) _#micheldorf_{: .key} <br>
+**[Heart of Midlothian FC](sc.html#midlothian)** ( [Scotland (SCO)](sc.html) ) _#midlothian_{: .key} <br>
+**[FC Midtjylland](dk.html#midtjylland)** ( [Denmark (DEN)](dk.html) ) _#midtjylland_{: .key} <br>
+**[FC Mika](am.html#mika)** ( [Armenia (ARM)](am.html) ) _#mika_{: .key} <br>
+**[Milan](it.html#milan)** ( [Italy (ITA)](it.html) ) _#milan_{: .key} <br>
+**[FK Milano](mk.html#milano)** ( [Macedonia (MKD)](mk.html) ) _#milano_{: .key} <br>
+**[Millonarios Bogotá](co.html#millonarios)** ( [Colombia (COL)](co.html) ) _#millonarios_{: .key} <br>
+**[Mirandés](es.html#mirandes)** ( [Spain (ESP)](es.html) ) _#mirandes_{: .key} <br>
+**[Misr El Makasa](eg.html#misrelmakasa)** ( [Egypt (EGY)](eg.html) ) _#misrelmakasa_{: .key} <br>
+**[Mali](ml.html#mli)** ( [Mali (MLI)](ml.html) ) _#mli_{: .key} <br>
+**[FK Modriča](ba.html#modrica)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#modrica_{: .key} <br>
+**[FK Mogren](me.html#mogren)** ( [Montenegro (MNE)](me.html) ) _#mogren_{: .key} <br>
+**[Molde FK](no.html#molde)** ( [Norway (NOR)](no.html) ) _#molde_{: .key} <br>
+**[Monterrey](mx.html#monterrey)** ( [México [Mexico] (MEX)](mx.html) ) _#monterrey_{: .key} <br>
+**[HSC Montpellier](fr.html#montpellier)** ( [France (FRA)](fr.html) ) _#montpellier_{: .key} <br>
+**[Montreal Impact](ca.html#montreal)** ( [Canada (CAN)](ca.html) ) _#montreal_{: .key} <br>
+**[Morelia](mx.html#morelia)** ( [México [Mexico] (MEX)](mx.html) ) _#morelia_{: .key} <br>
+**[CSKA Moskva](ru.html#moskva)** ( [Russia (RUS)](ru.html) ) _#moskva_{: .key} <br>
+**[Motagua](hn.html#motagua)** ( [Honduras (HON)](hn.html) ) _#motagua_{: .key} <br>
+**[Motherwell FC](sc.html#motherwell)** ( [Scotland (SCO)](sc.html) ) _#motherwell_{: .key} <br>
+**[MTK Budapest](hu.html#mtkbudapest)** ( [Hungary (HUN)](hu.html) ) _#mtkbudapest_{: .key} <br>
+**[Martinique](mq.html#mtq)** ( [Martinique (MTQ)](mq.html) ) _#mtq_{: .key} <br>
+**[Münster](de.html#muenster)** ( [Germany (GER)](de.html) ) _#muenster_{: .key} <br>
+**[Municipal](gt.html#municipal)** ( [Guatemala (GUA)](gt.html) ) _#municipal_{: .key} <br>
+**[ND Mura 05](si.html#mura)** ( [Slovenia (SVN)](si.html) ) _#mura_{: .key} <br>
+**[SS Murata](sm.html#murata)** ( [San Marino (SMR)](sm.html) ) _#murata_{: .key} <br>
+**[Murcia](es.html#murcia)** ( [Spain (ESP)](es.html) ) _#murcia_{: .key} <br>
+**[Myllykosken Pallo-47](fi.html#myllykosken)** ( [Finland (FIN)](fi.html) ) _#myllykosken_{: .key} <br>
 
 </div>
 
@@ -700,39 +700,39 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Nacional** ( Uruguay ) _#nacional_{: .key} <br>
-**Nacional** ( Paraguay ) _#nacionalasuncion_{: .key} <br>
-**CD Nacional** ( Portugal ) _#nacionaldamadeira_{: .key} <br>
-**Nagoya Grampus** ( Japan ) _#nagoya_{: .key} <br>
-**AS Nancy** ( France ) _#nancy_{: .key} <br>
-**Napoli** ( Italy ) _#napoli_{: .key} <br>
-**JK Trans Narva** ( Estonia ) _#narva_{: .key} <br>
-**Náutico** ( Brazil ) _#nautico_{: .key} <br>
-**Neath FC** ( Wales ) _#neath_{: .key} <br>
-**NEC** ( Netherlands ) _#nec_{: .key} <br>
-**Netherlands** ( Netherlands ) _#ned_{: .key} <br>
-**Neftçi PFK** ( Azerbaijan ) _#neftci_{: .key} <br>
-**Maccabi Netanya FC** ( Israel ) _#netanya_{: .key} <br>
-**TSV Neumarkt am Wallersee** ( Austria ) _#neumarkt_{: .key} <br>
-**Newcastle United** ( England ) _#newcastle_{: .key} <br>
-**Newcastle Jets** ( Australia ) _#newcastlejets_{: .key} <br>
-**Newell's** ( Argentina ) _#newells_{: .key} <br>
-**New England Revolution** ( United States ) _#newengland_{: .key} <br>
-**The New Saints FC** ( Wales ) _#newsaints_{: .key} <br>
-**New York Red Bulls** ( United States ) _#newyork_{: .key} <br>
-**Nigeria** ( Nigeria ) _#nga_{: .key} <br>
-**OGC Nice** ( France ) _#nice_{: .key} <br>
-**Niger** ( Niger ) _#nig_{: .key} <br>
-**Albirex Niigata** ( Japan ) _#niigata_{: .key} <br>
-**FK Čelik Nikšić** ( Montenegro ) _#niksic_{: .key} <br>
-**FC Nitra** ( Slovakia ) _#nitra_{: .key} <br>
-**FC Nordsjælland** ( Denmark ) _#nordsjalland_{: .key} <br>
-**Norwich City** ( England ) _#norwich_{: .key} <br>
-**FC Naftan Novopolotsk** ( Belarus ) _#novopolotsk_{: .key} <br>
-**FC Sibir Novosibirsk** ( Russia ) _#novosibirsk_{: .key} <br>
-**1. FC Nürnberg** ( Germany ) _#nuernberg_{: .key} <br>
-**Numancia** ( Spain ) _#numancia_{: .key} <br>
-**New Zealand** ( New Zealand ) _#nzl_{: .key} <br>
+**[Nacional](uy.html#nacional)** ( [Uruguay (URU)](uy.html) ) _#nacional_{: .key} <br>
+**[Nacional](py.html#nacionalasuncion)** ( [Paraguay (PAR)](py.html) ) _#nacionalasuncion_{: .key} <br>
+**[CD Nacional](pt.html#nacionaldamadeira)** ( [Portugal (POR)](pt.html) ) _#nacionaldamadeira_{: .key} <br>
+**[Nagoya Grampus](jp.html#nagoya)** ( [Japan (JPN)](jp.html) ) _#nagoya_{: .key} <br>
+**[AS Nancy](fr.html#nancy)** ( [France (FRA)](fr.html) ) _#nancy_{: .key} <br>
+**[Napoli](it.html#napoli)** ( [Italy (ITA)](it.html) ) _#napoli_{: .key} <br>
+**[JK Trans Narva](ee.html#narva)** ( [Estonia (EST)](ee.html) ) _#narva_{: .key} <br>
+**[Náutico](br.html#nautico)** ( [Brazil (BRA)](br.html) ) _#nautico_{: .key} <br>
+**[Neath FC](wa.html#neath)** ( [Wales (WAL)](wa.html) ) _#neath_{: .key} <br>
+**[NEC](nl.html#nec)** ( [Netherlands (NED)](nl.html) ) _#nec_{: .key} <br>
+**[Netherlands](nl.html#ned)** ( [Netherlands (NED)](nl.html) ) _#ned_{: .key} <br>
+**[Neftçi PFK](az.html#neftci)** ( [Azerbaijan (AZE)](az.html) ) _#neftci_{: .key} <br>
+**[Maccabi Netanya FC](il.html#netanya)** ( [Israel (ISR)](il.html) ) _#netanya_{: .key} <br>
+**[TSV Neumarkt am Wallersee](at.html#neumarkt)** ( [Austria (AUT)](at.html) ) _#neumarkt_{: .key} <br>
+**[Newcastle United](en.html#newcastle)** ( [England (ENG)](en.html) ) _#newcastle_{: .key} <br>
+**[Newcastle Jets](au.html#newcastlejets)** ( [Australia (AUS)](au.html) ) _#newcastlejets_{: .key} <br>
+**[Newell's](ar.html#newells)** ( [Argentina (ARG)](ar.html) ) _#newells_{: .key} <br>
+**[New England Revolution](us.html#newengland)** ( [United States (USA)](us.html) ) _#newengland_{: .key} <br>
+**[The New Saints FC](wa.html#newsaints)** ( [Wales (WAL)](wa.html) ) _#newsaints_{: .key} <br>
+**[New York Red Bulls](us.html#newyork)** ( [United States (USA)](us.html) ) _#newyork_{: .key} <br>
+**[Nigeria](ng.html#nga)** ( [Nigeria (NGA)](ng.html) ) _#nga_{: .key} <br>
+**[OGC Nice](fr.html#nice)** ( [France (FRA)](fr.html) ) _#nice_{: .key} <br>
+**[Niger](ne.html#nig)** ( [Niger (NIG)](ne.html) ) _#nig_{: .key} <br>
+**[Albirex Niigata](jp.html#niigata)** ( [Japan (JPN)](jp.html) ) _#niigata_{: .key} <br>
+**[FK Čelik Nikšić](me.html#niksic)** ( [Montenegro (MNE)](me.html) ) _#niksic_{: .key} <br>
+**[FC Nitra](sk.html#nitra)** ( [Slovakia (SVK)](sk.html) ) _#nitra_{: .key} <br>
+**[FC Nordsjælland](dk.html#nordsjalland)** ( [Denmark (DEN)](dk.html) ) _#nordsjalland_{: .key} <br>
+**[Norwich City](en.html#norwich)** ( [England (ENG)](en.html) ) _#norwich_{: .key} <br>
+**[FC Naftan Novopolotsk](by.html#novopolotsk)** ( [Belarus (BLR)](by.html) ) _#novopolotsk_{: .key} <br>
+**[FC Sibir Novosibirsk](ru.html#novosibirsk)** ( [Russia (RUS)](ru.html) ) _#novosibirsk_{: .key} <br>
+**[1. FC Nürnberg](de.html#nuernberg)** ( [Germany (GER)](de.html) ) _#nuernberg_{: .key} <br>
+**[Numancia](es.html#numancia)** ( [Spain (ESP)](es.html) ) _#numancia_{: .key} <br>
+**[New Zealand](nz.html#nzl)** ( [New Zealand (NZL)](nz.html) ) _#nzl_{: .key} <br>
 
 </div>
 
@@ -743,29 +743,29 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**ATSV Ober-Grafendorf** ( Austria ) _#obergrafendorf_{: .key} <br>
-**SV Oberwart** ( Austria ) _#oberwart_{: .key} <br>
-**Odense BK** ( Denmark ) _#odense_{: .key} <br>
-**Örebro SK** ( Sweden ) _#oerebro_{: .key} <br>
-**Oita Trinita** ( Japan ) _#oita_{: .key} <br>
-**Olimpia** ( Paraguay ) _#olimpia_{: .key} <br>
-**NK Olimpija Ljubljana** ( Slovenia ) _#olimpijaljubljana_{: .key} <br>
-**JFK Olimps/RFS** ( Latvija [Latvia] ) _#olimps_{: .key} <br>
-**SK Sigma Olomouc** ( Czech Republic ) _#olomouc_{: .key} <br>
-**Olympiakos Piräus** ( Greece ) _#olympiacos_{: .key} <br>
-**Olympiacos Volou FC** ( Greece ) _#olympiacosvolou_{: .key} <br>
-**Omiya Ardija** ( Japan ) _#omiya_{: .key} <br>
-**AC Omonia** ( Cyprus ) _#omonia_{: .key} <br>
-**Once Caldas** ( Colombia ) _#oncecaldas_{: .key} <br>
-**FC Milsami Orhei** ( Moldova ) _#orhei_{: .key} <br>
-**Osasuna** ( Spain ) _#osasuna_{: .key} <br>
-**NK Osijek** ( Croatia ) _#osijek_{: .key} <br>
-**Osnabrück** ( Germany ) _#osnabrueck_{: .key} <br>
-**SC Ostbahn XI** ( Austria ) _#ostbahn_{: .key} <br>
-**FC Baník Ostrava** ( Czech Republic ) _#ostrava_{: .key} <br>
-**FC Nistru Otaci** ( Moldova ) _#otaci_{: .key} <br>
-**Otago United** ( New Zealand ) _#otago_{: .key} <br>
-**Otelul Galati** ( Romania ) _#otelul_{: .key} <br>
+**[ATSV Ober-Grafendorf](at.html#obergrafendorf)** ( [Austria (AUT)](at.html) ) _#obergrafendorf_{: .key} <br>
+**[SV Oberwart](at.html#oberwart)** ( [Austria (AUT)](at.html) ) _#oberwart_{: .key} <br>
+**[Odense BK](dk.html#odense)** ( [Denmark (DEN)](dk.html) ) _#odense_{: .key} <br>
+**[Örebro SK](se.html#oerebro)** ( [Sweden (SWE)](se.html) ) _#oerebro_{: .key} <br>
+**[Oita Trinita](jp.html#oita)** ( [Japan (JPN)](jp.html) ) _#oita_{: .key} <br>
+**[Olimpia](py.html#olimpia)** ( [Paraguay (PAR)](py.html) ) _#olimpia_{: .key} <br>
+**[NK Olimpija Ljubljana](si.html#olimpijaljubljana)** ( [Slovenia (SVN)](si.html) ) _#olimpijaljubljana_{: .key} <br>
+**[JFK Olimps/RFS](lv.html#olimps)** ( [Latvija [Latvia] (LVA)](lv.html) ) _#olimps_{: .key} <br>
+**[SK Sigma Olomouc](cz.html#olomouc)** ( [Czech Republic (CZE)](cz.html) ) _#olomouc_{: .key} <br>
+**[Olympiakos Piräus](gr.html#olympiacos)** ( [Greece (GRE)](gr.html) ) _#olympiacos_{: .key} <br>
+**[Olympiacos Volou FC](gr.html#olympiacosvolou)** ( [Greece (GRE)](gr.html) ) _#olympiacosvolou_{: .key} <br>
+**[Omiya Ardija](jp.html#omiya)** ( [Japan (JPN)](jp.html) ) _#omiya_{: .key} <br>
+**[AC Omonia](cy.html#omonia)** ( [Cyprus (CYP)](cy.html) ) _#omonia_{: .key} <br>
+**[Once Caldas](co.html#oncecaldas)** ( [Colombia (COL)](co.html) ) _#oncecaldas_{: .key} <br>
+**[FC Milsami Orhei](md.html#orhei)** ( [Moldova (MDA)](md.html) ) _#orhei_{: .key} <br>
+**[Osasuna](es.html#osasuna)** ( [Spain (ESP)](es.html) ) _#osasuna_{: .key} <br>
+**[NK Osijek](hr.html#osijek)** ( [Croatia (CRO)](hr.html) ) _#osijek_{: .key} <br>
+**[Osnabrück](de.html#osnabrueck)** ( [Germany (GER)](de.html) ) _#osnabrueck_{: .key} <br>
+**[SC Ostbahn XI](at.html#ostbahn)** ( [Austria (AUT)](at.html) ) _#ostbahn_{: .key} <br>
+**[FC Baník Ostrava](cz.html#ostrava)** ( [Czech Republic (CZE)](cz.html) ) _#ostrava_{: .key} <br>
+**[FC Nistru Otaci](md.html#otaci)** ( [Moldova (MDA)](md.html) ) _#otaci_{: .key} <br>
+**[Otago United](nz.html#otago)** ( [New Zealand (NZL)](nz.html) ) _#otago_{: .key} <br>
+**[Otelul Galati](ro.html#otelul)** ( [Romania (ROU)](ro.html) ) _#otelul_{: .key} <br>
 
 </div>
 
@@ -776,60 +776,60 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Pachuca** ( México [Mexico] ) _#pachuca_{: .key} <br>
-**SC Paderborn 07** ( Germany ) _#paderborn_{: .key} <br>
-**Paksi SE** ( Hungary ) _#paksi_{: .key} <br>
-**Palermo** ( Italy ) _#palermo_{: .key} <br>
-**Palmeiras** ( Brazil ) _#palmeiras_{: .key} <br>
-**Panama** ( Panamá [Panama] ) _#pan_{: .key} <br>
-**Panathinaikos FC** ( Greece ) _#panathinaikos_{: .key} <br>
-**Pandurii Tg Jiu** ( Romania ) _#pandurii_{: .key} <br>
-**PAOK FC** ( Greece ) _#paok_{: .key} <br>
-**Paraguay** ( Paraguay ) _#par_{: .key} <br>
-**Paris St. Germain** ( France ) _#paris_{: .key} <br>
-**FC Partizan Minsk** ( Belarus ) _#parizanminsk_{: .key} <br>
-**Parma** ( Italy ) _#parma_{: .key} <br>
-**SC/ESV Parndorf 1919** ( Austria ) _#parndorf_{: .key} <br>
-**FK Partizan** ( Serbia ) _#partizan_{: .key} <br>
-**FK Partizani** ( Albania ) _#partizani_{: .key} <br>
-**FC Pasching** ( Austria ) _#pasching_{: .key} <br>
-**FC Irtysh Pavlodar** ( Kazakhstan ) _#pavlodar_{: .key} <br>
-**FK Pelister** ( Macedonia ) _#pelister_{: .key} <br>
-**Peñarol** ( Uruguay ) _#penarol_{: .key} <br>
-**Peru** ( Peru ) _#per_{: .key} <br>
-**Perth Glory** ( Australia ) _#perth_{: .key} <br>
-**Pescara Calcio** ( Italy ) _#pescara_{: .key} <br>
-**Petrojet** ( Egypt ) _#petrojet_{: .key} <br>
-**Petrolul Ploiesti** ( Romania ) _#petrolul_{: .key} <br>
-**OFK Petrovac** ( Montenegro ) _#petrovac_{: .key} <br>
-**MFK Petržalka** ( Slovakia ) _#petrzalka_{: .key} <br>
-**Philadelphia Union** ( United States ) _#philadelphia_{: .key} <br>
-**SC Pinkafeld** ( Austria ) _#pinkafeld_{: .key} <br>
-**FC Pinzgau Saalfelden** ( Austria ) _#pinzgau_{: .key} <br>
-**FK Rudar Pljevlja** ( Montenegro ) _#pljevlja_{: .key} <br>
-**PFC Lokomotiv Plovdiv 1936** ( Bulgaria ) _#plovdiv_{: .key} <br>
-**Plzeň** ( Czech Republic ) _#plzen_{: .key} <br>
-**FK Budućnost Podgorica** ( Montenegro ) _#podgorica_{: .key} <br>
-**Poland** ( Poland ) _#pol_{: .key} <br>
-**KSP Polonia Warszawa** ( Poland ) _#poloniawarszawa_{: .key} <br>
-**FC Vorskla Poltava** ( Ukraine ) _#poltava_{: .key} <br>
-**Ponferradina** ( Spain ) _#ponferradina_{: .key} <br>
-**Ponte Preta** ( Brazil ) _#pontepreta_{: .key} <br>
-**Portugal** ( Portugal ) _#por_{: .key} <br>
-**Portadown FC** ( Northern Ireland ) _#portadown_{: .key} <br>
-**Cerro Porteño** ( Paraguay ) _#porteno_{: .key} <br>
-**Portland Timbers** ( United States ) _#portland_{: .key} <br>
-**Porto** ( Portugal ) _#porto_{: .key} <br>
-**Port Talbot Town FC** ( Wales ) _#porttalbot_{: .key} <br>
-**Portuguesa** ( Brazil ) _#portuguesa_{: .key} <br>
-**KKS Lech Poznań** ( Poland ) _#poznan_{: .key} <br>
-**Sparta Praha** ( Czech Republic ) _#praha_{: .key} <br>
-**North Korea** ( North Korea ) _#prk_{: .key} <br>
-**PSV** ( Netherlands ) _#psv_{: .key} <br>
-**Puebla** ( México [Mexico] ) _#puebla_{: .key} <br>
-**Puerto Rico Islanders** ( Puerto Rico ) _#puertorico_{: .key} <br>
-**Pumas** ( México [Mexico] ) _#pumas_{: .key} <br>
-**FC Pyunik** ( Armenia ) _#pyunik_{: .key} <br>
+**[Pachuca](mx.html#pachuca)** ( [México [Mexico] (MEX)](mx.html) ) _#pachuca_{: .key} <br>
+**[SC Paderborn 07](de.html#paderborn)** ( [Germany (GER)](de.html) ) _#paderborn_{: .key} <br>
+**[Paksi SE](hu.html#paksi)** ( [Hungary (HUN)](hu.html) ) _#paksi_{: .key} <br>
+**[Palermo](it.html#palermo)** ( [Italy (ITA)](it.html) ) _#palermo_{: .key} <br>
+**[Palmeiras](br.html#palmeiras)** ( [Brazil (BRA)](br.html) ) _#palmeiras_{: .key} <br>
+**[Panama](pa.html#pan)** ( [Panamá [Panama] (PAN)](pa.html) ) _#pan_{: .key} <br>
+**[Panathinaikos FC](gr.html#panathinaikos)** ( [Greece (GRE)](gr.html) ) _#panathinaikos_{: .key} <br>
+**[Pandurii Tg Jiu](ro.html#pandurii)** ( [Romania (ROU)](ro.html) ) _#pandurii_{: .key} <br>
+**[PAOK FC](gr.html#paok)** ( [Greece (GRE)](gr.html) ) _#paok_{: .key} <br>
+**[Paraguay](py.html#par)** ( [Paraguay (PAR)](py.html) ) _#par_{: .key} <br>
+**[Paris St. Germain](fr.html#paris)** ( [France (FRA)](fr.html) ) _#paris_{: .key} <br>
+**[FC Partizan Minsk](by.html#parizanminsk)** ( [Belarus (BLR)](by.html) ) _#parizanminsk_{: .key} <br>
+**[Parma](it.html#parma)** ( [Italy (ITA)](it.html) ) _#parma_{: .key} <br>
+**[SC/ESV Parndorf 1919](at.html#parndorf)** ( [Austria (AUT)](at.html) ) _#parndorf_{: .key} <br>
+**[FK Partizan](rs.html#partizan)** ( [Serbia (SRB)](rs.html) ) _#partizan_{: .key} <br>
+**[FK Partizani](al.html#partizani)** ( [Albania (ALB)](al.html) ) _#partizani_{: .key} <br>
+**[FC Pasching](at.html#pasching)** ( [Austria (AUT)](at.html) ) _#pasching_{: .key} <br>
+**[FC Irtysh Pavlodar](kz.html#pavlodar)** ( [Kazakhstan (KAZ)](kz.html) ) _#pavlodar_{: .key} <br>
+**[FK Pelister](mk.html#pelister)** ( [Macedonia (MKD)](mk.html) ) _#pelister_{: .key} <br>
+**[Peñarol](uy.html#penarol)** ( [Uruguay (URU)](uy.html) ) _#penarol_{: .key} <br>
+**[Peru](pe.html#per)** ( [Peru (PER)](pe.html) ) _#per_{: .key} <br>
+**[Perth Glory](au.html#perth)** ( [Australia (AUS)](au.html) ) _#perth_{: .key} <br>
+**[Pescara Calcio](it.html#pescara)** ( [Italy (ITA)](it.html) ) _#pescara_{: .key} <br>
+**[Petrojet](eg.html#petrojet)** ( [Egypt (EGY)](eg.html) ) _#petrojet_{: .key} <br>
+**[Petrolul Ploiesti](ro.html#petrolul)** ( [Romania (ROU)](ro.html) ) _#petrolul_{: .key} <br>
+**[OFK Petrovac](me.html#petrovac)** ( [Montenegro (MNE)](me.html) ) _#petrovac_{: .key} <br>
+**[MFK Petržalka](sk.html#petrzalka)** ( [Slovakia (SVK)](sk.html) ) _#petrzalka_{: .key} <br>
+**[Philadelphia Union](us.html#philadelphia)** ( [United States (USA)](us.html) ) _#philadelphia_{: .key} <br>
+**[SC Pinkafeld](at.html#pinkafeld)** ( [Austria (AUT)](at.html) ) _#pinkafeld_{: .key} <br>
+**[FC Pinzgau Saalfelden](at.html#pinzgau)** ( [Austria (AUT)](at.html) ) _#pinzgau_{: .key} <br>
+**[FK Rudar Pljevlja](me.html#pljevlja)** ( [Montenegro (MNE)](me.html) ) _#pljevlja_{: .key} <br>
+**[PFC Lokomotiv Plovdiv 1936](bg.html#plovdiv)** ( [Bulgaria (BUL)](bg.html) ) _#plovdiv_{: .key} <br>
+**[Plzeň](cz.html#plzen)** ( [Czech Republic (CZE)](cz.html) ) _#plzen_{: .key} <br>
+**[FK Budućnost Podgorica](me.html#podgorica)** ( [Montenegro (MNE)](me.html) ) _#podgorica_{: .key} <br>
+**[Poland](pl.html#pol)** ( [Poland (POL)](pl.html) ) _#pol_{: .key} <br>
+**[KSP Polonia Warszawa](pl.html#poloniawarszawa)** ( [Poland (POL)](pl.html) ) _#poloniawarszawa_{: .key} <br>
+**[FC Vorskla Poltava](ua.html#poltava)** ( [Ukraine (UKR)](ua.html) ) _#poltava_{: .key} <br>
+**[Ponferradina](es.html#ponferradina)** ( [Spain (ESP)](es.html) ) _#ponferradina_{: .key} <br>
+**[Ponte Preta](br.html#pontepreta)** ( [Brazil (BRA)](br.html) ) _#pontepreta_{: .key} <br>
+**[Portugal](pt.html#por)** ( [Portugal (POR)](pt.html) ) _#por_{: .key} <br>
+**[Portadown FC](nd.html#portadown)** ( [Northern Ireland (NIR)](nd.html) ) _#portadown_{: .key} <br>
+**[Cerro Porteño](py.html#porteno)** ( [Paraguay (PAR)](py.html) ) _#porteno_{: .key} <br>
+**[Portland Timbers](us.html#portland)** ( [United States (USA)](us.html) ) _#portland_{: .key} <br>
+**[Porto](pt.html#porto)** ( [Portugal (POR)](pt.html) ) _#porto_{: .key} <br>
+**[Port Talbot Town FC](wa.html#porttalbot)** ( [Wales (WAL)](wa.html) ) _#porttalbot_{: .key} <br>
+**[Portuguesa](br.html#portuguesa)** ( [Brazil (BRA)](br.html) ) _#portuguesa_{: .key} <br>
+**[KKS Lech Poznań](pl.html#poznan)** ( [Poland (POL)](pl.html) ) _#poznan_{: .key} <br>
+**[Sparta Praha](cz.html#praha)** ( [Czech Republic (CZE)](cz.html) ) _#praha_{: .key} <br>
+**[North Korea](kp.html#prk)** ( [North Korea (PRK)](kp.html) ) _#prk_{: .key} <br>
+**[PSV](nl.html#psv)** ( [Netherlands (NED)](nl.html) ) _#psv_{: .key} <br>
+**[Puebla](mx.html#puebla)** ( [México [Mexico] (MEX)](mx.html) ) _#puebla_{: .key} <br>
+**[Puerto Rico Islanders](pr.html#puertorico)** ( [Puerto Rico (PUR)](pr.html) ) _#puertorico_{: .key} <br>
+**[Pumas](mx.html#pumas)** ( [México [Mexico] (MEX)](mx.html) ) _#pumas_{: .key} <br>
+**[FC Pyunik](am.html#pyunik)** ( [Armenia (ARM)](am.html) ) _#pyunik_{: .key} <br>
 
 </div>
 
@@ -840,12 +840,12 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Qarabağ FK** ( Azerbaijan ) _#qarabag_{: .key} <br>
-**Queens Park Rangers** ( England ) _#qpr_{: .key} <br>
-**Queen of the South FC** ( Scotland ) _#queenofthesouth_{: .key} <br>
-**Querétaro** ( México [Mexico] ) _#queretaro_{: .key} <br>
-**Quilmes** ( Argentina ) _#quilmes_{: .key} <br>
-**Deportivo Quito** ( Ecuador ) _#quito_{: .key} <br>
+**[Qarabağ FK](az.html#qarabag)** ( [Azerbaijan (AZE)](az.html) ) _#qarabag_{: .key} <br>
+**[Queens Park Rangers](en.html#qpr)** ( [England (ENG)](en.html) ) _#qpr_{: .key} <br>
+**[Queen of the South FC](sc.html#queenofthesouth)** ( [Scotland (SCO)](sc.html) ) _#queenofthesouth_{: .key} <br>
+**[Querétaro](mx.html#queretaro)** ( [México [Mexico] (MEX)](mx.html) ) _#queretaro_{: .key} <br>
+**[Quilmes](ar.html#quilmes)** ( [Argentina (ARG)](ar.html) ) _#quilmes_{: .key} <br>
+**[Deportivo Quito](ec.html#quito)** ( [Ecuador (ECU)](ec.html) ) _#quito_{: .key} <br>
 
 </div>
 
@@ -856,44 +856,44 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**FK Rabotnicki** ( Macedonia ) _#rabotnicki_{: .key} <br>
-**Racing** ( Argentina ) _#racing_{: .key} <br>
-**FK Rad** ( Serbia ) _#rad_{: .key} <br>
-**At. de Rafaela** ( Argentina ) _#rafaela_{: .key} <br>
-**Randers FC** ( Denmark ) _#randers_{: .key} <br>
-**Rangers FC** ( Scotland ) _#rangers_{: .key} <br>
-**SK Rapid Wien** ( Austria ) _#rapid_{: .key} <br>
-**Rapid București** ( Romania ) _#rapidbu_{: .key} <br>
-**Rayo** ( Spain ) _#rayo_{: .key} <br>
-**Ludogorets** ( Bulgaria ) _#razgrad_{: .key} <br>
-**Reading** ( England ) _#reading_{: .key} <br>
-**Real Garcilaso** ( Peru ) _#realgarcilaso_{: .key} <br>
-**Real Potosí** ( Bolivia ) _#realpotosi_{: .key} <br>
-**R. Sociedad** ( Spain ) _#realsociedad_{: .key} <br>
-**Recreativo** ( Spain ) _#recreativo_{: .key} <br>
-**Jahn Regensburg** ( Germany ) _#regensburg_{: .key} <br>
-**Stade de Reims** ( France ) _#reims_{: .key} <br>
-**Stade Rennais FC** ( France ) _#rennes_{: .key} <br>
-**FK Renova** ( Macedonia ) _#renova_{: .key} <br>
-**SC Retz** ( Austria ) _#retz_{: .key} <br>
-**SV Reutte** ( Austria ) _#reutte_{: .key} <br>
-**Rhyl FC** ( Wales ) _#rhyl_{: .key} <br>
-**SV Ried** ( Austria ) _#ried_{: .key} <br>
-**HNK Rijeka** ( Croatia ) _#rijeka_{: .key} <br>
-**River** ( Argentina ) _#riverplate_{: .key} <br>
-**RNK Split** ( Croatia ) _#rnksplit_{: .key} <br>
-**Roda JC** ( Netherlands ) _#roda_{: .key} <br>
-**SC Rohrendorf** ( Austria ) _#rohrendorf_{: .key} <br>
-**Roma** ( Italy ) _#roma_{: .key} <br>
-**Rosenborg BK** ( Norway ) _#rosenborg_{: .key} <br>
-**Rostock** ( Germany ) _#rostock_{: .key} <br>
-**Romania** ( Romania ) _#rou_{: .key} <br>
-**South Africa** ( South Africa ) _#rsa_{: .key} <br>
-**Rubin Kazan** ( Russia ) _#rubinkazan_{: .key} <br>
-**NSÍ Runavík** ( Faroe Islands ) _#runavik_{: .key} <br>
-**Russia** ( Russia ) _#rus_{: .key} <br>
-**FC Metalurgi Rustavi** ( Georgia ) _#rustavi_{: .key} <br>
-**RW Erfurt** ( Germany ) _#rwerfurt_{: .key} <br>
+**[FK Rabotnicki](mk.html#rabotnicki)** ( [Macedonia (MKD)](mk.html) ) _#rabotnicki_{: .key} <br>
+**[Racing](ar.html#racing)** ( [Argentina (ARG)](ar.html) ) _#racing_{: .key} <br>
+**[FK Rad](rs.html#rad)** ( [Serbia (SRB)](rs.html) ) _#rad_{: .key} <br>
+**[At. de Rafaela](ar.html#rafaela)** ( [Argentina (ARG)](ar.html) ) _#rafaela_{: .key} <br>
+**[Randers FC](dk.html#randers)** ( [Denmark (DEN)](dk.html) ) _#randers_{: .key} <br>
+**[Rangers FC](sc.html#rangers)** ( [Scotland (SCO)](sc.html) ) _#rangers_{: .key} <br>
+**[SK Rapid Wien](at.html#rapid)** ( [Austria (AUT)](at.html) ) _#rapid_{: .key} <br>
+**[Rapid București](ro.html#rapidbu)** ( [Romania (ROU)](ro.html) ) _#rapidbu_{: .key} <br>
+**[Rayo](es.html#rayo)** ( [Spain (ESP)](es.html) ) _#rayo_{: .key} <br>
+**[Ludogorets](bg.html#razgrad)** ( [Bulgaria (BUL)](bg.html) ) _#razgrad_{: .key} <br>
+**[Reading](en.html#reading)** ( [England (ENG)](en.html) ) _#reading_{: .key} <br>
+**[Real Garcilaso](pe.html#realgarcilaso)** ( [Peru (PER)](pe.html) ) _#realgarcilaso_{: .key} <br>
+**[Real Potosí](bo.html#realpotosi)** ( [Bolivia (BOL)](bo.html) ) _#realpotosi_{: .key} <br>
+**[R. Sociedad](es.html#realsociedad)** ( [Spain (ESP)](es.html) ) _#realsociedad_{: .key} <br>
+**[Recreativo](es.html#recreativo)** ( [Spain (ESP)](es.html) ) _#recreativo_{: .key} <br>
+**[Jahn Regensburg](de.html#regensburg)** ( [Germany (GER)](de.html) ) _#regensburg_{: .key} <br>
+**[Stade de Reims](fr.html#reims)** ( [France (FRA)](fr.html) ) _#reims_{: .key} <br>
+**[Stade Rennais FC](fr.html#rennes)** ( [France (FRA)](fr.html) ) _#rennes_{: .key} <br>
+**[FK Renova](mk.html#renova)** ( [Macedonia (MKD)](mk.html) ) _#renova_{: .key} <br>
+**[SC Retz](at.html#retz)** ( [Austria (AUT)](at.html) ) _#retz_{: .key} <br>
+**[SV Reutte](at.html#reutte)** ( [Austria (AUT)](at.html) ) _#reutte_{: .key} <br>
+**[Rhyl FC](wa.html#rhyl)** ( [Wales (WAL)](wa.html) ) _#rhyl_{: .key} <br>
+**[SV Ried](at.html#ried)** ( [Austria (AUT)](at.html) ) _#ried_{: .key} <br>
+**[HNK Rijeka](hr.html#rijeka)** ( [Croatia (CRO)](hr.html) ) _#rijeka_{: .key} <br>
+**[River](ar.html#riverplate)** ( [Argentina (ARG)](ar.html) ) _#riverplate_{: .key} <br>
+**[RNK Split](hr.html#rnksplit)** ( [Croatia (CRO)](hr.html) ) _#rnksplit_{: .key} <br>
+**[Roda JC](nl.html#roda)** ( [Netherlands (NED)](nl.html) ) _#roda_{: .key} <br>
+**[SC Rohrendorf](at.html#rohrendorf)** ( [Austria (AUT)](at.html) ) _#rohrendorf_{: .key} <br>
+**[Roma](it.html#roma)** ( [Italy (ITA)](it.html) ) _#roma_{: .key} <br>
+**[Rosenborg BK](no.html#rosenborg)** ( [Norway (NOR)](no.html) ) _#rosenborg_{: .key} <br>
+**[Rostock](de.html#rostock)** ( [Germany (GER)](de.html) ) _#rostock_{: .key} <br>
+**[Romania](ro.html#rou)** ( [Romania (ROU)](ro.html) ) _#rou_{: .key} <br>
+**[South Africa](za.html#rsa)** ( [South Africa (RSA)](za.html) ) _#rsa_{: .key} <br>
+**[Rubin Kazan](ru.html#rubinkazan)** ( [Russia (RUS)](ru.html) ) _#rubinkazan_{: .key} <br>
+**[NSÍ Runavík](fo.html#runavik)** ( [Faroe Islands (FRO)](fo.html) ) _#runavik_{: .key} <br>
+**[Russia](ru.html#rus)** ( [Russia (RUS)](ru.html) ) _#rus_{: .key} <br>
+**[FC Metalurgi Rustavi](ge.html#rustavi)** ( [Georgia (GEO)](ge.html) ) _#rustavi_{: .key} <br>
+**[RW Erfurt](de.html#rwerfurt)** ( [Germany (GER)](de.html) ) _#rwerfurt_{: .key} <br>
 
 </div>
 
@@ -904,105 +904,105 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Saarbrücken** ( Germany ) _#saarbruecken_{: .key} <br>
-**Sabadell** ( Spain ) _#sabadell_{: .key} <br>
-**AS Saint-Étienne** ( France ) _#saintetienne_{: .key} <br>
-**Saint Johnstone FC** ( Scotland ) _#saintjohnstone_{: .key} <br>
-**Saint Patrick's Athletic FC** ( Irland ) _#saintpatricks_{: .key} <br>
-**SAK 1914** ( Austria ) _#sak_{: .key} <br>
-**Real Salt Lake** ( United States ) _#saltlake_{: .key} <br>
-**FC RB Salzburg** ( Austria ) _#salzburg_{: .key} <br>
-**FC RB Juniors Salzburg** ( Austria ) _#salzburgii_{: .key} <br>
-**PFC Krylya Sovetov Samara** ( Russia ) _#samara_{: .key} <br>
-**Sampdoria** ( Italy ) _#sampdoria_{: .key} <br>
-**SV Sandhausen** ( Germany ) _#sandhausen_{: .key} <br>
-**San Francisco** ( Panamá [Panama] ) _#sanfrancisco_{: .key} <br>
-**San José** ( Bolivia ) _#sanjose_{: .key} <br>
-**San Lorenzo** ( Argentina ) _#sanlorenzo_{: .key} <br>
-**San Luis** ( México [Mexico] ) _#sanluis_{: .key} <br>
-**San Martín** ( Argentina ) _#sanmartin_{: .key} <br>
-**Santa Fe** ( Colombia ) _#santafe_{: .key} <br>
-**UE Sant Julià** ( Andorra ) _#santjulia_{: .key} <br>
-**Santos** ( México [Mexico] ) _#santos_{: .key} <br>
-**Santos** ( Brazil ) _#santossp_{: .key} <br>
-**São Paulo** ( Brazil ) _#saopaulo_{: .key} <br>
-**FK Sarajevo** ( Bosnia and Herzegovina ) _#sarajevo_{: .key} <br>
-**Sassuolo** ( Italy ) _#sassuolo_{: .key} <br>
-**Schalke 04** ( Germany ) _#schalke_{: .key} <br>
-**SC Schwaz** ( Austria ) _#schwaz_{: .key} <br>
-**SV Schwechat** ( Austria ) _#schwechat_{: .key} <br>
-**Seattle Sounders** ( United States ) _#seattle_{: .key} <br>
-**SV Seekirchen 1945** ( Austria ) _#seekirchen_{: .key} <br>
-**Senegal** ( Senegal ) _#sen_{: .key} <br>
-**Vegalta Sendai** ( Japan ) _#sendai_{: .key} <br>
-**FK Senica** ( Slovakia ) _#senica_{: .key} <br>
-**FC Severin** ( Romania ) _#severin_{: .key} <br>
-**Sevilla** ( Spain ) _#sevilla_{: .key} <br>
-**Shamrock Rovers FC** ( Irland ) _#shamrock_{: .key} <br>
-**FC Sheriff** ( Moldova ) _#sheriff_{: .key} <br>
-**Shimizu S-Pulse** ( Japan ) _#shimizu_{: .key} <br>
-**FC Shirak** ( Armenia ) _#shirak_{: .key} <br>
-**FK Shkëndija 79** ( Macedonia ) _#shkendija_{: .key} <br>
-**Shonan Bellmare** ( Japan ) _#shonan_{: .key} <br>
-**FC Ordabasy Shymkent** ( Kazakhstan ) _#shymkent_{: .key} <br>
-**FC Šiauliai** ( Lithuania ) _#siauliai_{: .key} <br>
-**HNK Šibenik** ( Croatia ) _#sibenik_{: .key} <br>
-**AC Siena** ( Italy ) _#siena_{: .key} <br>
-**Seongnam Ilhwa Chunma** ( South Korea ) _#sifc_{: .key} <br>
-**SC Tavriya Simferopol** ( Ukraine ) _#simferopol_{: .key} <br>
-**Simurq PFK** ( Azerbaijan ) _#simurq_{: .key} <br>
-**FC Sion** ( Switzerland ) _#sion_{: .key} <br>
-**Sivasspor** ( Turkey ) _#sivasspor_{: .key} <br>
-**KS Skënderbeu** ( Albania ) _#skenderbeu_{: .key} <br>
-**Skonto FC** ( Latvija [Latvia] ) _#skonto_{: .key} <br>
-**SK Slavia Praha** ( Czech Republic ) _#slaviapraha_{: .key} <br>
-**FK Slavija Sarajevo** ( Bosnia and Herzegovina ) _#slavijasarajevo_{: .key} <br>
-**Sliema Wanderers FC** ( Malta ) _#sliema_{: .key} <br>
-**Sligo Rovers FC** ( Irland ) _#sligorovers_{: .key} <br>
-**El Salvador** ( El Salvador ) _#slv_{: .key} <br>
-**Smouha** ( Egypt ) _#smouha_{: .key} <br>
-**FC Sochaux-Montbéliard** ( France ) _#sochaux_{: .key} <br>
-**FC Shakhtyor Soligorsk** ( Belarus ) _#soligorsk_{: .key} <br>
-**1. SC Sollenau** ( Austria ) _#sollenau_{: .key} <br>
-**Southampton** ( England ) _#southampton_{: .key} <br>
-**Spartak Moskau** ( Russia ) _#spartak_{: .key} <br>
-**SV Spittal/Drau** ( Austria ) _#spittal_{: .key} <br>
-**Sport Huancayo** ( Peru ) _#sporthuancayo_{: .key} <br>
-**Sporting** ( Spain ) _#sporting_{: .key} <br>
-**Sporting Cristal** ( Peru ) _#sportingcristal_{: .key} <br>
-**Sporting SM** ( Panamá [Panama] ) _#sportingsanmiguelito_{: .key} <br>
-**Sport** ( Brazil ) _#sportrecife_{: .key} <br>
-**Serbia** ( Serbia ) _#srb_{: .key} <br>
-**Stabæk Fotball** ( Norway ) _#stabaek_{: .key} <br>
-**R. Standard de Liège** ( Belgium ) _#standardliege_{: .key} <br>
-**Steaua** ( Romania ) _#steaua_{: .key} <br>
-**Pohang Steelers** ( South Korea ) _#steelers_{: .key} <br>
-**SV Stegersbach** ( Austria ) _#stegersbach_{: .key} <br>
-**SK Vorwärts Steyr** ( Austria ) _#steyr_{: .key} <br>
-**St. Florian** ( Austria ) _#stflorian_{: .key} <br>
-**FC St. Gallen** ( Switzerland ) _#stgallen_{: .key} <br>
-**TSV St. Johann** ( Austria ) _#stjohann_{: .key} <br>
-**Stoke City** ( England ) _#stoke_{: .key} <br>
-**FC St. Pauli** ( Germany ) _#stpauli_{: .key} <br>
-**SKN St. Pölten** ( Austria ) _#stpoelten_{: .key} <br>
-**EB/Streymur** ( Faroe Islands ) _#streymur_{: .key} <br>
-**Strømsgodset IF** ( Norway ) _#stromsgodset_{: .key} <br>
-**SK Sturm Graz** ( Austria ) _#sturm_{: .key} <br>
-**Stuttgart** ( Germany ) _#stuttgart_{: .key} <br>
-**Stuttgart II** ( Germany ) _#stuttgartii_{: .key} <br>
-**Stutt. Kick.** ( Germany ) _#stuttkick_{: .key} <br>
-**FC St. Veit** ( Austria ) _#stveit_{: .key} <br>
-**FK Sūduva** ( Lithuania ) _#suduva_{: .key} <br>
-**Switzerland** ( Switzerland ) _#sui_{: .key} <br>
-**Sunderland** ( England ) _#sunderland_{: .key} <br>
-**FK Sutjeska** ( Montenegro ) _#sutjeska_{: .key} <br>
-**Olimpik-Şüvälan PFK** ( Azerbaijan ) _#suvalan_{: .key} <br>
-**Slovakia** ( Slovakia ) _#svk_{: .key} <br>
-**Slovenia** ( Slovenia ) _#svn_{: .key} <br>
-**Swansea City** ( Wales ) _#swansea_{: .key} <br>
-**Sweden** ( Sweden ) _#swe_{: .key} <br>
-**Sydney FC** ( Australia ) _#sydneyfc_{: .key} <br>
-**Szombathelyi Haladás** ( Hungary ) _#szombathelyi_{: .key} <br>
+**[Saarbrücken](de.html#saarbruecken)** ( [Germany (GER)](de.html) ) _#saarbruecken_{: .key} <br>
+**[Sabadell](es.html#sabadell)** ( [Spain (ESP)](es.html) ) _#sabadell_{: .key} <br>
+**[AS Saint-Étienne](fr.html#saintetienne)** ( [France (FRA)](fr.html) ) _#saintetienne_{: .key} <br>
+**[Saint Johnstone FC](sc.html#saintjohnstone)** ( [Scotland (SCO)](sc.html) ) _#saintjohnstone_{: .key} <br>
+**[Saint Patrick's Athletic FC](ie.html#saintpatricks)** ( [Irland (IRL)](ie.html) ) _#saintpatricks_{: .key} <br>
+**[SAK 1914](at.html#sak)** ( [Austria (AUT)](at.html) ) _#sak_{: .key} <br>
+**[Real Salt Lake](us.html#saltlake)** ( [United States (USA)](us.html) ) _#saltlake_{: .key} <br>
+**[FC RB Salzburg](at.html#salzburg)** ( [Austria (AUT)](at.html) ) _#salzburg_{: .key} <br>
+**[FC RB Juniors Salzburg](at.html#salzburgii)** ( [Austria (AUT)](at.html) ) _#salzburgii_{: .key} <br>
+**[PFC Krylya Sovetov Samara](ru.html#samara)** ( [Russia (RUS)](ru.html) ) _#samara_{: .key} <br>
+**[Sampdoria](it.html#sampdoria)** ( [Italy (ITA)](it.html) ) _#sampdoria_{: .key} <br>
+**[SV Sandhausen](de.html#sandhausen)** ( [Germany (GER)](de.html) ) _#sandhausen_{: .key} <br>
+**[San Francisco](pa.html#sanfrancisco)** ( [Panamá [Panama] (PAN)](pa.html) ) _#sanfrancisco_{: .key} <br>
+**[San José](bo.html#sanjose)** ( [Bolivia (BOL)](bo.html) ) _#sanjose_{: .key} <br>
+**[San Lorenzo](ar.html#sanlorenzo)** ( [Argentina (ARG)](ar.html) ) _#sanlorenzo_{: .key} <br>
+**[San Luis](mx.html#sanluis)** ( [México [Mexico] (MEX)](mx.html) ) _#sanluis_{: .key} <br>
+**[San Martín](ar.html#sanmartin)** ( [Argentina (ARG)](ar.html) ) _#sanmartin_{: .key} <br>
+**[Santa Fe](co.html#santafe)** ( [Colombia (COL)](co.html) ) _#santafe_{: .key} <br>
+**[UE Sant Julià](ad.html#santjulia)** ( [Andorra (AND)](ad.html) ) _#santjulia_{: .key} <br>
+**[Santos](mx.html#santos)** ( [México [Mexico] (MEX)](mx.html) ) _#santos_{: .key} <br>
+**[Santos](br.html#santossp)** ( [Brazil (BRA)](br.html) ) _#santossp_{: .key} <br>
+**[São Paulo](br.html#saopaulo)** ( [Brazil (BRA)](br.html) ) _#saopaulo_{: .key} <br>
+**[FK Sarajevo](ba.html#sarajevo)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#sarajevo_{: .key} <br>
+**[Sassuolo](it.html#sassuolo)** ( [Italy (ITA)](it.html) ) _#sassuolo_{: .key} <br>
+**[Schalke 04](de.html#schalke)** ( [Germany (GER)](de.html) ) _#schalke_{: .key} <br>
+**[SC Schwaz](at.html#schwaz)** ( [Austria (AUT)](at.html) ) _#schwaz_{: .key} <br>
+**[SV Schwechat](at.html#schwechat)** ( [Austria (AUT)](at.html) ) _#schwechat_{: .key} <br>
+**[Seattle Sounders](us.html#seattle)** ( [United States (USA)](us.html) ) _#seattle_{: .key} <br>
+**[SV Seekirchen 1945](at.html#seekirchen)** ( [Austria (AUT)](at.html) ) _#seekirchen_{: .key} <br>
+**[Senegal](sn.html#sen)** ( [Senegal (SEN)](sn.html) ) _#sen_{: .key} <br>
+**[Vegalta Sendai](jp.html#sendai)** ( [Japan (JPN)](jp.html) ) _#sendai_{: .key} <br>
+**[FK Senica](sk.html#senica)** ( [Slovakia (SVK)](sk.html) ) _#senica_{: .key} <br>
+**[FC Severin](ro.html#severin)** ( [Romania (ROU)](ro.html) ) _#severin_{: .key} <br>
+**[Sevilla](es.html#sevilla)** ( [Spain (ESP)](es.html) ) _#sevilla_{: .key} <br>
+**[Shamrock Rovers FC](ie.html#shamrock)** ( [Irland (IRL)](ie.html) ) _#shamrock_{: .key} <br>
+**[FC Sheriff](md.html#sheriff)** ( [Moldova (MDA)](md.html) ) _#sheriff_{: .key} <br>
+**[Shimizu S-Pulse](jp.html#shimizu)** ( [Japan (JPN)](jp.html) ) _#shimizu_{: .key} <br>
+**[FC Shirak](am.html#shirak)** ( [Armenia (ARM)](am.html) ) _#shirak_{: .key} <br>
+**[FK Shkëndija 79](mk.html#shkendija)** ( [Macedonia (MKD)](mk.html) ) _#shkendija_{: .key} <br>
+**[Shonan Bellmare](jp.html#shonan)** ( [Japan (JPN)](jp.html) ) _#shonan_{: .key} <br>
+**[FC Ordabasy Shymkent](kz.html#shymkent)** ( [Kazakhstan (KAZ)](kz.html) ) _#shymkent_{: .key} <br>
+**[FC Šiauliai](lt.html#siauliai)** ( [Lithuania (LTU)](lt.html) ) _#siauliai_{: .key} <br>
+**[HNK Šibenik](hr.html#sibenik)** ( [Croatia (CRO)](hr.html) ) _#sibenik_{: .key} <br>
+**[AC Siena](it.html#siena)** ( [Italy (ITA)](it.html) ) _#siena_{: .key} <br>
+**[Seongnam Ilhwa Chunma](kr.html#sifc)** ( [South Korea (KOR)](kr.html) ) _#sifc_{: .key} <br>
+**[SC Tavriya Simferopol](ua.html#simferopol)** ( [Ukraine (UKR)](ua.html) ) _#simferopol_{: .key} <br>
+**[Simurq PFK](az.html#simurq)** ( [Azerbaijan (AZE)](az.html) ) _#simurq_{: .key} <br>
+**[FC Sion](ch.html#sion)** ( [Switzerland (SUI)](ch.html) ) _#sion_{: .key} <br>
+**[Sivasspor](tr.html#sivasspor)** ( [Turkey (TUR)](tr.html) ) _#sivasspor_{: .key} <br>
+**[KS Skënderbeu](al.html#skenderbeu)** ( [Albania (ALB)](al.html) ) _#skenderbeu_{: .key} <br>
+**[Skonto FC](lv.html#skonto)** ( [Latvija [Latvia] (LVA)](lv.html) ) _#skonto_{: .key} <br>
+**[SK Slavia Praha](cz.html#slaviapraha)** ( [Czech Republic (CZE)](cz.html) ) _#slaviapraha_{: .key} <br>
+**[FK Slavija Sarajevo](ba.html#slavijasarajevo)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#slavijasarajevo_{: .key} <br>
+**[Sliema Wanderers FC](mt.html#sliema)** ( [Malta (MLT)](mt.html) ) _#sliema_{: .key} <br>
+**[Sligo Rovers FC](ie.html#sligorovers)** ( [Irland (IRL)](ie.html) ) _#sligorovers_{: .key} <br>
+**[El Salvador](sv.html#slv)** ( [El Salvador (SLV)](sv.html) ) _#slv_{: .key} <br>
+**[Smouha](eg.html#smouha)** ( [Egypt (EGY)](eg.html) ) _#smouha_{: .key} <br>
+**[FC Sochaux-Montbéliard](fr.html#sochaux)** ( [France (FRA)](fr.html) ) _#sochaux_{: .key} <br>
+**[FC Shakhtyor Soligorsk](by.html#soligorsk)** ( [Belarus (BLR)](by.html) ) _#soligorsk_{: .key} <br>
+**[1. SC Sollenau](at.html#sollenau)** ( [Austria (AUT)](at.html) ) _#sollenau_{: .key} <br>
+**[Southampton](en.html#southampton)** ( [England (ENG)](en.html) ) _#southampton_{: .key} <br>
+**[Spartak Moskau](ru.html#spartak)** ( [Russia (RUS)](ru.html) ) _#spartak_{: .key} <br>
+**[SV Spittal/Drau](at.html#spittal)** ( [Austria (AUT)](at.html) ) _#spittal_{: .key} <br>
+**[Sport Huancayo](pe.html#sporthuancayo)** ( [Peru (PER)](pe.html) ) _#sporthuancayo_{: .key} <br>
+**[Sporting](es.html#sporting)** ( [Spain (ESP)](es.html) ) _#sporting_{: .key} <br>
+**[Sporting Cristal](pe.html#sportingcristal)** ( [Peru (PER)](pe.html) ) _#sportingcristal_{: .key} <br>
+**[Sporting SM](pa.html#sportingsanmiguelito)** ( [Panamá [Panama] (PAN)](pa.html) ) _#sportingsanmiguelito_{: .key} <br>
+**[Sport](br.html#sportrecife)** ( [Brazil (BRA)](br.html) ) _#sportrecife_{: .key} <br>
+**[Serbia](rs.html#srb)** ( [Serbia (SRB)](rs.html) ) _#srb_{: .key} <br>
+**[Stabæk Fotball](no.html#stabaek)** ( [Norway (NOR)](no.html) ) _#stabaek_{: .key} <br>
+**[R. Standard de Liège](be.html#standardliege)** ( [Belgium (BEL)](be.html) ) _#standardliege_{: .key} <br>
+**[Steaua](ro.html#steaua)** ( [Romania (ROU)](ro.html) ) _#steaua_{: .key} <br>
+**[Pohang Steelers](kr.html#steelers)** ( [South Korea (KOR)](kr.html) ) _#steelers_{: .key} <br>
+**[SV Stegersbach](at.html#stegersbach)** ( [Austria (AUT)](at.html) ) _#stegersbach_{: .key} <br>
+**[SK Vorwärts Steyr](at.html#steyr)** ( [Austria (AUT)](at.html) ) _#steyr_{: .key} <br>
+**[St. Florian](at.html#stflorian)** ( [Austria (AUT)](at.html) ) _#stflorian_{: .key} <br>
+**[FC St. Gallen](ch.html#stgallen)** ( [Switzerland (SUI)](ch.html) ) _#stgallen_{: .key} <br>
+**[TSV St. Johann](at.html#stjohann)** ( [Austria (AUT)](at.html) ) _#stjohann_{: .key} <br>
+**[Stoke City](en.html#stoke)** ( [England (ENG)](en.html) ) _#stoke_{: .key} <br>
+**[FC St. Pauli](de.html#stpauli)** ( [Germany (GER)](de.html) ) _#stpauli_{: .key} <br>
+**[SKN St. Pölten](at.html#stpoelten)** ( [Austria (AUT)](at.html) ) _#stpoelten_{: .key} <br>
+**[EB/Streymur](fo.html#streymur)** ( [Faroe Islands (FRO)](fo.html) ) _#streymur_{: .key} <br>
+**[Strømsgodset IF](no.html#stromsgodset)** ( [Norway (NOR)](no.html) ) _#stromsgodset_{: .key} <br>
+**[SK Sturm Graz](at.html#sturm)** ( [Austria (AUT)](at.html) ) _#sturm_{: .key} <br>
+**[Stuttgart](de.html#stuttgart)** ( [Germany (GER)](de.html) ) _#stuttgart_{: .key} <br>
+**[Stuttgart II](de.html#stuttgartii)** ( [Germany (GER)](de.html) ) _#stuttgartii_{: .key} <br>
+**[Stutt. Kick.](de.html#stuttkick)** ( [Germany (GER)](de.html) ) _#stuttkick_{: .key} <br>
+**[FC St. Veit](at.html#stveit)** ( [Austria (AUT)](at.html) ) _#stveit_{: .key} <br>
+**[FK Sūduva](lt.html#suduva)** ( [Lithuania (LTU)](lt.html) ) _#suduva_{: .key} <br>
+**[Switzerland](ch.html#sui)** ( [Switzerland (SUI)](ch.html) ) _#sui_{: .key} <br>
+**[Sunderland](en.html#sunderland)** ( [England (ENG)](en.html) ) _#sunderland_{: .key} <br>
+**[FK Sutjeska](me.html#sutjeska)** ( [Montenegro (MNE)](me.html) ) _#sutjeska_{: .key} <br>
+**[Olimpik-Şüvälan PFK](az.html#suvalan)** ( [Azerbaijan (AZE)](az.html) ) _#suvalan_{: .key} <br>
+**[Slovakia](sk.html#svk)** ( [Slovakia (SVK)](sk.html) ) _#svk_{: .key} <br>
+**[Slovenia](si.html#svn)** ( [Slovenia (SVN)](si.html) ) _#svn_{: .key} <br>
+**[Swansea City](wa.html#swansea)** ( [Wales (WAL)](wa.html) ) _#swansea_{: .key} <br>
+**[Sweden](se.html#swe)** ( [Sweden (SWE)](se.html) ) _#swe_{: .key} <br>
+**[Sydney FC](au.html#sydneyfc)** ( [Australia (AUS)](au.html) ) _#sydneyfc_{: .key} <br>
+**[Szombathelyi Haladás](hu.html#szombathelyi)** ( [Hungary (HUN)](hu.html) ) _#szombathelyi_{: .key} <br>
 
 </div>
 
@@ -1013,46 +1013,46 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Tahiti** ( Tahiti ) _#tah_{: .key} <br>
-**Tala'ea El Gaish [Army's Vanguards]** ( Egypt ) _#talaeaelgaish_{: .key} <br>
-**FC Zhetysu Taldykorgan** ( Kazakhstan ) _#taldykorgan_{: .key} <br>
-**Tampere United** ( Finland ) _#tampere_{: .key} <br>
-**FK Tauras** ( Lithuania ) _#tauras_{: .key} <br>
-**Tauro** ( Panamá [Panama] ) _#tauro_{: .key} <br>
-**Telephonat Bani Sweif** ( Egypt ) _#telephonatbanisweif_{: .key} <br>
-**Tempête** ( Haiti ) _#tempete_{: .key} <br>
-**Tenerife** ( Spain ) _#tenerife_{: .key} <br>
-**FK Teplice** ( Czech Republic ) _#teplice_{: .key} <br>
-**FK Teteks** ( Macedonia ) _#teteks_{: .key} <br>
-**KS Teuta** ( Albania ) _#teuta_{: .key} <br>
-**Aris Thessaloniki FC** ( Greece ) _#thessaloniki_{: .key} <br>
-**The Strongest** ( Bolivia ) _#thestrongest_{: .key} <br>
-**FC Thun** ( Switzerland ) _#thun_{: .key} <br>
-**Tigre** ( Argentina ) _#tigre_{: .key} <br>
-**Tigres** ( México [Mexico] ) _#tigres_{: .key} <br>
-**Tijuana** ( México [Mexico] ) _#tijuana_{: .key} <br>
-**Togo** ( Togo ) _#tog_{: .key} <br>
-**Toluca** ( México [Mexico] ) _#toluca_{: .key} <br>
-**Torino** ( Italy ) _#torino_{: .key} <br>
-**Toronto** ( Canada ) _#toronto_{: .key} <br>
-**Sagan Tosu** ( Japan ) _#tosu_{: .key} <br>
-**Tottenham Hotspur** ( England ) _#tottenham_{: .key} <br>
-**Toulouse FC** ( France ) _#toulouse_{: .key} <br>
-**TPS Turku** ( Finland ) _#tpsturku_{: .key} <br>
-**Trabzonspor AŞ** ( Turkey ) _#trabzonspor_{: .key} <br>
-**SP Tre Fiori** ( San Marino ) _#trefiori_{: .key} <br>
-**SP Tre Penne** ( San Marino ) _#trepenne_{: .key} <br>
-**Trinidad and Tobago** ( Trinidad and Tobago ) _#tri_{: .key} <br>
-**Asteras Tripolis FC** ( Greece ) _#tripolis_{: .key} <br>
-**FC Spartak Trnava** ( Slovakia ) _#trnava_{: .key} <br>
-**Tromsø IL** ( Norway ) _#tromso_{: .key} <br>
-**ES Troyes AC** ( France ) _#troyes_{: .key} <br>
-**Universidad César Vallejo** ( Peru ) _#trujillo_{: .key} <br>
-**1860 München** ( Germany ) _#tsvmuenchen_{: .key} <br>
-**Tunisia** ( Tunisia ) _#tun_{: .key} <br>
-**Turkey** ( Turkey ) _#tur_{: .key} <br>
-**FC TVMK Tallinn** ( Estonia ) _#tvmktallinn_{: .key} <br>
-**FC Twente** ( Netherlands ) _#twente_{: .key} <br>
+**[Tahiti](pf.html#tah)** ( [Tahiti (TAH)](pf.html) ) _#tah_{: .key} <br>
+**[Tala'ea El Gaish [Army's Vanguards]](eg.html#talaeaelgaish)** ( [Egypt (EGY)](eg.html) ) _#talaeaelgaish_{: .key} <br>
+**[FC Zhetysu Taldykorgan](kz.html#taldykorgan)** ( [Kazakhstan (KAZ)](kz.html) ) _#taldykorgan_{: .key} <br>
+**[Tampere United](fi.html#tampere)** ( [Finland (FIN)](fi.html) ) _#tampere_{: .key} <br>
+**[FK Tauras](lt.html#tauras)** ( [Lithuania (LTU)](lt.html) ) _#tauras_{: .key} <br>
+**[Tauro](pa.html#tauro)** ( [Panamá [Panama] (PAN)](pa.html) ) _#tauro_{: .key} <br>
+**[Telephonat Bani Sweif](eg.html#telephonatbanisweif)** ( [Egypt (EGY)](eg.html) ) _#telephonatbanisweif_{: .key} <br>
+**[Tempête](ht.html#tempete)** ( [Haiti (HAI)](ht.html) ) _#tempete_{: .key} <br>
+**[Tenerife](es.html#tenerife)** ( [Spain (ESP)](es.html) ) _#tenerife_{: .key} <br>
+**[FK Teplice](cz.html#teplice)** ( [Czech Republic (CZE)](cz.html) ) _#teplice_{: .key} <br>
+**[FK Teteks](mk.html#teteks)** ( [Macedonia (MKD)](mk.html) ) _#teteks_{: .key} <br>
+**[KS Teuta](al.html#teuta)** ( [Albania (ALB)](al.html) ) _#teuta_{: .key} <br>
+**[Aris Thessaloniki FC](gr.html#thessaloniki)** ( [Greece (GRE)](gr.html) ) _#thessaloniki_{: .key} <br>
+**[The Strongest](bo.html#thestrongest)** ( [Bolivia (BOL)](bo.html) ) _#thestrongest_{: .key} <br>
+**[FC Thun](ch.html#thun)** ( [Switzerland (SUI)](ch.html) ) _#thun_{: .key} <br>
+**[Tigre](ar.html#tigre)** ( [Argentina (ARG)](ar.html) ) _#tigre_{: .key} <br>
+**[Tigres](mx.html#tigres)** ( [México [Mexico] (MEX)](mx.html) ) _#tigres_{: .key} <br>
+**[Tijuana](mx.html#tijuana)** ( [México [Mexico] (MEX)](mx.html) ) _#tijuana_{: .key} <br>
+**[Togo](tg.html#tog)** ( [Togo (TOG)](tg.html) ) _#tog_{: .key} <br>
+**[Toluca](mx.html#toluca)** ( [México [Mexico] (MEX)](mx.html) ) _#toluca_{: .key} <br>
+**[Torino](it.html#torino)** ( [Italy (ITA)](it.html) ) _#torino_{: .key} <br>
+**[Toronto](ca.html#toronto)** ( [Canada (CAN)](ca.html) ) _#toronto_{: .key} <br>
+**[Sagan Tosu](jp.html#tosu)** ( [Japan (JPN)](jp.html) ) _#tosu_{: .key} <br>
+**[Tottenham Hotspur](en.html#tottenham)** ( [England (ENG)](en.html) ) _#tottenham_{: .key} <br>
+**[Toulouse FC](fr.html#toulouse)** ( [France (FRA)](fr.html) ) _#toulouse_{: .key} <br>
+**[TPS Turku](fi.html#tpsturku)** ( [Finland (FIN)](fi.html) ) _#tpsturku_{: .key} <br>
+**[Trabzonspor AŞ](tr.html#trabzonspor)** ( [Turkey (TUR)](tr.html) ) _#trabzonspor_{: .key} <br>
+**[SP Tre Fiori](sm.html#trefiori)** ( [San Marino (SMR)](sm.html) ) _#trefiori_{: .key} <br>
+**[SP Tre Penne](sm.html#trepenne)** ( [San Marino (SMR)](sm.html) ) _#trepenne_{: .key} <br>
+**[Trinidad and Tobago](tt.html#tri)** ( [Trinidad and Tobago (TRI)](tt.html) ) _#tri_{: .key} <br>
+**[Asteras Tripolis FC](gr.html#tripolis)** ( [Greece (GRE)](gr.html) ) _#tripolis_{: .key} <br>
+**[FC Spartak Trnava](sk.html#trnava)** ( [Slovakia (SVK)](sk.html) ) _#trnava_{: .key} <br>
+**[Tromsø IL](no.html#tromso)** ( [Norway (NOR)](no.html) ) _#tromso_{: .key} <br>
+**[ES Troyes AC](fr.html#troyes)** ( [France (FRA)](fr.html) ) _#troyes_{: .key} <br>
+**[Universidad César Vallejo](pe.html#trujillo)** ( [Peru (PER)](pe.html) ) _#trujillo_{: .key} <br>
+**[1860 München](de.html#tsvmuenchen)** ( [Germany (GER)](de.html) ) _#tsvmuenchen_{: .key} <br>
+**[Tunisia](tn.html#tun)** ( [Tunisia (TUN)](tn.html) ) _#tun_{: .key} <br>
+**[Turkey](tr.html#tur)** ( [Turkey (TUR)](tr.html) ) _#tur_{: .key} <br>
+**[FC TVMK Tallinn](ee.html#tvmktallinn)** ( [Estonia (EST)](ee.html) ) _#tvmktallinn_{: .key} <br>
+**[FC Twente](nl.html#twente)** ( [Netherlands (NED)](nl.html) ) _#twente_{: .key} <br>
 
 </div>
 
@@ -1063,23 +1063,23 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**U Cluj** ( Romania ) _#ucluj_{: .key} <br>
-**Universidad de Chile** ( Chile ) _#udechile_{: .key} <br>
-**Udinese** ( Italy ) _#udinese_{: .key} <br>
-**UE Santa Coloma** ( Andorra ) _#uesantacoloma_{: .key} <br>
-**U'haching** ( Germany ) _#uhaching_{: .key} <br>
-**Ulsan Hyundai** ( South Korea ) _#uhfc_{: .key} <br>
-**Újpest FC** ( Hungary ) _#ujpest_{: .key} <br>
-**Ukraine** ( Ukraine ) _#ukr_{: .key} <br>
-**Ulisses FC** ( Armenia ) _#ulisses_{: .key} <br>
-**Unión** ( Argentina ) _#union_{: .key} <br>
-**Union Berlin** ( Germany ) _#unionberlin_{: .key} <br>
-**Unión Española** ( Chile ) _#unionespanola_{: .key} <br>
-**Urawa Red Diamonds** ( Japan ) _#urawa_{: .key} <br>
-**Uruguay** ( Uruguay ) _#uru_{: .key} <br>
-**United States** ( United States ) _#usa_{: .key} <br>
-**FC Utrecht** ( Netherlands ) _#utrecht_{: .key} <br>
-**FK Sloboda Užice** ( Serbia ) _#uzice_{: .key} <br>
+**[U Cluj](ro.html#ucluj)** ( [Romania (ROU)](ro.html) ) _#ucluj_{: .key} <br>
+**[Universidad de Chile](cl.html#udechile)** ( [Chile (CHI)](cl.html) ) _#udechile_{: .key} <br>
+**[Udinese](it.html#udinese)** ( [Italy (ITA)](it.html) ) _#udinese_{: .key} <br>
+**[UE Santa Coloma](ad.html#uesantacoloma)** ( [Andorra (AND)](ad.html) ) _#uesantacoloma_{: .key} <br>
+**[U'haching](de.html#uhaching)** ( [Germany (GER)](de.html) ) _#uhaching_{: .key} <br>
+**[Ulsan Hyundai](kr.html#uhfc)** ( [South Korea (KOR)](kr.html) ) _#uhfc_{: .key} <br>
+**[Újpest FC](hu.html#ujpest)** ( [Hungary (HUN)](hu.html) ) _#ujpest_{: .key} <br>
+**[Ukraine](ua.html#ukr)** ( [Ukraine (UKR)](ua.html) ) _#ukr_{: .key} <br>
+**[Ulisses FC](am.html#ulisses)** ( [Armenia (ARM)](am.html) ) _#ulisses_{: .key} <br>
+**[Unión](ar.html#union)** ( [Argentina (ARG)](ar.html) ) _#union_{: .key} <br>
+**[Union Berlin](de.html#unionberlin)** ( [Germany (GER)](de.html) ) _#unionberlin_{: .key} <br>
+**[Unión Española](cl.html#unionespanola)** ( [Chile (CHI)](cl.html) ) _#unionespanola_{: .key} <br>
+**[Urawa Red Diamonds](jp.html#urawa)** ( [Japan (JPN)](jp.html) ) _#urawa_{: .key} <br>
+**[Uruguay](uy.html#uru)** ( [Uruguay (URU)](uy.html) ) _#uru_{: .key} <br>
+**[United States](us.html#usa)** ( [United States (USA)](us.html) ) _#usa_{: .key} <br>
+**[FC Utrecht](nl.html#utrecht)** ( [Netherlands (NED)](nl.html) ) _#utrecht_{: .key} <br>
+**[FK Sloboda Užice](rs.html#uzice)** ( [Serbia (SRB)](rs.html) ) _#uzice_{: .key} <br>
 
 </div>
 
@@ -1090,42 +1090,42 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**FC Vaduz** ( Liechtenstein ) _#vaduz_{: .key} <br>
-**Valencia** ( Spain ) _#valencia_{: .key} <br>
-**Valencia** ( Haiti ) _#valenciafc_{: .key} <br>
-**Valenciennes FC** ( France ) _#valenciennes_{: .key} <br>
-**Vålerenga Fotball** ( Norway ) _#valerenga_{: .key} <br>
-**Valladolid** ( Spain ) _#valladolid_{: .key} <br>
-**Valletta FC** ( Malta ) _#valletta_{: .key} <br>
-**Valur Reykjavík** ( Iceland ) _#valurreykjavik_{: .key} <br>
-**Vancouver Whitecaps** ( Canada ) _#vancouver_{: .key} <br>
-**NK Varaždin** ( Croatia ) _#varazdin_{: .key} <br>
-**FK Vardar** ( Macedonia ) _#vardar_{: .key} <br>
-**Vasco** ( Brazil ) _#vascodagama_{: .key} <br>
-**FC Vaslui** ( Romania ) _#vaslui_{: .key} <br>
-**NK Rudar Velenje** ( Slovenia ) _#velenje_{: .key} <br>
-**Vélez** ( Argentina ) _#velez_{: .key} <br>
-**Venezuela** ( Venezuela ) _#ven_{: .key} <br>
-**VVV-Venlo** ( Netherlands ) _#venlo_{: .key} <br>
-**FK Ventspils** ( Latvija [Latvia] ) _#ventspils_{: .key} <br>
-**ÍBV Vestmannaeyjar** ( Iceland ) _#vestmannaeyjar_{: .key} <br>
-**FK Vėtra** ( Lithuania ) _#vetra_{: .key} <br>
-**Videoton FC** ( Hungary ) _#videoton_{: .key} <br>
-**Vienna FC 1894** ( Austria ) _#vienna_{: .key} <br>
-**Viitorul Constanta** ( Romania ) _#viitorulconstanta_{: .key} <br>
-**Viking FK** ( Norway ) _#viking_{: .key} <br>
-**Víkingur** ( Faroe Islands ) _#vikingur_{: .key} <br>
-**Wiener Viktoria** ( Austria ) _#viktoria_{: .key} <br>
-**Villarreal CF** ( Spain ) _#villareal_{: .key} <br>
-**Vitesse** ( Netherlands ) _#vitesse_{: .key} <br>
-**Vitória** ( Brazil ) _#vitoria_{: .key} <br>
-**Vitória FC** ( Portugal ) _#vitoriafc_{: .key} <br>
-**Vitória SC** ( Portugal ) _#vitoriasc_{: .key} <br>
-**FC Alania Vladikavkaz** ( Russia ) _#vladikavkaz_{: .key} <br>
-**KF Vllaznia** ( Albania ) _#vllaznia_{: .key} <br>
-**Vöcklamarkt** ( Austria ) _#voecklamarkt_{: .key} <br>
-**FK Vojvodina** ( Serbia ) _#vojvodina_{: .key} <br>
-**Villacher SV** ( Austria ) _#vsv_{: .key} <br>
+**[FC Vaduz](li.html#vaduz)** ( [Liechtenstein (LIE)](li.html) ) _#vaduz_{: .key} <br>
+**[Valencia](es.html#valencia)** ( [Spain (ESP)](es.html) ) _#valencia_{: .key} <br>
+**[Valencia](ht.html#valenciafc)** ( [Haiti (HAI)](ht.html) ) _#valenciafc_{: .key} <br>
+**[Valenciennes FC](fr.html#valenciennes)** ( [France (FRA)](fr.html) ) _#valenciennes_{: .key} <br>
+**[Vålerenga Fotball](no.html#valerenga)** ( [Norway (NOR)](no.html) ) _#valerenga_{: .key} <br>
+**[Valladolid](es.html#valladolid)** ( [Spain (ESP)](es.html) ) _#valladolid_{: .key} <br>
+**[Valletta FC](mt.html#valletta)** ( [Malta (MLT)](mt.html) ) _#valletta_{: .key} <br>
+**[Valur Reykjavík](is.html#valurreykjavik)** ( [Iceland (ISL)](is.html) ) _#valurreykjavik_{: .key} <br>
+**[Vancouver Whitecaps](ca.html#vancouver)** ( [Canada (CAN)](ca.html) ) _#vancouver_{: .key} <br>
+**[NK Varaždin](hr.html#varazdin)** ( [Croatia (CRO)](hr.html) ) _#varazdin_{: .key} <br>
+**[FK Vardar](mk.html#vardar)** ( [Macedonia (MKD)](mk.html) ) _#vardar_{: .key} <br>
+**[Vasco](br.html#vascodagama)** ( [Brazil (BRA)](br.html) ) _#vascodagama_{: .key} <br>
+**[FC Vaslui](ro.html#vaslui)** ( [Romania (ROU)](ro.html) ) _#vaslui_{: .key} <br>
+**[NK Rudar Velenje](si.html#velenje)** ( [Slovenia (SVN)](si.html) ) _#velenje_{: .key} <br>
+**[Vélez](ar.html#velez)** ( [Argentina (ARG)](ar.html) ) _#velez_{: .key} <br>
+**[Venezuela](ve.html#ven)** ( [Venezuela (VEN)](ve.html) ) _#ven_{: .key} <br>
+**[VVV-Venlo](nl.html#venlo)** ( [Netherlands (NED)](nl.html) ) _#venlo_{: .key} <br>
+**[FK Ventspils](lv.html#ventspils)** ( [Latvija [Latvia] (LVA)](lv.html) ) _#ventspils_{: .key} <br>
+**[ÍBV Vestmannaeyjar](is.html#vestmannaeyjar)** ( [Iceland (ISL)](is.html) ) _#vestmannaeyjar_{: .key} <br>
+**[FK Vėtra](lt.html#vetra)** ( [Lithuania (LTU)](lt.html) ) _#vetra_{: .key} <br>
+**[Videoton FC](hu.html#videoton)** ( [Hungary (HUN)](hu.html) ) _#videoton_{: .key} <br>
+**[Vienna FC 1894](at.html#vienna)** ( [Austria (AUT)](at.html) ) _#vienna_{: .key} <br>
+**[Viitorul Constanta](ro.html#viitorulconstanta)** ( [Romania (ROU)](ro.html) ) _#viitorulconstanta_{: .key} <br>
+**[Viking FK](no.html#viking)** ( [Norway (NOR)](no.html) ) _#viking_{: .key} <br>
+**[Víkingur](fo.html#vikingur)** ( [Faroe Islands (FRO)](fo.html) ) _#vikingur_{: .key} <br>
+**[Wiener Viktoria](at.html#viktoria)** ( [Austria (AUT)](at.html) ) _#viktoria_{: .key} <br>
+**[Villarreal CF](es.html#villareal)** ( [Spain (ESP)](es.html) ) _#villareal_{: .key} <br>
+**[Vitesse](nl.html#vitesse)** ( [Netherlands (NED)](nl.html) ) _#vitesse_{: .key} <br>
+**[Vitória](br.html#vitoria)** ( [Brazil (BRA)](br.html) ) _#vitoria_{: .key} <br>
+**[Vitória FC](pt.html#vitoriafc)** ( [Portugal (POR)](pt.html) ) _#vitoriafc_{: .key} <br>
+**[Vitória SC](pt.html#vitoriasc)** ( [Portugal (POR)](pt.html) ) _#vitoriasc_{: .key} <br>
+**[FC Alania Vladikavkaz](ru.html#vladikavkaz)** ( [Russia (RUS)](ru.html) ) _#vladikavkaz_{: .key} <br>
+**[KF Vllaznia](al.html#vllaznia)** ( [Albania (ALB)](al.html) ) _#vllaznia_{: .key} <br>
+**[Vöcklamarkt](at.html#voecklamarkt)** ( [Austria (AUT)](at.html) ) _#voecklamarkt_{: .key} <br>
+**[FK Vojvodina](rs.html#vojvodina)** ( [Serbia (SRB)](rs.html) ) _#vojvodina_{: .key} <br>
+**[Villacher SV](at.html#vsv)** ( [Austria (AUT)](at.html) ) _#vsv_{: .key} <br>
 
 </div>
 
@@ -1136,30 +1136,30 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**RKC Waalwijk** ( Netherlands ) _#waalwijk_{: .key} <br>
-**Wolfsberger AC** ( Austria ) _#wac_{: .key} <br>
-**Wadi Degla** ( Egypt ) _#wadidegla_{: .key} <br>
-**Waikato FC** ( New Zealand ) _#waikato_{: .key} <br>
-**Waitakere United** ( New Zealand ) _#waitakere_{: .key} <br>
-**Wallern** ( Austria ) _#wallern_{: .key} <br>
-**SV Wals-Grünau** ( Austria ) _#walsgruenau_{: .key} <br>
-**WSG Wattens** ( Austria ) _#wattens_{: .key} <br>
-**W Connection** ( Trinidad and Tobago ) _#wconnection_{: .key} <br>
-**Team Wellington** ( New Zealand ) _#wellington_{: .key} <br>
-**Wellington Phoenix** ( New Zealand ) _#wellingtonphoenix_{: .key} <br>
-**West Bromwich Albion** ( England ) _#westbrom_{: .key} <br>
-**KVC Westerlo** ( Belgium ) _#westerlo_{: .key} <br>
-**Western Sydney Wanderers** ( Australia ) _#westernsydney_{: .key} <br>
-**West Ham United** ( England ) _#westham_{: .key} <br>
-**Team Wiener Linien** ( Austria ) _#wienerlinien_{: .key} <br>
-**Wiener SK** ( Austria ) _#wienersk_{: .key} <br>
-**Wiesbaden** ( Germany ) _#wiesbaden_{: .key} <br>
-**Wigan Athletic** ( England ) _#wigan_{: .key} <br>
-**Willem II** ( Netherlands ) _#willemii_{: .key} <br>
-**VfL Wolfsburg** ( Germany ) _#wolfsburg_{: .key} <br>
-**FC Wolfurt** ( Austria ) _#wolfurt_{: .key} <br>
-**SC Wiener Neustadt** ( Austria ) _#wrneustadt_{: .key} <br>
-**WKS Śląsk Wrocław** ( Poland ) _#wroclaw_{: .key} <br>
+**[RKC Waalwijk](nl.html#waalwijk)** ( [Netherlands (NED)](nl.html) ) _#waalwijk_{: .key} <br>
+**[Wolfsberger AC](at.html#wac)** ( [Austria (AUT)](at.html) ) _#wac_{: .key} <br>
+**[Wadi Degla](eg.html#wadidegla)** ( [Egypt (EGY)](eg.html) ) _#wadidegla_{: .key} <br>
+**[Waikato FC](nz.html#waikato)** ( [New Zealand (NZL)](nz.html) ) _#waikato_{: .key} <br>
+**[Waitakere United](nz.html#waitakere)** ( [New Zealand (NZL)](nz.html) ) _#waitakere_{: .key} <br>
+**[Wallern](at.html#wallern)** ( [Austria (AUT)](at.html) ) _#wallern_{: .key} <br>
+**[SV Wals-Grünau](at.html#walsgruenau)** ( [Austria (AUT)](at.html) ) _#walsgruenau_{: .key} <br>
+**[WSG Wattens](at.html#wattens)** ( [Austria (AUT)](at.html) ) _#wattens_{: .key} <br>
+**[W Connection](tt.html#wconnection)** ( [Trinidad and Tobago (TRI)](tt.html) ) _#wconnection_{: .key} <br>
+**[Team Wellington](nz.html#wellington)** ( [New Zealand (NZL)](nz.html) ) _#wellington_{: .key} <br>
+**[Wellington Phoenix](nz.html#wellingtonphoenix)** ( [New Zealand (NZL)](nz.html) ) _#wellingtonphoenix_{: .key} <br>
+**[West Bromwich Albion](en.html#westbrom)** ( [England (ENG)](en.html) ) _#westbrom_{: .key} <br>
+**[KVC Westerlo](be.html#westerlo)** ( [Belgium (BEL)](be.html) ) _#westerlo_{: .key} <br>
+**[Western Sydney Wanderers](au.html#westernsydney)** ( [Australia (AUS)](au.html) ) _#westernsydney_{: .key} <br>
+**[West Ham United](en.html#westham)** ( [England (ENG)](en.html) ) _#westham_{: .key} <br>
+**[Team Wiener Linien](at.html#wienerlinien)** ( [Austria (AUT)](at.html) ) _#wienerlinien_{: .key} <br>
+**[Wiener SK](at.html#wienersk)** ( [Austria (AUT)](at.html) ) _#wienersk_{: .key} <br>
+**[Wiesbaden](de.html#wiesbaden)** ( [Germany (GER)](de.html) ) _#wiesbaden_{: .key} <br>
+**[Wigan Athletic](en.html#wigan)** ( [England (ENG)](en.html) ) _#wigan_{: .key} <br>
+**[Willem II](nl.html#willemii)** ( [Netherlands (NED)](nl.html) ) _#willemii_{: .key} <br>
+**[VfL Wolfsburg](de.html#wolfsburg)** ( [Germany (GER)](de.html) ) _#wolfsburg_{: .key} <br>
+**[FC Wolfurt](at.html#wolfurt)** ( [Austria (AUT)](at.html) ) _#wolfurt_{: .key} <br>
+**[SC Wiener Neustadt](at.html#wrneustadt)** ( [Austria (AUT)](at.html) ) _#wrneustadt_{: .key} <br>
+**[WKS Śląsk Wrocław](pl.html#wroclaw)** ( [Poland (POL)](pl.html) ) _#wroclaw_{: .key} <br>
 
 </div>
 
@@ -1170,7 +1170,7 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Xelajú** ( Guatemala ) _#xelaju_{: .key} <br>
+**[Xelajú](gt.html#xelaju)** ( [Guatemala (GUA)](gt.html) ) _#xelaju_{: .key} <br>
 
 </div>
 
@@ -1181,8 +1181,8 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**Yokohama F. Marinos** ( Japan ) _#yokohamafm_{: .key} <br>
-**BSC Young Boys** ( Switzerland ) _#youngboys_{: .key} <br>
+**[Yokohama F. Marinos](jp.html#yokohamafm)** ( [Japan (JPN)](jp.html) ) _#yokohamafm_{: .key} <br>
+**[BSC Young Boys](ch.html#youngboys)** ( [Switzerland (SUI)](ch.html) ) _#youngboys_{: .key} <br>
 
 </div>
 
@@ -1193,25 +1193,25 @@ permalink: /teams.html
 
 <div class='columns2' markdown='1'>
 
-**PFC Beroe Stara Zagora** ( Bulgaria ) _#zagora_{: .key} <br>
-**Dinamo Zagreb** ( Croatia ) _#zagreb_{: .key} <br>
-**Zalaegerszegi TE** ( Hungary ) _#zalaegerszegi_{: .key} <br>
-**VMFD Žalgiris** ( Lithuania ) _#zalgiris_{: .key} <br>
-**Zambia** ( Zambia ) _#zam_{: .key} <br>
-**Zamalek** ( Egypt ) _#zamalek_{: .key} <br>
-**Zamora** ( Venezuela ) _#zamora_{: .key} <br>
-**Zaragoza** ( Spain ) _#zaragoza_{: .key} <br>
-**FK Željezničar** ( Bosnia and Herzegovina ) _#zeljeznicar_{: .key} <br>
-**Zenit** ( Russia ) _#zenit_{: .key} <br>
-**FC Zestafoni** ( Georgia ) _#zestafoni_{: .key} <br>
-**FK Zeta** ( Montenegro ) _#zeta_{: .key} <br>
-**FC Torpedo Zhodino** ( Belarus ) _#zhodino_{: .key} <br>
-**MŠK Žilina** ( Slovakia ) _#zilina_{: .key} <br>
-**FC Zimbru Chisinau** ( Moldova ) _#zimbruchisinau_{: .key} <br>
-**FK Spartak Zlatibor voda** ( Serbia ) _#zlatibor_{: .key} <br>
-**HŠK Zrinjski** ( Bosnia and Herzegovina ) _#zrinjski_{: .key} <br>
-**FC Zürich** ( Switzerland ) _#zuerich_{: .key} <br>
-**PEC Zwolle** ( Netherlands ) _#zwolle_{: .key} <br>
+**[PFC Beroe Stara Zagora](bg.html#zagora)** ( [Bulgaria (BUL)](bg.html) ) _#zagora_{: .key} <br>
+**[Dinamo Zagreb](hr.html#zagreb)** ( [Croatia (CRO)](hr.html) ) _#zagreb_{: .key} <br>
+**[Zalaegerszegi TE](hu.html#zalaegerszegi)** ( [Hungary (HUN)](hu.html) ) _#zalaegerszegi_{: .key} <br>
+**[VMFD Žalgiris](lt.html#zalgiris)** ( [Lithuania (LTU)](lt.html) ) _#zalgiris_{: .key} <br>
+**[Zambia](zm.html#zam)** ( [Zambia (ZAM)](zm.html) ) _#zam_{: .key} <br>
+**[Zamalek](eg.html#zamalek)** ( [Egypt (EGY)](eg.html) ) _#zamalek_{: .key} <br>
+**[Zamora](ve.html#zamora)** ( [Venezuela (VEN)](ve.html) ) _#zamora_{: .key} <br>
+**[Zaragoza](es.html#zaragoza)** ( [Spain (ESP)](es.html) ) _#zaragoza_{: .key} <br>
+**[FK Željezničar](ba.html#zeljeznicar)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#zeljeznicar_{: .key} <br>
+**[Zenit](ru.html#zenit)** ( [Russia (RUS)](ru.html) ) _#zenit_{: .key} <br>
+**[FC Zestafoni](ge.html#zestafoni)** ( [Georgia (GEO)](ge.html) ) _#zestafoni_{: .key} <br>
+**[FK Zeta](me.html#zeta)** ( [Montenegro (MNE)](me.html) ) _#zeta_{: .key} <br>
+**[FC Torpedo Zhodino](by.html#zhodino)** ( [Belarus (BLR)](by.html) ) _#zhodino_{: .key} <br>
+**[MŠK Žilina](sk.html#zilina)** ( [Slovakia (SVK)](sk.html) ) _#zilina_{: .key} <br>
+**[FC Zimbru Chisinau](md.html#zimbruchisinau)** ( [Moldova (MDA)](md.html) ) _#zimbruchisinau_{: .key} <br>
+**[FK Spartak Zlatibor voda](rs.html#zlatibor)** ( [Serbia (SRB)](rs.html) ) _#zlatibor_{: .key} <br>
+**[HŠK Zrinjski](ba.html#zrinjski)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#zrinjski_{: .key} <br>
+**[FC Zürich](ch.html#zuerich)** ( [Switzerland (SUI)](ch.html) ) _#zuerich_{: .key} <br>
+**[PEC Zwolle](nl.html#zwolle)** ( [Netherlands (NED)](nl.html) ) _#zwolle_{: .key} <br>
 
 </div>
 

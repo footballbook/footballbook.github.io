@@ -156,7 +156,7 @@ Country.all.each do |country|
 
   path = country_to_md_path( country )
   puts "path=#{path}"
-  File.open( "_pages/#{path}", 'w+') do |file|
+  File.open( "_pages/teams/#{path}", 'w+') do |file|
     file.write render_country( country, frontmatter: <<EOS )
 ---
 layout:    book

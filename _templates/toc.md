@@ -5,30 +5,29 @@
 
 [Leagues & Tournaments](#events) •
 [World Tour](#tour) •
-[A-Z Teams, Leagues & Tournaments](#az)
+[A-Z Teams](#az)
 
 
 .. <!-- (re)use partial for events ??? -->
 
-### Events _({{ Event.count }})_{: .count}
+### Leagues & Tournaments _({{ Event.count }})_{: .count}
 {: #events}
 
 {% League.all.each do |league|
    if league.events.count > 0 %}
 | ++
-  _{{ league.key }}_{: .key} ++
-| ++
    {{ league.title }} ++
+  _#{{ league.key }}_{: .key} ++
 | ++
    _({{ league.events.count }})_{: .count}  ++
 | ++
    {% league.events.each_with_index do |event,index| %} ++
           {{ '•' if index > 0 }} ++
-          {{ event.season.title }}  ++   <!-- fix: use link_to_event( event ) -->
+          {{ link_to_event( event, season: true ) }}  ++   <!-- fix: use opts -->
    {% end %}  ++
 | ++
     {% if league.country.present? %} ++
-      {{ league.country.title }}  ++  <!-- fix: use link_to_country( league.country ) -->
+      {{ link_to_country( league.country ) }}  ++  <!-- fix: use opts  -->
       ({{ league.country.code }}) ++
     {% end %} ++
 |
@@ -57,7 +56,7 @@
 {% end %}<!-- each continent -->
 
 
-### A-Z Countries, Regions, Cities
+### A-Z Teams
 {: #az}
 
 <!-- fix: for all-in-one page version use/check opts :inline -->
