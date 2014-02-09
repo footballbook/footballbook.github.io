@@ -13,7 +13,7 @@ permalink: /gy.html
 
 ### Uncategorized _(1)_{:.count}
 
-Guyana _#guy_{: .key} <br>
+Guyana  (GUY) _#guy_{: .key} <br>
 {: .team #guy }
 
 

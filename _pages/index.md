@@ -11,7 +11,7 @@ permalink: /index.html
 
 [Leagues & Tournaments](#events) •
 [World Tour](#tour) •
-[A-Z Teams, Leagues & Tournaments](#az)
+[A-Z Teams](#az)
 
 
 
@@ -20,16 +20,16 @@ permalink: /index.html
 
 | Euro _#euro_{: .key} | _(1)_{: .count} |   [2012](euro.2012.html)  |  |
 | World Cup _#world_{: .key} | _(1)_{: .count} |   [2014](world.2014.html)  |  |
-| Österr. Bundesliga _#at_{: .key} | _(1)_{: .count} |   [2013/14](at.2013-14.html)  |  [Austria (AUT)](at.html) (AUT)  |
-| ÖFB Cup _#at.cup_{: .key} | _(1)_{: .count} |   [2013/14](at.cup.2013-14.html)  |  [Austria (AUT)](at.html) (AUT)  |
-| Deutsche Bundesliga _#de_{: .key} | _(1)_{: .count} |   [2013/14](de.2013-14.html)  |  [Germany (GER)](de.html) (GER)  |
-| English Premier League _#en_{: .key} | _(1)_{: .count} |   [2013/14](en.2013-14.html)  |  [England (ENG)](en.html) (ENG)  |
-| Primera División _#es_{: .key} | _(1)_{: .count} |   [2013/14](es.2013-14.html)  |  [Spain (ESP)](es.html) (ESP)  |
-| Serie A _#it_{: .key} | _(1)_{: .count} |   [2013/14](it.2013-14.html)  |  [Italy (ITA)](it.html) (ITA)  |
-| Champions League (Europe) _#cl_{: .key} | _(1)_{: .count} |   [2013/14](cl.2013-14.html)  |  |
-| México Primera División Clausura _#mx.clausura_{: .key} | _(1)_{: .count} |   [2013.1](mx.clausura.2013.1.html)  |  [México [Mexico] (MEX)](mx.html) (MEX)  |
-| Champions League (North/Central America & Caribbean) _#america.cl_{: .key} | _(1)_{: .count} |   [2013/14](america.cl.2013-14.html)  |  |
-| Campeonato Brasileiro Série A _#br_{: .key} | _(1)_{: .count} |   [2013](br.2013.html)  |  [Brazil (BRA)](br.html) (BRA)  |
+| Österr. Bundesliga _#at_{: .key} | _(1)_{: .count} |   [2013/14](at.2013_14.html)  |  [Austria (AUT)](at.html)  |
+| ÖFB Cup _#at.cup_{: .key} | _(1)_{: .count} |   [2013/14](at.cup.2013_14.html)  |  [Austria (AUT)](at.html)  |
+| Deutsche Bundesliga _#de_{: .key} | _(1)_{: .count} |   [2013/14](de.2013_14.html)  |  [Germany (GER)](de.html)  |
+| English Premier League _#en_{: .key} | _(1)_{: .count} |   [2013/14](en.2013_14.html)  |  [England (ENG)](en.html)  |
+| Primera División _#es_{: .key} | _(1)_{: .count} |   [2013/14](es.2013_14.html)  |  [Spain (ESP)](es.html)  |
+| Serie A _#it_{: .key} | _(1)_{: .count} |   [2013/14](it.2013_14.html)  |  [Italy (ITA)](it.html)  |
+| Champions League (Europe) _#cl_{: .key} | _(1)_{: .count} |   [2013/14](cl.2013_14.html)  |  |
+| México Primera División Clausura _#mx.clausura_{: .key} | _(1)_{: .count} |   [2013.1](mx.clausura.2013.1.html)  |  [México [Mexico] (MEX)](mx.html)  |
+| Champions League (North/Central America & Caribbean) _#america.cl_{: .key} | _(1)_{: .count} |   [2013/14](america.cl.2013_14.html)  |  |
+| Campeonato Brasileiro Série A _#br_{: .key} | _(1)_{: .count} |   [2013](br.2013.html)  |  [Brazil (BRA)](br.html)  |
 | Copa Libertadores _#america.l_{: .key} | _(1)_{: .count} |   [2013](america.l.2013.html)  |  |
 | Club World Cup _#world.club_{: .key} | _(1)_{: .count} |   [2013](world.club.2013.html)  |  |
 
@@ -274,7 +274,7 @@ permalink: /index.html
 
 
 
-### A-Z Countries, Regions, Cities
+### A-Z Teams
 {: #az}
 
 

@@ -11,7 +11,7 @@ permalink: /en.2013_14.html
 #### 20 Teams
 
 
- Swansea City (SWA)   •  Cardiff City (CAR)   •  Chelsea (CHE)   •  Arsenal (ARS)   •  Tottenham Hotspur (TOT)   •  West Ham United (WHU)   •  Fulham (FUL)   •  Manchester United (MUN)   •  Manchester City (MCI)   •  Everton (EVE)   •  Liverpool (LIV)   •  West Bromwich Albion (WBA)   •  Newcastle United (NEW)   •  Stoke City (STK)   •  Sunderland (SUN)   •  Aston Villa (AVL)   •  Southampton (SOU)   •  Norwich City (NOR)   •  Hull City (HUL)   •  Crystal Palace (CRY)  
+ [Swansea City](wa.html#swansea) (SWA)   •  [Cardiff City](wa.html#cardiff) (CAR)   •  [Chelsea](en.html#chelsea) (CHE)   •  [Arsenal](en.html#arsenal) (ARS)   •  [Tottenham Hotspur](en.html#tottenham) (TOT)   •  [West Ham United](en.html#westham) (WHU)   •  [Fulham](en.html#fulham) (FUL)   •  [Manchester United](en.html#manunited) (MUN)   •  [Manchester City](en.html#mancity) (MCI)   •  [Everton](en.html#everton) (EVE)   •  [Liverpool](en.html#liverpool) (LIV)   •  [West Bromwich Albion](en.html#westbrom) (WBA)   •  [Newcastle United](en.html#newcastle) (NEW)   •  [Stoke City](en.html#stoke) (STK)   •  [Sunderland](en.html#sunderland) (SUN)   •  [Aston Villa](en.html#astonvilla) (AVL)   •  [Southampton](en.html#southampton) (SOU)   •  [Norwich City](en.html#norwich) (NOR)   •  [Hull City](en.html#hull) (HUL)   •  [Crystal Palace](en.html#crystalpalace) (CRY)  
 
 
  
@@ -34,7 +34,6 @@ permalink: /en.2013_14.html
 | (Sun) 18/Aug 2013 12:00 | Crystal Palace | 0 : 1 | Tottenham Hotspur |  |
 | (Sun) 18/Aug 2013 12:00 | Chelsea | 2 : 0 | Hull City |  |
 | (Mon) 19/Aug 2013 12:00 | Manchester City | 4 : 0 | Newcastle United |  |
- 
 | **Matchday 2**  |
 | (Sat) 24/Aug 2013 12:00 | Fulham | 1 : 3 | Arsenal |  |
 | (Sat) 24/Aug 2013 12:00 | Everton | 0 : 0 | West Bromwich Albion |  |
@@ -46,7 +45,6 @@ permalink: /en.2013_14.html
 | (Sun) 25/Aug 2013 12:00 | Cardiff City | 3 : 2 | Manchester City |  |
 | (Sun) 25/Aug 2013 12:00 | Tottenham Hotspur | 1 : 0 | Swansea City |  |
 | (Mon) 26/Aug 2013 12:00 | Manchester United | 0 : 0 | Chelsea |  |
- 
 | **Matchday 3**  |
 | (Wed) 21/Aug 2013 12:00 | Chelsea | 2 : 1 | Aston Villa |  |
 | (Sat) 31/Aug 2013 12:00 | Manchester City | 2 : 0 | Hull City |  |
@@ -58,7 +56,6 @@ permalink: /en.2013_14.html
 | (Sun) 1/Sep 2013 12:00 | Liverpool | 1 : 0 | Manchester United |  |
 | (Sun) 1/Sep 2013 12:00 | West Bromwich Albion | 0 : 2 | Swansea City |  |
 | (Sun) 1/Sep 2013 12:00 | Arsenal | 1 : 0 | Tottenham Hotspur |  |
- 
 | **Matchday 4**  |
 | (Sat) 14/Sep 2013 13:45 | Manchester United | 2 : 0 | Crystal Palace |  |
 | (Sat) 14/Sep 2013 16:00 | Aston Villa | 1 : 2 | Newcastle United |  |
@@ -70,7 +67,6 @@ permalink: /en.2013_14.html
 | (Sat) 14/Sep 2013 18:30 | Everton | 1 : 0 | Chelsea |  |
 | (Sun) 15/Sep 2013 17:00 | Southampton | 0 : 0 | West Ham United |  |
 | (Mon) 16/Sep 2013 21:00 | Swansea City | 2 : 2 | Liverpool |  |
- 
 | **Matchday 5**  |
 | (Sat) 21/Sep 2013 13:45 | Norwich City | 0 : 1 | Aston Villa |  |
 | (Sat) 21/Sep 2013 16:00 | Cardiff City | 0 : 1 | Tottenham Hotspur |  |
@@ -82,7 +78,6 @@ permalink: /en.2013_14.html
 | (Sat) 21/Sep 2013 18:30 | Chelsea | 2 : 0 | Fulham |  |
 | (Sun) 22/Sep 2013 14:30 | Arsenal | 3 : 1 | Stoke City |  |
 | (Sun) 22/Sep 2013 17:00 | Manchester City | 4 : 1 | Manchester United |  |
- 
 | **Matchday 6**  |
 | (Sat) 28/Sep 2013 13:45 | Tottenham Hotspur | 1 : 1 | Chelsea |  |
 | (Sat) 28/Sep 2013 16:00 | Aston Villa | 3 : 2 | Manchester City |  |
@@ -94,7 +89,6 @@ permalink: /en.2013_14.html
 | (Sun) 29/Sep 2013 14:30 | Stoke City | 0 : 1 | Norwich City |  |
 | (Sun) 29/Sep 2013 17:00 | Sunderland | 1 : 3 | Liverpool |  |
 | (Mon) 30/Sep 2013 21:00 | Everton | 3 : 2 | Newcastle United |  |
- 
 | **Matchday 7**  |
 | (Sat) 5/Oct 2013 13:45 | Manchester City | 3 : 1 | Everton |  |
 | (Sat) 5/Oct 2013 16:00 | Cardiff City | 1 : 2 | Newcastle United |  |
@@ -106,7 +100,6 @@ permalink: /en.2013_14.html
 | (Sat) 5/Oct 2013 18:30 | Sunderland | 1 : 2 | Manchester United |  |
 | (Sun) 6/Oct 2013 14:30 | Norwich City | 1 : 3 | Chelsea |  |
 | (Sun) 6/Oct 2013 17:00 | West Bromwich Albion | 1 : 1 | Arsenal |  |
- 
 | **Matchday 8**  |
 | (Sat) 19/Oct 2013 13:45 | Newcastle United | 2 : 2 | Liverpool |  |
 | (Sat) 19/Oct 2013 16:00 | Arsenal | 4 : 1 | Norwich City |  |
@@ -118,7 +111,6 @@ permalink: /en.2013_14.html
 | (Sat) 19/Oct 2013 18:30 | West Ham United | 1 : 3 | Manchester City |  |
 | (Sun) 20/Oct 2013 17:00 | Aston Villa | 0 : 2 | Tottenham Hotspur |  |
 | (Mon) 21/Oct 2013 21:00 | Crystal Palace | 1 : 4 | Fulham |  |
- 
 | **Matchday 9**  |
 | (Sat) 26/Oct 2013 13:45 | Crystal Palace | 0 : 2 | Arsenal |  |
 | (Sat) 26/Oct 2013 16:00 | Aston Villa | 0 : 2 | Everton |  |
@@ -130,7 +122,6 @@ permalink: /en.2013_14.html
 | (Sat) 26/Oct 2013 18:30 | Southampton | 2 : 0 | Fulham |  |
 | (Sun) 27/Oct 2013 14:30 | Chelsea | 2 : 1 | Manchester City |  |
 | (Sun) 27/Oct 2013 17:00 | Sunderland | 2 : 1 | Newcastle United |  |
- 
 | **Matchday 10**  |
 | (Sat) 2/Nov 2013 12:45 | Newcastle United | 2 : 0 | Chelsea |  |
 | (Sat) 2/Nov 2013 16:00 | Fulham | 1 : 3 | Manchester United |  |
@@ -142,7 +133,6 @@ permalink: /en.2013_14.html
 | (Sat) 2/Nov 2013 18:30 | Arsenal | 2 : 0 | Liverpool |  |
 | (Sun) 3/Nov 2013 14:30 | Everton | 0 : 0 | Tottenham Hotspur |  |
 | (Sun) 3/Nov 2013 17:00 | Cardiff City | 1 : 0 | Swansea City |  |
- 
 | **Matchday 11**  |
 | (Sat) 9/Nov 2013 16:00 | Aston Villa | 2 : 0 | Cardiff City |  |
 | (Sat) 9/Nov 2013 16:00 | Chelsea | 2 : 2 | West Bromwich Albion |  |
@@ -154,7 +144,6 @@ permalink: /en.2013_14.html
 | (Sun) 10/Nov 2013 15:05 | Sunderland | 1 : 0 | Manchester City |  |
 | (Sun) 10/Nov 2013 17:10 | Manchester United | 1 : 0 | Arsenal |  |
 | (Sun) 10/Nov 2013 17:10 | Tottenham Hotspur | 0 : 1 | Newcastle United |  |
- 
 | **Matchday 12**  |
 | (Sat) 23/Nov 2013 13:45 | Everton | 3 : 3 | Liverpool |  |
 | (Sat) 23/Nov 2013 16:00 | Arsenal | 2 : 0 | Southampton |  |
@@ -166,7 +155,6 @@ permalink: /en.2013_14.html
 | (Sun) 24/Nov 2013 14:30 | West Ham United | 0 : 3 | Chelsea |  |
 | (Sun) 24/Nov 2013 17:00 | Cardiff City | 2 : 2 | Manchester United |  |
 | (Mon) 25/Nov 2013 21:00 | West Bromwich Albion | 2 : 2 | Aston Villa |  |
- 
 | **Matchday 13**  |
 | (Sat) 30/Nov 2013 13:45 | Tottenham Hotspur | 2 : 2 | Manchester United |  |
 | (Sat) 30/Nov 2013 16:00 | Aston Villa | 0 : 0 | Sunderland |  |
@@ -178,7 +166,6 @@ permalink: /en.2013_14.html
 | (Sat) 30/Nov 2013 18:30 | Newcastle United | 2 : 1 | West Bromwich Albion |  |
 | (Sun) 1/Dec 2013 14:30 | Hull City | 3 : 1 | Liverpool |  |
 | (Sun) 1/Dec 2013 17:00 | Chelsea | 3 : 1 | Southampton |  |
- 
 | **Matchday 14**  |
 | (Tue) 3/Dec 2013 20:45 | Manchester United | 0 : 1 | Everton |  |
 | (Tue) 3/Dec 2013 20:45 | Swansea City | 3 : 0 | Newcastle United |  |
@@ -190,7 +177,6 @@ permalink: /en.2013_14.html
 | (Wed) 4/Dec 2013 20:45 | Stoke City | 0 : 0 | Cardiff City |  |
 | (Wed) 4/Dec 2013 20:45 | Sunderland | 3 : 4 | Chelsea |  |
 | (Wed) 4/Dec 2013 21:00 | Fulham | 1 : 2 | Tottenham Hotspur |  |
- 
 | **Matchday 15**  |
 | (Sat) 7/Dec 2013 12:00 | Arsenal | 1 : 1 | Everton |  |
 | (Sat) 7/Dec 2013 12:00 | Crystal Palace | 2 : 0 | Cardiff City |  |
@@ -202,7 +188,6 @@ permalink: /en.2013_14.html
 | (Sat) 7/Dec 2013 12:00 | Sunderland | 1 : 2 | Tottenham Hotspur |  |
 | (Sat) 7/Dec 2013 12:00 | Swansea City | 1 : 1 | Hull City |  |
 | (Sat) 7/Dec 2013 12:00 | West Bromwich Albion | 0 : 2 | Norwich City |  |
- 
 | **Matchday 16**  |
 | (Sat) 14/Dec 2013 12:00 | Aston Villa | 0 : 3 | Manchester United |  |
 | (Sat) 14/Dec 2013 12:00 | Cardiff City | 1 : 0 | West Bromwich Albion |  |
@@ -214,7 +199,6 @@ permalink: /en.2013_14.html
 | (Sat) 14/Dec 2013 12:00 | Norwich City | 1 : 1 | Swansea City |  |
 | (Sat) 14/Dec 2013 12:00 | Tottenham Hotspur | 0 : 5 | Liverpool |  |
 | (Sat) 14/Dec 2013 12:00 | West Ham United | 0 : 0 | Sunderland |  |
- 
 | **Matchday 17**  |
 | (Sat) 21/Dec 2013 12:00 | Arsenal | 0 : 0 | Chelsea |  |
 | (Sat) 21/Dec 2013 12:00 | Crystal Palace | 0 : 3 | Newcastle United |  |
@@ -226,7 +210,6 @@ permalink: /en.2013_14.html
 | (Sat) 21/Dec 2013 12:00 | Sunderland | 0 : 0 | Norwich City |  |
 | (Sat) 21/Dec 2013 12:00 | Swansea City | 1 : 2 | Everton |  |
 | (Sat) 21/Dec 2013 12:00 | West Bromwich Albion | 1 : 1 | Hull City |  |
- 
 | **Matchday 18**  |
 | (Thu) 26/Dec 2013 12:00 | Aston Villa | 0 : 1 | Crystal Palace |  |
 | (Thu) 26/Dec 2013 12:00 | Cardiff City | 0 : 3 | Southampton |  |
@@ -238,7 +221,6 @@ permalink: /en.2013_14.html
 | (Thu) 26/Dec 2013 12:00 | Norwich City | 1 : 2 | Fulham |  |
 | (Thu) 26/Dec 2013 12:00 | Tottenham Hotspur | 1 : 1 | West Bromwich Albion |  |
 | (Thu) 26/Dec 2013 12:00 | West Ham United | 1 : 3 | Arsenal |  |
- 
 | **Matchday 19**  |
 | (Sat) 28/Dec 2013 12:00 | Aston Villa | - : - | Swansea City |  |
 | (Sat) 28/Dec 2013 12:00 | Cardiff City | - : - | Sunderland |  |
@@ -250,5 +232,3 @@ permalink: /en.2013_14.html
 | (Sat) 28/Dec 2013 12:00 | Norwich City | - : - | Manchester United |  |
 | (Sat) 28/Dec 2013 12:00 | Tottenham Hotspur | - : - | Stoke City |  |
 | (Sat) 28/Dec 2013 12:00 | West Ham United | - : - | West Bromwich Albion |  |
- 
- 

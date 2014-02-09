@@ -13,19 +13,19 @@ permalink: /am.html
 
 ### Uncategorized _(7)_{:.count}
 
-FC Ararat _#ararat_{: .key} <br>
+FC Ararat  _#ararat_{: .key} <br>
 {: .team #ararat }
-FC Banants _#banants_{: .key} <br>
+FC Banants  _#banants_{: .key} <br>
 {: .team #banants }
-FC Gandzasar _#gandzasar_{: .key} <br>
+FC Gandzasar  _#gandzasar_{: .key} <br>
 {: .team #gandzasar }
-FC Mika _#mika_{: .key} <br>
+FC Mika  _#mika_{: .key} <br>
 {: .team #mika }
-FC Pyunik _#pyunik_{: .key} <br>
+FC Pyunik  _#pyunik_{: .key} <br>
 {: .team #pyunik }
-FC Shirak _#shirak_{: .key} <br>
+FC Shirak  _#shirak_{: .key} <br>
 {: .team #shirak }
-Ulisses FC _#ulisses_{: .key} <br>
+Ulisses FC  _#ulisses_{: .key} <br>
 {: .team #ulisses }
 
 

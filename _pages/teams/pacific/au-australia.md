@@ -13,9 +13,9 @@ permalink: /au.html
 
 ### Uncategorized _(2)_{:.count}
 
-Australia _#aus_{: .key} <br>
+Australia  (AUS) _#aus_{: .key} <br>
 {: .team #aus }
-Central Coast Mariners _#centralcoast_{: .key} <br>
+Central Coast Mariners  (CCM) _#centralcoast_{: .key} <br>
 {: .team #centralcoast }
 
 
@@ -29,13 +29,13 @@ Central Coast Mariners _#centralcoast_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Newcastle Jets _#newcastlejets_{: .key} <br>
+Newcastle Jets • Newcastle United Jets  (NUJ) _#newcastlejets_{: .key} <br>
 {: .team #newcastlejets }
-Newcastle United _#newcastle_{: .key} <br>
+Newcastle United • Newcastle  (NEW) _#newcastle_{: .key} <br>
 {: .team #newcastle }
-Sydney FC _#sydneyfc_{: .key} <br>
+Sydney FC  (SFC) _#sydneyfc_{: .key} <br>
 {: .team #sydneyfc }
-Western Sydney Wanderers _#westernsydney_{: .key} <br>
+Western Sydney Wanderers • WS Wanderers FC  (WSW) _#westernsydney_{: .key} <br>
 {: .team #westernsydney }
 
 </div>
@@ -51,7 +51,7 @@ Western Sydney Wanderers _#westernsydney_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Brisbane Roar _#brisbane_{: .key} <br>
+Brisbane Roar  (BNR) _#brisbane_{: .key} <br>
 {: .team #brisbane }
 
 </div>
@@ -67,7 +67,7 @@ Brisbane Roar _#brisbane_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Adelaide United _#adelaide_{: .key} <br>
+Adelaide United  (ADU) _#adelaide_{: .key} <br>
 {: .team #adelaide }
 
 </div>
@@ -97,9 +97,9 @@ Adelaide United _#adelaide_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Melbourne Heart _#melbourneheart_{: .key} <br>
+Melbourne Heart  (MBH) _#melbourneheart_{: .key} <br>
 {: .team #melbourneheart }
-Melbourne Victory _#melbournevictory_{: .key} <br>
+Melbourne Victory  (MBV) _#melbournevictory_{: .key} <br>
 {: .team #melbournevictory }
 
 </div>
@@ -115,7 +115,7 @@ Melbourne Victory _#melbournevictory_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Perth Glory _#perth_{: .key} <br>
+Perth Glory  (PTH) _#perth_{: .key} <br>
 {: .team #perth }
 
 </div>

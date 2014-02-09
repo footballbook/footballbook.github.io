@@ -7,7 +7,7 @@
 
 {% event.teams.each_with_index do |team,i| %}
      {{ ' • ' if i > 0 }}  ++
-     {{ team.title }}  ++ 
+     {{ link_to_team( team ) }}  ++
      {{ "(#{team.code})" if team.code.present? }}  ++
      {{ team.title2  if team.title2.present? }}  ++
       {# render_team_world_tree( team ) #}
@@ -27,7 +27,9 @@
 
 {% event.groups.each do |group| %}
 | ++
-  {{ group.title }} --   ++
+  {{ group.title }} ++
+| ++
+   --  ++
 | ++ 
   {% group.teams.each do |team| %} ++ 
     | ++
@@ -71,5 +73,5 @@
 |
 .. <!-- new row -->
 ..
-  {% end %} <!-- games -->
-{% end %} <!-- rounds -->
+  {% end %}
+{% end %}

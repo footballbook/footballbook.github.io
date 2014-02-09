@@ -13,7 +13,7 @@ permalink: /ne.html
 
 ### Uncategorized _(1)_{:.count}
 
-Niger _#nig_{: .key} <br>
+Niger  (NIG) _#nig_{: .key} <br>
 {: .team #nig }
 
 

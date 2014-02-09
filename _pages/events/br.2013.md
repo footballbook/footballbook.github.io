@@ -11,7 +11,7 @@ permalink: /br.2013.html
 #### 20 Teams
 
 
- Corinthians (COR)   •  São Paulo (SAO)   •  Portuguesa (POR)   •  Santos (SAN)   •  Ponte Preta (PON)   •  Botafogo (BOT)   •  Flamengo (FLA)   •  Fluminense (FLU)   •  Vasco (VAS)   •  Bahia (BAI)   •  Vitória (VIT)   •  Goiás (GOI)   •  Atlético Paranaense (CAP)   •  Coritiba (CTB)   •  Náutico (NAU)   •  Grêmio (GRE)   •  Internacional (INT)   •  Criciúma (CRI)   •  Atlético Mineiro (CAM)   •  Cruzeiro (CRU)  
+ [Corinthians](br.html#corinthians) (COR)   •  [São Paulo](br.html#saopaulo) (SAO)   •  [Portuguesa](br.html#portuguesa) (POR)   •  [Santos](br.html#santossp) (SAN)   •  [Ponte Preta](br.html#pontepreta) (PON)   •  [Botafogo](br.html#botafogo) (BOT)   •  [Flamengo](br.html#flamengo) (FLA)   •  [Fluminense](br.html#fluminense) (FLU)   •  [Vasco](br.html#vascodagama) (VAS)   •  [Bahia](br.html#bahia) (BAI)   •  [Vitória](br.html#vitoria) (VIT)   •  [Goiás](br.html#goias) (GOI)   •  [Atlético Paranaense](br.html#atleticopr) (CAP)   •  [Coritiba](br.html#coritiba) (CTB)   •  [Náutico](br.html#nautico) (NAU)   •  [Grêmio](br.html#gremio) (GRE)   •  [Internacional](br.html#interrs) (INT)   •  [Criciúma](br.html#criciuma) (CRI)   •  [Atlético Mineiro](br.html#atleticomg) (CAM)   •  [Cruzeiro](br.html#cruzeiro) (CRU)  
 
 
  
@@ -23,4 +23,3 @@ permalink: /br.2013.html
 
 
 
- 

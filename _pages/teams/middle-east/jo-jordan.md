@@ -13,7 +13,7 @@ permalink: /jo.html
 
 ### Uncategorized _(1)_{:.count}
 
-Jordan _#jor_{: .key} <br>
+Jordan  (JOR) _#jor_{: .key} <br>
 {: .team #jor }
 
 

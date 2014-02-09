@@ -4,9 +4,9 @@
 
 def link_to_event( event, opts={} )
   if opts[:inline].nil?
-    href = "#{event.key.gsub('/','-')}.html"   # multi-page version
+    href = "#{event.key.gsub('/','_')}.html"   # multi-page version
   else
-    href = "##{event.key.gsub('/','-')}"       # all-in-one page version
+    href = "##{event.key.gsub('/','_')}"       # all-in-one page version
   end
 
   if opts[:season].nil?

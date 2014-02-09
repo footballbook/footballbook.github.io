@@ -13,7 +13,7 @@ permalink: /pr.html
 
 ### Uncategorized _(1)_{:.count}
 
-Puerto Rico Islanders _#puertorico_{: .key} <br>
+Puerto Rico Islanders • Puerto Rico Islanders FC  _#puertorico_{: .key} <br>
 {: .team #puertorico }
 
 

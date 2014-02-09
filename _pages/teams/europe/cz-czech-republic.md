@@ -13,21 +13,21 @@ permalink: /cz.html
 
 ### Uncategorized _(8)_{:.count}
 
-Czech Republic _#cze_{: .key} <br>
+Czech Republic  (CZE) _#cze_{: .key} <br>
 {: .team #cze }
-FC Baník Ostrava _#ostrava_{: .key} <br>
+FC Baník Ostrava  _#ostrava_{: .key} <br>
 {: .team #ostrava }
-FC Slovan Liberec _#liberec_{: .key} <br>
+FC Slovan Liberec  _#liberec_{: .key} <br>
 {: .team #liberec }
-FK Jablonec _#jablonec_{: .key} <br>
+FK Jablonec  _#jablonec_{: .key} <br>
 {: .team #jablonec }
-FK Mladá Boleslav _#boleslav_{: .key} <br>
+FK Mladá Boleslav  _#boleslav_{: .key} <br>
 {: .team #boleslav }
-FK Teplice _#teplice_{: .key} <br>
+FK Teplice  _#teplice_{: .key} <br>
 {: .team #teplice }
-SK Sigma Olomouc _#olomouc_{: .key} <br>
+SK Sigma Olomouc  _#olomouc_{: .key} <br>
 {: .team #olomouc }
-SK Slavia Praha _#slaviapraha_{: .key} <br>
+SK Slavia Praha  _#slaviapraha_{: .key} <br>
 {: .team #slaviapraha }
 
 
@@ -41,7 +41,7 @@ SK Slavia Praha _#slaviapraha_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Sparta Praha _#praha_{: .key} <br>
+Sparta Praha • Sparta Prague • AC Sparta Praha • AC Sparta Prague  _#praha_{: .key} <br>
 {: .team #praha }
 
 </div>
@@ -85,7 +85,7 @@ Sparta Praha _#praha_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Plzeň _#plzen_{: .key} <br>
+Plzeň • Viktoria Plzeň • FC Viktoria Plzeň  _#plzen_{: .key} <br>
 {: .team #plzen }
 
 </div>

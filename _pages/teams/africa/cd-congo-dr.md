@@ -13,7 +13,7 @@ permalink: /cd.html
 
 ### Uncategorized _(1)_{:.count}
 
-Congo DR _#cod_{: .key} <br>
+Congo DR  (COD) _#cod_{: .key} <br>
 {: .team #cod }
 
 

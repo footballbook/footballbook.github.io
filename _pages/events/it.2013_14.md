@@ -11,7 +11,7 @@ permalink: /it.2013_14.html
 #### 20 Teams
 
 
- Milan (MIL)   •  Inter (INT)   •  Lazio (LAZ)   •  Roma (ROM)   •  Genoa (GEN)   •  Sampdoria (SAM)   •  Juventus (JUV)   •  Torino (TOR)   •  Napoli (NAP)   •  Atalanta (ATA)   •  Bologna (BOL)   •  Cagliari (CAG)   •  Catania (CAT)   •  Chievo (CHI)   •  Verona (HEL)   •  Fiorentina (FIO)   •  Parma (PAR)   •  Udinese (UDI)   •  Sassuolo (SAS)   •  Livorno (LIV)  
+ [Milan](it.html#milan) (MIL)   •  [Inter](it.html#inter) (INT)   •  [Lazio](it.html#lazio) (LAZ)   •  [Roma](it.html#roma) (ROM)   •  [Genoa](it.html#genoa) (GEN)   •  [Sampdoria](it.html#sampdoria) (SAM)   •  [Juventus](it.html#juventus) (JUV)   •  [Torino](it.html#torino) (TOR)   •  [Napoli](it.html#napoli) (NAP)   •  [Atalanta](it.html#atalanta) (ATA)   •  [Bologna](it.html#bologna) (BOL)   •  [Cagliari](it.html#cagliari) (CAG)   •  [Catania](it.html#catania) (CAT)   •  [Chievo](it.html#chievoverona) (CHI)   •  [Verona](it.html#hellasverona) (HEL)   •  [Fiorentina](it.html#fiorentina) (FIO)   •  [Parma](it.html#parma) (PAR)   •  [Udinese](it.html#udinese) (UDI)   •  [Sassuolo](it.html#sassuolo) (SAS)   •  [Livorno](it.html#livorno) (LIV)  
 
 
  
@@ -34,7 +34,6 @@ permalink: /it.2013_14.html
 | (Sun) 25/Aug 2013 20:45 | Parma | 0 : 0 | Chievo |  |
 | (Sun) 25/Aug 2013 20:45 | Torino | 2 : 0 | Sassuolo |  |
 | (Mon) 26/Aug 2013 20:45 | Fiorentina | 2 : 1 | Catania |  |
- 
 | **Spieltag 2 / 2^ Giornata**  |
 | (Sat) 31/Aug 2013 18:00 | Chievo | 2 : 4 | Napoli |  |
 | (Sat) 31/Aug 2013 20:45 | Juventus | 4 : 1 | Lazio |  |
@@ -46,7 +45,6 @@ permalink: /it.2013_14.html
 | (Sun) 1/Sep 2013 20:45 | Milan | 3 : 1 | Cagliari |  |
 | (Sun) 1/Sep 2013 20:45 | Sassuolo | 1 : 4 | Livorno |  |
 | (Sun) 1/Sep 2013 20:45 | Udinese | 3 : 1 | Parma |  |
- 
 | **Spieltag 3 / 3^ Giornata**  |
 | (Sat) 14/Sep 2013 18:00 | Inter | 1 : 1 | Juventus |  |
 | (Sat) 14/Sep 2013 20:45 | Napoli | 2 : 0 | Atalanta |  |
@@ -58,7 +56,6 @@ permalink: /it.2013_14.html
 | (Sun) 15/Sep 2013 15:00 | Udinese | 1 : 1 | Bologna |  |
 | (Sun) 15/Sep 2013 20:45 | Sampdoria | 0 : 3 | Genoa |  |
 | (Mon) 16/Sep 2013 20:45 | Parma | 1 : 3 | Roma |  |
- 
 | **Spieltag 4 / 4^ Giornata**  |
 | (Sun) 22/Sep 2013 12:00 | Atalanta | 0 : 2 | Fiorentina |  |
 | (Sun) 22/Sep 2013 12:00 | Bologna | 1 : 2 | Torino |  |
@@ -70,7 +67,6 @@ permalink: /it.2013_14.html
 | (Sun) 22/Sep 2013 12:00 | Milan | 1 : 2 | Napoli |  |
 | (Sun) 22/Sep 2013 12:00 | Roma | 2 : 0 | Lazio |  |
 | (Sun) 22/Sep 2013 12:00 | Sassuolo | 0 : 7 | Inter |  |
- 
 | **Spieltag 5**  |
 | (Wed) 25/Sep 2013 12:00 | Bologna | 3 : 3 | Milan |  |
 | (Wed) 25/Sep 2013 12:00 | Chievo | 1 : 2 | Juventus |  |
@@ -82,7 +78,6 @@ permalink: /it.2013_14.html
 | (Wed) 25/Sep 2013 12:00 | Sampdoria | 0 : 2 | Roma |  |
 | (Wed) 25/Sep 2013 12:00 | Torino | 2 : 2 | Verona |  |
 | (Wed) 25/Sep 2013 12:00 | Udinese | 1 : 0 | Genoa |  |
- 
 | **Spieltag 6**  |
 | (Sun) 29/Sep 2013 12:00 | Atalanta | 2 : 0 | Udinese |  |
 | (Sun) 29/Sep 2013 12:00 | Cagliari | 1 : 1 | Inter |  |
@@ -94,7 +89,6 @@ permalink: /it.2013_14.html
 | (Sun) 29/Sep 2013 12:00 | Roma | 5 : 0 | Bologna |  |
 | (Sun) 29/Sep 2013 12:00 | Sassuolo | 2 : 2 | Lazio |  |
 | (Sun) 29/Sep 2013 12:00 | Torino | 0 : 1 | Juventus |  |
- 
 | **Spieltag 7**  |
 | (Sun) 6/Oct 2013 12:00 | Bologna | 1 : 4 | Verona |  |
 | (Sun) 6/Oct 2013 12:00 | Catania | 1 : 1 | Genoa |  |
@@ -106,7 +100,6 @@ permalink: /it.2013_14.html
 | (Sun) 6/Oct 2013 12:00 | Parma | 3 : 1 | Sassuolo |  |
 | (Sun) 6/Oct 2013 12:00 | Sampdoria | 2 : 2 | Torino |  |
 | (Sun) 6/Oct 2013 12:00 | Udinese | 2 : 0 | Cagliari |  |
- 
 | **Spieltag 8**  |
 | (Sun) 20/Oct 2013 12:00 | Atalanta | 2 : 1 | Lazio |  |
 | (Sun) 20/Oct 2013 12:00 | Cagliari | 2 : 1 | Catania |  |
@@ -118,7 +111,6 @@ permalink: /it.2013_14.html
 | (Sun) 20/Oct 2013 12:00 | Roma | 2 : 0 | Napoli |  |
 | (Sun) 20/Oct 2013 12:00 | Sassuolo | 2 : 1 | Bologna |  |
 | (Sun) 20/Oct 2013 12:00 | Torino | 3 : 3 | Inter |  |
- 
 | **Spieltag 9**  |
 | (Sun) 27/Oct 2013 12:00 | Bologna | 1 : 0 | Livorno |  |
 | (Sun) 27/Oct 2013 12:00 | Catania | 0 : 0 | Sassuolo |  |
@@ -130,7 +122,6 @@ permalink: /it.2013_14.html
 | (Sun) 27/Oct 2013 12:00 | Parma | 3 : 2 | Milan |  |
 | (Sun) 27/Oct 2013 12:00 | Sampdoria | 1 : 0 | Atalanta |  |
 | (Sun) 27/Oct 2013 12:00 | Udinese | 0 : 1 | Roma |  |
- 
 | **Spieltag 10**  |
 | (Wed) 30/Oct 2013 12:00 | Atalanta | 1 : 1 | Inter |  |
 | (Wed) 30/Oct 2013 12:00 | Cagliari | 0 : 3 | Bologna |  |
@@ -142,7 +133,6 @@ permalink: /it.2013_14.html
 | (Wed) 30/Oct 2013 12:00 | Milan | 1 : 1 | Lazio |  |
 | (Wed) 30/Oct 2013 12:00 | Roma | 1 : 0 | Chievo |  |
 | (Wed) 30/Oct 2013 12:00 | Sassuolo | 1 : 2 | Udinese |  |
- 
 | **Spieltag 11**  |
 | (Sun) 3/Nov 2013 12:00 | Bologna | 0 : 0 | Chievo |  |
 | (Sun) 3/Nov 2013 12:00 | Verona | 2 : 1 | Cagliari |  |
@@ -154,7 +144,6 @@ permalink: /it.2013_14.html
 | (Sun) 3/Nov 2013 12:00 | Sampdoria | 3 : 4 | Sassuolo |  |
 | (Sun) 3/Nov 2013 12:00 | Torino | 1 : 1 | Roma |  |
 | (Sun) 3/Nov 2013 12:00 | Udinese | 0 : 3 | Inter |  |
- 
 | **Spieltag 12**  |
 | (Sun) 10/Nov 2013 12:00 | Atalanta | 2 : 1 | Bologna |  |
 | (Sun) 10/Nov 2013 12:00 | Cagliari | 2 : 1 | Torino |  |
@@ -166,7 +155,6 @@ permalink: /it.2013_14.html
 | (Sun) 10/Nov 2013 12:00 | Juventus | 3 : 0 | Napoli |  |
 | (Sun) 10/Nov 2013 12:00 | Parma | 1 : 1 | Lazio |  |
 | (Sun) 10/Nov 2013 12:00 | Roma | 1 : 1 | Sassuolo |  |
- 
 | **Spieltag 13**  |
 | (Sun) 24/Nov 2013 12:00 | Bologna | 1 : 1 | Inter |  |
 | (Sun) 24/Nov 2013 12:00 | Verona | 0 : 1 | Chievo |  |
@@ -178,7 +166,6 @@ permalink: /it.2013_14.html
 | (Sun) 24/Nov 2013 12:00 | Sassuolo | 2 : 0 | Atalanta |  |
 | (Sun) 24/Nov 2013 12:00 | Torino | 1 : 1 | Catania |  |
 | (Sun) 24/Nov 2013 12:00 | Udinese | 1 : 0 | Fiorentina |  |
- 
 | **Spieltag 14**  |
 | (Sun) 1/Dec 2013 12:00 | Atalanta | 1 : 1 | Roma |  |
 | (Sun) 1/Dec 2013 12:00 | Cagliari | 2 : 2 | Sassuolo |  |
@@ -190,7 +177,6 @@ permalink: /it.2013_14.html
 | (Sun) 1/Dec 2013 12:00 | Juventus | 1 : 0 | Udinese |  |
 | (Sun) 1/Dec 2013 12:00 | Lazio | - : - | Napoli |  |
 | (Sun) 1/Dec 2013 12:00 | Parma | 1 : 1 | Bologna |  |
- 
 | **Spieltag 15**  |
 | (Fri) 6/Dec 2013 12:00 | Bologna | 0 : 2 | Juventus |  |
 | (Fri) 6/Dec 2013 12:00 | Cagliari | 2 : 1 | Genoa |  |
@@ -202,7 +188,6 @@ permalink: /it.2013_14.html
 | (Fri) 6/Dec 2013 12:00 | Sampdoria | 2 : 0 | Catania |  |
 | (Fri) 6/Dec 2013 12:00 | Sassuolo | 0 : 1 | Chievo |  |
 | (Fri) 6/Dec 2013 12:00 | Torino | 1 : 0 | Lazio |  |
- 
 | **Spieltag 16**  |
 | (Sun) 15/Dec 2013 12:00 | Catania | 0 : 0 | Verona |  |
 | (Sun) 15/Dec 2013 12:00 | Chievo | 0 : 1 | Sampdoria |  |
@@ -214,7 +199,6 @@ permalink: /it.2013_14.html
 | (Sun) 15/Dec 2013 12:00 | Napoli | 4 : 2 | Inter |  |
 | (Sun) 15/Dec 2013 12:00 | Parma | 0 : 0 | Cagliari |  |
 | (Sun) 15/Dec 2013 12:00 | Udinese | 0 : 2 | Torino |  |
- 
 | **Spieltag 17**  |
 | (Sun) 22/Dec 2013 12:00 | Atalanta | 1 : 4 | Juventus |  |
 | (Sun) 22/Dec 2013 12:00 | Bologna | 1 : 0 | Genoa |  |
@@ -226,7 +210,6 @@ permalink: /it.2013_14.html
 | (Sun) 22/Dec 2013 12:00 | Sampdoria | 1 : 1 | Parma |  |
 | (Sun) 22/Dec 2013 12:00 | Sassuolo | 0 : 1 | Fiorentina |  |
 | (Sun) 22/Dec 2013 12:00 | Torino | 4 : 1 | Chievo |  |
- 
 | **Spieltag 18**  |
 | (Mon) 6/Jan 2014 12:00 | Catania | - : - | Bologna |  |
 | (Mon) 6/Jan 2014 12:00 | Chievo | - : - | Cagliari |  |
@@ -238,7 +221,6 @@ permalink: /it.2013_14.html
 | (Mon) 6/Jan 2014 12:00 | Napoli | - : - | Sampdoria |  |
 | (Mon) 6/Jan 2014 12:00 | Parma | - : - | Torino |  |
 | (Mon) 6/Jan 2014 12:00 | Udinese | - : - | Verona |  |
- 
 | **Spieltag 19**  |
 | (Sun) 12/Jan 2014 12:00 | Atalanta | - : - | Catania |  |
 | (Sun) 12/Jan 2014 12:00 | Bologna | - : - | Lazio |  |
@@ -250,5 +232,3 @@ permalink: /it.2013_14.html
 | (Sun) 12/Jan 2014 12:00 | Sampdoria | - : - | Udinese |  |
 | (Sun) 12/Jan 2014 12:00 | Sassuolo | - : - | Milan |  |
 | (Sun) 12/Jan 2014 12:00 | Torino | - : - | Fiorentina |  |
- 
- 

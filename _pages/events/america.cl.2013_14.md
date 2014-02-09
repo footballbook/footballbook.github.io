@@ -11,7 +11,7 @@ permalink: /america.cl.2013_14.html
 #### 24 Teams
 
 
- Montreal Impact    •  Los Angeles Galaxy (LA)   •  Houston Dynamo (HOU)   •  San José (SJ)   •  Sporting KC    •  Metapán    •  L.A. Firpo    •  Alajuelense    •  Herediano    •  Cartaginés    •  Olimpia    •  Victoria    •  Comunicaciones    •  Heredia    •  Árabe Unido (DAU)   •  Sporting SM    •  R. Estelí    •  Caledonia    •  W Connection    •  Valencia    •  América (AME)   •  Cruz Azul (CAZ)   •  Tijuana (TIJ)   •  Toluca (TOL)  
+ [Montreal Impact](ca.html#montreal)    •  [Los Angeles Galaxy](us.html#galaxy) (LA)   •  [Houston Dynamo](us.html#houston) (HOU)   •  [San José](bo.html#sanjose) (SJ)   •  [Sporting KC](us.html#kansascity)    •  [Metapán](sv.html#metapan)    •  [L.A. Firpo](sv.html#luisangelfirpo)    •  [Alajuelense](cr.html#alajuelense)    •  [Herediano](cr.html#herediano)    •  [Cartaginés](cr.html#cartagines)    •  [Olimpia](py.html#olimpia)    •  [Victoria](hn.html#cdvictoria)    •  [Comunicaciones](gt.html#comunicaciones)    •  [Heredia](gt.html#heredia)    •  [Árabe Unido](pa.html#arabeunido) (DAU)   •  [Sporting SM](pa.html#sportingsanmiguelito)    •  [R. Estelí](ni.html#esteli)    •  [Caledonia](tt.html#caledonia)    •  [W Connection](tt.html#wconnection)    •  [Valencia](ht.html#valenciafc)    •  [América](mx.html#america) (AME)   •  [Cruz Azul](mx.html#cruzazul) (CAZ)   •  [Tijuana](mx.html#tijuana) (TIJ)   •  [Toluca](mx.html#toluca) (TOL)  
 
 
 
@@ -19,14 +19,14 @@ permalink: /america.cl.2013_14.html
 
  Group 1 •  Group 2 •  Group 3 •  Group 4 •  Group 5 •  Group 6 •  Group 7 •  Group 8
 
-| Group 1 -- |  | Houston Dynamo  | Árabe Unido  | W Connection  |
-| Group 2 -- |  | Sporting KC  | Olimpia  | R. Estelí  |
-| Group 3 -- |  | Herediano  | Valencia  | Cruz Azul  |
-| Group 4 -- |  | Alajuelense  | Sporting SM  | América  |
-| Group 5 -- |  | Montreal Impact  | San José  | Heredia  |
-| Group 6 -- |  | Comunicaciones  | Caledonia  | Toluca  |
-| Group 7 -- |  | L.A. Firpo  | Victoria  | Tijuana  |
-| Group 8 -- |  | Los Angeles Galaxy  | Metapán  | Cartaginés  |
+| Group 1 | -- |  | Houston Dynamo  | Árabe Unido  | W Connection  |
+| Group 2 | -- |  | Sporting KC  | Olimpia  | R. Estelí  |
+| Group 3 | -- |  | Herediano  | Valencia  | Cruz Azul  |
+| Group 4 | -- |  | Alajuelense  | Sporting SM  | América  |
+| Group 5 | -- |  | Montreal Impact  | San José  | Heredia  |
+| Group 6 | -- |  | Comunicaciones  | Caledonia  | Toluca  |
+| Group 7 | -- |  | L.A. Firpo  | Victoria  | Tijuana  |
+| Group 8 | -- |  | Los Angeles Galaxy  | Metapán  | Cartaginés  |
 
  
 
@@ -38,15 +38,8 @@ permalink: /america.cl.2013_14.html
 
 
 | **Matchday 1** / August 6-8, 2013 |
- 
 | **Matchday 2** / August 20-22, 2013 |
- 
 | **Matchday 3** / August 27-29, 2013 |
- 
 | **Matchday 4** / September 17-19, 2013 |
- 
 | **Matchday 5** / September 24-26, 2013 |
- 
 | **Matchday 6** / October 22-24, 2013 |
- 
- 

@@ -28,7 +28,6 @@
 | ++
     {% if league.country.present? %} ++
       {{ link_to_country( league.country ) }}  ++  <!-- fix: use opts  -->
-      ({{ league.country.code }}) ++
     {% end %} ++
 |
 {% end %}

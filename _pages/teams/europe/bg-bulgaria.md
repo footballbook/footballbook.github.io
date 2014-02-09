@@ -13,21 +13,21 @@ permalink: /bg.html
 
 ### Uncategorized _(8)_{:.count}
 
-Ludogorets _#razgrad_{: .key} <br>
+Ludogorets • PFC Ludogorets Razgrad  _#razgrad_{: .key} <br>
 {: .team #razgrad }
-PFC Beroe Stara Zagora _#zagora_{: .key} <br>
+PFC Beroe Stara Zagora  _#zagora_{: .key} <br>
 {: .team #zagora }
-PFC CSKA Sofia _#cskasofia_{: .key} <br>
+PFC CSKA Sofia  _#cskasofia_{: .key} <br>
 {: .team #cskasofia }
-PFC Cherno More Varna _#chernomorevarna_{: .key} <br>
+PFC Cherno More Varna  _#chernomorevarna_{: .key} <br>
 {: .team #chernomorevarna }
-PFC Levski Sofia _#levskisofia_{: .key} <br>
+PFC Levski Sofia  _#levskisofia_{: .key} <br>
 {: .team #levskisofia }
-PFC Litex Lovech _#litexlovech_{: .key} <br>
+PFC Litex Lovech  _#litexlovech_{: .key} <br>
 {: .team #litexlovech }
-PFC Lokomotiv Plovdiv 1936 _#plovdiv_{: .key} <br>
+PFC Lokomotiv Plovdiv 1936  _#plovdiv_{: .key} <br>
 {: .team #plovdiv }
-PFC Lokomotiv Sofia _#lokomotivsofia_{: .key} <br>
+PFC Lokomotiv Sofia  _#lokomotivsofia_{: .key} <br>
 {: .team #lokomotivsofia }
 
 

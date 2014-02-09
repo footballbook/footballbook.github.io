@@ -13,11 +13,11 @@ permalink: /tt.html
 
 ### Uncategorized _(3)_{:.count}
 
-Caledonia _#caledonia_{: .key} <br>
+Caledonia • Caledonia AIA  _#caledonia_{: .key} <br>
 {: .team #caledonia }
-Trinidad and Tobago _#tri_{: .key} <br>
+Trinidad and Tobago  (TRI) _#tri_{: .key} <br>
 {: .team #tri }
-W Connection _#wconnection_{: .key} <br>
+W Connection • WC FC  _#wconnection_{: .key} <br>
 {: .team #wconnection }
 
 

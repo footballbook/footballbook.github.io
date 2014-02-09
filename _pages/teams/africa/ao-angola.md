@@ -13,7 +13,7 @@ permalink: /ao.html
 
 ### Uncategorized _(1)_{:.count}
 
-Angola _#ang_{: .key} <br>
+Angola  (ANG) _#ang_{: .key} <br>
 {: .team #ang }
 
 

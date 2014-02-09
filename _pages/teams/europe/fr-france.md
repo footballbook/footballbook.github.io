@@ -13,7 +13,7 @@ permalink: /fr.html
 
 ### Uncategorized _(1)_{:.count}
 
-France _#fra_{: .key} <br>
+France  (FRA) _#fra_{: .key} <br>
 {: .team #fra }
 
 
@@ -27,7 +27,7 @@ France _#fra_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Paris St. Germain _#paris_{: .key} <br>
+Paris St. Germain • Paris S.Germai • Paris Saint Germain • Paris Saint-Germain  (PSG) _#paris_{: .key} <br>
 {: .team #paris }
 
 </div>
@@ -43,9 +43,9 @@ Paris St. Germain _#paris_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-ES Troyes AC _#troyes_{: .key} <br>
+ES Troyes AC • ESTAC Troyes • Espérance Sportive Troyes Aube Champagne  (TRO) _#troyes_{: .key} <br>
 {: .team #troyes }
-Stade de Reims _#reims_{: .key} <br>
+Stade de Reims • Stade Reims  (REI) _#reims_{: .key} <br>
 {: .team #reims }
 
 </div>
@@ -131,9 +131,9 @@ Stade de Reims _#reims_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-OSC Lille _#lille_{: .key} <br>
+OSC Lille • Lille OSC • LOSC Lille  (LIL) _#lille_{: .key} <br>
 {: .team #lille }
-Valenciennes FC _#valenciennes_{: .key} <br>
+Valenciennes FC  (VAL) _#valenciennes_{: .key} <br>
 {: .team #valenciennes }
 
 </div>
@@ -149,9 +149,9 @@ Valenciennes FC _#valenciennes_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-AS Nancy _#nancy_{: .key} <br>
+AS Nancy • AS Nancy-Lorraine • Association Sportive Nancy-Lorraine  (NAL) _#nancy_{: .key} <br>
 {: .team #nancy }
-HSC Montpellier _#montpellier_{: .key} <br>
+HSC Montpellier • Montpellier • Montpellier Hérault SC  (MHS) _#montpellier_{: .key} <br>
 {: .team #montpellier }
 
 </div>
@@ -181,7 +181,7 @@ HSC Montpellier _#montpellier_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Sochaux-Montbéliard _#sochaux_{: .key} <br>
+FC Sochaux-Montbéliard • Football Club Sochaux-Montbéliard  (SOC) _#sochaux_{: .key} <br>
 {: .team #sochaux }
 
 </div>
@@ -211,11 +211,11 @@ FC Sochaux-Montbéliard _#sochaux_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Lorient _#lorient_{: .key} <br>
+FC Lorient  (LOR) _#lorient_{: .key} <br>
 {: .team #lorient }
-Stade Brestois _#brest_{: .key} <br>
+Stade Brestois • Stade Brestois 29  (BRS) _#brest_{: .key} <br>
 {: .team #brest }
-Stade Rennais FC _#rennes_{: .key} <br>
+Stade Rennais FC • Stade Rennais Football Club  (REN) _#rennes_{: .key} <br>
 {: .team #rennes }
 
 </div>
@@ -245,7 +245,7 @@ Stade Rennais FC _#rennes_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Bordeaux _#bordeaux_{: .key} <br>
+Bordeaux • Girondins de Bordeaux • FC Girondins de Bordeaux • Football Club des Girondins de Bordeaux  (BOR) _#bordeaux_{: .key} <br>
 {: .team #bordeaux }
 
 </div>
@@ -261,7 +261,7 @@ Bordeaux _#bordeaux_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Toulouse FC _#toulouse_{: .key} <br>
+Toulouse FC  (TFC) _#toulouse_{: .key} <br>
 {: .team #toulouse }
 
 </div>
@@ -291,11 +291,11 @@ Toulouse FC _#toulouse_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-AS Saint-Étienne _#saintetienne_{: .key} <br>
+AS Saint-Étienne • Association Sportive de Saint-Étienne Loire  (STE) _#saintetienne_{: .key} <br>
 {: .team #saintetienne }
-Lyon _#lyon_{: .key} <br>
+Lyon • Olympique Lyonnais  (OL) _#lyon_{: .key} <br>
 {: .team #lyon }
-Évian TG _#evian_{: .key} <br>
+Évian TG • Évian TG FC • Évian Thonon Gaillard FC  (EVI) _#evian_{: .key} <br>
 {: .team #evian }
 
 </div>
@@ -325,9 +325,9 @@ Lyon _#lyon_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Marseille _#marseille_{: .key} <br>
+Marseille • Olympique Marseille • Olympique de Marseille  (OM) _#marseille_{: .key} <br>
 {: .team #marseille }
-OGC Nice _#nice_{: .key} <br>
+OGC Nice • Olympique Gymnaste Club Nice Côte d'Azur  (NIC) _#nice_{: .key} <br>
 {: .team #nice }
 
 </div>
@@ -343,9 +343,9 @@ OGC Nice _#nice_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-AC Ajaccio _#ajaccio_{: .key} <br>
+AC Ajaccio • Athletic Club Ajaccio  (ACA) _#ajaccio_{: .key} <br>
 {: .team #ajaccio }
-SC Bastia _#bastia_{: .key} <br>
+SC Bastia • Sporting Club de Bastia  (BAS) _#bastia_{: .key} <br>
 {: .team #bastia }
 
 </div>

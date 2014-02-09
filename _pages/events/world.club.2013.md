@@ -11,7 +11,7 @@ permalink: /world.club.2013.html
 #### 7 Teams
 
 
- Al Ahly    •  Raja Casablanca    •  Guangzhou Evergrande    •  Auckland City (AKL)   •  FC Bayern München (FCB)   •  Monterrey (MTY)   •  Atlético Mineiro (CAM)  
+ [Al Ahly](eg.html#alahly)    •  [Raja Casablanca](ma.html#casablanca)    •  [Guangzhou Evergrande](cn.html#guangzhou)    •  [Auckland City](nz.html#auckland) (AKL)   •  [FC Bayern München](de.html#bayern) (FCB)   •  [Monterrey](mx.html#monterrey) (MTY)   •  [Atlético Mineiro](br.html#atleticomg) (CAM)  
 
 
  
@@ -25,22 +25,15 @@ permalink: /world.club.2013.html
 
 | **Round 1  -  Play-off for quarter-finals**  |
 | (Wed) 11/Dec 2013 12:00 | Raja Casablanca | 19 : 30 | Auckland City |  |
- 
 | **Quarter-finals**  |
 | (Sat) 14/Dec 2013 12:00 | Guangzhou Evergrande | 16 : 0 | Al Ahly |  |
 | (Sat) 14/Dec 2013 12:00 | Raja Casablanca | 19 : 30 / 2 : 1 n.V. | Monterrey |  |
- 
 | **Semi-finals**  |
 | (Tue) 17/Dec 2013 12:00 | Guangzhou Evergrande | 19 : 30 | FC Bayern München |  |
 | (Wed) 18/Dec 2013 12:00 | Raja Casablanca | 19 : 30 | Atlético Mineiro |  |
- 
 | **Round 4 - Match for fifth place**  |
 | (Wed) 18/Dec 2013 12:00 | Al Ahly | 16 : 30 | Monterrey |  |
- 
 | **Round 5 - Match for third place**  |
 | (Sat) 21/Dec 2013 12:00 | Guangzhou Evergrande | 16 : 30 | Atlético Mineiro |  |
- 
 | **Final**  |
 | (Sat) 21/Dec 2013 12:00 | FC Bayern München | 19 : 30 | Raja Casablanca |  |
- 
- 

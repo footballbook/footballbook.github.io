@@ -13,7 +13,7 @@ permalink: /cm.html
 
 ### Uncategorized _(1)_{:.count}
 
-Cameroon _#cmr_{: .key} <br>
+Cameroon  (CMR) _#cmr_{: .key} <br>
 {: .team #cmr }
 
 

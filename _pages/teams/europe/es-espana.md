@@ -13,49 +13,49 @@ permalink: /es.html
 
 ### Uncategorized _(22)_{:.count}
 
-Alavés _#alaves_{: .key} <br>
+Alavés • Deportivo Alavés  _#alaves_{: .key} <br>
 {: .team #alaves }
-Alcorcón _#alcorcon_{: .key} <br>
+Alcorcón • AD Alcorcón • Agrupación Deportiva Alcorcón  _#alcorcon_{: .key} <br>
 {: .team #alcorcon }
-Barcelona B _#barcelonab_{: .key} <br>
+Barcelona B • FC Barcelona B • Fútbol Club Barcelona B  _#barcelonab_{: .key} <br>
 {: .team #barcelonab }
-Castilla _#castilla_{: .key} <br>
+Castilla • Real Madrid Castilla • Real Madrid Castilla Club de Fútbol  _#castilla_{: .key} <br>
 {: .team #castilla }
-Córdoba _#cordoba_{: .key} <br>
+Córdoba • Córdoba CF • Córdoba Club de Fútbol  _#cordoba_{: .key} <br>
 {: .team #cordoba }
-Eibar _#eibar_{: .key} <br>
+Eibar • SD Eibar • Sociedad Deportiva Eibar  _#eibar_{: .key} <br>
 {: .team #eibar }
-Elche CF _#elche_{: .key} <br>
+Elche CF • Elche C.F.  (ELC) _#elche_{: .key} <br>
 {: .team #elche }
-Girona _#girona_{: .key} <br>
+Girona • Girona FC • Girona Futbol Club  _#girona_{: .key} <br>
 {: .team #girona }
-Hércules _#hercules_{: .key} <br>
+Hércules • Hércules CF • Hércules de Alicante Club de Fútbol  _#hercules_{: .key} <br>
 {: .team #hercules }
-Jaén _#jaen_{: .key} <br>
+Jaén • Real Jaén CF • Real Jaén Club de Fútbol  _#jaen_{: .key} <br>
 {: .team #jaen }
-Las Palmas _#laspalmas_{: .key} <br>
+Las Palmas • UD Las Palmas • Unión Deportiva Las Palmas  _#laspalmas_{: .key} <br>
 {: .team #laspalmas }
-Lugo _#lugo_{: .key} <br>
+Lugo • CD Lugo • Club Deportivo Lugo  _#lugo_{: .key} <br>
 {: .team #lugo }
-Mirandés _#mirandes_{: .key} <br>
+Mirandés • CD Mirandés • Club Deportivo Mirandés  _#mirandes_{: .key} <br>
 {: .team #mirandes }
-Murcia _#murcia_{: .key} <br>
+Murcia • Real Murcia CF • Real Murcia Club de Fútbol  _#murcia_{: .key} <br>
 {: .team #murcia }
-Numancia _#numancia_{: .key} <br>
+Numancia • CD Numancia • Club Deportivo Numancia de Soria  _#numancia_{: .key} <br>
 {: .team #numancia }
-Ponferradina _#ponferradina_{: .key} <br>
+Ponferradina • SD Ponferradina • Sociedad Deportiva Ponferradina  _#ponferradina_{: .key} <br>
 {: .team #ponferradina }
-Recreativo _#recreativo_{: .key} <br>
+Recreativo • RC Recreativo de Huelva • Real Club Recreativo de Huelva  _#recreativo_{: .key} <br>
 {: .team #recreativo }
-Sabadell _#sabadell_{: .key} <br>
+Sabadell • CE Sabadell FC • Centre d'Esports Sabadell Futbol Club  _#sabadell_{: .key} <br>
 {: .team #sabadell }
-Spain _#esp_{: .key} <br>
+Spain  (ESP) _#esp_{: .key} <br>
 {: .team #esp }
-Tenerife _#tenerife_{: .key} <br>
+Tenerife • CD Tenerife • Club Deportivo Tenerife  _#tenerife_{: .key} <br>
 {: .team #tenerife }
-UD Almería _#almeria_{: .key} <br>
+UD Almería • U.D. Almería • Unión Deportiva Almería  (ALM) _#almeria_{: .key} <br>
 {: .team #almeria }
-Villarreal CF _#villareal_{: .key} <br>
+Villarreal CF • Villarreal C.F.  (VLL) _#villareal_{: .key} <br>
 {: .team #villareal }
 
 
@@ -69,13 +69,13 @@ Villarreal CF _#villareal_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Betis _#betis_{: .key} <br>
+Betis • Betis Sevilla • Real Betis Sevilla • Real Betis • Real Betis Balompié  (BET) _#betis_{: .key} <br>
 {: .team #betis }
-Granada _#granada_{: .key} <br>
+Granada • Granada CF • Granada C.F. • Granada Club de Fútbol  (GRA) _#granada_{: .key} <br>
 {: .team #granada }
-Málaga _#malaga_{: .key} <br>
+Málaga • Málaga CF • Málaga C.F. • CF Málaga • FC Málaga  (MAG) _#malaga_{: .key} <br>
 {: .team #malaga }
-Sevilla _#sevilla_{: .key} <br>
+Sevilla • Sevilla FC • Sevilla F.C. • Sevilla Fútbol Club  (SEV) _#sevilla_{: .key} <br>
 {: .team #sevilla }
 
 </div>
@@ -91,7 +91,7 @@ Sevilla _#sevilla_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Zaragoza _#zaragoza_{: .key} <br>
+Zaragoza • Real Zaragoza  (ZAR) _#zaragoza_{: .key} <br>
 {: .team #zaragoza }
 
 </div>
@@ -121,7 +121,7 @@ Zaragoza _#zaragoza_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Mallorca _#mallorca_{: .key} <br>
+Mallorca • RCD Mallorca • Real CD Mallorca • Real Club Deportivo Mallorca  (MLL) _#mallorca_{: .key} <br>
 {: .team #mallorca }
 
 </div>
@@ -137,9 +137,9 @@ Mallorca _#mallorca_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Athletic _#athletic_{: .key} <br>
+Athletic • Athletic Club • Athletic Bilbao  (ATH) _#athletic_{: .key} <br>
 {: .team #athletic }
-R. Sociedad _#realsociedad_{: .key} <br>
+R. Sociedad • Real Sociedad San Sebastián • Real Sociedad • Real Sociedad de Fútbol  (RSO) _#realsociedad_{: .key} <br>
 {: .team #realsociedad }
 
 </div>
@@ -183,7 +183,7 @@ R. Sociedad _#realsociedad_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Valladolid _#valladolid_{: .key} <br>
+Valladolid • Real Valladolid • Real Valladolid CF • R. Valladolid C.F. • Real Valladolid Club de Fútbol  (VID) _#valladolid_{: .key} <br>
 {: .team #valladolid }
 
 </div>
@@ -213,9 +213,9 @@ Valladolid _#valladolid_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Barcelona _#barcelona_{: .key} <br>
+Barcelona • FC Barcelona • F.C. Barcelona • Fútbol Club Barcelona  (BAR) _#barcelona_{: .key} <br>
 {: .team #barcelona }
-Espanyol _#espanyol_{: .key} <br>
+Espanyol • RCD Espanyol • R.C.D. Espanyol • Espanyol Barcelona • Real CD Espanyol • Real Club Deportivo Espanyol • Real Club Deportivo Español  (ESP) _#espanyol_{: .key} <br>
 {: .team #espanyol }
 
 </div>
@@ -245,9 +245,9 @@ Espanyol _#espanyol_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Celta _#celta_{: .key} <br>
+Celta • Celta Vigo • R.C. Celta • Real Club Celta Vigo • Real Club Celta de Vigo  (CEL) _#celta_{: .key} <br>
 {: .team #celta }
-Deportivo _#deportivo_{: .key} <br>
+Deportivo • Deportivo La Coruña • RC Deportivo de La Coruña • Deportivo de La Coruña • Deportivo da Coruña • Real Club Deportivo La Coruña  (DEP) _#deportivo_{: .key} <br>
 {: .team #deportivo }
 
 </div>
@@ -277,13 +277,13 @@ Deportivo _#deportivo_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Atlético _#atletico_{: .key} <br>
+Atlético • Atlético Madrid • Club Atlético de Madrid  (ATL) _#atletico_{: .key} <br>
 {: .team #atletico }
-Getafe _#getafe_{: .key} <br>
+Getafe • Getafe CF • Getafe C.F. • Getafe Club de Fútbol  (GET) _#getafe_{: .key} <br>
 {: .team #getafe }
-R. Madrid _#madrid_{: .key} <br>
+R. Madrid • Real Madrid • Real Madrid CF • Real Madrid Club de Fútbol  (RMD) _#madrid_{: .key} <br>
 {: .team #madrid }
-Rayo _#rayo_{: .key} <br>
+Rayo • Rayo Vallecano • Rayo Vallecano de Madrid  (RAY) _#rayo_{: .key} <br>
 {: .team #rayo }
 
 </div>
@@ -313,7 +313,7 @@ Rayo _#rayo_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Osasuna _#osasuna_{: .key} <br>
+Osasuna • CA Osasuna • At. Osasuna • Club Atlético Osasuna  (OSA) _#osasuna_{: .key} <br>
 {: .team #osasuna }
 
 </div>
@@ -329,9 +329,9 @@ Osasuna _#osasuna_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Levante _#levante_{: .key} <br>
+Levante • Levante UD • Levante U.D. • Levante Unión Deportiva  (LEV) _#levante_{: .key} <br>
 {: .team #levante }
-Valencia _#valencia_{: .key} <br>
+Valencia • Valencia CF • Valencia C.F. • Valencia Club de Fútbol • FC Valencia • CF Valencia  (VAL) _#valencia_{: .key} <br>
 {: .team #valencia }
 
 </div>

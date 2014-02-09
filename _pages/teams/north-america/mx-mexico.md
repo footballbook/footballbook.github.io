@@ -13,7 +13,7 @@ permalink: /mx.html
 
 ### Uncategorized _(1)_{:.count}
 
-Mexico _#mex_{: .key} <br>
+Mexico  (MEX) _#mex_{: .key} <br>
 {: .team #mex }
 
 
@@ -41,7 +41,7 @@ Mexico _#mex_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Tijuana _#tijuana_{: .key} <br>
+Tijuana • Club Tijuana  (TIJ) _#tijuana_{: .key} <br>
 {: .team #tijuana }
 
 </div>
@@ -57,9 +57,9 @@ Tijuana _#tijuana_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Bolívar _#bolivar_{: .key} <br>
+Bolívar • Club Bolívar  _#bolivar_{: .key} <br>
 {: .team #bolivar }
-The Strongest _#thestrongest_{: .key} <br>
+The Strongest • Club The Strongest  _#thestrongest_{: .key} <br>
 {: .team #thestrongest }
 
 </div>
@@ -89,7 +89,7 @@ The Strongest _#thestrongest_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Jaguares _#jaguares_{: .key} <br>
+Jaguares • Chiapas • Jaguares de Chiapas  (JAG) _#jaguares_{: .key} <br>
 {: .team #jaguares }
 
 </div>
@@ -119,7 +119,7 @@ Jaguares _#jaguares_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Santos _#santos_{: .key} <br>
+Santos • Santos Laguna  (SAN) _#santos_{: .key} <br>
 {: .team #santos }
 
 </div>
@@ -149,11 +149,11 @@ Santos _#santos_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-América _#america_{: .key} <br>
+América • Club América • América de Mexico  (AME) _#america_{: .key} <br>
 {: .team #america }
-Cruz Azul _#cruzazul_{: .key} <br>
+Cruz Azul  (CAZ) _#cruzazul_{: .key} <br>
 {: .team #cruzazul }
-Pumas _#pumas_{: .key} <br>
+Pumas • UNAM • Pumas UNAM  (PUM) _#pumas_{: .key} <br>
 {: .team #pumas }
 
 </div>
@@ -183,7 +183,7 @@ Pumas _#pumas_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-León _#leon_{: .key} <br>
+León • Club León  (LEO) _#leon_{: .key} <br>
 {: .team #leon }
 
 </div>
@@ -213,7 +213,7 @@ León _#leon_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Pachuca _#pachuca_{: .key} <br>
+Pachuca  (PAC) _#pachuca_{: .key} <br>
 {: .team #pachuca }
 
 </div>
@@ -229,9 +229,9 @@ Pachuca _#pachuca_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Atlas _#atlas_{: .key} <br>
+Atlas  (ATS) _#atlas_{: .key} <br>
 {: .team #atlas }
-Guadalajara _#chivas_{: .key} <br>
+Guadalajara • Chivas • Guadalajara Chivas • Deportivo Guadalajara  (GUA) _#chivas_{: .key} <br>
 {: .team #chivas }
 
 </div>
@@ -247,7 +247,7 @@ Guadalajara _#chivas_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Toluca _#toluca_{: .key} <br>
+Toluca • Deportivo Toluca  (TOL) _#toluca_{: .key} <br>
 {: .team #toluca }
 
 </div>
@@ -263,7 +263,7 @@ Toluca _#toluca_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Morelia _#morelia_{: .key} <br>
+Morelia • Monarcas • Monarcas Morelia • Atletico Monarcas Morelia  (MOR) _#morelia_{: .key} <br>
 {: .team #morelia }
 
 </div>
@@ -307,9 +307,9 @@ Morelia _#morelia_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Monterrey _#monterrey_{: .key} <br>
+Monterrey • CF Monterrey  (MTY) _#monterrey_{: .key} <br>
 {: .team #monterrey }
-Tigres _#tigres_{: .key} <br>
+Tigres • UANL • Tigres UANL  (TIG) _#tigres_{: .key} <br>
 {: .team #tigres }
 
 </div>
@@ -339,7 +339,7 @@ Tigres _#tigres_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Puebla _#puebla_{: .key} <br>
+Puebla • Puebla F.C.  (PUE) _#puebla_{: .key} <br>
 {: .team #puebla }
 
 </div>
@@ -355,7 +355,7 @@ Puebla _#puebla_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Querétaro _#queretaro_{: .key} <br>
+Querétaro • Querétaro F.C.  (QRO) _#queretaro_{: .key} <br>
 {: .team #queretaro }
 
 </div>
@@ -371,7 +371,7 @@ Querétaro _#queretaro_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Atlante _#atlante_{: .key} <br>
+Atlante  (ATL) _#atlante_{: .key} <br>
 {: .team #atlante }
 
 </div>
@@ -387,7 +387,7 @@ Atlante _#atlante_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-San Luis _#sanluis_{: .key} <br>
+San Luis • Club San Luis  (SNL) _#sanluis_{: .key} <br>
 {: .team #sanluis }
 
 </div>

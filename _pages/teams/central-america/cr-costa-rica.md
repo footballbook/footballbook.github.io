@@ -13,13 +13,13 @@ permalink: /cr.html
 
 ### Uncategorized _(4)_{:.count}
 
-Alajuelense _#alajuelense_{: .key} <br>
+Alajuelense • LD Alajuelense  _#alajuelense_{: .key} <br>
 {: .team #alajuelense }
-Cartaginés _#cartagines_{: .key} <br>
+Cartaginés • CS Cartaginés  _#cartagines_{: .key} <br>
 {: .team #cartagines }
-Costa Rica _#crc_{: .key} <br>
+Costa Rica  (CRC) _#crc_{: .key} <br>
 {: .team #crc }
-Herediano _#herediano_{: .key} <br>
+Herediano • CS Herediano  _#herediano_{: .key} <br>
 {: .team #herediano }
 
 

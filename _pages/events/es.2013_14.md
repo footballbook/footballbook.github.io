@@ -11,7 +11,7 @@ permalink: /es.2013_14.html
 #### 20 Teams
 
 
- Barcelona (BAR)   •  Espanyol (ESP)   •  R. Madrid (RMD)   •  Atlético (ATL)   •  Getafe (GET)   •  Rayo (RAY)   •  Betis (BET)   •  Sevilla (SEV)   •  Valencia (VAL)   •  Levante (LEV)   •  Málaga (MAG)   •  Athletic (ATH)   •  Granada (GRA)   •  Osasuna (OSA)   •  Celta (CEL)   •  R. Sociedad (RSO)   •  Valladolid (VID)   •  UD Almería (ALM)   •  Elche CF (ELC)   •  Villarreal CF (VLL)  
+ [Barcelona](es.html#barcelona) (BAR)   •  [Espanyol](es.html#espanyol) (ESP)   •  [R. Madrid](es.html#madrid) (RMD)   •  [Atlético](es.html#atletico) (ATL)   •  [Getafe](es.html#getafe) (GET)   •  [Rayo](es.html#rayo) (RAY)   •  [Betis](es.html#betis) (BET)   •  [Sevilla](es.html#sevilla) (SEV)   •  [Valencia](es.html#valencia) (VAL)   •  [Levante](es.html#levante) (LEV)   •  [Málaga](es.html#malaga) (MAG)   •  [Athletic](es.html#athletic) (ATH)   •  [Granada](es.html#granada) (GRA)   •  [Osasuna](es.html#osasuna) (OSA)   •  [Celta](es.html#celta) (CEL)   •  [R. Sociedad](es.html#realsociedad) (RSO)   •  [Valladolid](es.html#valladolid) (VID)   •  [UD Almería](es.html#almeria) (ALM)   •  [Elche CF](es.html#elche) (ELC)   •  [Villarreal CF](es.html#villareal) (VLL)  
 
 
  
@@ -34,7 +34,6 @@ permalink: /es.2013_14.html
 | (Mon) 19/Aug 2013 20:00 | Rayo | 3 : 0 | Elche CF |  |
 | (Mon) 19/Aug 2013 22:00 | Celta | 2 : 2 | Espanyol |  |
 | (Mon) 19/Aug 2013 22:00 | UD Almería | 2 : 3 | Villarreal CF |  |
- 
 | **Jornada 2**  |
 | (Fri) 23/Aug 2013 20:00 | Getafe | 2 : 2 | UD Almería |  |
 | (Fri) 23/Aug 2013 22:00 | Athletic | 2 : 0 | Osasuna |  |
@@ -46,7 +45,6 @@ permalink: /es.2013_14.html
 | (Sun) 25/Aug 2013 21:00 | Málaga | 0 : 1 | Barcelona |  |
 | (Sun) 25/Aug 2013 23:00 | Betis | 1 : 2 | Celta |  |
 | (Mon) 26/Aug 2013 21:00 | Granada | 0 : 1 | R. Madrid |  |
- 
 | **Jornada 3**  |
 | (Fri) 30/Aug 2013 23:00 | UD Almería | 2 : 2 | Elche CF |  |
 | (Fri) 30/Aug 2013 23:00 | Rayo | 1 : 2 | Levante |  |
@@ -58,7 +56,6 @@ permalink: /es.2013_14.html
 | (Sun) 1/Sep 2013 19:00 | R. Sociedad | 1 : 2 | Atlético |  |
 | (Sun) 1/Sep 2013 21:00 | Sevilla | 2 : 2 | Málaga |  |
 | (Sun) 1/Sep 2013 21:00 | Valencia | 2 : 3 | Barcelona |  |
- 
 | **Jornada 4**  |
 | (Sun) 15/Sep 2013 12:00 | Betis | 3 : 1 | Valencia |  |
 | (Sun) 15/Sep 2013 12:00 | Granada | 0 : 1 | Espanyol |  |
@@ -70,7 +67,6 @@ permalink: /es.2013_14.html
 | (Sun) 15/Sep 2013 12:00 | Levante | 0 : 0 | R. Sociedad |  |
 | (Sun) 15/Sep 2013 12:00 | Málaga | 5 : 0 | Rayo |  |
 | (Sun) 15/Sep 2013 12:00 | Barcelona | 3 : 2 | Sevilla |  |
- 
 | **Jornada 5**  |
 | (Sun) 22/Sep 2013 12:00 | Betis | 0 : 0 | Granada |  |
 | (Sun) 22/Sep 2013 12:00 | Espanyol | 3 : 2 | Athletic |  |
@@ -82,7 +78,6 @@ permalink: /es.2013_14.html
 | (Sun) 22/Sep 2013 12:00 | R. Sociedad | 0 : 0 | Málaga |  |
 | (Sun) 22/Sep 2013 12:00 | Rayo | 0 : 4 | Barcelona |  |
 | (Sun) 22/Sep 2013 12:00 | Valencia | 3 : 1 | Sevilla |  |
- 
 | **Jornada 6**  |
 | (Wed) 25/Sep 2013 12:00 | Granada | 0 : 1 | Valencia |  |
 | (Wed) 25/Sep 2013 12:00 | Athletic | 2 : 1 | Betis |  |
@@ -94,7 +89,6 @@ permalink: /es.2013_14.html
 | (Wed) 25/Sep 2013 12:00 | Málaga | 2 : 0 | UD Almería |  |
 | (Wed) 25/Sep 2013 12:00 | Barcelona | 4 : 1 | R. Sociedad |  |
 | (Wed) 25/Sep 2013 12:00 | Sevilla | 4 : 1 | Rayo |  |
- 
 | **Jornada 7**  |
 | (Sun) 29/Sep 2013 12:00 | Granada | 2 : 0 | Athletic |  |
 | (Sun) 29/Sep 2013 12:00 | Betis | 1 : 0 | Villarreal CF |  |
@@ -106,7 +100,6 @@ permalink: /es.2013_14.html
 | (Sun) 29/Sep 2013 12:00 | UD Almería | 0 : 2 | Barcelona |  |
 | (Sun) 29/Sep 2013 12:00 | R. Sociedad | 1 : 1 | Sevilla |  |
 | (Sun) 29/Sep 2013 12:00 | Valencia | 1 : 0 | Rayo |  |
- 
 | **Jornada 8**  |
 | (Sun) 6/Oct 2013 12:00 | Athletic | 1 : 1 | Valencia |  |
 | (Sun) 6/Oct 2013 12:00 | Villarreal CF | 3 : 0 | Granada |  |
@@ -118,7 +111,6 @@ permalink: /es.2013_14.html
 | (Sun) 6/Oct 2013 12:00 | Barcelona | 4 : 1 | Valladolid |  |
 | (Sun) 6/Oct 2013 12:00 | Sevilla | 2 : 1 | UD Almería |  |
 | (Sun) 6/Oct 2013 12:00 | Rayo | 1 : 0 | R. Sociedad |  |
- 
 | **Jornada 9**  |
 | (Sun) 20/Oct 2013 12:00 | Athletic | 2 : 0 | Villarreal CF |  |
 | (Sun) 20/Oct 2013 12:00 | Granada | 0 : 2 | Getafe |  |
@@ -130,7 +122,6 @@ permalink: /es.2013_14.html
 | (Sun) 20/Oct 2013 12:00 | Valladolid | 2 : 2 | Sevilla |  |
 | (Sun) 20/Oct 2013 12:00 | UD Almería | 0 : 1 | Rayo |  |
 | (Sun) 20/Oct 2013 12:00 | Valencia | 1 : 2 | R. Sociedad |  |
- 
 | **Jornada 10**  |
 | (Sun) 27/Oct 2013 12:00 | Villarreal CF | 4 : 1 | Valencia |  |
 | (Sun) 27/Oct 2013 12:00 | Getafe | 0 : 1 | Athletic |  |
@@ -142,7 +133,6 @@ permalink: /es.2013_14.html
 | (Sun) 27/Oct 2013 12:00 | Sevilla | 2 : 1 | Osasuna |  |
 | (Sun) 27/Oct 2013 12:00 | Rayo | 0 : 3 | Valladolid |  |
 | (Sun) 27/Oct 2013 12:00 | R. Sociedad | 3 : 0 | UD Almería |  |
- 
 | **Jornada 11**  |
 | (Wed) 30/Oct 2013 12:00 | Villarreal CF | 0 : 2 | Getafe |  |
 | (Wed) 30/Oct 2013 12:00 | Athletic | 2 : 2 | Elche CF |  |
@@ -154,7 +144,6 @@ permalink: /es.2013_14.html
 | (Wed) 30/Oct 2013 12:00 | Osasuna | 3 : 1 | Rayo |  |
 | (Wed) 30/Oct 2013 12:00 | Valladolid | 2 : 2 | R. Sociedad |  |
 | (Wed) 30/Oct 2013 12:00 | Valencia | 1 : 2 | UD Almería |  |
- 
 | **Jornada 12**  |
 | (Sun) 3/Nov 2013 12:00 | Getafe | 0 : 1 | Valencia |  |
 | (Sun) 3/Nov 2013 12:00 | Elche CF | 0 : 1 | Villarreal CF |  |
@@ -166,7 +155,6 @@ permalink: /es.2013_14.html
 | (Sun) 3/Nov 2013 12:00 | Rayo | 2 : 3 | R. Madrid |  |
 | (Sun) 3/Nov 2013 12:00 | R. Sociedad | 5 : 0 | Osasuna |  |
 | (Sun) 3/Nov 2013 12:00 | UD Almería | 1 : 0 | Valladolid |  |
- 
 | **Jornada 13**  |
 | (Sun) 10/Nov 2013 12:00 | Getafe | 1 : 1 | Elche CF |  |
 | (Sun) 10/Nov 2013 12:00 | Villarreal CF | 1 : 1 | Atlético |  |
@@ -178,7 +166,6 @@ permalink: /es.2013_14.html
 | (Sun) 10/Nov 2013 12:00 | R. Madrid | 5 : 1 | R. Sociedad |  |
 | (Sun) 10/Nov 2013 12:00 | Osasuna | 0 : 1 | UD Almería |  |
 | (Sun) 10/Nov 2013 12:00 | Valencia | 2 : 2 | Valladolid |  |
- 
 | **Jornada 14**  |
 | (Sun) 24/Nov 2013 12:00 | Elche CF | 2 : 1 | Valencia |  |
 | (Sun) 24/Nov 2013 12:00 | Atlético | 7 : 0 | Getafe |  |
@@ -190,7 +177,6 @@ permalink: /es.2013_14.html
 | (Sun) 24/Nov 2013 12:00 | R. Sociedad | 4 : 3 | Celta |  |
 | (Sun) 24/Nov 2013 12:00 | UD Almería | 0 : 5 | R. Madrid |  |
 | (Sun) 24/Nov 2013 12:00 | Valladolid | 0 : 1 | Osasuna |  |
- 
 | **Jornada 15**  |
 | (Sun) 1/Dec 2013 12:00 | Elche CF | 0 : 2 | Atlético |  |
 | (Sun) 1/Dec 2013 12:00 | Getafe | 1 : 0 | Levante |  |
@@ -202,7 +188,6 @@ permalink: /es.2013_14.html
 | (Sun) 1/Dec 2013 12:00 | Celta | 3 : 1 | UD Almería |  |
 | (Sun) 1/Dec 2013 12:00 | R. Madrid | 4 : 0 | Valladolid |  |
 | (Sun) 1/Dec 2013 12:00 | Valencia | 3 : 0 | Osasuna |  |
- 
 | **Jornada 16**  |
 | (Sun) 15/Dec 2013 12:00 | Atlético | 3 : 0 | Valencia |  |
 | (Sun) 15/Dec 2013 12:00 | Levante | 2 : 1 | Elche CF |  |
@@ -214,7 +199,6 @@ permalink: /es.2013_14.html
 | (Sun) 15/Dec 2013 12:00 | UD Almería | 0 : 0 | Espanyol |  |
 | (Sun) 15/Dec 2013 12:00 | Valladolid | 2 : 0 | Celta |  |
 | (Sun) 15/Dec 2013 12:00 | Osasuna | 2 : 2 | R. Madrid |  |
- 
 | **Jornada 17**  |
 | (Sun) 22/Dec 2013 12:00 | Atlético | 3 : 2 | Levante |  |
 | (Sun) 22/Dec 2013 12:00 | Elche CF | 0 : 1 | Málaga |  |
@@ -226,7 +210,6 @@ permalink: /es.2013_14.html
 | (Sun) 22/Dec 2013 12:00 | Espanyol | 4 : 2 | Valladolid |  |
 | (Sun) 22/Dec 2013 12:00 | Celta | 1 : 1 | Osasuna |  |
 | (Sun) 22/Dec 2013 12:00 | Valencia | 2 : 3 | R. Madrid |  |
- 
 | **Jornada 18**  |
 | (Sun) 5/Jan 2014 12:00 | Valencia | - : - | Levante |  |
 | (Sun) 5/Jan 2014 12:00 | Málaga | - : - | Atlético |  |
@@ -238,7 +221,6 @@ permalink: /es.2013_14.html
 | (Sun) 5/Jan 2014 12:00 | Valladolid | - : - | Betis |  |
 | (Sun) 5/Jan 2014 12:00 | Osasuna | - : - | Espanyol |  |
 | (Sun) 5/Jan 2014 12:00 | R. Madrid | - : - | Celta |  |
- 
 | **Jornada 19**  |
 | (Sun) 12/Jan 2014 12:00 | Levante | - : - | Málaga |  |
 | (Sun) 12/Jan 2014 12:00 | Atlético | - : - | Barcelona |  |
@@ -250,5 +232,3 @@ permalink: /es.2013_14.html
 | (Sun) 12/Jan 2014 12:00 | Betis | - : - | Osasuna |  |
 | (Sun) 12/Jan 2014 12:00 | Espanyol | - : - | R. Madrid |  |
 | (Sun) 12/Jan 2014 12:00 | Celta | - : - | Valencia |  |
- 
- 

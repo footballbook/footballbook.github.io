@@ -13,7 +13,7 @@ permalink: /sn.html
 
 ### Uncategorized _(1)_{:.count}
 
-Senegal _#sen_{: .key} <br>
+Senegal  (SEN) _#sen_{: .key} <br>
 {: .team #sen }
 
 

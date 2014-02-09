@@ -13,7 +13,7 @@ permalink: /gh.html
 
 ### Uncategorized _(1)_{:.count}
 
-Ghana _#gha_{: .key} <br>
+Ghana  (GHA) _#gha_{: .key} <br>
 {: .team #gha }
 
 

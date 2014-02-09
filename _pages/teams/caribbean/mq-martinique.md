@@ -13,7 +13,7 @@ permalink: /mq.html
 
 ### Uncategorized _(1)_{:.count}
 
-Martinique _#mtq_{: .key} <br>
+Martinique  (MTQ) _#mtq_{: .key} <br>
 {: .team #mtq }
 
 

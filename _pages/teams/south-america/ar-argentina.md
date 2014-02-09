@@ -13,7 +13,7 @@ permalink: /ar.html
 
 ### Uncategorized _(1)_{:.count}
 
-Argentina _#arg_{: .key} <br>
+Argentina  (ARG) _#arg_{: .key} <br>
 {: .team #arg }
 
 
@@ -27,29 +27,29 @@ Argentina _#arg_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-All Boys _#allboys_{: .key} <br>
+All Boys • Club Atlético All Boys  _#allboys_{: .key} <br>
 {: .team #allboys }
-Argentions _#argentinos_{: .key} <br>
+Argentions • Argentinos Jrs • Asociación Atlética Argentinos Juniors  _#argentinos_{: .key} <br>
 {: .team #argentinos }
-Arsenal _#arsenalsarandi_{: .key} <br>
+Arsenal • Arsenal de Sarandí • Arsenal FC • Arsenal Fútbol Club  _#arsenalsarandi_{: .key} <br>
 {: .team #arsenalsarandi }
-Boca _#bocajuniors_{: .key} <br>
+Boca • Boca Jrs • Boca Juniors • Club Atlético Boca Juniors  _#bocajuniors_{: .key} <br>
 {: .team #bocajuniors }
-Independiente _#independiente_{: .key} <br>
+Independiente • CA Independiente de Avellaneda • Club Atlético Independiente  _#independiente_{: .key} <br>
 {: .team #independiente }
-Lanús _#lanus_{: .key} <br>
+Lanús • Club Atlético Lanús  _#lanus_{: .key} <br>
 {: .team #lanus }
-Quilmes _#quilmes_{: .key} <br>
+Quilmes • Quilmes AC • Quilmes Atlético Club  _#quilmes_{: .key} <br>
 {: .team #quilmes }
-Racing _#racing_{: .key} <br>
+Racing • Racing Club  _#racing_{: .key} <br>
 {: .team #racing }
-River _#riverplate_{: .key} <br>
+River • River Plate • Club Atlético River Plate  _#riverplate_{: .key} <br>
 {: .team #riverplate }
-San Lorenzo _#sanlorenzo_{: .key} <br>
+San Lorenzo • Club Atlético San Lorenzo de Almagro  _#sanlorenzo_{: .key} <br>
 {: .team #sanlorenzo }
-Tigre _#tigre_{: .key} <br>
+Tigre • CA Tigre • Club Atlético Tigre  _#tigre_{: .key} <br>
 {: .team #tigre }
-Vélez _#velez_{: .key} <br>
+Vélez • Vélez Sarsfield • CA Vélez • Club Atlético Vélez Sarsfield  _#velez_{: .key} <br>
 {: .team #velez }
 
 </div>
@@ -65,7 +65,7 @@ Vélez _#velez_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Estudiantes _#estudiantes_{: .key} <br>
+Estudiantes • Estudiantes LP • Club Estudiantes de La Plata  _#estudiantes_{: .key} <br>
 {: .team #estudiantes }
 
 </div>
@@ -123,7 +123,7 @@ Estudiantes _#estudiantes_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Belgrano _#belgrano_{: .key} <br>
+Belgrano • Club Atlético Belgrano  _#belgrano_{: .key} <br>
 {: .team #belgrano }
 
 </div>
@@ -223,7 +223,7 @@ Belgrano _#belgrano_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Godoy Cruz _#godoycruz_{: .key} <br>
+Godoy Cruz • Club Deportivo Godoy Cruz Antonio Tomba  _#godoycruz_{: .key} <br>
 {: .team #godoycruz }
 
 </div>
@@ -295,7 +295,7 @@ Godoy Cruz _#godoycruz_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-San Martín _#sanmartin_{: .key} <br>
+San Martín • San Martín San Juan • Club Atlético San Martín  _#sanmartin_{: .key} <br>
 {: .team #sanmartin }
 
 </div>
@@ -339,9 +339,9 @@ San Martín _#sanmartin_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-At. de Rafaela _#rafaela_{: .key} <br>
+At. de Rafaela • Atl. Rafaela • Atlético Rafaela • Atlético de Rafaela • Asociación Mutual Social y Deportiva Atlético de Rafaela  _#rafaela_{: .key} <br>
 {: .team #rafaela }
-Newell's _#newells_{: .key} <br>
+Newell's • N.O. Boys • Club Atlético Newell's Old Boys  _#newells_{: .key} <br>
 {: .team #newells }
 
 </div>

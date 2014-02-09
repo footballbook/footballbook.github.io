@@ -13,11 +13,11 @@ permalink: /it.html
 
 ### Uncategorized _(3)_{:.count}
 
-Italy _#ita_{: .key} <br>
+Italy  (ITA) _#ita_{: .key} <br>
 {: .team #ita }
-Livorno _#livorno_{: .key} <br>
+Livorno • AS Livorno • A.S. Livorno Calcio • Associazione Sportiva Livorno Calcio  (LIV) _#livorno_{: .key} <br>
 {: .team #livorno }
-Sassuolo _#sassuolo_{: .key} <br>
+Sassuolo • U.S. Sassuolo Calcio • Unione Sportiva Sassuolo Calcio  (SAS) _#sassuolo_{: .key} <br>
 {: .team #sassuolo }
 
 
@@ -45,9 +45,9 @@ Sassuolo _#sassuolo_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Genoa _#genoa_{: .key} <br>
+Genoa • Genoa CFC • Genoa Cricket and Football Club  (GEN) _#genoa_{: .key} <br>
 {: .team #genoa }
-Sampdoria _#sampdoria_{: .key} <br>
+Sampdoria • Unione Calcio Sampdoria • Sampdoria Genoa  (SAM) _#sampdoria_{: .key} <br>
 {: .team #sampdoria }
 
 </div>
@@ -63,11 +63,11 @@ Sampdoria _#sampdoria_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Atalanta _#atalanta_{: .key} <br>
+Atalanta • Atalanta Bergamo • Atalanta Bergamasca Calcio • Atalanta BC  (ATA) _#atalanta_{: .key} <br>
 {: .team #atalanta }
-Inter _#inter_{: .key} <br>
+Inter • Internazionale • FC Internazionale Milano  (INT) _#inter_{: .key} <br>
 {: .team #inter }
-Milan _#milan_{: .key} <br>
+Milan • AC Milan • Associazione Calcio Milan  (MIL) _#milan_{: .key} <br>
 {: .team #milan }
 
 </div>
@@ -83,9 +83,9 @@ Milan _#milan_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Juventus _#juventus_{: .key} <br>
+Juventus • Juventus FC • Juventus Football Club • Juventus Torino  (JUV) _#juventus_{: .key} <br>
 {: .team #juventus }
-Torino _#torino_{: .key} <br>
+Torino • Torino FC • Torino Football Club  (TOR) _#torino_{: .key} <br>
 {: .team #torino }
 
 </div>
@@ -101,9 +101,9 @@ Torino _#torino_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Bologna _#bologna_{: .key} <br>
+Bologna • FC Bologna • Bologna FC • Bologna Football Club 1909  (BOL) _#bologna_{: .key} <br>
 {: .team #bologna }
-Parma _#parma_{: .key} <br>
+Parma • Parma FC • Parma Football Club  (PAR) _#parma_{: .key} <br>
 {: .team #parma }
 
 </div>
@@ -119,7 +119,7 @@ Parma _#parma_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Udinese _#udinese_{: .key} <br>
+Udinese • Udinese Calcio  (UDI) _#udinese_{: .key} <br>
 {: .team #udinese }
 
 </div>
@@ -149,9 +149,9 @@ Udinese _#udinese_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Chievo _#chievoverona_{: .key} <br>
+Chievo • Chievo Verona • Associazione Calcio Chievo Verona  (CHI) _#chievoverona_{: .key} <br>
 {: .team #chievoverona }
-Verona _#hellasverona_{: .key} <br>
+Verona • Hellas Verona • Hellas Verona F.C. • Hellas Verona Football Club  (HEL) _#hellasverona_{: .key} <br>
 {: .team #hellasverona }
 
 </div>
@@ -167,9 +167,9 @@ Verona _#hellasverona_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Lazio _#lazio_{: .key} <br>
+Lazio • SS Lazio • Società Sportiva Lazio • Lazio Roma  (LAZ) _#lazio_{: .key} <br>
 {: .team #lazio }
-Roma _#roma_{: .key} <br>
+Roma • AS Roma • Associazione Sportiva Roma  (ROM) _#roma_{: .key} <br>
 {: .team #roma }
 
 </div>
@@ -199,9 +199,9 @@ Roma _#roma_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-AC Siena _#siena_{: .key} <br>
+AC Siena • Associazione Calcio Siena  (SIE) _#siena_{: .key} <br>
 {: .team #siena }
-Fiorentina _#fiorentina_{: .key} <br>
+Fiorentina • ACF Fiorentina • AC Firenze • Associazione Calcio Firenze Fiorentina  (FIO) _#fiorentina_{: .key} <br>
 {: .team #fiorentina }
 
 </div>
@@ -231,7 +231,7 @@ Fiorentina _#fiorentina_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Pescara Calcio _#pescara_{: .key} <br>
+Pescara Calcio • Delfino Pescara 1936  (PES) _#pescara_{: .key} <br>
 {: .team #pescara }
 
 </div>
@@ -289,7 +289,7 @@ Pescara Calcio _#pescara_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Napoli _#napoli_{: .key} <br>
+Napoli • SSC Napoli • Società Sportiva Calcio Napoli  (NAP) _#napoli_{: .key} <br>
 {: .team #napoli }
 
 </div>
@@ -319,7 +319,7 @@ Napoli _#napoli_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Cagliari _#cagliari_{: .key} <br>
+Cagliari • Cagliari Calcio  (CAG) _#cagliari_{: .key} <br>
 {: .team #cagliari }
 
 </div>
@@ -335,9 +335,9 @@ Cagliari _#cagliari_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Catania _#catania_{: .key} <br>
+Catania • Calcio Catania  (CAT) _#catania_{: .key} <br>
 {: .team #catania }
-Palermo _#palermo_{: .key} <br>
+Palermo • US Palermo • Unione Sportiva Città di Palermo  (PAL) _#palermo_{: .key} <br>
 {: .team #palermo }
 
 </div>

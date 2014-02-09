@@ -13,15 +13,15 @@ permalink: /py.html
 
 ### Uncategorized _(5)_{:.count}
 
-Cerro Porteño _#porteno_{: .key} <br>
+Cerro Porteño • Club Cerro Porteño  _#porteno_{: .key} <br>
 {: .team #porteno }
-Club Libertad Asunción _#libertad_{: .key} <br>
+Club Libertad Asunción • Libertad • Libertad Ascunción  _#libertad_{: .key} <br>
 {: .team #libertad }
-Nacional _#nacionalasuncion_{: .key} <br>
+Nacional • Nacional de Asunción • Club Nacional  _#nacionalasuncion_{: .key} <br>
 {: .team #nacionalasuncion }
-Olimpia _#olimpia_{: .key} <br>
+Olimpia • Club Olimpia  _#olimpia_{: .key} <br>
 {: .team #olimpia }
-Paraguay _#par_{: .key} <br>
+Paraguay  (PAR) _#par_{: .key} <br>
 {: .team #par }
 
 

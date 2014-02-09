@@ -13,9 +13,9 @@ permalink: /bo.html
 
 ### Uncategorized _(2)_{:.count}
 
-Bolivia _#bol_{: .key} <br>
+Bolivia  (BOL) _#bol_{: .key} <br>
 {: .team #bol }
-Real Potosí _#realpotosi_{: .key} <br>
+Real Potosí • Club Bamin Real Potosí  _#realpotosi_{: .key} <br>
 {: .team #realpotosi }
 
 

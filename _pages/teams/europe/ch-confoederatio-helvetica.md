@@ -13,7 +13,7 @@ permalink: /ch.html
 
 ### Uncategorized _(1)_{:.count}
 
-Switzerland _#sui_{: .key} <br>
+Switzerland  (SUI) _#sui_{: .key} <br>
 {: .team #sui }
 
 
@@ -83,7 +83,7 @@ Switzerland _#sui_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC St. Gallen _#stgallen_{: .key} <br>
+FC St. Gallen • St. Gallen  (SG) _#stgallen_{: .key} <br>
 {: .team #stgallen }
 
 </div>
@@ -127,9 +127,9 @@ FC St. Gallen _#stgallen_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Zürich _#zuerich_{: .key} <br>
+FC Zürich  (FCZ) _#zuerich_{: .key} <br>
 {: .team #zuerich }
-Grasshopper Club Zürich _#grasshopper_{: .key} <br>
+Grasshopper Club Zürich • Grasshoppers • Grasshoppers Zürich  (GC) _#grasshopper_{: .key} <br>
 {: .team #grasshopper }
 
 </div>
@@ -145,7 +145,7 @@ Grasshopper Club Zürich _#grasshopper_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Luzern _#luzern_{: .key} <br>
+FC Luzern • Luzern  (LUZ) _#luzern_{: .key} <br>
 {: .team #luzern }
 
 </div>
@@ -231,7 +231,7 @@ FC Luzern _#luzern_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Basel 1893 _#basel_{: .key} <br>
+FC Basel 1893 • Basel • FC Basel  (BAS) _#basel_{: .key} <br>
 {: .team #basel }
 
 </div>
@@ -261,7 +261,7 @@ FC Basel 1893 _#basel_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Aarau _#aarau_{: .key} <br>
+FC Aarau • Aarau  (AAR) _#aarau_{: .key} <br>
 {: .team #aarau }
 
 </div>
@@ -277,9 +277,9 @@ FC Aarau _#aarau_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-BSC Young Boys _#youngboys_{: .key} <br>
+BSC Young Boys • Young Boys • Young Boys Bern • Berner Sport Club Young Boys  (YB) _#youngboys_{: .key} <br>
 {: .team #youngboys }
-FC Thun _#thun_{: .key} <br>
+FC Thun • Thun  (THU) _#thun_{: .key} <br>
 {: .team #thun }
 
 </div>
@@ -351,7 +351,7 @@ FC Thun _#thun_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Lausanne-Sport _#lausanne_{: .key} <br>
+FC Lausanne-Sport • Lausanne • FC Lausanne  (LS) _#lausanne_{: .key} <br>
 {: .team #lausanne }
 
 </div>
@@ -367,7 +367,7 @@ FC Lausanne-Sport _#lausanne_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Sion _#sion_{: .key} <br>
+FC Sion • Sion  (SIO) _#sion_{: .key} <br>
 {: .team #sion }
 
 </div>

@@ -13,7 +13,7 @@ permalink: /za.html
 
 ### Uncategorized _(1)_{:.count}
 
-South Africa _#rsa_{: .key} <br>
+South Africa  (RSA) _#rsa_{: .key} <br>
 {: .team #rsa }
 
 

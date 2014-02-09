@@ -11,7 +11,7 @@ permalink: /de.2013_14.html
 #### 18 Teams
 
 
- FC Bayern München (FCB)   •  Borussia Dortmund (BVB)   •  Bayer 04 Leverkusen (B04)   •  Schalke 04 (S04)   •  SC Freiburg (SCF)   •  Eintracht Frankfurt (FFM)   •  Hamburger SV (HSV)   •  Borussia M'gladbach (BMG)   •  Hannover 96 (H96)   •  1. FC Nürnberg (FCN)   •  VfL Wolfsburg (WOB)   •  1. FSV Mainz 05 (M05)   •  Werder Bremen (BRE)   •  1899 Hoffenheim (HOF)   •  Stuttgart (VFB)   •  FC Augsburg (FCA)   •  Eintr. Braunschweig (EBS)   •  Hertha BSC (BSC)  
+ [FC Bayern München](de.html#bayern) (FCB)   •  [Borussia Dortmund](de.html#dortmund) (BVB)   •  [Bayer 04 Leverkusen](de.html#leverkusen) (B04)   •  [Schalke 04](de.html#schalke) (S04)   •  [SC Freiburg](de.html#freiburg) (SCF)   •  [Eintracht Frankfurt](de.html#frankfurt) (FFM)   •  [Hamburger SV](de.html#hsv) (HSV)   •  [Borussia M'gladbach](de.html#mgladbach) (BMG)   •  [Hannover 96](de.html#hannover) (H96)   •  [1. FC Nürnberg](de.html#nuernberg) (FCN)   •  [VfL Wolfsburg](de.html#wolfsburg) (WOB)   •  [1. FSV Mainz 05](de.html#mainz) (M05)   •  [Werder Bremen](de.html#bremen) (BRE)   •  [1899 Hoffenheim](de.html#hoffenheim) (HOF)   •  [Stuttgart](de.html#stuttgart) (VFB)   •  [FC Augsburg](de.html#augsburg) (FCA)   •  [Eintr. Braunschweig](de.html#braunschweig) (EBS)   •  [Hertha BSC](de.html#herthabsc) (BSC)  
 
 
  
@@ -33,7 +33,6 @@ permalink: /de.2013_14.html
 | (Sat) 10/Aug 2013 12:00 | Hertha BSC | 6 : 1 | Eintracht Frankfurt |  |
 | (Sun) 11/Aug 2013 12:00 | 1. FSV Mainz 05 | 3 : 2 | Stuttgart |  |
 | (Sun) 11/Aug 2013 12:00 | Schalke 04 | 3 : 3 | Hamburger SV |  |
- 
 | **2. Spieltag** / Sa.+So. 17.+18. Aug |
 | (Sat) 17/Aug 2013 12:00 | Borussia M'gladbach | 3 : 0 | Hannover 96 |  |
 | (Sat) 17/Aug 2013 12:00 | Stuttgart | 0 : 1 | Bayer 04 Leverkusen |  |
@@ -44,7 +43,6 @@ permalink: /de.2013_14.html
 | (Sat) 17/Aug 2013 12:00 | Eintracht Frankfurt | 0 : 1 | FC Bayern München |  |
 | (Sun) 18/Aug 2013 12:00 | 1. FC Nürnberg | 2 : 2 | Hertha BSC |  |
 | (Sun) 18/Aug 2013 12:00 | Borussia Dortmund | 2 : 1 | Eintr. Braunschweig |  |
- 
 | **3. Spieltag** / Sa.+So. 24.+25. Aug |
 | (Sat) 24/Aug 2013 12:00 | Borussia Dortmund | 1 : 0 | Werder Bremen |  |
 | (Sat) 24/Aug 2013 12:00 | FC Bayern München | 2 : 0 | 1. FC Nürnberg |  |
@@ -55,7 +53,6 @@ permalink: /de.2013_14.html
 | (Sat) 24/Aug 2013 12:00 | Hertha BSC | 1 : 0 | Hamburger SV |  |
 | (Sun) 25/Aug 2013 12:00 | FC Augsburg | 2 : 1 | Stuttgart |  |
 | (Sun) 25/Aug 2013 12:00 | Eintr. Braunschweig | 0 : 2 | Eintracht Frankfurt |  |
- 
 | **4. Spieltag**  |
 | (Tue) 27/Aug 2013 12:00 | SC Freiburg | 1 : 1 | FC Bayern München |  |
 | (Sat) 31/Aug 2013 12:00 | Schalke 04 | 2 : 0 | Bayer 04 Leverkusen |  |
@@ -66,7 +63,6 @@ permalink: /de.2013_14.html
 | (Sat) 31/Aug 2013 12:00 | Hamburger SV | 4 : 0 | Eintr. Braunschweig |  |
 | (Sun) 1/Sep 2013 12:00 | Stuttgart | 6 : 2 | 1899 Hoffenheim |  |
 | (Sun) 1/Sep 2013 12:00 | Eintracht Frankfurt | 1 : 2 | Borussia Dortmund |  |
- 
 | **5. Spieltag**  |
 | (Fri) 13/Sep 2013 12:00 | Hertha BSC | 0 : 1 | Stuttgart |  |
 | (Sat) 14/Sep 2013 12:00 | Borussia Dortmund | 6 : 2 | Hamburger SV |  |
@@ -77,7 +73,6 @@ permalink: /de.2013_14.html
 | (Sat) 14/Sep 2013 12:00 | FC Augsburg | 2 : 1 | SC Freiburg |  |
 | (Sun) 15/Sep 2013 12:00 | 1899 Hoffenheim | 2 : 1 | Borussia M'gladbach |  |
 | (Sun) 15/Sep 2013 12:00 | Eintr. Braunschweig | 1 : 1 | 1. FC Nürnberg |  |
- 
 | **6. Spieltag**  |
 | (Sat) 21/Sep 2013 12:00 | Schalke 04 | 0 : 4 | FC Bayern München |  |
 | (Sat) 21/Sep 2013 12:00 | Borussia M'gladbach | 4 : 1 | Eintr. Braunschweig |  |
@@ -88,7 +83,6 @@ permalink: /de.2013_14.html
 | (Sat) 21/Sep 2013 12:00 | SC Freiburg | 1 : 1 | Hertha BSC |  |
 | (Sat) 21/Sep 2013 12:00 | 1. FSV Mainz 05 | 1 : 4 | Bayer 04 Leverkusen |  |
 | (Sat) 21/Sep 2013 12:00 | Hamburger SV | 0 : 2 | Werder Bremen |  |
- 
 | **7. Spieltag**  |
 | (Sat) 28/Sep 2013 12:00 | Borussia Dortmund | 5 : 0 | SC Freiburg |  |
 | (Sat) 28/Sep 2013 12:00 | FC Bayern München | 1 : 0 | VfL Wolfsburg |  |
@@ -99,7 +93,6 @@ permalink: /de.2013_14.html
 | (Sat) 28/Sep 2013 12:00 | Eintr. Braunschweig | 0 : 4 | Stuttgart |  |
 | (Sat) 28/Sep 2013 12:00 | Eintracht Frankfurt | 2 : 2 | Hamburger SV |  |
 | (Sat) 28/Sep 2013 12:00 | Hertha BSC | 3 : 1 | 1. FSV Mainz 05 |  |
- 
 | **8. Spieltag**  |
 | (Sat) 5/Oct 2013 12:00 | Schalke 04 | 4 : 1 | FC Augsburg |  |
 | (Sat) 5/Oct 2013 12:00 | Borussia M'gladbach | 2 : 0 | Borussia Dortmund |  |
@@ -110,7 +103,6 @@ permalink: /de.2013_14.html
 | (Sat) 5/Oct 2013 12:00 | 1. FC Nürnberg | 0 : 5 | Hamburger SV |  |
 | (Sat) 5/Oct 2013 12:00 | SC Freiburg | 1 : 1 | Eintracht Frankfurt |  |
 | (Sat) 5/Oct 2013 12:00 | 1. FSV Mainz 05 | 2 : 2 | 1899 Hoffenheim |  |
- 
 | **9. Spieltag**  |
 | (Sat) 19/Oct 2013 12:00 | Borussia Dortmund | 1 : 0 | Hannover 96 |  |
 | (Sat) 19/Oct 2013 12:00 | FC Bayern München | 4 : 1 | 1. FSV Mainz 05 |  |
@@ -121,7 +113,6 @@ permalink: /de.2013_14.html
 | (Sat) 19/Oct 2013 12:00 | Eintr. Braunschweig | 2 : 3 | Schalke 04 |  |
 | (Sat) 19/Oct 2013 12:00 | Eintracht Frankfurt | 1 : 1 | 1. FC Nürnberg |  |
 | (Sat) 19/Oct 2013 12:00 | Hertha BSC | 1 : 0 | Borussia M'gladbach |  |
- 
 | **10. Spieltag**  |
 | (Sat) 26/Oct 2013 12:00 | FC Bayern München | 3 : 2 | Hertha BSC |  |
 | (Sat) 26/Oct 2013 12:00 | Schalke 04 | 1 : 3 | Borussia Dortmund |  |
@@ -132,7 +123,6 @@ permalink: /de.2013_14.html
 | (Sat) 26/Oct 2013 12:00 | VfL Wolfsburg | 3 : 0 | Werder Bremen |  |
 | (Sat) 26/Oct 2013 12:00 | SC Freiburg | 0 : 3 | Hamburger SV |  |
 | (Sat) 26/Oct 2013 12:00 | 1. FSV Mainz 05 | 2 : 0 | Eintr. Braunschweig |  |
- 
 | **11. Spieltag**  |
 | (Sat) 2/Nov 2013 12:00 | Borussia Dortmund | 6 : 1 | Stuttgart |  |
 | (Sat) 2/Nov 2013 12:00 | Werder Bremen | 3 : 2 | Hannover 96 |  |
@@ -143,7 +133,6 @@ permalink: /de.2013_14.html
 | (Sat) 2/Nov 2013 12:00 | Eintr. Braunschweig | 1 : 0 | Bayer 04 Leverkusen |  |
 | (Sat) 2/Nov 2013 12:00 | Eintracht Frankfurt | 1 : 2 | VfL Wolfsburg |  |
 | (Sat) 2/Nov 2013 12:00 | Hertha BSC | 0 : 2 | Schalke 04 |  |
- 
 | **12. Spieltag**  |
 | (Sat) 9/Nov 2013 12:00 | FC Bayern München | 3 : 0 | FC Augsburg |  |
 | (Sat) 9/Nov 2013 12:00 | Schalke 04 | 3 : 1 | Werder Bremen |  |
@@ -154,7 +143,6 @@ permalink: /de.2013_14.html
 | (Sat) 9/Nov 2013 12:00 | 1899 Hoffenheim | 2 : 3 | Hertha BSC |  |
 | (Sat) 9/Nov 2013 12:00 | SC Freiburg | 1 : 3 | Stuttgart |  |
 | (Sat) 9/Nov 2013 12:00 | 1. FSV Mainz 05 | 1 : 0 | Eintracht Frankfurt |  |
- 
 | **13. Spieltag**  |
 | (Sat) 23/Nov 2013 12:00 | Borussia Dortmund | 0 : 3 | FC Bayern München |  |
 | (Sat) 23/Nov 2013 12:00 | Stuttgart | 0 : 2 | Borussia M'gladbach |  |
@@ -165,7 +153,6 @@ permalink: /de.2013_14.html
 | (Sat) 23/Nov 2013 12:00 | Eintr. Braunschweig | 0 : 1 | SC Freiburg |  |
 | (Sat) 23/Nov 2013 12:00 | Eintracht Frankfurt | 3 : 3 | Schalke 04 |  |
 | (Sat) 23/Nov 2013 12:00 | Hertha BSC | 0 : 1 | Bayer 04 Leverkusen |  |
- 
 | **14. Spieltag**  |
 | (Sat) 30/Nov 2013 12:00 | FC Bayern München | 2 : 0 | Eintr. Braunschweig |  |
 | (Sat) 30/Nov 2013 12:00 | Schalke 04 | 3 : 0 | Stuttgart |  |
@@ -176,7 +163,6 @@ permalink: /de.2013_14.html
 | (Sat) 30/Nov 2013 12:00 | 1899 Hoffenheim | 4 : 4 | Werder Bremen |  |
 | (Sat) 30/Nov 2013 12:00 | 1. FSV Mainz 05 | 1 : 3 | Borussia Dortmund |  |
 | (Sat) 30/Nov 2013 12:00 | Hertha BSC | 0 : 0 | FC Augsburg |  |
- 
 | **15. Spieltag**  |
 | (Sat) 7/Dec 2013 12:00 | Borussia Dortmund | 0 : 1 | Bayer 04 Leverkusen |  |
 | (Sat) 7/Dec 2013 12:00 | Borussia M'gladbach | 2 : 1 | Schalke 04 |  |
@@ -187,7 +173,6 @@ permalink: /de.2013_14.html
 | (Sat) 7/Dec 2013 12:00 | Hamburger SV | 0 : 1 | FC Augsburg |  |
 | (Sat) 7/Dec 2013 12:00 | Eintr. Braunschweig | 0 : 2 | Hertha BSC |  |
 | (Sat) 7/Dec 2013 12:00 | Eintracht Frankfurt | 1 : 2 | 1899 Hoffenheim |  |
- 
 | **16. Spieltag**  |
 | (Sat) 14/Dec 2013 12:00 | FC Bayern München | 3 : 1 | Hamburger SV |  |
 | (Sat) 14/Dec 2013 12:00 | Schalke 04 | 2 : 0 | SC Freiburg |  |
@@ -198,7 +183,6 @@ permalink: /de.2013_14.html
 | (Sat) 14/Dec 2013 12:00 | 1. FSV Mainz 05 | 0 : 0 | Borussia M'gladbach |  |
 | (Sat) 14/Dec 2013 12:00 | FC Augsburg | 4 : 1 | Eintr. Braunschweig |  |
 | (Sat) 14/Dec 2013 12:00 | Hertha BSC | 3 : 2 | Werder Bremen |  |
- 
 | **17. Spieltag**  |
 | (Sat) 21/Dec 2013 12:00 | Borussia Dortmund | 1 : 2 | Hertha BSC |  |
 | (Sat) 21/Dec 2013 12:00 | Borussia M'gladbach | 2 : 2 | VfL Wolfsburg |  |
@@ -209,7 +193,6 @@ permalink: /de.2013_14.html
 | (Sat) 21/Dec 2013 12:00 | Eintr. Braunschweig | 1 : 0 | 1899 Hoffenheim |  |
 | (Sat) 21/Dec 2013 12:00 | Eintracht Frankfurt | 1 : 1 | FC Augsburg |  |
 | (Tue) 28/Jan 2014 12:00 | Stuttgart | - : - | FC Bayern München |  |
- 
 | **18. Spieltag**  |
 | (Sat) 25/Jan 2014 12:00 | Borussia M'gladbach | - : - | FC Bayern München |  |
 | (Sat) 25/Jan 2014 12:00 | Hamburger SV | - : - | Schalke 04 |  |
@@ -220,7 +203,6 @@ permalink: /de.2013_14.html
 | (Sat) 25/Jan 2014 12:00 | Borussia Dortmund | - : - | FC Augsburg |  |
 | (Sat) 25/Jan 2014 12:00 | Werder Bremen | - : - | Eintr. Braunschweig |  |
 | (Sat) 25/Jan 2014 12:00 | Eintracht Frankfurt | - : - | Hertha BSC |  |
- 
 | **19. Spieltag**  |
 | (Sat) 1/Feb 2014 12:00 | Eintr. Braunschweig | - : - | Borussia Dortmund |  |
 | (Sat) 1/Feb 2014 12:00 | Hannover 96 | - : - | Borussia M'gladbach |  |
@@ -231,7 +213,6 @@ permalink: /de.2013_14.html
 | (Sat) 1/Feb 2014 12:00 | 1. FSV Mainz 05 | - : - | SC Freiburg |  |
 | (Sat) 1/Feb 2014 12:00 | 1899 Hoffenheim | - : - | Hamburger SV |  |
 | (Sat) 1/Feb 2014 12:00 | FC Bayern München | - : - | Eintracht Frankfurt |  |
- 
 | **20. Spieltag**  |
 | (Sat) 8/Feb 2014 12:00 | Werder Bremen | - : - | Borussia Dortmund |  |
 | (Sat) 8/Feb 2014 12:00 | 1. FC Nürnberg | - : - | FC Bayern München |  |
@@ -242,7 +223,6 @@ permalink: /de.2013_14.html
 | (Sat) 8/Feb 2014 12:00 | Stuttgart | - : - | FC Augsburg |  |
 | (Sat) 8/Feb 2014 12:00 | Eintracht Frankfurt | - : - | Eintr. Braunschweig |  |
 | (Sat) 8/Feb 2014 12:00 | Hamburger SV | - : - | Hertha BSC |  |
- 
 | **21. Spieltag**  |
 | (Sat) 15/Feb 2014 12:00 | Bayer 04 Leverkusen | - : - | Schalke 04 |  |
 | (Sat) 15/Feb 2014 12:00 | Werder Bremen | - : - | Borussia M'gladbach |  |
@@ -253,7 +233,6 @@ permalink: /de.2013_14.html
 | (Sat) 15/Feb 2014 12:00 | FC Bayern München | - : - | SC Freiburg |  |
 | (Sat) 15/Feb 2014 12:00 | Eintr. Braunschweig | - : - | Hamburger SV |  |
 | (Sat) 15/Feb 2014 12:00 | Borussia Dortmund | - : - | Eintracht Frankfurt |  |
- 
 | **22. Spieltag**  |
 | (Sat) 22/Feb 2014 12:00 | Hamburger SV | - : - | Borussia Dortmund |  |
 | (Sat) 22/Feb 2014 12:00 | Hannover 96 | - : - | FC Bayern München |  |
@@ -264,7 +243,6 @@ permalink: /de.2013_14.html
 | (Sat) 22/Feb 2014 12:00 | SC Freiburg | - : - | FC Augsburg |  |
 | (Sat) 22/Feb 2014 12:00 | 1. FC Nürnberg | - : - | Eintr. Braunschweig |  |
 | (Sat) 22/Feb 2014 12:00 | Stuttgart | - : - | Hertha BSC |  |
- 
 | **23. Spieltag**  |
 | (Sat) 1/Mar 2014 12:00 | FC Bayern München | - : - | Schalke 04 |  |
 | (Sat) 1/Mar 2014 12:00 | Eintr. Braunschweig | - : - | Borussia M'gladbach |  |
@@ -275,7 +253,6 @@ permalink: /de.2013_14.html
 | (Sat) 1/Mar 2014 12:00 | Hertha BSC | - : - | SC Freiburg |  |
 | (Sat) 1/Mar 2014 12:00 | Bayer 04 Leverkusen | - : - | 1. FSV Mainz 05 |  |
 | (Sat) 1/Mar 2014 12:00 | Werder Bremen | - : - | Hamburger SV |  |
- 
 | **24. Spieltag**  |
 | (Sat) 8/Mar 2014 12:00 | SC Freiburg | - : - | Borussia Dortmund |  |
 | (Sat) 8/Mar 2014 12:00 | VfL Wolfsburg | - : - | FC Bayern München |  |
@@ -286,7 +263,6 @@ permalink: /de.2013_14.html
 | (Sat) 8/Mar 2014 12:00 | Stuttgart | - : - | Eintr. Braunschweig |  |
 | (Sat) 8/Mar 2014 12:00 | Hamburger SV | - : - | Eintracht Frankfurt |  |
 | (Sat) 8/Mar 2014 12:00 | 1. FSV Mainz 05 | - : - | Hertha BSC |  |
- 
 | **25. Spieltag**  |
 | (Sat) 15/Mar 2014 12:00 | FC Augsburg | - : - | Schalke 04 |  |
 | (Sat) 15/Mar 2014 12:00 | Borussia Dortmund | - : - | Borussia M'gladbach |  |
@@ -297,7 +273,6 @@ permalink: /de.2013_14.html
 | (Sat) 15/Mar 2014 12:00 | Hamburger SV | - : - | 1. FC Nürnberg |  |
 | (Sat) 15/Mar 2014 12:00 | Eintracht Frankfurt | - : - | SC Freiburg |  |
 | (Sat) 15/Mar 2014 12:00 | 1899 Hoffenheim | - : - | 1. FSV Mainz 05 |  |
- 
 | **26. Spieltag**  |
 | (Sat) 22/Mar 2014 12:00 | Hannover 96 | - : - | Borussia Dortmund |  |
 | (Sat) 22/Mar 2014 12:00 | 1. FSV Mainz 05 | - : - | FC Bayern München |  |
@@ -308,7 +283,6 @@ permalink: /de.2013_14.html
 | (Sat) 22/Mar 2014 12:00 | Schalke 04 | - : - | Eintr. Braunschweig |  |
 | (Sat) 22/Mar 2014 12:00 | 1. FC Nürnberg | - : - | Eintracht Frankfurt |  |
 | (Sat) 22/Mar 2014 12:00 | Borussia M'gladbach | - : - | Hertha BSC |  |
- 
 | **27. Spieltag**  |
 | (Wed) 26/Mar 2014 12:00 | Hertha BSC | - : - | FC Bayern München |  |
 | (Wed) 26/Mar 2014 12:00 | Borussia Dortmund | - : - | Schalke 04 |  |
@@ -319,7 +293,6 @@ permalink: /de.2013_14.html
 | (Wed) 26/Mar 2014 12:00 | Werder Bremen | - : - | VfL Wolfsburg |  |
 | (Wed) 26/Mar 2014 12:00 | Hamburger SV | - : - | SC Freiburg |  |
 | (Wed) 26/Mar 2014 12:00 | Eintr. Braunschweig | - : - | 1. FSV Mainz 05 |  |
- 
 | **28. Spieltag**  |
 | (Sat) 29/Mar 2014 12:00 | Stuttgart | - : - | Borussia Dortmund |  |
 | (Sat) 29/Mar 2014 12:00 | Hannover 96 | - : - | Werder Bremen |  |
@@ -330,7 +303,6 @@ permalink: /de.2013_14.html
 | (Sat) 29/Mar 2014 12:00 | Bayer 04 Leverkusen | - : - | Eintr. Braunschweig |  |
 | (Sat) 29/Mar 2014 12:00 | VfL Wolfsburg | - : - | Eintracht Frankfurt |  |
 | (Sat) 29/Mar 2014 12:00 | Schalke 04 | - : - | Hertha BSC |  |
- 
 | **29. Spieltag**  |
 | (Sat) 5/Apr 2014 12:00 | FC Augsburg | - : - | FC Bayern München |  |
 | (Sat) 5/Apr 2014 12:00 | Werder Bremen | - : - | Schalke 04 |  |
@@ -341,7 +313,6 @@ permalink: /de.2013_14.html
 | (Sat) 5/Apr 2014 12:00 | Hertha BSC | - : - | 1899 Hoffenheim |  |
 | (Sat) 5/Apr 2014 12:00 | Stuttgart | - : - | SC Freiburg |  |
 | (Sat) 5/Apr 2014 12:00 | Eintracht Frankfurt | - : - | 1. FSV Mainz 05 |  |
- 
 | **30. Spieltag**  |
 | (Sat) 12/Apr 2014 12:00 | 1. FSV Mainz 05 | - : - | Werder Bremen |  |
 | (Sat) 12/Apr 2014 12:00 | VfL Wolfsburg | - : - | 1. FC Nürnberg |  |
@@ -352,7 +323,6 @@ permalink: /de.2013_14.html
 | (Sat) 12/Apr 2014 12:00 | Bayer 04 Leverkusen | - : - | Hertha BSC |  |
 | (Sat) 12/Apr 2014 12:00 | FC Bayern München | - : - | Borussia Dortmund |  |
 | (Sat) 12/Apr 2014 12:00 | Borussia M'gladbach | - : - | Stuttgart |  |
- 
 | **31. Spieltag**  |
 | (Sat) 19/Apr 2014 12:00 | Eintr. Braunschweig | - : - | FC Bayern München |  |
 | (Sat) 19/Apr 2014 12:00 | Stuttgart | - : - | Schalke 04 |  |
@@ -363,7 +333,6 @@ permalink: /de.2013_14.html
 | (Sat) 19/Apr 2014 12:00 | Werder Bremen | - : - | 1899 Hoffenheim |  |
 | (Sat) 19/Apr 2014 12:00 | Borussia Dortmund | - : - | 1. FSV Mainz 05 |  |
 | (Sat) 19/Apr 2014 12:00 | FC Augsburg | - : - | Hertha BSC |  |
- 
 | **32. Spieltag**  |
 | (Sat) 26/Apr 2014 12:00 | Bayer 04 Leverkusen | - : - | Borussia Dortmund |  |
 | (Sat) 26/Apr 2014 12:00 | Schalke 04 | - : - | Borussia M'gladbach |  |
@@ -374,7 +343,6 @@ permalink: /de.2013_14.html
 | (Sat) 26/Apr 2014 12:00 | FC Augsburg | - : - | Hamburger SV |  |
 | (Sat) 26/Apr 2014 12:00 | Hertha BSC | - : - | Eintr. Braunschweig |  |
 | (Sat) 26/Apr 2014 12:00 | 1899 Hoffenheim | - : - | Eintracht Frankfurt |  |
- 
 | **33. Spieltag**  |
 | (Sat) 3/May 2014 12:00 | Hamburger SV | 15 : 30 | FC Bayern München |  |
 | (Sat) 3/May 2014 12:00 | SC Freiburg | 15 : 30 | Schalke 04 |  |
@@ -385,7 +353,6 @@ permalink: /de.2013_14.html
 | (Sat) 3/May 2014 12:00 | Borussia M'gladbach | 15 : 30 | 1. FSV Mainz 05 |  |
 | (Sat) 3/May 2014 12:00 | Eintr. Braunschweig | 15 : 30 | FC Augsburg |  |
 | (Sat) 3/May 2014 12:00 | Werder Bremen | 15 : 30 | Hertha BSC |  |
- 
 | **34. Spieltag**  |
 | (Sat) 10/May 2014 12:00 | Hertha BSC | 15 : 30 | Borussia Dortmund |  |
 | (Sat) 10/May 2014 12:00 | VfL Wolfsburg | 15 : 30 | Borussia M'gladbach |  |
@@ -396,5 +363,3 @@ permalink: /de.2013_14.html
 | (Sat) 10/May 2014 12:00 | 1. FSV Mainz 05 | 15 : 30 | Hamburger SV |  |
 | (Sat) 10/May 2014 12:00 | 1899 Hoffenheim | 15 : 30 | Eintr. Braunschweig |  |
 | (Sat) 10/May 2014 12:00 | FC Augsburg | 15 : 30 | Eintracht Frankfurt |  |
- 
- 

@@ -13,43 +13,43 @@ permalink: /jp.html
 
 ### Uncategorized _(19)_{:.count}
 
-Albirex Niigata _#niigata_{: .key} <br>
+Albirex Niigata • アルビレックス新潟  _#niigata_{: .key} <br>
 {: .team #niigata }
-Cerezo Osaka _#cosaka_{: .key} <br>
+Cerezo Osaka • セレッソ大阪  _#cosaka_{: .key} <br>
 {: .team #cosaka }
-FC Tokyo _#fctokyo_{: .key} <br>
+FC Tokyo • Tokyo • FC東京  _#fctokyo_{: .key} <br>
 {: .team #fctokyo }
-Japan _#jpn_{: .key} <br>
+Japan  (JPN) _#jpn_{: .key} <br>
 {: .team #jpn }
-Júbilo Iwata _#iwata_{: .key} <br>
+Júbilo Iwata • ジュビロ磐田  _#iwata_{: .key} <br>
 {: .team #iwata }
-Kashima Antlers _#kashima_{: .key} <br>
+Kashima Antlers • 鹿島アントラーズ  _#kashima_{: .key} <br>
 {: .team #kashima }
-Kashiwa Reysol _#kashiwa_{: .key} <br>
+Kashiwa Reysol • 柏レイソル  _#kashiwa_{: .key} <br>
 {: .team #kashiwa }
-Kawasaki Frontale _#kawasaki_{: .key} <br>
+Kawasaki Frontale • 川崎フロンターレ logo  _#kawasaki_{: .key} <br>
 {: .team #kawasaki }
-Nagoya Grampus _#nagoya_{: .key} <br>
+Nagoya Grampus • 名古屋グランパス  _#nagoya_{: .key} <br>
 {: .team #nagoya }
-Oita Trinita _#oita_{: .key} <br>
+Oita Trinita • 大分トリニータ  _#oita_{: .key} <br>
 {: .team #oita }
-Omiya Ardija _#omiya_{: .key} <br>
+Omiya Ardija • 大宮アルディージャ  _#omiya_{: .key} <br>
 {: .team #omiya }
-Sagan Tosu _#tosu_{: .key} <br>
+Sagan Tosu • サガン鳥栖  _#tosu_{: .key} <br>
 {: .team #tosu }
-Sanfrecce Hiroshima _#hiroshima_{: .key} <br>
+Sanfrecce Hiroshima • サンフレッチェ広島  _#hiroshima_{: .key} <br>
 {: .team #hiroshima }
-Shimizu S-Pulse _#shimizu_{: .key} <br>
+Shimizu S-Pulse • 清水エスパルス  _#shimizu_{: .key} <br>
 {: .team #shimizu }
-Shonan Bellmare _#shonan_{: .key} <br>
+Shonan Bellmare • 湘南ベルマーレ  _#shonan_{: .key} <br>
 {: .team #shonan }
-Urawa Red Diamonds _#urawa_{: .key} <br>
+Urawa Red Diamonds • 浦和レッドダイヤモンズ  _#urawa_{: .key} <br>
 {: .team #urawa }
-Vegalta Sendai _#sendai_{: .key} <br>
+Vegalta Sendai • ベガルタ仙台  _#sendai_{: .key} <br>
 {: .team #sendai }
-Ventforet Kofu _#kofu_{: .key} <br>
+Ventforet Kofu • ヴァンフォーレ甲府  _#kofu_{: .key} <br>
 {: .team #kofu }
-Yokohama F. Marinos _#yokohamafm_{: .key} <br>
+Yokohama F. Marinos • Yokohama F Marinos • 横浜F・マリノス  _#yokohamafm_{: .key} <br>
 {: .team #yokohamafm }
 
 

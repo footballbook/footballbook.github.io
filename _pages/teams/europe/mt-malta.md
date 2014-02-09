@@ -13,17 +13,17 @@ permalink: /mt.html
 
 ### Uncategorized _(6)_{:.count}
 
-Birkirkara FC _#birkirkara_{: .key} <br>
+Birkirkara FC  _#birkirkara_{: .key} <br>
 {: .team #birkirkara }
-Floriana FC _#floriana_{: .key} <br>
+Floriana FC  _#floriana_{: .key} <br>
 {: .team #floriana }
-Hibernians FC _#hibernians_{: .key} <br>
+Hibernians FC  _#hibernians_{: .key} <br>
 {: .team #hibernians }
-Marsaxlokk FC _#marsaxlokk_{: .key} <br>
+Marsaxlokk FC  _#marsaxlokk_{: .key} <br>
 {: .team #marsaxlokk }
-Sliema Wanderers FC _#sliema_{: .key} <br>
+Sliema Wanderers FC  _#sliema_{: .key} <br>
 {: .team #sliema }
-Valletta FC _#valletta_{: .key} <br>
+Valletta FC  _#valletta_{: .key} <br>
 {: .team #valletta }
 
 

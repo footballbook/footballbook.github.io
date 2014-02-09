@@ -13,33 +13,33 @@ permalink: /ro.html
 
 ### Uncategorized _(14)_{:.count}
 
-Astra Giurgiu _#astra_{: .key} <br>
+Astra Giurgiu  (AFC) _#astra_{: .key} <br>
 {: .team #astra }
-CSMS Iasi _#iasi_{: .key} <br>
+CSMS Iasi  (CSI) _#iasi_{: .key} <br>
 {: .team #iasi }
-Ceahlaul Piatra Neamt _#ceahlau_{: .key} <br>
+Ceahlaul Piatra Neamt  (FCC) _#ceahlau_{: .key} <br>
 {: .team #ceahlau }
-Concordia Chiajna _#chiajna_{: .key} <br>
+Concordia Chiajna  (CCH) _#chiajna_{: .key} <br>
 {: .team #chiajna }
-FC Brasov _#fcbrasov_{: .key} <br>
+FC Brasov  (FCB) _#fcbrasov_{: .key} <br>
 {: .team #fcbrasov }
-FC Severin _#severin_{: .key} <br>
+FC Severin  (FCS) _#severin_{: .key} <br>
 {: .team #severin }
-FC Vaslui _#vaslui_{: .key} <br>
+FC Vaslui  (FCV) _#vaslui_{: .key} <br>
 {: .team #vaslui }
-Gaz Metan Medias _#gazmetanmedias_{: .key} <br>
+Gaz Metan Medias  (GMM) _#gazmetanmedias_{: .key} <br>
 {: .team #gazmetanmedias }
-Gloria Bistrita _#gloriabistrita_{: .key} <br>
+Gloria Bistrita  (GBS) _#gloriabistrita_{: .key} <br>
 {: .team #gloriabistrita }
-Otelul Galati _#otelul_{: .key} <br>
+Otelul Galati  (OTG) _#otelul_{: .key} <br>
 {: .team #otelul }
-Pandurii Tg Jiu _#pandurii_{: .key} <br>
+Pandurii Tg Jiu  (PTJ) _#pandurii_{: .key} <br>
 {: .team #pandurii }
-Petrolul Ploiesti _#petrolul_{: .key} <br>
+Petrolul Ploiesti  (PPL) _#petrolul_{: .key} <br>
 {: .team #petrolul }
-Romania _#rou_{: .key} <br>
+Romania  (ROU) _#rou_{: .key} <br>
 {: .team #rou }
-Viitorul Constanta _#viitorulconstanta_{: .key} <br>
+Viitorul Constanta  (VCT) _#viitorulconstanta_{: .key} <br>
 {: .team #viitorulconstanta }
 
 
@@ -81,9 +81,9 @@ Viitorul Constanta _#viitorulconstanta_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-CFR Cluj _#cfrcluj_{: .key} <br>
+CFR Cluj • CFR 1907 Cluj  (CFR) _#cfrcluj_{: .key} <br>
 {: .team #cfrcluj }
-U Cluj _#ucluj_{: .key} <br>
+U Cluj  (UCJ) _#ucluj_{: .key} <br>
 {: .team #ucluj }
 
 </div>
@@ -477,11 +477,11 @@ U Cluj _#ucluj_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Al Ittihad Al Sakandary [Alexandrian Union Club] _#alittihad_{: .key} <br>
+Al Ittihad Al Sakandary [Alexandrian Union Club] • نادى الإتحاد السكندرى  _#alittihad_{: .key} <br>
 {: .team #alittihad }
-Haras El Hodood _#haraselhodood_{: .key} <br>
+Haras El Hodood • Haras El-Hodood SC • نادي_حرس_الحدود  _#haraselhodood_{: .key} <br>
 {: .team #haraselhodood }
-Smouha _#smouha_{: .key} <br>
+Smouha • Smouha SC • Smouha Sporting Club • نادى سموحة  _#smouha_{: .key} <br>
 {: .team #smouha }
 
 </div>
@@ -497,11 +497,11 @@ Smouha _#smouha_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Dinamo București _#dinamobu_{: .key} <br>
+Dinamo București  (FCD) _#dinamobu_{: .key} <br>
 {: .team #dinamobu }
-Rapid București _#rapidbu_{: .key} <br>
+Rapid București  (RBU) _#rapidbu_{: .key} <br>
 {: .team #rapidbu }
-Steaua _#steaua_{: .key} <br>
+Steaua • Steaua București  (SBU) _#steaua_{: .key} <br>
 {: .team #steaua }
 
 </div>

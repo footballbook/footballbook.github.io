@@ -13,37 +13,37 @@ permalink: /eg.html
 
 ### Uncategorized _(16)_{:.count}
 
-Al Ahly _#alahly_{: .key} <br>
+Al Ahly • Al-Ahly • Al Ahly Cairo • Al Ahly SC • Al Ahly Sporting Club • النادي الأهلي للرياضة البدنية  _#alahly_{: .key} <br>
 {: .team #alahly }
-Al Mokawloon Al Arab [Arab Contractors (Sporting Club)] _#almokawloonalarab_{: .key} <br>
+Al Mokawloon Al Arab [Arab Contractors (Sporting Club)] • نادي المقاولون العرب الرياضي  _#almokawloonalarab_{: .key} <br>
 {: .team #almokawloonalarab }
-Egypt _#egy_{: .key} <br>
+Egypt  (EGY) _#egy_{: .key} <br>
 {: .team #egy }
-El Dakhleya _#eldakhleya_{: .key} <br>
+El Dakhleya • نادى الداخلية  _#eldakhleya_{: .key} <br>
 {: .team #eldakhleya }
-El Entag El Harby [Military Production] _#elentagelharby_{: .key} <br>
+El Entag El Harby [Military Production] • الانتاج الحربي‎  _#elentagelharby_{: .key} <br>
 {: .team #elentagelharby }
-El Gouna _#elgouna_{: .key} <br>
+El Gouna • El Gouna FC • نادى الجونة  _#elgouna_{: .key} <br>
 {: .team #elgouna }
-Enppi _#enppi_{: .key} <br>
+Enppi • ENPPI Club • نادي إنبي  _#enppi_{: .key} <br>
 {: .team #enppi }
-Ghazl El Mahalla _#ghazlelmahalla_{: .key} <br>
+Ghazl El Mahalla • Ghazl El Mahalla SC • Ghazl El Mahalla Sporting Club • نادي_غزل_المحلة  _#ghazlelmahalla_{: .key} <br>
 {: .team #ghazlelmahalla }
-Ismaily _#ismaily_{: .key} <br>
+Ismaily • Ismaily SC • النادى الإسماعيلى  _#ismaily_{: .key} <br>
 {: .team #ismaily }
-Ittihad El Shorta [Police Union] _#ittihadelshorta_{: .key} <br>
+Ittihad El Shorta [Police Union] • اتحاد_الشرطة  _#ittihadelshorta_{: .key} <br>
 {: .team #ittihadelshorta }
-Misr El Makasa _#misrelmakasa_{: .key} <br>
+Misr El Makasa • مصر المقاصة  _#misrelmakasa_{: .key} <br>
 {: .team #misrelmakasa }
-Petrojet _#petrojet_{: .key} <br>
+Petrojet • Petrojet FC • Petrojet Football Club • نادي_بتروجيت  _#petrojet_{: .key} <br>
 {: .team #petrojet }
-Tala'ea El Gaish [Army's Vanguards] _#talaeaelgaish_{: .key} <br>
+Tala'ea El Gaish [Army's Vanguards] • Tala'ea El-Gaish SC • نادي طلائع الجيش الرياضي  _#talaeaelgaish_{: .key} <br>
 {: .team #talaeaelgaish }
-Telephonat Bani Sweif _#telephonatbanisweif_{: .key} <br>
+Telephonat Bani Sweif • تليفونات بني سويف  _#telephonatbanisweif_{: .key} <br>
 {: .team #telephonatbanisweif }
-Wadi Degla _#wadidegla_{: .key} <br>
+Wadi Degla • Wadi Degla FC • نادى وادى دجلة  _#wadidegla_{: .key} <br>
 {: .team #wadidegla }
-Zamalek _#zamalek_{: .key} <br>
+Zamalek • Zamalek SC • Zamalek Sporting Club • نادى الزمالك  _#zamalek_{: .key} <br>
 {: .team #zamalek }
 
 

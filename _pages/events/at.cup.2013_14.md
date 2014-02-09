@@ -11,7 +11,7 @@ permalink: /at.cup.2013_14.html
 #### 64 Teams
 
 
- FK Austria Wien (AUS)   •  FC RB Salzburg (RBS)   •  SK Rapid Wien (RAP)   •  SK Sturm Graz (STU)   •  Wolfsberger AC (WAC)   •  SV Ried (RIE)   •  FC Admira Wacker (ADM)   •  FC Wacker Innsbruck (FCW)   •  SC Wiener Neustadt (WRN)   •  SV Grödig (SVG)   •  SV Mattersburg (MAT)   •  SCR Altach (ALT)   •  SC Austria Lustenau (ALU)   •  SKN St. Pölten (SKN)   •  Kapfenberger SV (KSV)   •  SV Horn (SVH)   •  TSV Hartberg (HTB)   •  Vienna FC 1894 (VIE)   •  SC/ESV Parndorf 1919 (PAR)   •  Floridsdorfer AC (FAC)   •  Wiener SK (WIE)   •  Wiener Viktoria (VIK)   •  1. SC Sollenau (SOL)   •  SKU Amstetten (AMS)   •  SC Retz (RET)   •  SV Schwechat (SCH)   •  ATSV Ober-Grafendorf    •  SV Oberwart (OBE)   •  SV Stegersbach (STE)   •  FC Blau-Weiß Linz (BWL)   •  LASK Linz (LAS)   •  FC Pasching (PAS)   •  Vöcklamarkt (VOE)   •  St. Florian (STF)   •  Villacher SV (VSV)   •  SAK Klagenfurt (CEL)   •  SK Austria Klagenfurt (KLA)   •  SC Kalsdorf (KAL)   •  FC Gratkorn (GRA)   •  SV Allerheiligen (ALL)   •  SV Austria Salzburg (AUS)   •  TSV St. Johann (STJ)   •  TSV Neumarkt am Wallersee    •  SV Seekirchen 1945    •  SV Wals-Grünau    •  FC Kufstein (KUF)   •  WSG Wattens (WAT)   •  SC Schwaz (SCH)   •  FC Hard (HAR)   •  SC Bregenz (BRE)   •  FC Dornbirn 1913 (DOR)   •  DSV Leoben (LEO)   •  ASK Bad Vöslau (VOE)   •  SK Vorwärts Steyr    •  SC Pinkafeld    •  ASV Draßburg    •  FC St. Veit    •  SC Mannsdorf    •  SC Leopoldsdorf    •  FC Lankowitz    •  SV Lafnitz    •  FC Kitzbühel    •  Dornbirner SV    •  Team Wiener Linien   
+ [FK Austria Wien](at.html#austria) (AUS)   •  [FC RB Salzburg](at.html#salzburg) (RBS)   •  [SK Rapid Wien](at.html#rapid) (RAP)   •  [SK Sturm Graz](at.html#sturm) (STU)   •  [Wolfsberger AC](at.html#wac) (WAC)   •  [SV Ried](at.html#ried) (RIE)   •  [FC Admira Wacker](at.html#admira) (ADM)   •  [FC Wacker Innsbruck](at.html#innsbruck) (FCW)   •  [SC Wiener Neustadt](at.html#wrneustadt) (WRN)   •  [SV Grödig](at.html#groedig) (SVG)   •  [SV Mattersburg](at.html#mattersburg) (MAT)   •  [SCR Altach](at.html#altach) (ALT)   •  [SC Austria Lustenau](at.html#austrial) (ALU)   •  [SKN St. Pölten](at.html#stpoelten) (SKN)   •  [Kapfenberger SV](at.html#ksv) (KSV)   •  [SV Horn](at.html#horn) (SVH)   •  [TSV Hartberg](at.html#hartberg) (HTB)   •  [Vienna FC 1894](at.html#vienna) (VIE)   •  [SC/ESV Parndorf 1919](at.html#parndorf) (PAR)   •  [Floridsdorfer AC](at.html#fac) (FAC)   •  [Wiener SK](at.html#wienersk) (WIE)   •  [Wiener Viktoria](at.html#viktoria) (VIK)   •  [1. SC Sollenau](at.html#sollenau) (SOL)   •  [SKU Amstetten](at.html#amstetten) (AMS)   •  [SC Retz](at.html#retz) (RET)   •  [SV Schwechat](at.html#schwechat) (SCH)   •  [ATSV Ober-Grafendorf](at.html#obergrafendorf)    •  [SV Oberwart](at.html#oberwart) (OBE)   •  [SV Stegersbach](at.html#stegersbach) (STE)   •  [FC Blau-Weiß Linz](at.html#linz) (BWL)   •  [LASK Linz](at.html#lask) (LAS)   •  [FC Pasching](at.html#pasching) (PAS)   •  [Vöcklamarkt](at.html#voecklamarkt) (VOE)   •  [St. Florian](at.html#stflorian) (STF)   •  [Villacher SV](at.html#vsv) (VSV)   •  [SAK Klagenfurt](at.html#klagenfurt) (CEL)   •  [SK Austria Klagenfurt](at.html#austriak) (KLA)   •  [SC Kalsdorf](at.html#kalsdorf) (KAL)   •  [FC Gratkorn](at.html#gratkorn) (GRA)   •  [SV Allerheiligen](at.html#allerheiligen) (ALL)   •  [SV Austria Salzburg](at.html#austrias) (AUS)   •  [TSV St. Johann](at.html#stjohann) (STJ)   •  [TSV Neumarkt am Wallersee](at.html#neumarkt)    •  [SV Seekirchen 1945](at.html#seekirchen)    •  [SV Wals-Grünau](at.html#walsgruenau)    •  [FC Kufstein](at.html#kufstein) (KUF)   •  [WSG Wattens](at.html#wattens) (WAT)   •  [SC Schwaz](at.html#schwaz) (SCH)   •  [FC Hard](at.html#hard) (HAR)   •  [SC Bregenz](at.html#bregenz) (BRE)   •  [FC Dornbirn 1913](at.html#dornbirn) (DOR)   •  [DSV Leoben](at.html#leoben) (LEO)   •  [ASK Bad Vöslau](at.html#badvoeslau) (VOE)   •  [SK Vorwärts Steyr](at.html#steyr)    •  [SC Pinkafeld](at.html#pinkafeld)    •  [ASV Draßburg](at.html#drassburg)    •  [FC St. Veit](at.html#stveit)    •  [SC Mannsdorf](at.html#mannsdorf)    •  [SC Leopoldsdorf](at.html#leopoldsdorf)    •  [FC Lankowitz](at.html#lankowitz)    •  [SV Lafnitz](at.html#lafnitz)    •  [FC Kitzbühel](at.html#kitzbuehel)    •  [Dornbirner SV](at.html#dornbirnersv)    •  [Team Wiener Linien](at.html#wienerlinien)   
 
 
  
@@ -45,7 +45,6 @@ permalink: /at.cup.2013_14.html
 | (Sat) 13/Jul 2013 12:00 | ASK Bad Vöslau | 2 : 3 | TSV Hartberg |  |
 | (Sun) 14/Jul 2013 12:00 | LASK Linz | 0 : 0 / 0 : 0 n.V. / 5 : 4 i.E. | SK Rapid Wien |  |
 | (Sun) 14/Jul 2013 12:00 | SV Allerheiligen | 1 : 4 | FC Wacker Innsbruck |  |
- 
 | **2. Runde (Knockout)** / Di+Mi 24.+25. Sep 2013 |
 | (Mon) 23/Sep 2013 12:00 | SAK Klagenfurt | 2 : 2 / 4 : 2 n.V. | TSV Hartberg |  |
 | (Mon) 23/Sep 2013 12:00 | LASK Linz | 3 : 4 | SKN St. Pölten |  |
@@ -63,7 +62,6 @@ permalink: /at.cup.2013_14.html
 | (Tue) 24/Sep 2013 12:00 | SC Pinkafeld | 1 : 4 | Wolfsberger AC |  |
 | (Tue) 24/Sep 2013 12:00 | Floridsdorfer AC | 0 : 0 / 0 : 0 n.V. / 5 : 6 i.E. | FC Admira Wacker |  |
 | (Tue) 24/Sep 2013 12:00 | FC Lankowitz | 1 : 1 / 1 : 1 n.V. / 5 : 6 i.E. | FC RB Salzburg |  |
- 
 | **Achtelfinale** / Di+Mi 29.+30. Okt 2013 |
 | (Mon) 28/Oct 2013 12:00 | SC Kalsdorf | 0 : 4 | SKN St. Pölten |  |
 | (Mon) 28/Oct 2013 12:00 | SV Horn | 5 : 4 | SC/ESV Parndorf 1919 |  |
@@ -73,11 +71,6 @@ permalink: /at.cup.2013_14.html
 | (Tue) 29/Oct 2013 12:00 | SKU Amstetten | 2 : 0 | SV Mattersburg |  |
 | (Tue) 29/Oct 2013 12:00 | Kapfenberger SV | 1 : 7 | FC RB Salzburg |  |
 | (Wed) 30/Oct 2013 12:00 | SC Austria Lustenau | 0 : 4 | SK Sturm Graz |  |
- 
 | **Viertelfinale** / Di+Mi 15.+16. April 2014 |
- 
 | **Halbfinale** / Di+Mi 6.+7. Mai 2014 |
- 
 | **Finale** / So 18. Mai 2014 |
- 
- 

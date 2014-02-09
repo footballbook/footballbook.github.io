@@ -11,7 +11,7 @@ permalink: /america.l.2013.html
 #### 38 Teams
 
 
- San José (SJ)   •  Boca    •  Vélez    •  Tigre    •  Arsenal    •  Newell's    •  Olimpia    •  Bolívar    •  The Strongest    •  Universidad de Chile    •  Huachipato    •  Iquique    •  Millonarios Bogotá    •  Santa Fe    •  Deportes Tolima    •  LDU Quito    •  CS Emelec    •  Barcelona    •  Club Libertad Asunción    •  Cerro Porteño    •  Sporting Cristal    •  Real Garcilaso    •  Universidad César Vallejo    •  Nacional    •  Defensor Sporting    •  Peñarol    •  Caracas    •  Deportivo Lara    •  Deportivo Anzoátegui    •  León (LEO)   •  Tijuana (TIJ)   •  Toluca (TOL)   •  Corinthians (COR)   •  São Paulo (SAO)   •  Fluminense (FLU)   •  Grêmio (GRE)   •  Atlético Mineiro (CAM)   •  Palmeiras (PAL)  
+ [San José](bo.html#sanjose) (SJ)   •  [Boca](ar.html#bocajuniors)    •  [Vélez](ar.html#velez)    •  [Tigre](ar.html#tigre)    •  [Arsenal](ar.html#arsenalsarandi)    •  [Newell's](ar.html#newells)    •  [Olimpia](py.html#olimpia)    •  [Bolívar](bo.html#bolivar)    •  [The Strongest](bo.html#thestrongest)    •  [Universidad de Chile](cl.html#udechile)    •  [Huachipato](cl.html#huachipato)    •  [Iquique](cl.html#iquique)    •  [Millonarios Bogotá](co.html#millonarios)    •  [Santa Fe](co.html#santafe)    •  [Deportes Tolima](co.html#deportestolima)    •  [LDU Quito](ec.html#ligadequito)    •  [CS Emelec](ec.html#emelec)    •  [Barcelona](ec.html#barcelonaguayaquil)    •  [Club Libertad Asunción](py.html#libertad)    •  [Cerro Porteño](py.html#porteno)    •  [Sporting Cristal](pe.html#sportingcristal)    •  [Real Garcilaso](pe.html#realgarcilaso)    •  [Universidad César Vallejo](pe.html#trujillo)    •  [Nacional](uy.html#nacional)    •  [Defensor Sporting](uy.html#defensorsporting)    •  [Peñarol](uy.html#penarol)    •  [Caracas](ve.html#caracas)    •  [Deportivo Lara](ve.html#deportivolara)    •  [Deportivo Anzoátegui](ve.html#deportivoanzoategui)    •  [León](mx.html#leon) (LEO)   •  [Tijuana](mx.html#tijuana) (TIJ)   •  [Toluca](mx.html#toluca) (TOL)   •  [Corinthians](br.html#corinthians) (COR)   •  [São Paulo](br.html#saopaulo) (SAO)   •  [Fluminense](br.html#fluminense) (FLU)   •  [Grêmio](br.html#gremio) (GRE)   •  [Atlético Mineiro](br.html#atleticomg) (CAM)   •  [Palmeiras](br.html#palmeiras) (PAL)  
 
 
 
@@ -19,14 +19,14 @@ permalink: /america.l.2013.html
 
  Group 1 •  Group 2 •  Group 3 •  Group 4 •  Group 5 •  Group 6 •  Group 7 •  Group 8
 
-| Group 1 -- |  | Boca  | Barcelona  | Nacional  | Toluca  |
-| Group 2 -- |  | Tigre  | Club Libertad Asunción  | Sporting Cristal  | Palmeiras  |
-| Group 3 -- |  | Arsenal  | The Strongest  | São Paulo  | Atlético Mineiro  |
-| Group 4 -- |  | Vélez  | Iquique  | CS Emelec  | Peñarol  |
-| Group 5 -- |  | San José  | Millonarios Bogotá  | Tijuana  | Corinthians  |
-| Group 6 -- |  | Santa Fe  | Deportes Tolima  | Cerro Porteño  | Real Garcilaso  |
-| Group 7 -- |  | Newell's  | Olimpia  | Universidad de Chile  | Deportivo Lara  |
-| Group 8 -- |  | Huachipato  | Caracas  | Fluminense  | Grêmio  |
+| Group 1 | -- |  | Boca  | Barcelona  | Nacional  | Toluca  |
+| Group 2 | -- |  | Tigre  | Club Libertad Asunción  | Sporting Cristal  | Palmeiras  |
+| Group 3 | -- |  | Arsenal  | The Strongest  | São Paulo  | Atlético Mineiro  |
+| Group 4 | -- |  | Vélez  | Iquique  | CS Emelec  | Peñarol  |
+| Group 5 | -- |  | San José  | Millonarios Bogotá  | Tijuana  | Corinthians  |
+| Group 6 | -- |  | Santa Fe  | Deportes Tolima  | Cerro Porteño  | Real Garcilaso  |
+| Group 7 | -- |  | Newell's  | Olimpia  | Universidad de Chile  | Deportivo Lara  |
+| Group 8 | -- |  | Huachipato  | Caracas  | Fluminense  | Grêmio  |
 
  
 
@@ -44,7 +44,6 @@ permalink: /america.l.2013.html
 | (Thu) 24/Jan 2013 20:00 | Defensor Sporting | 0 : 0 | Olimpia |  |
 | (Wed) 23/Jan 2013 22:00 | São Paulo | 5 : 0 | Bolívar |  |
 | (Tue) 22/Jan 2013 19:45 | León | 1 : 1 | Iquique |  |
- 
 | **Matchday P.2  /  2nd Leg** / January 29-31 |
 | (Tue) 29/Jan 2013 17:45 | Deportivo Anzoátegui | 0 : 3 | Tigre |  |
 | (Wed) 30/Jan 2013 22:00 | Grêmio | 1 : 0 / 5 : 4 i.E. | LDU Quito |  |
@@ -52,7 +51,6 @@ permalink: /america.l.2013.html
 | (Thu) 31/Jan 2013 19:15 | Olimpia | 2 : 0 | Defensor Sporting |  |
 | (Wed) 30/Jan 2013 20:00 | Bolívar | 4 : 3 | São Paulo |  |
 | (Tue) 29/Jan 2013 22:00 | Iquique | 1 : 1 / 4 : 2 i.E. | León |  |
- 
 | **Matchday 1** / February 12-14 |
 | (Tue) 12/Feb 2013 20:15 | Nacional | 2 : 2 | Barcelona | (Group 1) |
 | (Wed) 13/Feb 2013 21:00 | Boca | 1 : 2 | Toluca | (Group 1) |
@@ -67,7 +65,6 @@ permalink: /america.l.2013.html
 | (Thu) 14/Feb 2013 18:45 | Newell's | 3 : 1 | Olimpia | (Group 7) |
 | (Wed) 13/Feb 2013 19:30 | Caracas | 0 : 1 | Fluminense | (Group 8) |
 | (Thu) 14/Feb 2013 19:45 | Grêmio | 1 : 2 | Huachipato | (Group 8) |
- 
 | **Matchday 2** / February 19-21 |
 | (Tue) 19/Feb 2013 20:45 | Toluca | 2 : 3 | Nacional | (Group 1) |
 | (Thu) 21/Feb 2013 19:15 | Tigre | 0 : 2 | Club Libertad Asunción | (Group 2) |
@@ -81,7 +78,6 @@ permalink: /america.l.2013.html
 | (Thu) 21/Feb 2013 17:45 | Deportivo Lara | 2 : 1 | Newell's | (Group 7) |
 | (Wed) 20/Feb 2013 19:45 | Huachipato | 1 : 3 | Caracas | (Group 8) |
 | (Wed) 20/Feb 2013 22:00 | Fluminense | 0 : 3 | Grêmio | (Group 8) |
- 
 | **Matchday 3** / February 26-28 |
 | (Wed) 27/Feb 2013 17:45 | Barcelona | 1 : 2 | Boca | (Group 1) |
 | (Thu) 28/Feb 2013 19:15 | Club Libertad Asunción | 2 : 0 | Palmeiras | (Group 2) |
@@ -94,7 +90,6 @@ permalink: /america.l.2013.html
 | (Wed) 27/Feb 2013 22:00 | Corinthians | 2 : 0 | Millonarios Bogotá | (Group 5) |
 | (Tue) 26/Feb 2013 17:45 | Deportes Tolima | 0 : 1 | Real Garcilaso | (Group 6) |
 | (Wed) 27/Feb 2013 22:00 | Huachipato | 1 : 2 | Fluminense | (Group 8) |
- 
 | **Matchday 4** / March 5-7 |
 | (Wed) 6/Mar 2013 21:15 | Toluca | 1 : 1 | Barcelona | (Group 1) |
 | (Thu) 7/Mar 2013 21:30 | Boca | 0 : 1 | Nacional | (Group 1) |
@@ -110,7 +105,6 @@ permalink: /america.l.2013.html
 | (Tue) 5/Mar 2013 21:30 | Newell's | 1 : 2 | Universidad de Chile | (Group 7) |
 | (Tue) 5/Mar 2013 21:30 | Grêmio | 4 : 1 | Caracas | (Group 8) |
 | (Wed) 6/Mar 2013 22:00 | Fluminense | 1 : 1 | Huachipato | (Group 8) |
- 
 | **Matchday 5** / March 12-14 |
 | (Wed) 13/Mar 2013 17:45 | Barcelona | 0 : 0 | Toluca | (Group 1) |
 | (Thu) 14/Mar 2013 19:15 | Nacional | 0 : 1 | Boca | (Group 1) |
@@ -123,7 +117,6 @@ permalink: /america.l.2013.html
 | (Tue) 12/Mar 2013 21:30 | Universidad de Chile | 0 : 2 | Newell's | (Group 7) |
 | (Wed) 13/Mar 2013 18:15 | Deportivo Lara | 1 : 5 | Olimpia | (Group 7) |
 | (Tue) 12/Mar 2013 20:00 | Caracas | 2 : 1 | Grêmio | (Group 8) |
- 
 | **Matchday 6** / April 2-4 |
 | (Wed) 3/Apr 2013 19:45 | Boca | 1 : 0 | Barcelona | (Group 1) |
 | (Thu) 4/Apr 2013 19:15 | Nacional | 4 : 0 | Toluca | (Group 1) |
@@ -139,7 +132,6 @@ permalink: /america.l.2013.html
 | (Tue) 2/Apr 2013 19:15 | Universidad de Chile | 0 : 1 | Olimpia | (Group 7) |
 | (Thu) 4/Apr 2013 19:15 | Newell's | 3 : 1 | Deportivo Lara | (Group 7) |
 | (Thu) 4/Apr 2013 20:00 | Caracas | 0 : 4 | Huachipato | (Group 8) |
- 
 | **Matchday 7** / April 9-11 |
 | (Tue) 9/Apr 2013 19:15 | Tigre | 3 : 1 | Sporting Cristal | (Group 2) |
 | (Thu) 11/Apr 2013 19:15 | Palmeiras | 1 : 0 | Club Libertad Asunción | (Group 2) |
@@ -152,7 +144,6 @@ permalink: /america.l.2013.html
 | (Thu) 11/Apr 2013 20:00 | Deportivo Lara | 2 : 3 | Universidad de Chile | (Group 7) |
 | (Thu) 11/Apr 2013 21:30 | Olimpia | 4 : 1 | Newell's | (Group 7) |
 | (Wed) 10/Apr 2013 22:00 | Grêmio | 0 : 0 | Fluminense | (Group 8) |
- 
 | **Matchday 8** / April 16-18 |
 | (Wed) 17/Apr 2013 17:45 | Barcelona | 1 : 0 | Nacional | (Group 1) |
 | (Wed) 17/Apr 2013 17:45 | Toluca | 3 : 2 | Boca | (Group 1) |
@@ -164,7 +155,6 @@ permalink: /america.l.2013.html
 | (Tue) 16/Apr 2013 20:15 | Santa Fe | 2 : 0 | Real Garcilaso | (Group 6) |
 | (Thu) 18/Apr 2013 19:00 | Huachipato | 1 : 1 | Grêmio | (Group 8) |
 | (Thu) 18/Apr 2013 20:00 | Fluminense | 1 : 0 | Caracas | (Group 8) |
- 
 | **Round of 16 / 1st Leg** / April 24 - May 2 |
 | (Wed) 24/Apr 2013 12:00 | Newell's | 0 : 1 | Vélez |  |
 | (Thu) 25/Apr 2013 12:00 | Real Garcilaso | 1 : 0 | Nacional |  |
@@ -174,7 +164,6 @@ permalink: /america.l.2013.html
 | (Wed) 1/May 2013 12:00 | Grêmio | 2 : 1 | Santa Fe |  |
 | (Thu) 2/May 2013 12:00 | São Paulo | 1 : 2 | Atlético Mineiro |  |
 | (Thu) 2/May 2013 12:00 | CS Emelec | 2 : 1 | Fluminense |  |
- 
 | **Round of 16 / 2nd Leg** / May 8-16 |
 | (Wed) 8/May 2013 12:00 | Atlético Mineiro | 4 : 1 | São Paulo |  |
 | (Wed) 8/May 2013 12:00 | Fluminense | 2 : 0 | CS Emelec |  |
@@ -184,31 +173,23 @@ permalink: /america.l.2013.html
 | (Wed) 15/May 2013 12:00 | Vélez | 1 : 2 | Newell's |  |
 | (Thu) 16/May 2013 12:00 | Santa Fe | 1 : 0 | Grêmio |  |
 | (Thu) 16/May 2013 12:00 | Olimpia | 2 : 0 | Tigre |  |
- 
 | **Quarterfinal / 1st Leg** / May 22-23 |
 | (Wed) 22/May 2013 12:00 | Real Garcilaso | 1 : 3 | Santa Fe |  |
 | (Wed) 22/May 2013 12:00 | Fluminense | 0 : 0 | Olimpia |  |
 | (Thu) 23/May 2013 12:00 | Tijuana | 2 : 2 | Atlético Mineiro |  |
 | (Thu) 23/May 2013 12:00 | Boca | 0 : 0 | Newell's |  |
- 
 | **Quarterfinal / 2nd Leg** / May 28-30 |
 | (Tue) 28/May 2013 12:00 | Santa Fe | 2 : 0 | Real Garcilaso |  |
 | (Wed) 29/May 2013 12:00 | Newell's | 0 : 0 / 10 : 9 i.E. | Boca |  |
 | (Wed) 29/May 2013 12:00 | Olimpia | 2 : 1 | Fluminense |  |
 | (Thu) 30/May 2013 12:00 | Atlético Mineiro | 1 : 1 | Tijuana |  |
- 
 | **Semifinals  / 1st Leg** / July 2-3 |
 | (Tue) 2/Jul 2013 12:00 | Olimpia | 2 : 0 | Santa Fe |  |
 | (Wed) 3/Jul 2013 12:00 | Newell's | 2 : 0 | Atlético Mineiro |  |
- 
 | **Semifinals  / 2nd Leg** / July 9-10 |
 | (Tue) 9/Jul 2013 12:00 | Santa Fe | 1 : 0 | Olimpia |  |
 | (Wed) 10/Jul 2013 12:00 | Atlético Mineiro | 2 : 0 / 3 : 2 i.E. | Newell's |  |
- 
 | **Final / 1st Leg** / July 17 |
 | (Wed) 17/Jul 2013 12:00 | Olimpia | 2 : 0 | Atlético Mineiro |  |
- 
 | **Final / 2nd Leg** / July 24 |
 | (Wed) 24/Jul 2013 12:00 | Atlético Mineiro | 2 : 0 / 4 : 3 i.E. | Olimpia |  |
- 
- 

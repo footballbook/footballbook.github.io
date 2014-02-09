@@ -13,7 +13,7 @@ permalink: /cv.html
 
 ### Uncategorized _(1)_{:.count}
 
-Cape Verde _#cpv_{: .key} <br>
+Cape Verde  (CPV) _#cpv_{: .key} <br>
 {: .team #cpv }
 
 

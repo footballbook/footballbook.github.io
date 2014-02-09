@@ -13,7 +13,7 @@ permalink: /bz.html
 
 ### Uncategorized _(1)_{:.count}
 
-Belize _#blz_{: .key} <br>
+Belize  (BLZ) _#blz_{: .key} <br>
 {: .team #blz }
 
 

@@ -13,23 +13,23 @@ permalink: /sk.html
 
 ### Uncategorized _(9)_{:.count}
 
-Dukla Banská Bystrica _#bystrica_{: .key} <br>
+Dukla Banská Bystrica  _#bystrica_{: .key} <br>
 {: .team #bystrica }
-FC Nitra _#nitra_{: .key} <br>
+FC Nitra  _#nitra_{: .key} <br>
 {: .team #nitra }
-FC Spartak Trnava _#trnava_{: .key} <br>
+FC Spartak Trnava  _#trnava_{: .key} <br>
 {: .team #trnava }
-FK Senica _#senica_{: .key} <br>
+FK Senica  _#senica_{: .key} <br>
 {: .team #senica }
-MFK Košice _#kosice_{: .key} <br>
+MFK Košice  _#kosice_{: .key} <br>
 {: .team #kosice }
-MFK Petržalka _#petrzalka_{: .key} <br>
+MFK Petržalka  _#petrzalka_{: .key} <br>
 {: .team #petrzalka }
-MŠK Žilina _#zilina_{: .key} <br>
+MŠK Žilina  _#zilina_{: .key} <br>
 {: .team #zilina }
-Slovakia _#svk_{: .key} <br>
+Slovakia  (SVK) _#svk_{: .key} <br>
 {: .team #svk }
-ŠK Slovan Bratislava _#bratislava_{: .key} <br>
+ŠK Slovan Bratislava  _#bratislava_{: .key} <br>
 {: .team #bratislava }
 
 

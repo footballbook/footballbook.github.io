@@ -13,7 +13,7 @@ permalink: /tg.html
 
 ### Uncategorized _(1)_{:.count}
 
-Togo _#tog_{: .key} <br>
+Togo  (TOG) _#tog_{: .key} <br>
 {: .team #tog }
 
 

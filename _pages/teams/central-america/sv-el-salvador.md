@@ -13,17 +13,17 @@ permalink: /sv.html
 
 ### Uncategorized _(6)_{:.count}
 
-Alianza _#alianza_{: .key} <br>
+Alianza • Alianza FC • Alianza Fútbol Club  _#alianza_{: .key} <br>
 {: .team #alianza }
-CD FAS _#fas_{: .key} <br>
+CD FAS • Club Deportivo FAS • Futbolistas Asociados Santanecos  (FAS) _#fas_{: .key} <br>
 {: .team #fas }
-El Salvador _#slv_{: .key} <br>
+El Salvador  (SLV) _#slv_{: .key} <br>
 {: .team #slv }
-L.A. Firpo _#luisangelfirpo_{: .key} <br>
+L.A. Firpo • Luis Ángel Firpo • CD Luis Ángel Firpo  _#luisangelfirpo_{: .key} <br>
 {: .team #luisangelfirpo }
-Metapán _#metapan_{: .key} <br>
+Metapán • I. Metapán • Isidro Metapán • Asociación Deportiva Isidro Metapán  _#metapan_{: .key} <br>
 {: .team #metapan }
-Águila _#aguila_{: .key} <br>
+Águila • Club Deportivo Águila  _#aguila_{: .key} <br>
 {: .team #aguila }
 
 

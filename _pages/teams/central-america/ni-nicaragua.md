@@ -13,7 +13,7 @@ permalink: /ni.html
 
 ### Uncategorized _(1)_{:.count}
 
-R. Estelí _#esteli_{: .key} <br>
+R. Estelí • Real Estelí • Real Estelí FC  _#esteli_{: .key} <br>
 {: .team #esteli }
 
 
