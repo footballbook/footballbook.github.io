@@ -8,7 +8,6 @@
 {% event.teams.each_with_index do |team,i| %}
      {{ ' • ' if i > 0 }}  ++
      {{ link_to_team( team ) }}  ++
-     {{ "(#{team.code})" if team.code.present? }}  ++
      {{ team.title2  if team.title2.present? }}  ++
       {# render_team_world_tree( team ) #}
 {% end %}

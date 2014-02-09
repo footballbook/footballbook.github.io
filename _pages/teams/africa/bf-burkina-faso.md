@@ -11,9 +11,13 @@ permalink: /bf.html
 
 
 
+
+
+
+
 ### Uncategorized _(1)_{:.count}
 
-Burkina Faso  (BFA) _#bfa_{: .key} <br>
+Burkina Faso  (BFA)  _#bfa_{: .key} <br>
 {: .team #bfa }
 
 

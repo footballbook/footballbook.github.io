@@ -11,7 +11,7 @@ permalink: /mx.clausura.2013.1.html
 #### 18 Teams
 
 
- [América](mx.html#america) (AME)   •  [Cruz Azul](mx.html#cruzazul) (CAZ)   •  [Pumas](mx.html#pumas) (PUM)   •  [Monterrey](mx.html#monterrey) (MTY)   •  [Tigres](mx.html#tigres) (TIG)   •  [Guadalajara](mx.html#chivas) (GUA)   •  [Atlas](mx.html#atlas) (ATS)   •  [Atlante](mx.html#atlante) (ATL)   •  [Jaguares](mx.html#jaguares) (JAG)   •  [León](mx.html#leon) (LEO)   •  [Morelia](mx.html#morelia) (MOR)   •  [Pachuca](mx.html#pachuca) (PAC)   •  [Puebla](mx.html#puebla) (PUE)   •  [Querétaro](mx.html#queretaro) (QRO)   •  [San Luis](mx.html#sanluis) (SNL)   •  [Santos](mx.html#santos) (SAN)   •  [Tijuana](mx.html#tijuana) (TIJ)   •  [Toluca](mx.html#toluca) (TOL)  
+ [América (AME)](mx.html#america)   •  [Cruz Azul (CAZ)](mx.html#cruzazul)   •  [Pumas (PUM)](mx.html#pumas)   •  [Monterrey (MTY)](mx.html#monterrey)   •  [Tigres (TIG)](mx.html#tigres)   •  [Guadalajara (GUA)](mx.html#chivas)   •  [Atlas (ATS)](mx.html#atlas)   •  [Atlante (ATL)](mx.html#atlante)   •  [Jaguares (JAG)](mx.html#jaguares)   •  [León (LEO)](mx.html#leon)   •  [Morelia (MOR)](mx.html#morelia)   •  [Pachuca (PAC)](mx.html#pachuca)   •  [Puebla (PUE)](mx.html#puebla)   •  [Querétaro (QRO)](mx.html#queretaro)   •  [San Luis (SNL)](mx.html#sanluis)   •  [Santos (SAN)](mx.html#santos)   •  [Tijuana (TIJ)](mx.html#tijuana)   •  [Toluca (TOL)](mx.html#toluca)  
 
 
  

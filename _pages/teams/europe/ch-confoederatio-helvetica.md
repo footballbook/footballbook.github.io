@@ -8,12 +8,16 @@ permalink: /ch.html
 {: #ch }
 
 
+
+
+
+
 [Glarus](#ch-gl) _(1)_{:.count} • [Schaffhausen](#ch-sh) _(1)_{:.count} • [Appenzell Ausserrhoden](#ch-ar) _(1)_{:.count} • [Appenzell Innerrhoden](#ch-ai) _(1)_{:.count} • [St. Gallen](#ch-sg) _(2)_{:.count} • [Graubünden](#ch-gr) _(1)_{:.count} • [Thurgau](#ch-tg) _(1)_{:.count} • [Zürich](#ch-zh) _(2)_{:.count} • [Luzern](#ch-lu) _(1)_{:.count} • [Uri](#ch-ur) _(1)_{:.count} • [Schwyz](#ch-sz) _(1)_{:.count} • [Obwalden](#ch-ow) _(1)_{:.count} • [Nidwalden](#ch-nw) _(1)_{:.count} • [Zug](#ch-zg) _(1)_{:.count} • [Basel-Stadt](#ch-bs) _(1)_{:.count} • [Basel-Landschaft](#ch-bl) _(1)_{:.count} • [Aargau](#ch-ag) _(2)_{:.count} • [Bern](#ch-be) _(3)_{:.count} • [Fribourg](#ch-fr) _(1)_{:.count} • [Solothurn](#ch-so) _(1)_{:.count} • [Neuchâtel](#ch-ne) _(0)_{:.count} • [Jura](#ch-ju) _(1)_{:.count} • [Vaud](#ch-vd) _(1)_{:.count} • [Valais](#ch-vs) _(2)_{:.count} • [Genève](#ch-ge) _(1)_{:.count} • [Ticino](#ch-ti) _(4)_{:.count}
 
 
 ### Uncategorized _(1)_{:.count}
 
-Switzerland  (SUI) _#sui_{: .key} <br>
+Switzerland  (SUI)  _#sui_{: .key} <br>
 {: .team #sui }
 
 
@@ -83,7 +87,7 @@ Switzerland  (SUI) _#sui_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC St. Gallen • St. Gallen  (SG) _#stgallen_{: .key} <br>
+FC St. Gallen • St. Gallen  (SG)  -- St. Gallen _#stgallen_{: .key} <br>
 {: .team #stgallen }
 
 </div>
@@ -127,9 +131,9 @@ FC St. Gallen • St. Gallen  (SG) _#stgallen_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Zürich  (FCZ) _#zuerich_{: .key} <br>
+FC Zürich  (FCZ)  -- Zürich _#zuerich_{: .key} <br>
 {: .team #zuerich }
-Grasshopper Club Zürich • Grasshoppers • Grasshoppers Zürich  (GC) _#grasshopper_{: .key} <br>
+Grasshopper Club Zürich • Grasshoppers • Grasshoppers Zürich  (GC)  -- Zürich _#grasshopper_{: .key} <br>
 {: .team #grasshopper }
 
 </div>
@@ -145,7 +149,7 @@ Grasshopper Club Zürich • Grasshoppers • Grasshoppers Zürich  (GC) _#grass
 
 <div class='columns3' markdown='1'>
 
-FC Luzern • Luzern  (LUZ) _#luzern_{: .key} <br>
+FC Luzern • Luzern  (LUZ)  -- Luzern _#luzern_{: .key} <br>
 {: .team #luzern }
 
 </div>
@@ -231,7 +235,7 @@ FC Luzern • Luzern  (LUZ) _#luzern_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Basel 1893 • Basel • FC Basel  (BAS) _#basel_{: .key} <br>
+FC Basel 1893 • Basel • FC Basel  (BAS)  -- Basel _#basel_{: .key} <br>
 {: .team #basel }
 
 </div>
@@ -261,7 +265,7 @@ FC Basel 1893 • Basel • FC Basel  (BAS) _#basel_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Aarau • Aarau  (AAR) _#aarau_{: .key} <br>
+FC Aarau • Aarau  (AAR)  -- Aarau _#aarau_{: .key} <br>
 {: .team #aarau }
 
 </div>
@@ -277,9 +281,9 @@ FC Aarau • Aarau  (AAR) _#aarau_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-BSC Young Boys • Young Boys • Young Boys Bern • Berner Sport Club Young Boys  (YB) _#youngboys_{: .key} <br>
+BSC Young Boys • Young Boys • Young Boys Bern • Berner Sport Club Young Boys  (YB)  -- Bern _#youngboys_{: .key} <br>
 {: .team #youngboys }
-FC Thun • Thun  (THU) _#thun_{: .key} <br>
+FC Thun • Thun  (THU)  -- Thun _#thun_{: .key} <br>
 {: .team #thun }
 
 </div>
@@ -351,7 +355,7 @@ FC Thun • Thun  (THU) _#thun_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Lausanne-Sport • Lausanne • FC Lausanne  (LS) _#lausanne_{: .key} <br>
+FC Lausanne-Sport • Lausanne • FC Lausanne  (LS)  -- Lausanne _#lausanne_{: .key} <br>
 {: .team #lausanne }
 
 </div>
@@ -367,7 +371,7 @@ FC Lausanne-Sport • Lausanne • FC Lausanne  (LS) _#lausanne_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Sion • Sion  (SIO) _#sion_{: .key} <br>
+FC Sion • Sion  (SIO)  -- Sion _#sion_{: .key} <br>
 {: .team #sion }
 
 </div>

@@ -11,9 +11,13 @@ permalink: /gp.html
 
 
 
+
+
+
+
 ### Uncategorized _(1)_{:.count}
 
-Guadeloupe  (GPE) _#gpe_{: .key} <br>
+Guadeloupe  (GPE)  _#gpe_{: .key} <br>
 {: .team #gpe }
 
 

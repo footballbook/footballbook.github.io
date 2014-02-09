@@ -8,26 +8,30 @@ permalink: /be.html
 {: #be }
 
 
+
+
+
+
 [Bruxelles•Brussel [Brussels (Capital Region)]](#be-bx) _(1)_{:.count} • [Antwerpen [Antwerp]](#be-an) _(2)_{:.count} • [Limburg](#be-li) _(0)_{:.count} • [Oost-Vlaanderen [East Flanders]](#be-ov) _(1)_{:.count} • [Brabant Wallon [Walloon Brabant]](#be-br) _(1)_{:.count} • [West-Vlaanderen [West Flanders]](#be-wv) _(1)_{:.count} • [Hainaut](#be-ht) _(2)_{:.count} • [Liège](#be-lg) _(1)_{:.count} • [Luxembourg](#be-lx) _(0)_{:.count} • [Namur](#be-na) _(1)_{:.count}
 
 
 ### Uncategorized _(8)_{:.count}
 
-Belgium  (BEL) _#bel_{: .key} <br>
+Belgium  (BEL)  _#bel_{: .key} <br>
 {: .team #bel }
-Cercle Brugge KSV  _#cerclebrugge_{: .key} <br>
+Cercle Brugge KSV   _#cerclebrugge_{: .key} <br>
 {: .team #cerclebrugge }
-Club Brugge KV  _#brugge_{: .key} <br>
+Club Brugge KV   _#brugge_{: .key} <br>
 {: .team #brugge }
-Genk • KRC Genk • Koninklijke Racing Club Genk  _#genk_{: .key} <br>
+Genk • KRC Genk • Koninklijke Racing Club Genk   _#genk_{: .key} <br>
 {: .team #genk }
-KAA Gent  _#gent_{: .key} <br>
+KAA Gent   _#gent_{: .key} <br>
 {: .team #gent }
-KSC Lokeren OV  _#lokeren_{: .key} <br>
+KSC Lokeren OV   _#lokeren_{: .key} <br>
 {: .team #lokeren }
-KVC Westerlo  _#westerlo_{: .key} <br>
+KVC Westerlo   _#westerlo_{: .key} <br>
 {: .team #westerlo }
-R. Standard de Liège  _#standardliege_{: .key} <br>
+R. Standard de Liège   _#standardliege_{: .key} <br>
 {: .team #standardliege }
 
 
@@ -41,7 +45,7 @@ R. Standard de Liège  _#standardliege_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Anderlecht • RSC Anderlecht  _#anderlecht_{: .key} <br>
+Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
 {: .team #anderlecht }
 
 </div>

@@ -11,9 +11,13 @@ permalink: /ci.html
 
 
 
+
+
+
+
 ### Uncategorized _(1)_{:.count}
 
-Côte d'Ivoire  (CIV) _#civ_{: .key} <br>
+Côte d'Ivoire  (CIV)  _#civ_{: .key} <br>
 {: .team #civ }
 
 

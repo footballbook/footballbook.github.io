@@ -11,7 +11,7 @@ permalink: /world.club.2013.html
 #### 7 Teams
 
 
- [Al Ahly](eg.html#alahly)    •  [Raja Casablanca](ma.html#casablanca)    •  [Guangzhou Evergrande](cn.html#guangzhou)    •  [Auckland City](nz.html#auckland) (AKL)   •  [FC Bayern München](de.html#bayern) (FCB)   •  [Monterrey](mx.html#monterrey) (MTY)   •  [Atlético Mineiro](br.html#atleticomg) (CAM)  
+ [Al Ahly ()](eg.html#alahly)   •  [Raja Casablanca ()](ma.html#casablanca)   •  [Guangzhou Evergrande ()](cn.html#guangzhou)   •  [Auckland City (AKL)](nz.html#auckland)   •  [FC Bayern München (FCB)](de.html#bayern)   •  [Monterrey (MTY)](mx.html#monterrey)   •  [Atlético Mineiro (CAM)](br.html#atleticomg)  
 
 
  

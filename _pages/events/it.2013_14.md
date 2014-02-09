@@ -11,7 +11,7 @@ permalink: /it.2013_14.html
 #### 20 Teams
 
 
- [Milan](it.html#milan) (MIL)   •  [Inter](it.html#inter) (INT)   •  [Lazio](it.html#lazio) (LAZ)   •  [Roma](it.html#roma) (ROM)   •  [Genoa](it.html#genoa) (GEN)   •  [Sampdoria](it.html#sampdoria) (SAM)   •  [Juventus](it.html#juventus) (JUV)   •  [Torino](it.html#torino) (TOR)   •  [Napoli](it.html#napoli) (NAP)   •  [Atalanta](it.html#atalanta) (ATA)   •  [Bologna](it.html#bologna) (BOL)   •  [Cagliari](it.html#cagliari) (CAG)   •  [Catania](it.html#catania) (CAT)   •  [Chievo](it.html#chievoverona) (CHI)   •  [Verona](it.html#hellasverona) (HEL)   •  [Fiorentina](it.html#fiorentina) (FIO)   •  [Parma](it.html#parma) (PAR)   •  [Udinese](it.html#udinese) (UDI)   •  [Sassuolo](it.html#sassuolo) (SAS)   •  [Livorno](it.html#livorno) (LIV)  
+ [Milan (MIL)](it.html#milan)   •  [Inter (INT)](it.html#inter)   •  [Lazio (LAZ)](it.html#lazio)   •  [Roma (ROM)](it.html#roma)   •  [Genoa (GEN)](it.html#genoa)   •  [Sampdoria (SAM)](it.html#sampdoria)   •  [Juventus (JUV)](it.html#juventus)   •  [Torino (TOR)](it.html#torino)   •  [Napoli (NAP)](it.html#napoli)   •  [Atalanta (ATA)](it.html#atalanta)   •  [Bologna (BOL)](it.html#bologna)   •  [Cagliari (CAG)](it.html#cagliari)   •  [Catania (CAT)](it.html#catania)   •  [Chievo (CHI)](it.html#chievoverona)   •  [Verona (HEL)](it.html#hellasverona)   •  [Fiorentina (FIO)](it.html#fiorentina)   •  [Parma (PAR)](it.html#parma)   •  [Udinese (UDI)](it.html#udinese)   •  [Sassuolo (SAS)](it.html#sassuolo)   •  [Livorno (LIV)](it.html#livorno)  
 
 
  

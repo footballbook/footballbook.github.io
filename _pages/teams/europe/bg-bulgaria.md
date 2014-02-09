@@ -8,26 +8,30 @@ permalink: /bg.html
 {: #bg }
 
 
+
+
+
+
 [Sofija City](#bg-so) _(1)_{:.count} • [Sofija Province](#bg-sf) _(0)_{:.count} • [Blagoevgrad](#bg-bl) _(1)_{:.count} • [Pernik](#bg-pe) _(1)_{:.count} • [Kyustendil](#bg-ky) _(1)_{:.count} • [Plovdiv](#bg-pv) _(2)_{:.count} • [Haskovo](#bg-ha) _(1)_{:.count} • [Pazardzhik](#bg-pa) _(1)_{:.count} • [Smolyan](#bg-sm) _(0)_{:.count} • [Kardzhali](#bg-ka) _(1)_{:.count} • [Vidin](#bg-vi) _(1)_{:.count} • [Montana](#bg-mo) _(1)_{:.count} • [Vratsa](#bg-vr) _(1)_{:.count} • [Pleven](#bg-pl) _(1)_{:.count} • [Lovech](#bg-lo) _(0)_{:.count} • [Veliko Tarnovo](#bg-ve) _(1)_{:.count} • [Gabrovo](#bg-ga) _(1)_{:.count} • [Ruse](#bg-ru) _(1)_{:.count} • [Razgrad](#bg-ra) _(0)_{:.count} • [Silistra](#bg-si) _(0)_{:.count} • [Varna](#bg-va) _(1)_{:.count} • [Dobrich](#bg-do) _(1)_{:.count} • [Shumen](#bg-sh) _(1)_{:.count} • [Targovishte](#bg-ta) _(0)_{:.count} • [Burgas](#bg-bu) _(1)_{:.count} • [Sliven](#bg-sl) _(1)_{:.count} • [Yambol](#bg-ya) _(1)_{:.count} • [Stara Zagora](#bg-sz) _(1)_{:.count}
 
 
 ### Uncategorized _(8)_{:.count}
 
-Ludogorets • PFC Ludogorets Razgrad  _#razgrad_{: .key} <br>
+Ludogorets • PFC Ludogorets Razgrad   _#razgrad_{: .key} <br>
 {: .team #razgrad }
-PFC Beroe Stara Zagora  _#zagora_{: .key} <br>
+PFC Beroe Stara Zagora   _#zagora_{: .key} <br>
 {: .team #zagora }
-PFC CSKA Sofia  _#cskasofia_{: .key} <br>
+PFC CSKA Sofia   _#cskasofia_{: .key} <br>
 {: .team #cskasofia }
-PFC Cherno More Varna  _#chernomorevarna_{: .key} <br>
+PFC Cherno More Varna   _#chernomorevarna_{: .key} <br>
 {: .team #chernomorevarna }
-PFC Levski Sofia  _#levskisofia_{: .key} <br>
+PFC Levski Sofia   _#levskisofia_{: .key} <br>
 {: .team #levskisofia }
-PFC Litex Lovech  _#litexlovech_{: .key} <br>
+PFC Litex Lovech   _#litexlovech_{: .key} <br>
 {: .team #litexlovech }
-PFC Lokomotiv Plovdiv 1936  _#plovdiv_{: .key} <br>
+PFC Lokomotiv Plovdiv 1936   _#plovdiv_{: .key} <br>
 {: .team #plovdiv }
-PFC Lokomotiv Sofia  _#lokomotivsofia_{: .key} <br>
+PFC Lokomotiv Sofia   _#lokomotivsofia_{: .key} <br>
 {: .team #lokomotivsofia }
 
 

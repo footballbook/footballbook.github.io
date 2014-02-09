@@ -11,9 +11,13 @@ permalink: /cu.html
 
 
 
+
+
+
+
 ### Uncategorized _(1)_{:.count}
 
-Cuba  (CUB) _#cub_{: .key} <br>
+Cuba  (CUB)  _#cub_{: .key} <br>
 {: .team #cub }
 
 

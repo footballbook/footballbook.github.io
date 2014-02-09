@@ -11,7 +11,7 @@ permalink: /euro.2012.html
 #### 16 Teams
 
 
- [Poland](pl.html#pol) (POL)   •  [Greece](gr.html#gre) (GRE)   •  [Russia](ru.html#rus) (RUS)   •  [Czech Republic](cz.html#cze) (CZE)   •  [Netherlands](nl.html#ned) (NED)   •  [Denmark](dk.html#den) (DEN)   •  [Germany](de.html#ger) (GER)   •  [Portugal](pt.html#por) (POR)   •  [Spain](es.html#esp) (ESP)   •  [Italy](it.html#ita) (ITA)   •  [Irland](ie.html#irl) (IRL)   •  [Croatia](hr.html#cro) (CRO)   •  [Ukraine](ua.html#ukr) (UKR)   •  [Sweden](se.html#swe) (SWE)   •  [France](fr.html#fra) (FRA)   •  [England](en.html#eng) (ENG)  
+ [Poland (POL)](pl.html#pol)   •  [Greece (GRE)](gr.html#gre)   •  [Russia (RUS)](ru.html#rus)   •  [Czech Republic (CZE)](cz.html#cze)   •  [Netherlands (NED)](nl.html#ned)   •  [Denmark (DEN)](dk.html#den)   •  [Germany (GER)](de.html#ger)   •  [Portugal (POR)](pt.html#por)   •  [Spain (ESP)](es.html#esp)   •  [Italy (ITA)](it.html#ita)   •  [Irland (IRL)](ie.html#irl)   •  [Croatia (CRO)](hr.html#cro)   •  [Ukraine (UKR)](ua.html#ukr)   •  [Sweden (SWE)](se.html#swe)   •  [France (FRA)](fr.html#fra)   •  [England (ENG)](en.html#eng)  
 
 
 

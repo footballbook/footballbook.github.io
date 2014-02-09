@@ -8,30 +8,34 @@ permalink: /ie.html
 {: #ie }
 
 
+
+
+
+
 [Louth / Leinster](#ie-lh) _(2)_{:.count} • [Leitrim / Connaught](#ie-lm) _(1)_{:.count} • [Sligo / Connaught](#ie-so) _(1)_{:.count} • [Cavan / Ulster](#ie-cn) _(1)_{:.count} • [Donegal / Ulster](#ie-dl) _(1)_{:.count} • [Monaghan / Ulster](#ie-mn) _(1)_{:.count} • [Laois / Leinster](#ie-ls) _(1)_{:.count} • [Longford / Leinster](#ie-ld) _(1)_{:.count} • [Offaly / Leinster](#ie-oy) _(1)_{:.count} • [Westmeath / Leinster](#ie-wh) _(1)_{:.count} • [Galway / Connaught](#ie-ga) _(1)_{:.count} • [Mayo / Connaught](#ie-mo) _(1)_{:.count} • [Roscommon / Connaught](#ie-rn) _(1)_{:.count} • [Dublin / Leinster](#ie-db) _(2)_{:.count} • [Limerick / Munster](#ie-lk) _(1)_{:.count} • [North Tipperary / Munster](#ie-tn) _(1)_{:.count} • [South Tipperary / Munster](#ie-ts) _(1)_{:.count} • [Clare / Munster](#ie-ce) _(1)_{:.count} • [Kildare / Leinster](#ie-ke) _(1)_{:.count} • [Meath / Leinster](#ie-mh) _(1)_{:.count} • [Wicklow / Leinster](#ie-ww) _(2)_{:.count} • [Wexford / Leinster](#ie-wx) _(1)_{:.count} • [Kilkenny / Leinster](#ie-kk) _(1)_{:.count} • [Carlow / Leinster](#ie-cw) _(1)_{:.count} • [Waterford / Munster](#ie-wd) _(1)_{:.count} • [Cork / Munster](#ie-co) _(1)_{:.count} • [Kerry / Munster](#ie-ky) _(1)_{:.count}
 
 
 ### Uncategorized _(10)_{:.count}
 
-Bohemian FC  _#bohemian_{: .key} <br>
+Bohemian FC   _#bohemian_{: .key} <br>
 {: .team #bohemian }
-Cork City FC  _#corkcity_{: .key} <br>
+Cork City FC   _#corkcity_{: .key} <br>
 {: .team #corkcity }
-Derry City FC  _#derrycity_{: .key} <br>
+Derry City FC   _#derrycity_{: .key} <br>
 {: .team #derrycity }
-Drogheda United FC  _#drogheda_{: .key} <br>
+Drogheda United FC   _#drogheda_{: .key} <br>
 {: .team #drogheda }
-Dundalk FC  _#dundalk_{: .key} <br>
+Dundalk FC   _#dundalk_{: .key} <br>
 {: .team #dundalk }
-Irland  (IRL) _#irl_{: .key} <br>
+Irland  (IRL)  _#irl_{: .key} <br>
 {: .team #irl }
-Saint Patrick's Athletic FC  _#saintpatricks_{: .key} <br>
+Saint Patrick's Athletic FC   _#saintpatricks_{: .key} <br>
 {: .team #saintpatricks }
-Shamrock Rovers FC  _#shamrock_{: .key} <br>
+Shamrock Rovers FC   _#shamrock_{: .key} <br>
 {: .team #shamrock }
-Sligo Rovers FC  _#sligorovers_{: .key} <br>
+Sligo Rovers FC   _#sligorovers_{: .key} <br>
 {: .team #sligorovers }
-Sporting Fingal FC  _#fingal_{: .key} <br>
+Sporting Fingal FC   _#fingal_{: .key} <br>
 {: .team #fingal }
 
 

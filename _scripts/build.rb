@@ -219,7 +219,7 @@ end # method build_book_all_in_one
 
 
 build_book()
-## build_book_all_in_one()
+build_book_all_in_one()
 
 
 puts 'Done. Bye.'

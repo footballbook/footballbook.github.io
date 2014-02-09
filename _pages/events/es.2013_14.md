@@ -11,7 +11,7 @@ permalink: /es.2013_14.html
 #### 20 Teams
 
 
- [Barcelona](es.html#barcelona) (BAR)   •  [Espanyol](es.html#espanyol) (ESP)   •  [R. Madrid](es.html#madrid) (RMD)   •  [Atlético](es.html#atletico) (ATL)   •  [Getafe](es.html#getafe) (GET)   •  [Rayo](es.html#rayo) (RAY)   •  [Betis](es.html#betis) (BET)   •  [Sevilla](es.html#sevilla) (SEV)   •  [Valencia](es.html#valencia) (VAL)   •  [Levante](es.html#levante) (LEV)   •  [Málaga](es.html#malaga) (MAG)   •  [Athletic](es.html#athletic) (ATH)   •  [Granada](es.html#granada) (GRA)   •  [Osasuna](es.html#osasuna) (OSA)   •  [Celta](es.html#celta) (CEL)   •  [R. Sociedad](es.html#realsociedad) (RSO)   •  [Valladolid](es.html#valladolid) (VID)   •  [UD Almería](es.html#almeria) (ALM)   •  [Elche CF](es.html#elche) (ELC)   •  [Villarreal CF](es.html#villareal) (VLL)  
+ [Barcelona (BAR)](es.html#barcelona)   •  [Espanyol (ESP)](es.html#espanyol)   •  [R. Madrid (RMD)](es.html#madrid)   •  [Atlético (ATL)](es.html#atletico)   •  [Getafe (GET)](es.html#getafe)   •  [Rayo (RAY)](es.html#rayo)   •  [Betis (BET)](es.html#betis)   •  [Sevilla (SEV)](es.html#sevilla)   •  [Valencia (VAL)](es.html#valencia)   •  [Levante (LEV)](es.html#levante)   •  [Málaga (MAG)](es.html#malaga)   •  [Athletic (ATH)](es.html#athletic)   •  [Granada (GRA)](es.html#granada)   •  [Osasuna (OSA)](es.html#osasuna)   •  [Celta (CEL)](es.html#celta)   •  [R. Sociedad (RSO)](es.html#realsociedad)   •  [Valladolid (VID)](es.html#valladolid)   •  [UD Almería (ALM)](es.html#almeria)   •  [Elche CF (ELC)](es.html#elche)   •  [Villarreal CF (VLL)](es.html#villareal)  
 
 
  

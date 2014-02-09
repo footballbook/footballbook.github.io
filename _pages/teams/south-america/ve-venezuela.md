@@ -8,14 +8,18 @@ permalink: /ve.html
 {: #ve }
 
 
+
+
+
+
 [Amazonas](#ve-am) _(1)_{:.count} • [Bolívar](#ve-bo) _(1)_{:.count} • [Delta Amacuro](#ve-da) _(1)_{:.count} • [Anzoátegui](#ve-an) _(0)_{:.count} • [Monagas](#ve-mo) _(1)_{:.count} • [Sucre](#ve-su) _(1)_{:.count} • [Apure](#ve-ap) _(1)_{:.count} • [Guárico](#ve-gu) _(1)_{:.count} • [Carabobo](#ve-ca) _(0)_{:.count} • [Cojedes](#ve-co) _(1)_{:.count} • [Aragua](#ve-ar) _(1)_{:.count} • [Miranda](#ve-mi) _(1)_{:.count} • [Vargas](#ve-va) _(1)_{:.count} • [Distrito Capital](#ve-dc) _(1)_{:.count} • [Falcón](#ve-fa) _(1)_{:.count} • [Lara](#ve-la) _(1)_{:.count} • [Portuguesa](#ve-po) _(1)_{:.count} • [Yaracuy](#ve-ya) _(1)_{:.count} • [Barinas](#ve-ba) _(1)_{:.count} • [Mérida](#ve-me) _(0)_{:.count} • [Táchira](#ve-ta) _(1)_{:.count} • [Trujillo](#ve-tr) _(1)_{:.count} • [Nueva Esparta](#ve-ne) _(1)_{:.count} • [Zulia](#ve-zu) _(1)_{:.count}
 
 
 ### Uncategorized _(2)_{:.count}
 
-Deportivo Anzoátegui • Deportivo Anzoátegui Sport Club  _#deportivoanzoategui_{: .key} <br>
+Deportivo Anzoátegui • Deportivo Anzoátegui Sport Club   _#deportivoanzoategui_{: .key} <br>
 {: .team #deportivoanzoategui }
-Venezuela  (VEN) _#ven_{: .key} <br>
+Venezuela  (VEN)  _#ven_{: .key} <br>
 {: .team #ven }
 
 
@@ -211,7 +215,7 @@ Venezuela  (VEN) _#ven_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Caracas • Caracas FC • Caracas Fútbol Club  _#caracas_{: .key} <br>
+Caracas • Caracas FC • Caracas Fútbol Club   -- Caracas _#caracas_{: .key} <br>
 {: .team #caracas }
 
 </div>
@@ -241,7 +245,7 @@ Caracas • Caracas FC • Caracas Fútbol Club  _#caracas_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Deportivo Lara • Club Deportivo Lara  _#deportivolara_{: .key} <br>
+Deportivo Lara • Club Deportivo Lara   -- Barquisimeto _#deportivolara_{: .key} <br>
 {: .team #deportivolara }
 
 </div>
@@ -285,7 +289,7 @@ Deportivo Lara • Club Deportivo Lara  _#deportivolara_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Zamora • Zamora FC • Zamora Fútbol Club  _#zamora_{: .key} <br>
+Zamora • Zamora FC • Zamora Fútbol Club   -- Barinas _#zamora_{: .key} <br>
 {: .team #zamora }
 
 </div>
@@ -315,7 +319,7 @@ Zamora • Zamora FC • Zamora Fútbol Club  _#zamora_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Deportivo Táchira • Deportivo Táchira Fútbol Club  _#deportivotachira_{: .key} <br>
+Deportivo Táchira • Deportivo Táchira Fútbol Club   -- San Cristóbal _#deportivotachira_{: .key} <br>
 {: .team #deportivotachira }
 
 </div>
@@ -331,7 +335,7 @@ Deportivo Táchira • Deportivo Táchira Fútbol Club  _#deportivotachira_{: .k
 
 <div class='columns3' markdown='1'>
 
-Universidad César Vallejo • Club Deportivo Universidad César Vallejo  _#trujillo_{: .key} <br>
+Universidad César Vallejo • Club Deportivo Universidad César Vallejo   -- Trujillo _#trujillo_{: .key} <br>
 {: .team #trujillo }
 
 </div>

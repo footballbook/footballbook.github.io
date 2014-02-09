@@ -8,52 +8,56 @@ permalink: /de.html
 {: #de }
 
 
+
+ Deutsche Bundesliga •  Deutsche 2. Bundesliga •  Deutsche 3. Liga •  DFB Pokal
+
+
 [Baden-Württemberg](#de-bw) _(5)_{:.count} • [Bayern [Bavaria]](#de-by) _(6)_{:.count} • [Berlin](#de-be) _(1)_{:.count} • [Brandenburg](#de-bb) _(1)_{:.count} • [Bremen](#de-hb) _(1)_{:.count} • [Hamburg](#de-hh) _(1)_{:.count} • [Hessen [Hesse]](#de-he) _(1)_{:.count} • [Mecklenburg-Vorpommern](#de-mv) _(0)_{:.count} • [Niedersachsen [Lower Saxony]](#de-ni) _(3)_{:.count} • [Nordrhein-Westfalen [North Rhine-Westphalia]](#de-nw) _(13)_{:.count} • [Rheinland-Pfalz [Rhineland-Palatinate]](#de-rp) _(2)_{:.count} • [Saarland](#de-sl) _(0)_{:.count} • [Sachsen [Saxony]](#de-sn) _(3)_{:.count} • [Sachsen-Anhalt [Saxony-Anhalt]](#de-st) _(0)_{:.count} • [Schleswig-Holstein](#de-sh) _(0)_{:.count} • [Thüringen [Thuringia]](#de-th) _(0)_{:.count}
 
 
 ### Uncategorized _(21)_{:.count}
 
-Bielefeld • Arminia Bielefeld • DSC Arminia Bielefeld  (DSC) _#bielefeld_{: .key} <br>
+Bielefeld • Arminia Bielefeld • DSC Arminia Bielefeld  (DSC)  _#bielefeld_{: .key} <br>
 {: .team #bielefeld }
-Burghausen • Wacker Burghausen  _#burghausen_{: .key} <br>
+Burghausen • Wacker Burghausen   _#burghausen_{: .key} <br>
 {: .team #burghausen }
-Chemnitz • Chemnitzer FC  _#chemnitz_{: .key} <br>
+Chemnitz • Chemnitzer FC   _#chemnitz_{: .key} <br>
 {: .team #chemnitz }
-Darmstadt • SV Darmstadt 98  _#darmstadt_{: .key} <br>
+Darmstadt • SV Darmstadt 98   _#darmstadt_{: .key} <br>
 {: .team #darmstadt }
-Dortmund II • Bor. Dortmund II  _#dortmundii_{: .key} <br>
+Dortmund II • Bor. Dortmund II   _#dortmundii_{: .key} <br>
 {: .team #dortmundii }
-Germany  (GER) _#ger_{: .key} <br>
+Germany  (GER)  _#ger_{: .key} <br>
 {: .team #ger }
-Halle • Hallescher FC  _#halle_{: .key} <br>
+Halle • Hallescher FC   _#halle_{: .key} <br>
 {: .team #halle }
-Heidenheim • 1. FC Heidenheim  _#heidenheim_{: .key} <br>
+Heidenheim • 1. FC Heidenheim   _#heidenheim_{: .key} <br>
 {: .team #heidenheim }
-Holstein Kiel  _#kiel_{: .key} <br>
+Holstein Kiel   _#kiel_{: .key} <br>
 {: .team #kiel }
-Karlsruhe • Karlsruher SC  (KSC) _#karlsruhe_{: .key} <br>
+Karlsruhe • Karlsruher SC  (KSC)  _#karlsruhe_{: .key} <br>
 {: .team #karlsruhe }
-Münster • Preußen Münster  _#muenster_{: .key} <br>
+Münster • Preußen Münster   _#muenster_{: .key} <br>
 {: .team #muenster }
-Osnabrück • VfL Osnabrück  _#osnabrueck_{: .key} <br>
+Osnabrück • VfL Osnabrück   _#osnabrueck_{: .key} <br>
 {: .team #osnabrueck }
-RB Leipzig  _#leipzip_{: .key} <br>
+RB Leipzig   _#leipzip_{: .key} <br>
 {: .team #leipzip }
-RW Erfurt • Rot-Weiß Erfurt  _#rwerfurt_{: .key} <br>
+RW Erfurt • Rot-Weiß Erfurt   _#rwerfurt_{: .key} <br>
 {: .team #rwerfurt }
-Rostock • Hansa Rostock  _#rostock_{: .key} <br>
+Rostock • Hansa Rostock   _#rostock_{: .key} <br>
 {: .team #rostock }
-SV Elversberg  _#elversberg_{: .key} <br>
+SV Elversberg   _#elversberg_{: .key} <br>
 {: .team #elversberg }
-Saarbrücken • 1. FC Saarbrücken  _#saarbruecken_{: .key} <br>
+Saarbrücken • 1. FC Saarbrücken   _#saarbruecken_{: .key} <br>
 {: .team #saarbruecken }
-Stutt. Kick. • Stuttgarter Kickers  _#stuttkick_{: .key} <br>
+Stutt. Kick. • Stuttgarter Kickers   _#stuttkick_{: .key} <br>
 {: .team #stuttkick }
-Stuttgart II • VfB Stuttgart II  _#stuttgartii_{: .key} <br>
+Stuttgart II • VfB Stuttgart II   _#stuttgartii_{: .key} <br>
 {: .team #stuttgartii }
-U'haching • SpVgg Unterhaching  _#uhaching_{: .key} <br>
+U'haching • SpVgg Unterhaching   _#uhaching_{: .key} <br>
 {: .team #uhaching }
-Wiesbaden • SV Wehen Wiesbaden  _#wiesbaden_{: .key} <br>
+Wiesbaden • SV Wehen Wiesbaden   _#wiesbaden_{: .key} <br>
 {: .team #wiesbaden }
 
 
@@ -67,15 +71,15 @@ Wiesbaden • SV Wehen Wiesbaden  _#wiesbaden_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-1899 Hoffenheim • TSG 1899 Hoffenheim  (HOF) _#hoffenheim_{: .key} <br>
+1899 Hoffenheim • TSG 1899 Hoffenheim  (HOF)  -- Hoffenheim _#hoffenheim_{: .key} <br>
 {: .team #hoffenheim }
-SC Freiburg  (SCF) _#freiburg_{: .key} <br>
+SC Freiburg  (SCF)  -- Freiburg _#freiburg_{: .key} <br>
 {: .team #freiburg }
-SV Sandhausen • Sandhausen • SV Sandhausen 1916  (SAN) _#sandhausen_{: .key} <br>
+SV Sandhausen • Sandhausen • SV Sandhausen 1916  (SAN)  -- Sandhausen _#sandhausen_{: .key} <br>
 {: .team #sandhausen }
-Stuttgart • VfB Stuttgart  (VFB) _#stuttgart_{: .key} <br>
+Stuttgart • VfB Stuttgart  (VFB)  -- Stuttgart _#stuttgart_{: .key} <br>
 {: .team #stuttgart }
-VfR Aalen • Aalen  (AAL) _#aalen_{: .key} <br>
+VfR Aalen • Aalen  (AAL)  -- Aalen _#aalen_{: .key} <br>
 {: .team #aalen }
 
 </div>
@@ -91,19 +95,19 @@ VfR Aalen • Aalen  (AAL) _#aalen_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-1. FC Nürnberg  (FCN) _#nuernberg_{: .key} <br>
+1. FC Nürnberg  (FCN)  -- Nürnberg [Nuremberg] _#nuernberg_{: .key} <br>
 {: .team #nuernberg }
-1860 München • TSV München 1860  (M60) _#tsvmuenchen_{: .key} <br>
+1860 München • TSV München 1860  (M60)  -- München [Munich] _#tsvmuenchen_{: .key} <br>
 {: .team #tsvmuenchen }
-FC Augsburg  (FCA) _#augsburg_{: .key} <br>
+FC Augsburg  (FCA)  -- Augsburg _#augsburg_{: .key} <br>
 {: .team #augsburg }
-FC Bayern München • Bayern München  (FCB) _#bayern_{: .key} <br>
+FC Bayern München • Bayern München  (FCB)  -- München [Munich] _#bayern_{: .key} <br>
 {: .team #bayern }
-FC Ingolstadt 04 • Ingolstadt  (FCI) _#ingolstadt_{: .key} <br>
+FC Ingolstadt 04 • Ingolstadt  (FCI)  -- Ingolstadt _#ingolstadt_{: .key} <br>
 {: .team #ingolstadt }
-Greuther Fürth • SpVgg Greuther Fürth  (SGF) _#fuerth_{: .key} <br>
+Greuther Fürth • SpVgg Greuther Fürth  (SGF)  -- Fürth _#fuerth_{: .key} <br>
 {: .team #fuerth }
-Jahn Regensburg • Regensburg • SSV Jahn Regensburg  (REG) _#regensburg_{: .key} <br>
+Jahn Regensburg • Regensburg • SSV Jahn Regensburg  (REG)  -- Regensburg _#regensburg_{: .key} <br>
 {: .team #regensburg }
 
 </div>
@@ -119,9 +123,9 @@ Jahn Regensburg • Regensburg • SSV Jahn Regensburg  (REG) _#regensburg_{: .k
 
 <div class='columns3' markdown='1'>
 
-Hertha BSC • Hertha Berliner Sport-Club  (BSC) _#herthabsc_{: .key} <br>
+Hertha BSC • Hertha Berliner Sport-Club  (BSC)  -- Berlin _#herthabsc_{: .key} <br>
 {: .team #herthabsc }
-Union Berlin • 1. FC Union Berlin  (FCU) _#unionberlin_{: .key} <br>
+Union Berlin • 1. FC Union Berlin  (FCU)  -- Berlin _#unionberlin_{: .key} <br>
 {: .team #unionberlin }
 
 </div>
@@ -137,7 +141,7 @@ Union Berlin • 1. FC Union Berlin  (FCU) _#unionberlin_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Energie Cottbus • Cottbus • FC Energie Cottbus  (FCE) _#cottbus_{: .key} <br>
+Energie Cottbus • Cottbus • FC Energie Cottbus  (FCE)  -- Cottbus _#cottbus_{: .key} <br>
 {: .team #cottbus }
 
 </div>
@@ -153,7 +157,7 @@ Energie Cottbus • Cottbus • FC Energie Cottbus  (FCE) _#cottbus_{: .key} <br
 
 <div class='columns3' markdown='1'>
 
-Werder Bremen  (BRE) _#bremen_{: .key} <br>
+Werder Bremen  (BRE)  -- Bremen _#bremen_{: .key} <br>
 {: .team #bremen }
 
 </div>
@@ -169,9 +173,9 @@ Werder Bremen  (BRE) _#bremen_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC St. Pauli • St. Pauli  (STP) _#stpauli_{: .key} <br>
+FC St. Pauli • St. Pauli  (STP)  -- Hamburg _#stpauli_{: .key} <br>
 {: .team #stpauli }
-Hamburger SV  (HSV) _#hsv_{: .key} <br>
+Hamburger SV  (HSV)  -- Hamburg _#hsv_{: .key} <br>
 {: .team #hsv }
 
 </div>
@@ -187,9 +191,9 @@ Hamburger SV  (HSV) _#hsv_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Eintracht Frankfurt • E. Frankfurt  (FFM) _#frankfurt_{: .key} <br>
+Eintracht Frankfurt • E. Frankfurt  (FFM)  -- Frankfurt _#frankfurt_{: .key} <br>
 {: .team #frankfurt }
-FSV Frankfurt • FSV Frankfurt 1899  (FSV) _#fsvfrankfurt_{: .key} <br>
+FSV Frankfurt • FSV Frankfurt 1899  (FSV)  -- Frankfurt _#fsvfrankfurt_{: .key} <br>
 {: .team #fsvfrankfurt }
 
 </div>
@@ -219,11 +223,11 @@ FSV Frankfurt • FSV Frankfurt 1899  (FSV) _#fsvfrankfurt_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Eintr. Braunschweig • Braunschweig • Eintracht Braunschweig  (EBS) _#braunschweig_{: .key} <br>
+Eintr. Braunschweig • Braunschweig • Eintracht Braunschweig  (EBS)  -- Braunschweig _#braunschweig_{: .key} <br>
 {: .team #braunschweig }
-Hannover 96  (H96) _#hannover_{: .key} <br>
+Hannover 96  (H96)  -- Hannover _#hannover_{: .key} <br>
 {: .team #hannover }
-VfL Wolfsburg  (WOB) _#wolfsburg_{: .key} <br>
+VfL Wolfsburg  (WOB)  -- Wolfsburg _#wolfsburg_{: .key} <br>
 {: .team #wolfsburg }
 
 </div>
@@ -239,23 +243,23 @@ VfL Wolfsburg  (WOB) _#wolfsburg_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-1. FC Köln • Köln  (KOE) _#koeln_{: .key} <br>
+1. FC Köln • Köln  (KOE)  -- Köln _#koeln_{: .key} <br>
 {: .team #koeln }
-Bayer 04 Leverkusen • Bayer Leverkusen • Bay. Leverkusen  (B04) _#leverkusen_{: .key} <br>
+Bayer 04 Leverkusen • Bayer Leverkusen • Bay. Leverkusen  (B04)  -- Leverkusen _#leverkusen_{: .key} <br>
 {: .team #leverkusen }
-Borussia Dortmund • Bor. Dortmund  (BVB) _#dortmund_{: .key} <br>
+Borussia Dortmund • Bor. Dortmund  (BVB)  -- Dortmund _#dortmund_{: .key} <br>
 {: .team #dortmund }
-Borussia M'gladbach • Bor. M'gladbach • Bor. Mönchengladbach • Borussia Mönchengladbach  (BMG) _#mgladbach_{: .key} <br>
+Borussia M'gladbach • Bor. M'gladbach • Bor. Mönchengladbach • Borussia Mönchengladbach  (BMG)  -- M'gladbach _#mgladbach_{: .key} <br>
 {: .team #mgladbach }
-Fortuna Düsseldorf • F. Düsseldorf  (F95) _#duesseldorf_{: .key} <br>
+Fortuna Düsseldorf • F. Düsseldorf  (F95)  -- Düsseldorf _#duesseldorf_{: .key} <br>
 {: .team #duesseldorf }
-MSV Duisburg • Duisburg  (MSV) _#duisburg_{: .key} <br>
+MSV Duisburg • Duisburg  (MSV)  -- Duisburg _#duisburg_{: .key} <br>
 {: .team #duisburg }
-SC Paderborn 07 • Paderborn  (SCP) _#paderborn_{: .key} <br>
+SC Paderborn 07 • Paderborn  (SCP)  -- Paderborn _#paderborn_{: .key} <br>
 {: .team #paderborn }
-Schalke 04 • FC Schalke 04  (S04) _#schalke_{: .key} <br>
+Schalke 04 • FC Schalke 04  (S04)  -- Gelsenkirchen _#schalke_{: .key} <br>
 {: .team #schalke }
-VfL Bochum • Bochum • VfL Bochum 1848  (BOC) _#bochum_{: .key} <br>
+VfL Bochum • Bochum • VfL Bochum 1848  (BOC)  -- Bochum _#bochum_{: .key} <br>
 {: .team #bochum }
 
 </div>
@@ -271,9 +275,9 @@ VfL Bochum • Bochum • VfL Bochum 1848  (BOC) _#bochum_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-1. FC Kaiserslautern • 1. FC K'lautern • K'lautern  (FCK) _#klautern_{: .key} <br>
+1. FC Kaiserslautern • 1. FC K'lautern • K'lautern  (FCK)  -- Kaiserslautern _#klautern_{: .key} <br>
 {: .team #klautern }
-1. FSV Mainz 05 • FSV Mainz 05  (M05) _#mainz_{: .key} <br>
+1. FSV Mainz 05 • FSV Mainz 05  (M05)  -- Mainz _#mainz_{: .key} <br>
 {: .team #mainz }
 
 </div>
@@ -303,9 +307,9 @@ VfL Bochum • Bochum • VfL Bochum 1848  (BOC) _#bochum_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Dynamo Dresden • Dresden • SG Dynamo Dresden  (SGD) _#dresden_{: .key} <br>
+Dynamo Dresden • Dresden • SG Dynamo Dresden  (SGD)  -- Dresden _#dresden_{: .key} <br>
 {: .team #dresden }
-Erzgebirge Aue • Aue • FC Erzgebirge Aue  (AUE) _#aue_{: .key} <br>
+Erzgebirge Aue • Aue • FC Erzgebirge Aue  (AUE)  -- Aue _#aue_{: .key} <br>
 {: .team #aue }
 
 </div>

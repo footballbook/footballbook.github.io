@@ -11,7 +11,7 @@ permalink: /at.2013_14.html
 #### 10 Teams
 
 
- [FK Austria Wien](at.html#austria) (AUS)   •  [FC RB Salzburg](at.html#salzburg) (RBS)   •  [SK Rapid Wien](at.html#rapid) (RAP)   •  [SK Sturm Graz](at.html#sturm) (STU)   •  [Wolfsberger AC](at.html#wac) (WAC)   •  [SV Ried](at.html#ried) (RIE)   •  [FC Admira Wacker](at.html#admira) (ADM)   •  [FC Wacker Innsbruck](at.html#innsbruck) (FCW)   •  [SC Wiener Neustadt](at.html#wrneustadt) (WRN)   •  [SV Grödig](at.html#groedig) (SVG)  
+ [FK Austria Wien (AUS)](at.html#austria)   •  [FC RB Salzburg (RBS)](at.html#salzburg)   •  [SK Rapid Wien (RAP)](at.html#rapid)   •  [SK Sturm Graz (STU)](at.html#sturm)   •  [Wolfsberger AC (WAC)](at.html#wac)   •  [SV Ried (RIE)](at.html#ried)   •  [FC Admira Wacker (ADM)](at.html#admira)   •  [FC Wacker Innsbruck (FCW)](at.html#innsbruck)   •  [SC Wiener Neustadt (WRN)](at.html#wrneustadt)   •  [SV Grödig (SVG)](at.html#groedig)  
 
 
  

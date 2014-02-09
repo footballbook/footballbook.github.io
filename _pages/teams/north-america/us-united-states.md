@@ -8,28 +8,32 @@ permalink: /us.html
 {: #us }
 
 
+
+
+
+
 [Maine](#us-me) _(1)_{:.count} • [New Hampshire](#us-nh) _(1)_{:.count} • [Vermont](#us-vt) _(1)_{:.count} • [Massachusetts](#us-ma) _(1)_{:.count} • [Rhode Island](#us-ri) _(1)_{:.count} • [Connecticut](#us-ct) _(1)_{:.count} • [New York](#us-ny) _(3)_{:.count} • [Pennsylvania](#us-pa) _(3)_{:.count} • [New Jersey](#us-nj) _(2)_{:.count} • [Wisconsin](#us-wi) _(2)_{:.count} • [Michigan](#us-mi) _(2)_{:.count} • [Illinois](#us-il) _(2)_{:.count} • [Indiana](#us-in) _(1)_{:.count} • [Ohio](#us-oh) _(3)_{:.count} • [Missouri](#us-mo) _(3)_{:.count} • [North Dakota](#us-nd) _(1)_{:.count} • [South Dakota](#us-sd) _(1)_{:.count} • [Nebraska](#us-ne) _(1)_{:.count} • [Kansas](#us-ks) _(1)_{:.count} • [Minnesota](#us-mn) _(3)_{:.count} • [Iowa](#us-ia) _(1)_{:.count} • [Delaware](#us-de) _(1)_{:.count} • [Maryland](#us-md) _(2)_{:.count} • [District of Columbia](#us-dc) _(2)_{:.count} • [Virginia](#us-va) _(1)_{:.count} • [West Virginia](#us-wv) _(1)_{:.count} • [North Carolina](#us-nc) _(2)_{:.count} • [South Carolina](#us-sc) _(1)_{:.count} • [Georgia](#us-ga) _(1)_{:.count} • [Florida](#us-fl) _(4)_{:.count} • [Kentucky](#us-ky) _(1)_{:.count} • [Tennessee](#us-tn) _(1)_{:.count} • [Mississippi](#us-ms) _(1)_{:.count} • [Alabama](#us-al) _(1)_{:.count} • [Oklahoma](#us-ok) _(1)_{:.count} • [Texas](#us-tx) _(4)_{:.count} • [Arkansas](#us-ar) _(1)_{:.count} • [Louisiana](#us-la) _(2)_{:.count} • [Idaho](#us-id) _(1)_{:.count} • [Montana](#us-mt) _(1)_{:.count} • [Wyoming](#us-wy) _(1)_{:.count} • [Nevada](#us-nv) _(1)_{:.count} • [Utah](#us-ut) _(1)_{:.count} • [Colorado](#us-co) _(1)_{:.count} • [Arizona](#us-az) _(1)_{:.count} • [New Mexico](#us-nm) _(1)_{:.count} • [Alaska](#us-ak) _(1)_{:.count} • [Washington](#us-wa) _(2)_{:.count} • [Oregon](#us-or) _(1)_{:.count} • [California](#us-ca) _(7)_{:.count} • [Hawaii](#us-hi) _(1)_{:.count}
 
 
 ### Uncategorized _(9)_{:.count}
 
-Chicago Fire  _#chicago_{: .key} <br>
+Chicago Fire   _#chicago_{: .key} <br>
 {: .team #chicago }
-Club Deportivo Chivas US  _#chivasusa_{: .key} <br>
+Club Deportivo Chivas US   _#chivasusa_{: .key} <br>
 {: .team #chivasusa }
-Columbus Crew  _#columbus_{: .key} <br>
+Columbus Crew   _#columbus_{: .key} <br>
 {: .team #columbus }
-D.C. United  _#dcunited_{: .key} <br>
+D.C. United   _#dcunited_{: .key} <br>
 {: .team #dcunited }
-New England Revolution  _#newengland_{: .key} <br>
+New England Revolution   _#newengland_{: .key} <br>
 {: .team #newengland }
-New York Red Bulls  _#newyork_{: .key} <br>
+New York Red Bulls   _#newyork_{: .key} <br>
 {: .team #newyork }
-Philadelphia Union  _#philadelphia_{: .key} <br>
+Philadelphia Union   _#philadelphia_{: .key} <br>
 {: .team #philadelphia }
-Portland Timbers  _#portland_{: .key} <br>
+Portland Timbers   _#portland_{: .key} <br>
 {: .team #portland }
-United States  (USA) _#usa_{: .key} <br>
+United States  (USA)  _#usa_{: .key} <br>
 {: .team #usa }
 
 
@@ -99,7 +103,7 @@ United States  (USA) _#usa_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Alpha United • Alpha United FC  _#alphaunited_{: .key} <br>
+Alpha United • Alpha United FC   -- Providence _#alphaunited_{: .key} <br>
 {: .team #alphaunited }
 
 </div>
@@ -241,7 +245,7 @@ Alpha United • Alpha United FC  _#alphaunited_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Sporting KC • Sporting Kansas City  _#kansascity_{: .key} <br>
+Sporting KC • Sporting Kansas City   -- Kansas City _#kansascity_{: .key} <br>
 {: .team #kansascity }
 
 </div>
@@ -537,9 +541,9 @@ Sporting KC • Sporting Kansas City  _#kansascity_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Dallas  _#dallas_{: .key} <br>
+FC Dallas   -- Dallas _#dallas_{: .key} <br>
 {: .team #dallas }
-Houston Dynamo • H. Dynamo  (HOU) _#houston_{: .key} <br>
+Houston Dynamo • H. Dynamo  (HOU)  -- Houston _#houston_{: .key} <br>
 {: .team #houston }
 
 </div>
@@ -639,7 +643,7 @@ Houston Dynamo • H. Dynamo  (HOU) _#houston_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Real Salt Lake  (RSL) _#saltlake_{: .key} <br>
+Real Salt Lake  (RSL)  -- Salt Lake City _#saltlake_{: .key} <br>
 {: .team #saltlake }
 
 </div>
@@ -655,7 +659,7 @@ Real Salt Lake  (RSL) _#saltlake_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Colorado Rapids  _#colorado_{: .key} <br>
+Colorado Rapids   -- Denver _#colorado_{: .key} <br>
 {: .team #colorado }
 
 </div>
@@ -685,9 +689,9 @@ Colorado Rapids  _#colorado_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Colón • Colón Santa Fe • CA Colón • Club Atlético Colón • Club Atlético Colón (Santa Fe)  _#colon_{: .key} <br>
+Colón • Colón Santa Fe • CA Colón • Club Atlético Colón • Club Atlético Colón (Santa Fe)   -- Santa Fe _#colon_{: .key} <br>
 {: .team #colon }
-Unión • Unión Santa Fe • Club Atlético Unión  _#union_{: .key} <br>
+Unión • Unión Santa Fe • Club Atlético Unión   -- Santa Fe _#union_{: .key} <br>
 {: .team #union }
 
 </div>
@@ -717,7 +721,7 @@ Unión • Unión Santa Fe • Club Atlético Unión  _#union_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Seattle Sounders • Seattle Sounders FC  (SEA) _#seattle_{: .key} <br>
+Seattle Sounders • Seattle Sounders FC  (SEA)  -- Seattle _#seattle_{: .key} <br>
 {: .team #seattle }
 
 </div>
@@ -747,9 +751,9 @@ Seattle Sounders • Seattle Sounders FC  (SEA) _#seattle_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Los Angeles Galaxy • LA Galaxy  (LA) _#galaxy_{: .key} <br>
+Los Angeles Galaxy • LA Galaxy  (LA)  -- Los Angeles _#galaxy_{: .key} <br>
 {: .team #galaxy }
-San José • Club Deportivo San José  (SJ) _#sanjose_{: .key} <br>
+San José • Club Deportivo San José  (SJ)  -- San Jose _#sanjose_{: .key} <br>
 {: .team #sanjose }
 
 </div>

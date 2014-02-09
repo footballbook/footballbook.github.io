@@ -11,7 +11,7 @@ permalink: /de.2013_14.html
 #### 18 Teams
 
 
- [FC Bayern München](de.html#bayern) (FCB)   •  [Borussia Dortmund](de.html#dortmund) (BVB)   •  [Bayer 04 Leverkusen](de.html#leverkusen) (B04)   •  [Schalke 04](de.html#schalke) (S04)   •  [SC Freiburg](de.html#freiburg) (SCF)   •  [Eintracht Frankfurt](de.html#frankfurt) (FFM)   •  [Hamburger SV](de.html#hsv) (HSV)   •  [Borussia M'gladbach](de.html#mgladbach) (BMG)   •  [Hannover 96](de.html#hannover) (H96)   •  [1. FC Nürnberg](de.html#nuernberg) (FCN)   •  [VfL Wolfsburg](de.html#wolfsburg) (WOB)   •  [1. FSV Mainz 05](de.html#mainz) (M05)   •  [Werder Bremen](de.html#bremen) (BRE)   •  [1899 Hoffenheim](de.html#hoffenheim) (HOF)   •  [Stuttgart](de.html#stuttgart) (VFB)   •  [FC Augsburg](de.html#augsburg) (FCA)   •  [Eintr. Braunschweig](de.html#braunschweig) (EBS)   •  [Hertha BSC](de.html#herthabsc) (BSC)  
+ [FC Bayern München (FCB)](de.html#bayern)   •  [Borussia Dortmund (BVB)](de.html#dortmund)   •  [Bayer 04 Leverkusen (B04)](de.html#leverkusen)   •  [Schalke 04 (S04)](de.html#schalke)   •  [SC Freiburg (SCF)](de.html#freiburg)   •  [Eintracht Frankfurt (FFM)](de.html#frankfurt)   •  [Hamburger SV (HSV)](de.html#hsv)   •  [Borussia M'gladbach (BMG)](de.html#mgladbach)   •  [Hannover 96 (H96)](de.html#hannover)   •  [1. FC Nürnberg (FCN)](de.html#nuernberg)   •  [VfL Wolfsburg (WOB)](de.html#wolfsburg)   •  [1. FSV Mainz 05 (M05)](de.html#mainz)   •  [Werder Bremen (BRE)](de.html#bremen)   •  [1899 Hoffenheim (HOF)](de.html#hoffenheim)   •  [Stuttgart (VFB)](de.html#stuttgart)   •  [FC Augsburg (FCA)](de.html#augsburg)   •  [Eintr. Braunschweig (EBS)](de.html#braunschweig)   •  [Hertha BSC (BSC)](de.html#herthabsc)  
 
 
  

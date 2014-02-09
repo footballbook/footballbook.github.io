@@ -11,7 +11,7 @@ permalink: /br.2013.html
 #### 20 Teams
 
 
- [Corinthians](br.html#corinthians) (COR)   •  [São Paulo](br.html#saopaulo) (SAO)   •  [Portuguesa](br.html#portuguesa) (POR)   •  [Santos](br.html#santossp) (SAN)   •  [Ponte Preta](br.html#pontepreta) (PON)   •  [Botafogo](br.html#botafogo) (BOT)   •  [Flamengo](br.html#flamengo) (FLA)   •  [Fluminense](br.html#fluminense) (FLU)   •  [Vasco](br.html#vascodagama) (VAS)   •  [Bahia](br.html#bahia) (BAI)   •  [Vitória](br.html#vitoria) (VIT)   •  [Goiás](br.html#goias) (GOI)   •  [Atlético Paranaense](br.html#atleticopr) (CAP)   •  [Coritiba](br.html#coritiba) (CTB)   •  [Náutico](br.html#nautico) (NAU)   •  [Grêmio](br.html#gremio) (GRE)   •  [Internacional](br.html#interrs) (INT)   •  [Criciúma](br.html#criciuma) (CRI)   •  [Atlético Mineiro](br.html#atleticomg) (CAM)   •  [Cruzeiro](br.html#cruzeiro) (CRU)  
+ [Corinthians (COR)](br.html#corinthians)   •  [São Paulo (SAO)](br.html#saopaulo)   •  [Portuguesa (POR)](br.html#portuguesa)   •  [Santos (SAN)](br.html#santossp)   •  [Ponte Preta (PON)](br.html#pontepreta)   •  [Botafogo (BOT)](br.html#botafogo)   •  [Flamengo (FLA)](br.html#flamengo)   •  [Fluminense (FLU)](br.html#fluminense)   •  [Vasco (VAS)](br.html#vascodagama)   •  [Bahia (BAI)](br.html#bahia)   •  [Vitória (VIT)](br.html#vitoria)   •  [Goiás (GOI)](br.html#goias)   •  [Atlético Paranaense (CAP)](br.html#atleticopr)   •  [Coritiba (CTB)](br.html#coritiba)   •  [Náutico (NAU)](br.html#nautico)   •  [Grêmio (GRE)](br.html#gremio)   •  [Internacional (INT)](br.html#interrs)   •  [Criciúma (CRI)](br.html#criciuma)   •  [Atlético Mineiro (CAM)](br.html#atleticomg)   •  [Cruzeiro (CRU)](br.html#cruzeiro)  
 
 
  

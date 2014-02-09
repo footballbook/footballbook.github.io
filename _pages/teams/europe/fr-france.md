@@ -8,12 +8,16 @@ permalink: /fr.html
 {: #fr }
 
 
+
+
+
+
 [Ile-de-France](#fr-if) _(1)_{:.count} • [Champagne-Ardenne](#fr-ca) _(2)_{:.count} • [Picardie](#fr-pd) _(0)_{:.count} • [Haute-Normandie](#fr-hn) _(0)_{:.count} • [Centre](#fr-ct) _(0)_{:.count} • [Basse-Normandie](#fr-bn) _(0)_{:.count} • [Bourgogne](#fr-bg) _(0)_{:.count} • [Nord-Pas-de-Calais](#fr-nc) _(2)_{:.count} • [Languedoc-Roussillon](#fr-lr) _(2)_{:.count} • [Alsace](#fr-al) _(1)_{:.count} • [Franche-Comté](#fr-fc) _(1)_{:.count} • [Pays de la Loire](#fr-pl) _(1)_{:.count} • [Bretagne [Brittany]](#fr-br) _(3)_{:.count} • [Poitou-Charentes](#fr-pc) _(0)_{:.count} • [Aquitaine](#fr-aq) _(1)_{:.count} • [Midi-Pyrénées](#fr-mp) _(1)_{:.count} • [Limousin](#fr-lm) _(0)_{:.count} • [Rhône-Alpes](#fr-ra) _(3)_{:.count} • [Auvergne](#fr-av) _(0)_{:.count} • [Provence-Alpes-Côte d'Azur](#fr-ac) _(2)_{:.count} • [Corse](#fr-cr) _(2)_{:.count}
 
 
 ### Uncategorized _(1)_{:.count}
 
-France  (FRA) _#fra_{: .key} <br>
+France  (FRA)  _#fra_{: .key} <br>
 {: .team #fra }
 
 
@@ -27,7 +31,7 @@ France  (FRA) _#fra_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Paris St. Germain • Paris S.Germai • Paris Saint Germain • Paris Saint-Germain  (PSG) _#paris_{: .key} <br>
+Paris St. Germain • Paris S.Germai • Paris Saint Germain • Paris Saint-Germain  (PSG)  -- Paris _#paris_{: .key} <br>
 {: .team #paris }
 
 </div>
@@ -43,9 +47,9 @@ Paris St. Germain • Paris S.Germai • Paris Saint Germain • Paris Saint-Ger
 
 <div class='columns3' markdown='1'>
 
-ES Troyes AC • ESTAC Troyes • Espérance Sportive Troyes Aube Champagne  (TRO) _#troyes_{: .key} <br>
+ES Troyes AC • ESTAC Troyes • Espérance Sportive Troyes Aube Champagne  (TRO)  -- Troyes _#troyes_{: .key} <br>
 {: .team #troyes }
-Stade de Reims • Stade Reims  (REI) _#reims_{: .key} <br>
+Stade de Reims • Stade Reims  (REI)  -- Reims _#reims_{: .key} <br>
 {: .team #reims }
 
 </div>
@@ -131,9 +135,9 @@ Stade de Reims • Stade Reims  (REI) _#reims_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-OSC Lille • Lille OSC • LOSC Lille  (LIL) _#lille_{: .key} <br>
+OSC Lille • Lille OSC • LOSC Lille  (LIL)  -- Lille _#lille_{: .key} <br>
 {: .team #lille }
-Valenciennes FC  (VAL) _#valenciennes_{: .key} <br>
+Valenciennes FC  (VAL)  -- Valenciennes _#valenciennes_{: .key} <br>
 {: .team #valenciennes }
 
 </div>
@@ -149,9 +153,9 @@ Valenciennes FC  (VAL) _#valenciennes_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-AS Nancy • AS Nancy-Lorraine • Association Sportive Nancy-Lorraine  (NAL) _#nancy_{: .key} <br>
+AS Nancy • AS Nancy-Lorraine • Association Sportive Nancy-Lorraine  (NAL)  -- Nancy _#nancy_{: .key} <br>
 {: .team #nancy }
-HSC Montpellier • Montpellier • Montpellier Hérault SC  (MHS) _#montpellier_{: .key} <br>
+HSC Montpellier • Montpellier • Montpellier Hérault SC  (MHS)  -- Montpellier _#montpellier_{: .key} <br>
 {: .team #montpellier }
 
 </div>
@@ -181,7 +185,7 @@ HSC Montpellier • Montpellier • Montpellier Hérault SC  (MHS) _#montpellier
 
 <div class='columns3' markdown='1'>
 
-FC Sochaux-Montbéliard • Football Club Sochaux-Montbéliard  (SOC) _#sochaux_{: .key} <br>
+FC Sochaux-Montbéliard • Football Club Sochaux-Montbéliard  (SOC)  -- Sochaux _#sochaux_{: .key} <br>
 {: .team #sochaux }
 
 </div>
@@ -211,11 +215,11 @@ FC Sochaux-Montbéliard • Football Club Sochaux-Montbéliard  (SOC) _#sochaux_
 
 <div class='columns3' markdown='1'>
 
-FC Lorient  (LOR) _#lorient_{: .key} <br>
+FC Lorient  (LOR)  -- Lorient _#lorient_{: .key} <br>
 {: .team #lorient }
-Stade Brestois • Stade Brestois 29  (BRS) _#brest_{: .key} <br>
+Stade Brestois • Stade Brestois 29  (BRS)  -- Brest _#brest_{: .key} <br>
 {: .team #brest }
-Stade Rennais FC • Stade Rennais Football Club  (REN) _#rennes_{: .key} <br>
+Stade Rennais FC • Stade Rennais Football Club  (REN)  -- Rennes _#rennes_{: .key} <br>
 {: .team #rennes }
 
 </div>
@@ -245,7 +249,7 @@ Stade Rennais FC • Stade Rennais Football Club  (REN) _#rennes_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Bordeaux • Girondins de Bordeaux • FC Girondins de Bordeaux • Football Club des Girondins de Bordeaux  (BOR) _#bordeaux_{: .key} <br>
+Bordeaux • Girondins de Bordeaux • FC Girondins de Bordeaux • Football Club des Girondins de Bordeaux  (BOR)  -- Bordeaux _#bordeaux_{: .key} <br>
 {: .team #bordeaux }
 
 </div>
@@ -261,7 +265,7 @@ Bordeaux • Girondins de Bordeaux • FC Girondins de Bordeaux • Football Clu
 
 <div class='columns3' markdown='1'>
 
-Toulouse FC  (TFC) _#toulouse_{: .key} <br>
+Toulouse FC  (TFC)  -- Toulouse _#toulouse_{: .key} <br>
 {: .team #toulouse }
 
 </div>
@@ -291,11 +295,11 @@ Toulouse FC  (TFC) _#toulouse_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-AS Saint-Étienne • Association Sportive de Saint-Étienne Loire  (STE) _#saintetienne_{: .key} <br>
+AS Saint-Étienne • Association Sportive de Saint-Étienne Loire  (STE)  -- Saint-Étienne _#saintetienne_{: .key} <br>
 {: .team #saintetienne }
-Lyon • Olympique Lyonnais  (OL) _#lyon_{: .key} <br>
+Lyon • Olympique Lyonnais  (OL)  -- Lyon _#lyon_{: .key} <br>
 {: .team #lyon }
-Évian TG • Évian TG FC • Évian Thonon Gaillard FC  (EVI) _#evian_{: .key} <br>
+Évian TG • Évian TG FC • Évian Thonon Gaillard FC  (EVI)  -- Thonon-les-Bains _#evian_{: .key} <br>
 {: .team #evian }
 
 </div>
@@ -325,9 +329,9 @@ Lyon • Olympique Lyonnais  (OL) _#lyon_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Marseille • Olympique Marseille • Olympique de Marseille  (OM) _#marseille_{: .key} <br>
+Marseille • Olympique Marseille • Olympique de Marseille  (OM)  -- Marseille _#marseille_{: .key} <br>
 {: .team #marseille }
-OGC Nice • Olympique Gymnaste Club Nice Côte d'Azur  (NIC) _#nice_{: .key} <br>
+OGC Nice • Olympique Gymnaste Club Nice Côte d'Azur  (NIC)  -- Nice _#nice_{: .key} <br>
 {: .team #nice }
 
 </div>
@@ -343,9 +347,9 @@ OGC Nice • Olympique Gymnaste Club Nice Côte d'Azur  (NIC) _#nice_{: .key} <b
 
 <div class='columns3' markdown='1'>
 
-AC Ajaccio • Athletic Club Ajaccio  (ACA) _#ajaccio_{: .key} <br>
+AC Ajaccio • Athletic Club Ajaccio  (ACA)  -- Ajaccio _#ajaccio_{: .key} <br>
 {: .team #ajaccio }
-SC Bastia • Sporting Club de Bastia  (BAS) _#bastia_{: .key} <br>
+SC Bastia • Sporting Club de Bastia  (BAS)  -- Bastia _#bastia_{: .key} <br>
 {: .team #bastia }
 
 </div>

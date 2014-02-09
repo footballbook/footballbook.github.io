@@ -4,6 +4,15 @@
    {{ country.teams.count }} Teams
    {: #{{ country.key }} }
 
+
+.. <!-- add leagues -->
+
+{% country.leagues.each_with_index do |league,i| %}
+  {{ ' • ' if i > 0 }}  ++
+  {{ league.title }}
+{% end %}
+
+
  .. <!-- add intra-page links for regions here -->
  <!-- change to navbar_regions_for_country ?? -->
  {{ regions_navbar_for_country( country ) }}

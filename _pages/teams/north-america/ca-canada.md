@@ -8,12 +8,16 @@ permalink: /ca.html
 {: #ca }
 
 
+
+
+
+
 [British Columbia](#ca-bc) _(4)_{:.count} • [Alberta](#ca-ab) _(2)_{:.count} • [Manitoba](#ca-mb) _(1)_{:.count} • [Saskatchewan](#ca-sk) _(2)_{:.count} • [New Brunswick](#ca-nb) _(3)_{:.count} • [Nova Scotia](#ca-ns) _(1)_{:.count} • [Prince Edward Island](#ca-pe) _(1)_{:.count} • [Newfoundland and Labrador](#ca-nl) _(1)_{:.count} • [Ontario](#ca-on) _(10)_{:.count} • [Québec](#ca-qc) _(6)_{:.count} • [Northwest Territories](#ca-nt) _(1)_{:.count} • [Yukon](#ca-yt) _(1)_{:.count} • [Nunavut](#ca-nu) _(1)_{:.count}
 
 
 ### Uncategorized _(1)_{:.count}
 
-Canada  (CAN) _#can_{: .key} <br>
+Canada  (CAN)  _#can_{: .key} <br>
 {: .team #can }
 
 
@@ -27,7 +31,7 @@ Canada  (CAN) _#can_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Vancouver Whitecaps  _#vancouver_{: .key} <br>
+Vancouver Whitecaps   -- Vancouver _#vancouver_{: .key} <br>
 {: .team #vancouver }
 
 </div>
@@ -141,9 +145,9 @@ Vancouver Whitecaps  _#vancouver_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Toronto • Toronto FC  (TFC) _#toronto_{: .key} <br>
+Toronto • Toronto FC  (TFC)  -- Toronto _#toronto_{: .key} <br>
 {: .team #toronto }
-Waikato FC  (WFC) _#waikato_{: .key} <br>
+Waikato FC  (WFC)  -- Hamilton _#waikato_{: .key} <br>
 {: .team #waikato }
 
 </div>
@@ -159,7 +163,7 @@ Waikato FC  (WFC) _#waikato_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Montreal Impact • Montreal I.  _#montreal_{: .key} <br>
+Montreal Impact • Montreal I.   -- Montreal _#montreal_{: .key} <br>
 {: .team #montreal }
 
 </div>

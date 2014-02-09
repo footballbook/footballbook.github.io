@@ -8,132 +8,136 @@ permalink: /at.html
 {: #at }
 
 
+
+ Österr. Bundesliga •  Österr. Erste Liga •  ÖFB Cup •  Österr. Regionalliga Ost •  Österr. Regionalliga Mitte •  Österr. Regionalliga West
+
+
 [Burgenland](#at-b) _(2)_{:.count} • [Niederösterreich [Lower Austria]](#at-n) _(7)_{:.count} • [Wien [Vienna]](#at-w) _(1)_{:.count} • [Steiermark [Styria]](#at-st) _(4)_{:.count} • [Kärnten [Carinthia]](#at-k) _(3)_{:.count} • [Oberösterreich [Upper Austria]](#at-o) _(6)_{:.count} • [Salzburg](#at-s) _(2)_{:.count} • [Tirol [Tyrol]](#at-t) _(1)_{:.count} • [Vorarlberg](#at-v) _(5)_{:.count}
 
 
 ### Uncategorized _(61)_{:.count}
 
-1. SC Sollenau • SC Sollenau  (SOL) _#sollenau_{: .key} <br>
+1. SC Sollenau • SC Sollenau  (SOL)  _#sollenau_{: .key} <br>
 {: .team #sollenau }
-ASK Bad Vöslau  (VOE) _#badvoeslau_{: .key} <br>
+ASK Bad Vöslau  (VOE)  _#badvoeslau_{: .key} <br>
 {: .team #badvoeslau }
-ASV Draßburg  _#drassburg_{: .key} <br>
+ASV Draßburg   _#drassburg_{: .key} <br>
 {: .team #drassburg }
-ATSV Ober-Grafendorf  _#obergrafendorf_{: .key} <br>
+ATSV Ober-Grafendorf   _#obergrafendorf_{: .key} <br>
 {: .team #obergrafendorf }
-Ardagger SCU • SCU Ardagger  (ARD) _#ardagger_{: .key} <br>
+Ardagger SCU • SCU Ardagger  (ARD)  _#ardagger_{: .key} <br>
 {: .team #ardagger }
-Austria  (AUT) _#aut_{: .key} <br>
+Austria  (AUT)  _#aut_{: .key} <br>
 {: .team #aut }
-DSV Leoben  (LEO) _#leoben_{: .key} <br>
+DSV Leoben  (LEO)  _#leoben_{: .key} <br>
 {: .team #leoben }
-Deutschlandsberger SC  (DSC) _#dsc_{: .key} <br>
+Deutschlandsberger SC  (DSC)  _#dsc_{: .key} <br>
 {: .team #dsc }
-Dornbirner SV  _#dornbirnersv_{: .key} <br>
+Dornbirner SV   _#dornbirnersv_{: .key} <br>
 {: .team #dornbirnersv }
-FC Dornbirn 1913 • FC Dornbirn  (DOR) _#dornbirn_{: .key} <br>
+FC Dornbirn 1913 • FC Dornbirn  (DOR)  _#dornbirn_{: .key} <br>
 {: .team #dornbirn }
-FC Gratkorn  (GRA) _#gratkorn_{: .key} <br>
+FC Gratkorn  (GRA)  _#gratkorn_{: .key} <br>
 {: .team #gratkorn }
-FC Hard  (HAR) _#hard_{: .key} <br>
+FC Hard  (HAR)  _#hard_{: .key} <br>
 {: .team #hard }
-FC Kitzbühel  _#kitzbuehel_{: .key} <br>
+FC Kitzbühel   _#kitzbuehel_{: .key} <br>
 {: .team #kitzbuehel }
-FC Kufstein  (KUF) _#kufstein_{: .key} <br>
+FC Kufstein  (KUF)  _#kufstein_{: .key} <br>
 {: .team #kufstein }
-FC Lankowitz  _#lankowitz_{: .key} <br>
+FC Lankowitz   _#lankowitz_{: .key} <br>
 {: .team #lankowitz }
-FC Pasching  (PAS) _#pasching_{: .key} <br>
+FC Pasching  (PAS)  _#pasching_{: .key} <br>
 {: .team #pasching }
-FC Pinzgau Saalfelden  (PIN) _#pinzgau_{: .key} <br>
+FC Pinzgau Saalfelden  (PIN)  _#pinzgau_{: .key} <br>
 {: .team #pinzgau }
-FC RB Juniors Salzburg • FC Red Bull Salzburg II  _#salzburgii_{: .key} <br>
+FC RB Juniors Salzburg • FC Red Bull Salzburg II   _#salzburgii_{: .key} <br>
 {: .team #salzburgii }
-FC St. Veit  _#stveit_{: .key} <br>
+FC St. Veit   _#stveit_{: .key} <br>
 {: .team #stveit }
-FC Wolfurt  (WOL) _#wolfurt_{: .key} <br>
+FC Wolfurt  (WOL)  _#wolfurt_{: .key} <br>
 {: .team #wolfurt }
-Floridsdorfer AC • FAC Team für Wien  (FAC) _#fac_{: .key} <br>
+Floridsdorfer AC • FAC Team für Wien  (FAC)  _#fac_{: .key} <br>
 {: .team #fac }
-Grazer AK  (GAK) _#gak_{: .key} <br>
+Grazer AK  (GAK)  _#gak_{: .key} <br>
 {: .team #gak }
-LASK Linz  (LAS) _#lask_{: .key} <br>
+LASK Linz  (LAS)  _#lask_{: .key} <br>
 {: .team #lask }
-SAK 1914 • Salzburger AK 1914  (SAK) _#sak_{: .key} <br>
+SAK 1914 • Salzburger AK 1914  (SAK)  _#sak_{: .key} <br>
 {: .team #sak }
-SAK Klagenfurt • SAK Celovec/Klagenfurt  (CEL) _#klagenfurt_{: .key} <br>
+SAK Klagenfurt • SAK Celovec/Klagenfurt  (CEL)  _#klagenfurt_{: .key} <br>
 {: .team #klagenfurt }
-SC Bregenz  (BRE) _#bregenz_{: .key} <br>
+SC Bregenz  (BRE)  _#bregenz_{: .key} <br>
 {: .team #bregenz }
-SC Kalsdorf  (KAL) _#kalsdorf_{: .key} <br>
+SC Kalsdorf  (KAL)  _#kalsdorf_{: .key} <br>
 {: .team #kalsdorf }
-SC Leopoldsdorf  _#leopoldsdorf_{: .key} <br>
+SC Leopoldsdorf   _#leopoldsdorf_{: .key} <br>
 {: .team #leopoldsdorf }
-SC Mannsdorf  _#mannsdorf_{: .key} <br>
+SC Mannsdorf   _#mannsdorf_{: .key} <br>
 {: .team #mannsdorf }
-SC Ostbahn XI  (OST) _#ostbahn_{: .key} <br>
+SC Ostbahn XI  (OST)  _#ostbahn_{: .key} <br>
 {: .team #ostbahn }
-SC Pinkafeld  _#pinkafeld_{: .key} <br>
+SC Pinkafeld   _#pinkafeld_{: .key} <br>
 {: .team #pinkafeld }
-SC Retz  (RET) _#retz_{: .key} <br>
+SC Retz  (RET)  _#retz_{: .key} <br>
 {: .team #retz }
-SC Rohrendorf  (ROH) _#rohrendorf_{: .key} <br>
+SC Rohrendorf  (ROH)  _#rohrendorf_{: .key} <br>
 {: .team #rohrendorf }
-SC Schwaz  (SCH) _#schwaz_{: .key} <br>
+SC Schwaz  (SCH)  _#schwaz_{: .key} <br>
 {: .team #schwaz }
-SC/ESV Parndorf 1919 • SC-ESV Parndorf 1919 • SC/ESV Parndorf  (PAR) _#parndorf_{: .key} <br>
+SC/ESV Parndorf 1919 • SC-ESV Parndorf 1919 • SC/ESV Parndorf  (PAR)  _#parndorf_{: .key} <br>
 {: .team #parndorf }
-SK Austria Klagenfurt • SG Austria Klagenfurt  (KLA) _#austriak_{: .key} <br>
+SK Austria Klagenfurt • SG Austria Klagenfurt  (KLA)  _#austriak_{: .key} <br>
 {: .team #austriak }
-SK Vorwärts Steyr  _#steyr_{: .key} <br>
+SK Vorwärts Steyr   _#steyr_{: .key} <br>
 {: .team #steyr }
-SKU Amstetten  (AMS) _#amstetten_{: .key} <br>
+SKU Amstetten  (AMS)  _#amstetten_{: .key} <br>
 {: .team #amstetten }
-SV Allerheiligen • USV Allerheiligen  (ALL) _#allerheiligen_{: .key} <br>
+SV Allerheiligen • USV Allerheiligen  (ALL)  _#allerheiligen_{: .key} <br>
 {: .team #allerheiligen }
-SV Austria Salzburg  (AUS) _#austrias_{: .key} <br>
+SV Austria Salzburg  (AUS)  _#austrias_{: .key} <br>
 {: .team #austrias }
-SV Gaflenz  (GAF) _#gaflenz_{: .key} <br>
+SV Gaflenz  (GAF)  _#gaflenz_{: .key} <br>
 {: .team #gaflenz }
-SV Heiligenkreuz  (HEI) _#heiligenkreuz_{: .key} <br>
+SV Heiligenkreuz  (HEI)  _#heiligenkreuz_{: .key} <br>
 {: .team #heiligenkreuz }
-SV Lafnitz  _#lafnitz_{: .key} <br>
+SV Lafnitz   _#lafnitz_{: .key} <br>
 {: .team #lafnitz }
-SV Micheldorf • SV Grün-Weiß Micheldorf  (MIC) _#micheldorf_{: .key} <br>
+SV Micheldorf • SV Grün-Weiß Micheldorf  (MIC)  _#micheldorf_{: .key} <br>
 {: .team #micheldorf }
-SV Oberwart  (OBE) _#oberwart_{: .key} <br>
+SV Oberwart  (OBE)  _#oberwart_{: .key} <br>
 {: .team #oberwart }
-SV Reutte  (REU) _#reutte_{: .key} <br>
+SV Reutte  (REU)  _#reutte_{: .key} <br>
 {: .team #reutte }
-SV Schwechat  (SCH) _#schwechat_{: .key} <br>
+SV Schwechat  (SCH)  _#schwechat_{: .key} <br>
 {: .team #schwechat }
-SV Seekirchen 1945  _#seekirchen_{: .key} <br>
+SV Seekirchen 1945   _#seekirchen_{: .key} <br>
 {: .team #seekirchen }
-SV Spittal/Drau  (SPI) _#spittal_{: .key} <br>
+SV Spittal/Drau  (SPI)  _#spittal_{: .key} <br>
 {: .team #spittal }
-SV Stegersbach  (STE) _#stegersbach_{: .key} <br>
+SV Stegersbach  (STE)  _#stegersbach_{: .key} <br>
 {: .team #stegersbach }
-SV Wals-Grünau  _#walsgruenau_{: .key} <br>
+SV Wals-Grünau   _#walsgruenau_{: .key} <br>
 {: .team #walsgruenau }
-St. Florian • Union St. Florian  (STF) _#stflorian_{: .key} <br>
+St. Florian • Union St. Florian  (STF)  _#stflorian_{: .key} <br>
 {: .team #stflorian }
-TSV Neumarkt am Wallersee  _#neumarkt_{: .key} <br>
+TSV Neumarkt am Wallersee   _#neumarkt_{: .key} <br>
 {: .team #neumarkt }
-TSV St. Johann  (STJ) _#stjohann_{: .key} <br>
+TSV St. Johann  (STJ)  _#stjohann_{: .key} <br>
 {: .team #stjohann }
-Team Wiener Linien  _#wienerlinien_{: .key} <br>
+Team Wiener Linien   _#wienerlinien_{: .key} <br>
 {: .team #wienerlinien }
-Villacher SV  (VSV) _#vsv_{: .key} <br>
+Villacher SV  (VSV)  _#vsv_{: .key} <br>
 {: .team #vsv }
-Vöcklamarkt • Union Vöcklamarkt  (VOE) _#voecklamarkt_{: .key} <br>
+Vöcklamarkt • Union Vöcklamarkt  (VOE)  _#voecklamarkt_{: .key} <br>
 {: .team #voecklamarkt }
-WSG Wattens  (WAT) _#wattens_{: .key} <br>
+WSG Wattens  (WAT)  _#wattens_{: .key} <br>
 {: .team #wattens }
-Wallern • SV Wallern  (WAL) _#wallern_{: .key} <br>
+Wallern • SV Wallern  (WAL)  _#wallern_{: .key} <br>
 {: .team #wallern }
-Wiener SK • Wiener Sportklub  (WIE) _#wienersk_{: .key} <br>
+Wiener SK • Wiener Sportklub  (WIE)  _#wienersk_{: .key} <br>
 {: .team #wienersk }
-Wiener Viktoria • SC Wiener Viktoria  (VIK) _#viktoria_{: .key} <br>
+Wiener Viktoria • SC Wiener Viktoria  (VIK)  _#viktoria_{: .key} <br>
 {: .team #viktoria }
 
 
@@ -147,7 +151,7 @@ Wiener Viktoria • SC Wiener Viktoria  (VIK) _#viktoria_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-SV Mattersburg  (MAT) _#mattersburg_{: .key} <br>
+SV Mattersburg  (MAT)  -- Mattersburg _#mattersburg_{: .key} <br>
 {: .team #mattersburg }
 
 </div>
@@ -163,13 +167,13 @@ SV Mattersburg  (MAT) _#mattersburg_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Admira Wacker • Admira Wacker • FC Admira Wacker Mödling  (ADM) _#admira_{: .key} <br>
+FC Admira Wacker • Admira Wacker • FC Admira Wacker Mödling  (ADM)  -- Mödling _#admira_{: .key} <br>
 {: .team #admira }
-SC Wiener Neustadt • Wiener Neustadt • Wr. Neustadt  (WRN) _#wrneustadt_{: .key} <br>
+SC Wiener Neustadt • Wiener Neustadt • Wr. Neustadt  (WRN)  -- Wr. Neustadt _#wrneustadt_{: .key} <br>
 {: .team #wrneustadt }
-SKN St. Pölten  (SKN) _#stpoelten_{: .key} <br>
+SKN St. Pölten  (SKN)  -- St. Pölten _#stpoelten_{: .key} <br>
 {: .team #stpoelten }
-SV Horn  (SVH) _#horn_{: .key} <br>
+SV Horn  (SVH)  -- Horn _#horn_{: .key} <br>
 {: .team #horn }
 
 </div>
@@ -185,11 +189,11 @@ SV Horn  (SVH) _#horn_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FK Austria Wien • Austria Wien  (AUS) _#austria_{: .key} <br>
+FK Austria Wien • Austria Wien  (AUS)  -- Wien [Vienna] _#austria_{: .key} <br>
 {: .team #austria }
-SK Rapid Wien • Rapid Wien  (RAP) _#rapid_{: .key} <br>
+SK Rapid Wien • Rapid Wien  (RAP)  -- Wien [Vienna] _#rapid_{: .key} <br>
 {: .team #rapid }
-Vienna FC 1894 • First Vienna FC 1894  (VIE) _#vienna_{: .key} <br>
+Vienna FC 1894 • First Vienna FC 1894  (VIE)  -- Wien [Vienna] _#vienna_{: .key} <br>
 {: .team #vienna }
 
 </div>
@@ -205,11 +209,11 @@ Vienna FC 1894 • First Vienna FC 1894  (VIE) _#vienna_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Kapfenberger SV • Kapfenberger SV 1919 • KSV 1919  (KSV) _#ksv_{: .key} <br>
+Kapfenberger SV • Kapfenberger SV 1919 • KSV 1919  (KSV)  -- Kapfenberg _#ksv_{: .key} <br>
 {: .team #ksv }
-SK Sturm Graz • Sturm Graz  (STU) _#sturm_{: .key} <br>
+SK Sturm Graz • Sturm Graz  (STU)  -- Graz _#sturm_{: .key} <br>
 {: .team #sturm }
-TSV Hartberg  (HTB) _#hartberg_{: .key} <br>
+TSV Hartberg  (HTB)  -- Hartberg _#hartberg_{: .key} <br>
 {: .team #hartberg }
 
 </div>
@@ -225,7 +229,7 @@ TSV Hartberg  (HTB) _#hartberg_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Wolfsberger AC • RZ Pellets WAC  (WAC) _#wac_{: .key} <br>
+Wolfsberger AC • RZ Pellets WAC  (WAC)  -- Wolfsberg _#wac_{: .key} <br>
 {: .team #wac }
 
 </div>
@@ -241,9 +245,9 @@ Wolfsberger AC • RZ Pellets WAC  (WAC) _#wac_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Blau-Weiß Linz  (BWL) _#linz_{: .key} <br>
+FC Blau-Weiß Linz  (BWL)  -- Linz _#linz_{: .key} <br>
 {: .team #linz }
-SV Ried • SV Josko Ried • SV Josko Fenster Ried  (RIE) _#ried_{: .key} <br>
+SV Ried • SV Josko Ried • SV Josko Fenster Ried  (RIE)  -- Ried _#ried_{: .key} <br>
 {: .team #ried }
 
 </div>
@@ -259,11 +263,11 @@ SV Ried • SV Josko Ried • SV Josko Fenster Ried  (RIE) _#ried_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Liefering  (LIE) _#liefering_{: .key} <br>
+FC Liefering  (LIE)  -- Salzburg _#liefering_{: .key} <br>
 {: .team #liefering }
-FC RB Salzburg • RB Salzburg • Red Bull Salzburg  (RBS) _#salzburg_{: .key} <br>
+FC RB Salzburg • RB Salzburg • Red Bull Salzburg  (RBS)  -- Salzburg _#salzburg_{: .key} <br>
 {: .team #salzburg }
-SV Grödig  (SVG) _#groedig_{: .key} <br>
+SV Grödig  (SVG)  -- Grödig _#groedig_{: .key} <br>
 {: .team #groedig }
 
 </div>
@@ -279,7 +283,7 @@ SV Grödig  (SVG) _#groedig_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-FC Wacker Innsbruck • FC Wacker • Wacker Innsbruck  (FCW) _#innsbruck_{: .key} <br>
+FC Wacker Innsbruck • FC Wacker • Wacker Innsbruck  (FCW)  -- Innsbruck _#innsbruck_{: .key} <br>
 {: .team #innsbruck }
 
 </div>
@@ -295,11 +299,11 @@ FC Wacker Innsbruck • FC Wacker • Wacker Innsbruck  (FCW) _#innsbruck_{: .ke
 
 <div class='columns3' markdown='1'>
 
-FC Lustenau 1907 • FC Lustenau  (LUS) _#lustenau_{: .key} <br>
+FC Lustenau 1907 • FC Lustenau  (LUS)  -- Lustenau _#lustenau_{: .key} <br>
 {: .team #lustenau }
-SC Austria Lustenau • Austria Lustenau  (ALU) _#austrial_{: .key} <br>
+SC Austria Lustenau • Austria Lustenau  (ALU)  -- Lustenau _#austrial_{: .key} <br>
 {: .team #austrial }
-SCR Altach • SC Rheindorf Altach  (ALT) _#altach_{: .key} <br>
+SCR Altach • SC Rheindorf Altach  (ALT)  -- Altach _#altach_{: .key} <br>
 {: .team #altach }
 
 </div>
