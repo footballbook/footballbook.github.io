@@ -9,7 +9,8 @@ permalink: /br.html
 
 
 
- Campeonato Brasileiro Série A
+ Campeonato Brasileiro Série A _#br_{: .key}
+
 
 
 [Acre](#br-ac) _(1)_{:.count} • [Amapá](#br-am) _(1)_{:.count} • [Amazonas](#br-ap) _(1)_{:.count} • [Pará](#br-pa) _(1)_{:.count} • [Rondônia](#br-ro) _(1)_{:.count} • [Roraima](#br-rr) _(1)_{:.count} • [Tocantins](#br-to) _(1)_{:.count} • [Alagoas](#br-al) _(1)_{:.count} • [Bahia](#br-ba) _(1)_{:.count} • [Ceará](#br-ce) _(1)_{:.count} • [Maranhão](#br-ma) _(1)_{:.count} • [Paraíba](#br-pb) _(1)_{:.count} • [Pernambuco](#br-pe) _(1)_{:.count} • [Piauí](#br-pi) _(1)_{:.count} • [Rio Grande do Norte](#br-rn) _(1)_{:.count} • [Sergipe](#br-se) _(1)_{:.count} • [Distrito Federal (Brasil)](#br-df) _(1)_{:.count} • [Goiás](#br-go) _(1)_{:.count} • [Mato Grosso](#br-mt) _(1)_{:.count} • [Mato Grosso do Sul](#br-ms) _(1)_{:.count} • [Espírito Santo](#br-es) _(1)_{:.count} • [Minas Gerais](#br-mg) _(1)_{:.count} • [Rio de Janeiro](#br-rj) _(4)_{:.count} • [São Paulo](#br-sp) _(7)_{:.count} • [Paraná](#br-pr) _(1)_{:.count} • [Rio Grande do Sul](#br-rs) _(1)_{:.count} • [Santa Catarina](#br-sc) _(2)_{:.count}

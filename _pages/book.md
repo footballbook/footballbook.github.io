@@ -386,7 +386,13 @@ Ulisses FC   _#ulisses_{: .key} <br>
 
 
 
- Österr. Bundesliga •  Österr. Erste Liga •  ÖFB Cup •  Österr. Regionalliga Ost •  Österr. Regionalliga Mitte •  Österr. Regionalliga West
+ Österr. Bundesliga _#at_{: .key}
+ •  Österr. Erste Liga _#at.2_{: .key}
+ •  ÖFB Cup _#at.cup_{: .key}
+ •  Österr. Regionalliga Ost _#at.3.ost_{: .key}
+ •  Österr. Regionalliga Mitte _#at.3.mitte_{: .key}
+ •  Österr. Regionalliga West _#at.3.west_{: .key}
+
 
 
 [Burgenland](#at-b) _(2)_{:.count} • [Niederösterreich [Lower Austria]](#at-n) _(7)_{:.count} • [Wien [Vienna]](#at-w) _(1)_{:.count} • [Steiermark [Styria]](#at-st) _(4)_{:.count} • [Kärnten [Carinthia]](#at-k) _(3)_{:.count} • [Oberösterreich [Upper Austria]](#at-o) _(6)_{:.count} • [Salzburg](#at-s) _(2)_{:.count} • [Tirol [Tyrol]](#at-t) _(1)_{:.count} • [Vorarlberg](#at-v) _(5)_{:.count}
@@ -1744,7 +1750,8 @@ Randers FC   _#randers_{: .key} <br>
 
 
 
- English Premier League
+ English Premier League _#en_{: .key}
+
 
 
 [North East England](#en-ne) _(1)_{:.count} • [North West England](#en-nw) _(3)_{:.count} • [Yorkshire and the Humber](#en-yh) _(5)_{:.count} • [East Midlands](#en-em) _(1)_{:.count} • [West Midlands](#en-wm) _(4)_{:.count} • [East of England](#en-ee) _(1)_{:.count} • [Greater London](#en-gl) _(1)_{:.count} • [South East England](#en-se) _(2)_{:.count} • [South West England](#en-sw) _(1)_{:.count}
@@ -2426,7 +2433,11 @@ Georgia  (GEO)  _#geo_{: .key} <br>
 
 
 
- Deutsche Bundesliga •  Deutsche 2. Bundesliga •  Deutsche 3. Liga •  DFB Pokal
+ Deutsche Bundesliga _#de_{: .key}
+ •  Deutsche 2. Bundesliga _#de.2_{: .key}
+ •  Deutsche 3. Liga _#de.3_{: .key}
+ •  DFB Pokal _#de.cup_{: .key}
+
 
 
 [Baden-Württemberg](#de-bw) _(5)_{:.count} • [Bayern [Bavaria]](#de-by) _(6)_{:.count} • [Berlin](#de-be) _(1)_{:.count} • [Brandenburg](#de-bb) _(1)_{:.count} • [Bremen](#de-hb) _(1)_{:.count} • [Hamburg](#de-hh) _(1)_{:.count} • [Hessen [Hesse]](#de-he) _(1)_{:.count} • [Mecklenburg-Vorpommern](#de-mv) _(0)_{:.count} • [Niedersachsen [Lower Saxony]](#de-ni) _(3)_{:.count} • [Nordrhein-Westfalen [North Rhine-Westphalia]](#de-nw) _(13)_{:.count} • [Rheinland-Pfalz [Rhineland-Palatinate]](#de-rp) _(2)_{:.count} • [Saarland](#de-sl) _(0)_{:.count} • [Sachsen [Saxony]](#de-sn) _(3)_{:.count} • [Sachsen-Anhalt [Saxony-Anhalt]](#de-st) _(0)_{:.count} • [Schleswig-Holstein](#de-sh) _(0)_{:.count} • [Thüringen [Thuringia]](#de-th) _(0)_{:.count}
@@ -3352,7 +3363,8 @@ Maccabi Tel-Aviv FC   _#maccabitelaviv_{: .key} <br>
 
 
 
- Serie A
+ Serie A _#it_{: .key}
+
 
 
 [Valle d'Aosta [Aosta Valley]](#it-ao) _(1)_{:.count} • [Liguria](#it-li) _(1)_{:.count} • [Lombardia [Lombardy]](#it-lo) _(2)_{:.count} • [Piemonte [Piedmont]](#it-pi) _(1)_{:.count} • [Emilia-Romagna](#it-er) _(2)_{:.count} • [Friuli-Venezia Giulia](#it-fv) _(2)_{:.count} • [Trentino-Alto Adige (Südtirol)](#it-tr) _(1)_{:.count} • [Veneto](#it-ve) _(2)_{:.count} • [Lazio](#it-la) _(1)_{:.count} • [Marche](#it-ma) _(1)_{:.count} • [Toscana [Tuscany]](#it-to) _(2)_{:.count} • [Umbria](#it-um) _(1)_{:.count} • [Abruzzo](#it-ab) _(2)_{:.count} • [Puglia [Apulia]](#it-pu) _(1)_{:.count} • [Basilicata](#it-ba) _(1)_{:.count} • [Calabria](#it-ca) _(1)_{:.count} • [Campania](#it-cm) _(1)_{:.count} • [Molise](#it-mo) _(1)_{:.count} • [Sardegna [Sardinia]](#it-sa) _(1)_{:.count} • [Sicilia [Sicily]](#it-si) _(3)_{:.count}
@@ -5338,7 +5350,10 @@ Slovenia  (SVN)  _#svn_{: .key} <br>
 
 
 
- Primera División •  Segunda División •  Copa del Rey
+ Primera División _#es_{: .key}
+ •  Segunda División _#es.2_{: .key}
+ •  Copa del Rey _#es.cup_{: .key}
+
 
 
 [Andalucía](#es-an) _(3)_{:.count} • [Aragón](#es-ar) _(1)_{:.count} • [Asturias](#es-as) _(0)_{:.count} • [Illes Balears](#es-ib) _(1)_{:.count} • [Pais Vasco](#es-pv) _(2)_{:.count} • [Canarias](#es-cn) _(1)_{:.count} • [Cantábria](#es-cb) _(0)_{:.count} • [Castilla y León](#es-cl) _(1)_{:.count} • [Castilla-La Mancha](#es-cm) _(0)_{:.count} • [Cataluña](#es-ct) _(1)_{:.count} • [Extremadura](#es-ex) _(0)_{:.count} • [Galicia](#es-ga) _(2)_{:.count} • [La Rioja](#es-ri) _(0)_{:.count} • [Madrid](#es-md) _(1)_{:.count} • [Murcia](#es-mc) _(1)_{:.count} • [Navarra](#es-na) _(1)_{:.count} • [Valencia](#es-vc) _(1)_{:.count} • [Ceuta](#es-ce) _(0)_{:.count} • [Melilla](#es-ml) _(0)_{:.count}
@@ -6672,7 +6687,8 @@ Real Potosí • Club Bamin Real Potosí   _#realpotosi_{: .key} <br>
 
 
 
- Campeonato Brasileiro Série A
+ Campeonato Brasileiro Série A _#br_{: .key}
+
 
 
 [Acre](#br-ac) _(1)_{:.count} • [Amapá](#br-am) _(1)_{:.count} • [Amazonas](#br-ap) _(1)_{:.count} • [Pará](#br-pa) _(1)_{:.count} • [Rondônia](#br-ro) _(1)_{:.count} • [Roraima](#br-rr) _(1)_{:.count} • [Tocantins](#br-to) _(1)_{:.count} • [Alagoas](#br-al) _(1)_{:.count} • [Bahia](#br-ba) _(1)_{:.count} • [Ceará](#br-ce) _(1)_{:.count} • [Maranhão](#br-ma) _(1)_{:.count} • [Paraíba](#br-pb) _(1)_{:.count} • [Pernambuco](#br-pe) _(1)_{:.count} • [Piauí](#br-pi) _(1)_{:.count} • [Rio Grande do Norte](#br-rn) _(1)_{:.count} • [Sergipe](#br-se) _(1)_{:.count} • [Distrito Federal (Brasil)](#br-df) _(1)_{:.count} • [Goiás](#br-go) _(1)_{:.count} • [Mato Grosso](#br-mt) _(1)_{:.count} • [Mato Grosso do Sul](#br-ms) _(1)_{:.count} • [Espírito Santo](#br-es) _(1)_{:.count} • [Minas Gerais](#br-mg) _(1)_{:.count} • [Rio de Janeiro](#br-rj) _(4)_{:.count} • [São Paulo](#br-sp) _(7)_{:.count} • [Paraná](#br-pr) _(1)_{:.count} • [Rio Grande do Sul](#br-rs) _(1)_{:.count} • [Santa Catarina](#br-sc) _(2)_{:.count}
@@ -7885,7 +7901,9 @@ Montreal Impact • Montreal I.   -- Montreal _#montreal_{: .key} <br>
 
 
 
- México Primera División Apertura •  México Primera División Clausura
+ México Primera División Apertura _#mx.apertura_{: .key}
+ •  México Primera División Clausura _#mx.clausura_{: .key}
+
 
 
 [Aguascalientes](#mx-ag) _(1)_{:.count} • [Baja California](#mx-bc) _(3)_{:.count} • [Baja California Sur](#mx-bs) _(7)_{:.count} • [Campeche](#mx-cm) _(1)_{:.count} • [Chiapas](#mx-cs) _(1)_{:.count} • [Chihuahua](#mx-ch) _(2)_{:.count} • [Coahuila](#mx-co) _(2)_{:.count} • [Colima](#mx-cl) _(1)_{:.count} • [Distrito Federal](#mx-df) _(1)_{:.count} • [Durango](#mx-dg) _(1)_{:.count} • [Guanajuato](#mx-gt) _(2)_{:.count} • [Guerrero](#mx-gr) _(2)_{:.count} • [Hidalgo](#mx-hg) _(1)_{:.count} • [Jalisco](#mx-ja) _(1)_{:.count} • [México](#mx-me) _(1)_{:.count} • [Michoacán](#mx-mi) _(1)_{:.count} • [Morelos](#mx-mo) _(1)_{:.count} • [Nayarit](#mx-na) _(1)_{:.count} • [Nuevo León](#mx-nl) _(2)_{:.count} • [Oaxaca](#mx-oa) _(2)_{:.count} • [Puebla](#mx-pb) _(1)_{:.count} • [Querétaro](#mx-qe) _(1)_{:.count} • [Quintana Roo](#mx-qr) _(2)_{:.count} • [San Luis Potosí](#mx-sl) _(1)_{:.count} • [Sinaloa](#mx-si) _(2)_{:.count} • [Sonora](#mx-so) _(2)_{:.count} • [Tabasco](#mx-tb) _(1)_{:.count} • [Tamaulipas](#mx-tm) _(1)_{:.count} • [Tlaxcala](#mx-tl) _(1)_{:.count} • [Veracruz](#mx-ve) _(1)_{:.count} • [Yucatán](#mx-yu) _(1)_{:.count} • [Zacatecas](#mx-za) _(1)_{:.count} • **Uncategorized** _(1)_{:.count}

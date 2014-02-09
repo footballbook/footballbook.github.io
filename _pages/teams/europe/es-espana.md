@@ -9,7 +9,10 @@ permalink: /es.html
 
 
 
- Primera División •  Segunda División •  Copa del Rey
+ Primera División _#es_{: .key}
+ •  Segunda División _#es.2_{: .key}
+ •  Copa del Rey _#es.cup_{: .key}
+
 
 
 [Andalucía](#es-an) _(3)_{:.count} • [Aragón](#es-ar) _(1)_{:.count} • [Asturias](#es-as) _(0)_{:.count} • [Illes Balears](#es-ib) _(1)_{:.count} • [Pais Vasco](#es-pv) _(2)_{:.count} • [Canarias](#es-cn) _(1)_{:.count} • [Cantábria](#es-cb) _(0)_{:.count} • [Castilla y León](#es-cl) _(1)_{:.count} • [Castilla-La Mancha](#es-cm) _(0)_{:.count} • [Cataluña](#es-ct) _(1)_{:.count} • [Extremadura](#es-ex) _(0)_{:.count} • [Galicia](#es-ga) _(2)_{:.count} • [La Rioja](#es-ri) _(0)_{:.count} • [Madrid](#es-md) _(1)_{:.count} • [Murcia](#es-mc) _(1)_{:.count} • [Navarra](#es-na) _(1)_{:.count} • [Valencia](#es-vc) _(1)_{:.count} • [Ceuta](#es-ce) _(0)_{:.count} • [Melilla](#es-ml) _(0)_{:.count}

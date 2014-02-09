@@ -10,7 +10,7 @@ end
 def columns_begin( opts={} )
   # note: will add  columns2 or columns3 etc. depending on columns option passed in
 
-  columns = opts[:columns] || 2
+  columns = opts[:columns] || 300
 
   buf = ''
   buf << "\n"

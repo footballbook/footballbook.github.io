@@ -9,7 +9,8 @@ permalink: /it.html
 
 
 
- Serie A
+ Serie A _#it_{: .key}
+
 
 
 [Valle d'Aosta [Aosta Valley]](#it-ao) _(1)_{:.count} • [Liguria](#it-li) _(1)_{:.count} • [Lombardia [Lombardy]](#it-lo) _(2)_{:.count} • [Piemonte [Piedmont]](#it-pi) _(1)_{:.count} • [Emilia-Romagna](#it-er) _(2)_{:.count} • [Friuli-Venezia Giulia](#it-fv) _(2)_{:.count} • [Trentino-Alto Adige (Südtirol)](#it-tr) _(1)_{:.count} • [Veneto](#it-ve) _(2)_{:.count} • [Lazio](#it-la) _(1)_{:.count} • [Marche](#it-ma) _(1)_{:.count} • [Toscana [Tuscany]](#it-to) _(2)_{:.count} • [Umbria](#it-um) _(1)_{:.count} • [Abruzzo](#it-ab) _(2)_{:.count} • [Puglia [Apulia]](#it-pu) _(1)_{:.count} • [Basilicata](#it-ba) _(1)_{:.count} • [Calabria](#it-ca) _(1)_{:.count} • [Campania](#it-cm) _(1)_{:.count} • [Molise](#it-mo) _(1)_{:.count} • [Sardegna [Sardinia]](#it-sa) _(1)_{:.count} • [Sicilia [Sicily]](#it-si) _(3)_{:.count}

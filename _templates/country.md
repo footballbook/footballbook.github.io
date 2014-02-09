@@ -9,7 +9,8 @@
 
 {% country.leagues.each_with_index do |league,i| %}
   {{ ' • ' if i > 0 }}  ++
-  {{ league.title }}
+  {{ league.title }}  ++
+  _#{{ league.key }}_{: .key}
 {% end %}
 
 

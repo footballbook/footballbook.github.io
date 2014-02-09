@@ -37,5 +37,10 @@ def link_to_team( team, opts={} )
     href = "##{team.key}"       # all-in-one page version
   end
 
-  link_to "#{team.title} (#{team.code})", href
+  title = ''
+  title << team.title
+  title << " (#{team.code})"  if team.code.present?
+
+  link_to title, href
 end
+

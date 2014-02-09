@@ -9,7 +9,9 @@ permalink: /mx.html
 
 
 
- México Primera División Apertura •  México Primera División Clausura
+ México Primera División Apertura _#mx.apertura_{: .key}
+ •  México Primera División Clausura _#mx.clausura_{: .key}
+
 
 
 [Aguascalientes](#mx-ag) _(1)_{:.count} • [Baja California](#mx-bc) _(3)_{:.count} • [Baja California Sur](#mx-bs) _(7)_{:.count} • [Campeche](#mx-cm) _(1)_{:.count} • [Chiapas](#mx-cs) _(1)_{:.count} • [Chihuahua](#mx-ch) _(2)_{:.count} • [Coahuila](#mx-co) _(2)_{:.count} • [Colima](#mx-cl) _(1)_{:.count} • [Distrito Federal](#mx-df) _(1)_{:.count} • [Durango](#mx-dg) _(1)_{:.count} • [Guanajuato](#mx-gt) _(2)_{:.count} • [Guerrero](#mx-gr) _(2)_{:.count} • [Hidalgo](#mx-hg) _(1)_{:.count} • [Jalisco](#mx-ja) _(1)_{:.count} • [México](#mx-me) _(1)_{:.count} • [Michoacán](#mx-mi) _(1)_{:.count} • [Morelos](#mx-mo) _(1)_{:.count} • [Nayarit](#mx-na) _(1)_{:.count} • [Nuevo León](#mx-nl) _(2)_{:.count} • [Oaxaca](#mx-oa) _(2)_{:.count} • [Puebla](#mx-pb) _(1)_{:.count} • [Querétaro](#mx-qe) _(1)_{:.count} • [Quintana Roo](#mx-qr) _(2)_{:.count} • [San Luis Potosí](#mx-sl) _(1)_{:.count} • [Sinaloa](#mx-si) _(2)_{:.count} • [Sonora](#mx-so) _(2)_{:.count} • [Tabasco](#mx-tb) _(1)_{:.count} • [Tamaulipas](#mx-tm) _(1)_{:.count} • [Tlaxcala](#mx-tl) _(1)_{:.count} • [Veracruz](#mx-ve) _(1)_{:.count} • [Yucatán](#mx-yu) _(1)_{:.count} • [Zacatecas](#mx-za) _(1)_{:.count} • **Uncategorized** _(1)_{:.count}

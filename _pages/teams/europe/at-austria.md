@@ -9,7 +9,13 @@ permalink: /at.html
 
 
 
- Österr. Bundesliga •  Österr. Erste Liga •  ÖFB Cup •  Österr. Regionalliga Ost •  Österr. Regionalliga Mitte •  Österr. Regionalliga West
+ Österr. Bundesliga _#at_{: .key}
+ •  Österr. Erste Liga _#at.2_{: .key}
+ •  ÖFB Cup _#at.cup_{: .key}
+ •  Österr. Regionalliga Ost _#at.3.ost_{: .key}
+ •  Österr. Regionalliga Mitte _#at.3.mitte_{: .key}
+ •  Österr. Regionalliga West _#at.3.west_{: .key}
+
 
 
 [Burgenland](#at-b) _(2)_{:.count} • [Niederösterreich [Lower Austria]](#at-n) _(7)_{:.count} • [Wien [Vienna]](#at-w) _(1)_{:.count} • [Steiermark [Styria]](#at-st) _(4)_{:.count} • [Kärnten [Carinthia]](#at-k) _(3)_{:.count} • [Oberösterreich [Upper Austria]](#at-o) _(6)_{:.count} • [Salzburg](#at-s) _(2)_{:.count} • [Tirol [Tyrol]](#at-t) _(1)_{:.count} • [Vorarlberg](#at-v) _(5)_{:.count}

@@ -9,7 +9,11 @@ permalink: /de.html
 
 
 
- Deutsche Bundesliga •  Deutsche 2. Bundesliga •  Deutsche 3. Liga •  DFB Pokal
+ Deutsche Bundesliga _#de_{: .key}
+ •  Deutsche 2. Bundesliga _#de.2_{: .key}
+ •  Deutsche 3. Liga _#de.3_{: .key}
+ •  DFB Pokal _#de.cup_{: .key}
+
 
 
 [Baden-Württemberg](#de-bw) _(5)_{:.count} • [Bayern [Bavaria]](#de-by) _(6)_{:.count} • [Berlin](#de-be) _(1)_{:.count} • [Brandenburg](#de-bb) _(1)_{:.count} • [Bremen](#de-hb) _(1)_{:.count} • [Hamburg](#de-hh) _(1)_{:.count} • [Hessen [Hesse]](#de-he) _(1)_{:.count} • [Mecklenburg-Vorpommern](#de-mv) _(0)_{:.count} • [Niedersachsen [Lower Saxony]](#de-ni) _(3)_{:.count} • [Nordrhein-Westfalen [North Rhine-Westphalia]](#de-nw) _(13)_{:.count} • [Rheinland-Pfalz [Rhineland-Palatinate]](#de-rp) _(2)_{:.count} • [Saarland](#de-sl) _(0)_{:.count} • [Sachsen [Saxony]](#de-sn) _(3)_{:.count} • [Sachsen-Anhalt [Saxony-Anhalt]](#de-st) _(0)_{:.count} • [Schleswig-Holstein](#de-sh) _(0)_{:.count} • [Thüringen [Thuringia]](#de-th) _(0)_{:.count}
