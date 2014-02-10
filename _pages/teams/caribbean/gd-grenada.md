@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Grenada (GRN)
-permalink: /gd.html
----
+layout: booktitle: Grenada (GRN)permalink: /gd.html---
 
 ## Grenada (GRN) - 1 Teams
 {: #gd }

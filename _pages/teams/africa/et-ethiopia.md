@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Ethiopia (ETH)
-permalink: /et.html
----
+layout: booktitle: Ethiopia (ETH)permalink: /et.html---
 
 ## Ethiopia (ETH) - 1 Teams
 {: #et }

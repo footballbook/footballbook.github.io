@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Cuba (CUB)
-permalink: /cu.html
----
+layout: booktitle: Cuba (CUB)permalink: /cu.html---
 
 ## Cuba (CUB) - 1 Teams
 {: #cu }

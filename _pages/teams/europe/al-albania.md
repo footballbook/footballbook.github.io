@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Albania (ALB)
-permalink: /al.html
----
+layout: booktitle: Albania (ALB)permalink: /al.html---
 
 ## Albania (ALB) - 9 Teams
 {: #al }

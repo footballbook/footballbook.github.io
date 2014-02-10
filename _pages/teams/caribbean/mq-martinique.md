@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Martinique (MTQ)
-permalink: /mq.html
----
+layout: booktitle: Martinique (MTQ)permalink: /mq.html---
 
 ## Martinique (MTQ) - 1 Teams
 {: #mq }

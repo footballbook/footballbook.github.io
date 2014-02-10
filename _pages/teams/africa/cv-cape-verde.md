@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Cape Verde (CPV)
-permalink: /cv.html
----
+layout: booktitle: Cape Verde (CPV)permalink: /cv.html---
 
 ## Cape Verde (CPV) - 1 Teams
 {: #cv }

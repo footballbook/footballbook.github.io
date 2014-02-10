@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Cyprus (CYP)
-permalink: /cy.html
----
+layout: booktitle: Cyprus (CYP)permalink: /cy.html---
 
 ## Cyprus (CYP) - 7 Teams
 {: #cy }

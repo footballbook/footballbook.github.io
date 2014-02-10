@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Guadeloupe (GPE)
-permalink: /gp.html
----
+layout: booktitle: Guadeloupe (GPE)permalink: /gp.html---
 
 ## Guadeloupe (GPE) - 1 Teams
 {: #gp }

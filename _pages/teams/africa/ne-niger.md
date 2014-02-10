@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Niger (NIG)
-permalink: /ne.html
----
+layout: booktitle: Niger (NIG)permalink: /ne.html---
 
 ## Niger (NIG) - 1 Teams
 {: #ne }

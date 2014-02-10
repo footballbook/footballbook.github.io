@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Greece (GRE)
-permalink: /gr.html
----
+layout: booktitle: Greece (GRE)permalink: /gr.html---
 
 ## Greece (GRE) - 10 Teams
 {: #gr }

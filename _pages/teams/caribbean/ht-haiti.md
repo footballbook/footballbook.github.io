@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Haiti (HAI)
-permalink: /ht.html
----
+layout: booktitle: Haiti (HAI)permalink: /ht.html---
 
 ## Haiti (HAI) - 3 Teams
 {: #ht }

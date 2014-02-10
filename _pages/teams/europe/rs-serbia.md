@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Serbia (SRB)
-permalink: /rs.html
----
+layout: booktitle: Serbia (SRB)permalink: /rs.html---
 
 ## Serbia (SRB) - 10 Teams
 {: #rs }

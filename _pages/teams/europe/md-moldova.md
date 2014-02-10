@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Moldova (MDA)
-permalink: /md.html
----
+layout: booktitle: Moldova (MDA)permalink: /md.html---
 
 ## Moldova (MDA) - 7 Teams
 {: #md }

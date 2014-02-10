@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Switzerland (SUI)
-permalink: /ch.html
----
+layout: booktitle: Switzerland (SUI)permalink: /ch.html---
 
 ## Switzerland (SUI) - 11 Teams
 {: #ch }

@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Panamá [Panama] (PAN)
-permalink: /pa.html
----
+layout: booktitle: Panamá [Panama] (PAN)permalink: /pa.html---
 
 ## Panamá [Panama] (PAN) - 6 Teams
 {: #pa }

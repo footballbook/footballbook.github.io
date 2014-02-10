@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Faroe Islands (FRO)
-permalink: /fo.html
----
+layout: booktitle: Faroe Islands (FRO)permalink: /fo.html---
 
 ## Faroe Islands (FRO) - 7 Teams
 {: #fo }

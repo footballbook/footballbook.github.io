@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Netherlands (NED)
-permalink: /nl.html
----
+layout: booktitle: Netherlands (NED)permalink: /nl.html---
 
 ## Netherlands (NED) - 19 Teams
 {: #nl }

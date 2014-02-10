@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Denmark (DEN)
-permalink: /dk.html
----
+layout: booktitle: Denmark (DEN)permalink: /dk.html---
 
 ## Denmark (DEN) - 10 Teams
 {: #dk }

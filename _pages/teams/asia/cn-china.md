@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     China (CHN)
-permalink: /cn.html
----
+layout: booktitle: China (CHN)permalink: /cn.html---
 
 ## China (CHN) - 1 Teams
 {: #cn }

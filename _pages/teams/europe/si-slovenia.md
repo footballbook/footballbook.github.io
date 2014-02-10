@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Slovenia (SVN)
-permalink: /si.html
----
+layout: booktitle: Slovenia (SVN)permalink: /si.html---
 
 ## Slovenia (SVN) - 10 Teams
 {: #si }

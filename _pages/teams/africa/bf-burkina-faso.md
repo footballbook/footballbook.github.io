@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Burkina Faso (BFA)
-permalink: /bf.html
----
+layout: booktitle: Burkina Faso (BFA)permalink: /bf.html---
 
 ## Burkina Faso (BFA) - 1 Teams
 {: #bf }

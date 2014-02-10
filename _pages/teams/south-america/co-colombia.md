@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Colombia (COL)
-permalink: /co.html
----
+layout: booktitle: Colombia (COL)permalink: /co.html---
 
 ## Colombia (COL) - 7 Teams
 {: #co }

@@ -1,8 +1,5 @@
 ---
-layout: book
-title: México Primera División Clausura 2013.1
-permalink: /mx.clausura.2013.1.html
----
+layout: booktitle: México Primera División Clausura 2013.1permalink: /mx.clausura.2013.1.html---
 
 
 ### México Primera División Clausura 2013.1

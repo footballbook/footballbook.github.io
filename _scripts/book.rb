@@ -29,12 +29,14 @@ EOS
   
   
   # note: use same order as table of contents
+  event_count = 0
   League.all.each do |league|
     next if league.events.count == 0
 
-    league.events.each_with_index do |event,i|
-       puts "  build event page [#{i+1}] #{event.key} #{event.title}..."
+    league.events.each do |event|
+       puts "  build event page [#{event_count+1}] #{event.key} #{event.title}..."
        build_page_for_event( event, opts )
+       event_count += 1
     end
   end
 
@@ -42,12 +44,14 @@ EOS
 
 
   # note: use same order as table of contents
+  country_count = 0
   Continent.all.each do |continent|
     continent.countries.order(:title).each do |country|
       next if country.teams.count == 0   # skip country w/o teams
 
-      puts "  build country page #{country.key}..."
+      puts "  build country page [#{country_count+1}] #{country.key} #{country.title}..."
       build_page_for_country( country, opts )
+      country_count += 1
     end
   end
 

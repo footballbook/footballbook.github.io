@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     North Korea (PRK)
-permalink: /kp.html
----
+layout: booktitle: North Korea (PRK)permalink: /kp.html---
 
 ## North Korea (PRK) - 1 Teams
 {: #kp }

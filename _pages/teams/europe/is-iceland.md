@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Iceland (ISL)
-permalink: /is.html
----
+layout: booktitle: Iceland (ISL)permalink: /is.html---
 
 ## Iceland (ISL) - 11 Teams
 {: #is }

@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Bolivia (BOL)
-permalink: /bo.html
----
+layout: booktitle: Bolivia (BOL)permalink: /bo.html---
 
 ## Bolivia (BOL) - 5 Teams
 {: #bo }

@@ -65,7 +65,7 @@ EOS
     opts = opts.merge( header: header )
   else
     path = country_to_md_path( country )
-    puts "  path=#{path}"
+    puts "    path=#{path}"
     file_path = "_pages/teams/#{path}"
     file_flags = 'w+'   ## Truncate to zero length or create file for update. 
     opts = opts.merge( frontmatter: {

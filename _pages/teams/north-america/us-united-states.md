@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     United States (USA)
-permalink: /us.html
----
+layout: booktitle: United States (USA)permalink: /us.html---
 
 ## United States (USA) - 16 Teams
 {: #us }

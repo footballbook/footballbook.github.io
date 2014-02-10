@@ -1,8 +1,5 @@
 ---
-layout: book
-title: World Cup 2014
-permalink: /world.2014.html
----
+layout: booktitle: World Cup 2014permalink: /world.2014.html---
 
 
 ### World Cup 2014

@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Bosnia and Herzegovina (BIH)
-permalink: /ba.html
----
+layout: booktitle: Bosnia and Herzegovina (BIH)permalink: /ba.html---
 
 ## Bosnia and Herzegovina (BIH) - 8 Teams
 {: #ba }

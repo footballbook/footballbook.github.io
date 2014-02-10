@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Puerto Rico (PUR)
-permalink: /pr.html
----
+layout: booktitle: Puerto Rico (PUR)permalink: /pr.html---
 
 ## Puerto Rico (PUR) - 1 Teams
 {: #pr }

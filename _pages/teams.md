@@ -1,8 +1,5 @@
 ---
-layout: book
-title: Contents
-permalink: /teams.html
----
+layout: booktitle: Teams A-Z Indexpermalink: /teams.html---
 
 # Teams A-Z Index _(947)_{:.count}
 

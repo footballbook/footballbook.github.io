@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Finland (FIN)
-permalink: /fi.html
----
+layout: booktitle: Finland (FIN)permalink: /fi.html---
 
 ## Finland (FIN) - 11 Teams
 {: #fi }

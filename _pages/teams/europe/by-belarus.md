@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Belarus (BLR)
-permalink: /by.html
----
+layout: booktitle: Belarus (BLR)permalink: /by.html---
 
 ## Belarus (BLR) - 10 Teams
 {: #by }

@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Brazil (BRA)
-permalink: /br.html
----
+layout: booktitle: Brazil (BRA)permalink: /br.html---
 
 ## Brazil (BRA) - 25 Teams
 {: #br }

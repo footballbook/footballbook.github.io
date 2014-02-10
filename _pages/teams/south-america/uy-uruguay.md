@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Uruguay (URU)
-permalink: /uy.html
----
+layout: booktitle: Uruguay (URU)permalink: /uy.html---
 
 ## Uruguay (URU) - 5 Teams
 {: #uy }

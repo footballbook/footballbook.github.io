@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Belize (BLZ)
-permalink: /bz.html
----
+layout: booktitle: Belize (BLZ)permalink: /bz.html---
 
 ## Belize (BLZ) - 1 Teams
 {: #bz }

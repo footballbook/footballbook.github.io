@@ -1,8 +1,5 @@
 ---
-layout: book
-title: Copa Libertadores 2013
-permalink: /america.l.2013.html
----
+layout: booktitle: Copa Libertadores 2013permalink: /america.l.2013.html---
 
 
 ### Copa Libertadores 2013

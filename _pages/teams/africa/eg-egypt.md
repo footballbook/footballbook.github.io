@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Egypt (EGY)
-permalink: /eg.html
----
+layout: booktitle: Egypt (EGY)permalink: /eg.html---
 
 ## Egypt (EGY) - 19 Teams
 {: #eg }

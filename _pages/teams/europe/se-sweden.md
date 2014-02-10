@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Sweden (SWE)
-permalink: /se.html
----
+layout: booktitle: Sweden (SWE)permalink: /se.html---
 
 ## Sweden (SWE) - 11 Teams
 {: #se }

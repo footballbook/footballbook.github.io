@@ -1,8 +1,5 @@
 ---
-layout: book
-title: Primera División 2013/14
-permalink: /es.2013_14.html
----
+layout: booktitle: Primera División 2013/14permalink: /es.2013_14.html---
 
 
 ### Primera División 2013/14

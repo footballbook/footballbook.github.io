@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Congo DR (COD)
-permalink: /cd.html
----
+layout: booktitle: Congo DR (COD)permalink: /cd.html---
 
 ## Congo DR (COD) - 1 Teams
 {: #cd }

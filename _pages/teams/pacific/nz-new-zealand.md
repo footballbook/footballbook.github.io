@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     New Zealand (NZL)
-permalink: /nz.html
----
+layout: booktitle: New Zealand (NZL)permalink: /nz.html---
 
 ## New Zealand (NZL) - 10 Teams
 {: #nz }

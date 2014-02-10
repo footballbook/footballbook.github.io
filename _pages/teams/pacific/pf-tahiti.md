@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Tahiti (TAH)
-permalink: /pf.html
----
+layout: booktitle: Tahiti (TAH)permalink: /pf.html---
 
 ## Tahiti (TAH) - 1 Teams
 {: #pf }

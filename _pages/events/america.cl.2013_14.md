@@ -1,8 +1,5 @@
 ---
-layout: book
-title: Champions League (North/Central America & Caribbean) 2013/14
-permalink: /america.cl.2013_14.html
----
+layout: booktitle: Champions League (North/Central America & Caribbean) 2013/14permalink: /america.cl.2013_14.html---
 
 
 ### Champions League (North/Central America & Caribbean) 2013/14

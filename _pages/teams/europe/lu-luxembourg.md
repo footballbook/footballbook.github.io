@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Luxembourg (LUX)
-permalink: /lu.html
----
+layout: booktitle: Luxembourg (LUX)permalink: /lu.html---
 
 ## Luxembourg (LUX) - 7 Teams
 {: #lu }

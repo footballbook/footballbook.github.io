@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Costa Rica (CRC)
-permalink: /cr.html
----
+layout: booktitle: Costa Rica (CRC)permalink: /cr.html---
 
 ## Costa Rica (CRC) - 4 Teams
 {: #cr }

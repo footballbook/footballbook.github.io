@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Iraq (IRQ)
-permalink: /iq.html
----
+layout: booktitle: Iraq (IRQ)permalink: /iq.html---
 
 ## Iraq (IRQ) - 1 Teams
 {: #iq }

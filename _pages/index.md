@@ -1,8 +1,5 @@
 ---
-layout: book
-title: Contents
-permalink: /index.html
----
+layout: booktitle: Contentspermalink: /index.html---
 
 # The Free World Football Almanac
 

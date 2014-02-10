@@ -1,8 +1,5 @@
 ---
-layout: book
-title: Club World Cup 2013
-permalink: /world.club.2013.html
----
+layout: booktitle: Club World Cup 2013permalink: /world.club.2013.html---
 
 
 ### Club World Cup 2013

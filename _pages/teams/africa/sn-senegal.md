@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Senegal (SEN)
-permalink: /sn.html
----
+layout: booktitle: Senegal (SEN)permalink: /sn.html---
 
 ## Senegal (SEN) - 1 Teams
 {: #sn }

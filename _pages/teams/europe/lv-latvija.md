@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Latvija [Latvia] (LVA)
-permalink: /lv.html
----
+layout: booktitle: Latvija [Latvia] (LVA)permalink: /lv.html---
 
 ## Latvija [Latvia] (LVA) - 7 Teams
 {: #lv }

@@ -282,9 +282,6 @@ permalink: /book.html
 
 
 
----------------------------------------
-
-
 ### Euro 2012
 
 
@@ -350,9 +347,6 @@ permalink: /book.html
 | (Thu) 28/Jun 2012 20:45 | Germany | 1 : 2 | Italy |  |
 | **Final**  |
 | (Sun) 1/Jul 2012 20:45 | Spain | 4 : 0 | Italy |  |
-
----------------------------------------
-
 
 ### World Cup 2014
 
@@ -454,9 +448,6 @@ permalink: /book.html
 | **Semi-finals**  |
 | **Round 19  -  Match for third place**  |
 | **Final**  |
-
----------------------------------------
-
 
 ### Österr. Bundesliga 2013/14
 
@@ -693,9 +684,6 @@ permalink: /book.html
 | (Sat) 10/May 2014 12:00 | Wolfsberger AC | - : - | FC RB Salzburg |  |
 | (Sat) 10/May 2014 12:00 | SC Wiener Neustadt | - : - | FC Admira Wacker |  |
 
----------------------------------------
-
-
 ### ÖFB Cup 2013/14
 
 
@@ -765,9 +753,6 @@ permalink: /book.html
 | **Viertelfinale** / Di+Mi 15.+16. April 2014 |
 | **Halbfinale** / Di+Mi 6.+7. Mai 2014 |
 | **Finale** / So 18. Mai 2014 |
-
----------------------------------------
-
 
 ### Deutsche Bundesliga 2013/14
 
@@ -1128,9 +1113,6 @@ permalink: /book.html
 | (Sat) 10/May 2014 12:00 | 1899 Hoffenheim | 15 : 30 | Eintr. Braunschweig |  |
 | (Sat) 10/May 2014 12:00 | FC Augsburg | 15 : 30 | Eintracht Frankfurt |  |
 
----------------------------------------
-
-
 ### English Premier League 2013/14
 
 
@@ -1358,9 +1340,6 @@ permalink: /book.html
 | (Sat) 28/Dec 2013 12:00 | Norwich City | - : - | Manchester United |  |
 | (Sat) 28/Dec 2013 12:00 | Tottenham Hotspur | - : - | Stoke City |  |
 | (Sat) 28/Dec 2013 12:00 | West Ham United | - : - | West Bromwich Albion |  |
-
----------------------------------------
-
 
 ### Primera División 2013/14
 
@@ -1590,9 +1569,6 @@ permalink: /book.html
 | (Sun) 12/Jan 2014 12:00 | Espanyol | - : - | R. Madrid |  |
 | (Sun) 12/Jan 2014 12:00 | Celta | - : - | Valencia |  |
 
----------------------------------------
-
-
 ### Serie A 2013/14
 
 
@@ -1821,9 +1797,6 @@ permalink: /book.html
 | (Sun) 12/Jan 2014 12:00 | Sassuolo | - : - | Milan |  |
 | (Sun) 12/Jan 2014 12:00 | Torino | - : - | Fiorentina |  |
 
----------------------------------------
-
-
 ### Champions League (Europe) 2013/14
 
 
@@ -1984,9 +1957,6 @@ permalink: /book.html
 | **Quarter-finals** / (Tu+We) 1-2 April 2014, (Tu+We) 8-9 April 2014 |
 | **Semi-finals** / (Tu+We) 22-23 April 2014, (Tu+We) 29-30 April 2014 |
 | **Final** / (Sa) 24 May 2014 @ Estádio da Luz, Lisbon |
-
----------------------------------------
-
 
 ### México Primera División Clausura 2013.1
 
@@ -2183,9 +2153,6 @@ permalink: /book.html
 | **Final / Ida** / 23 de mayo |
 | **Final / Vuelta** / 26 de mayo |
 
----------------------------------------
-
-
 ### Champions League (North/Central America & Caribbean) 2013/14
 
 
@@ -2225,9 +2192,6 @@ permalink: /book.html
 | **Matchday 5** / September 24-26, 2013 |
 | **Matchday 6** / October 22-24, 2013 |
 
----------------------------------------
-
-
 ### Campeonato Brasileiro Série A 2013
 
 
@@ -2245,9 +2209,6 @@ permalink: /book.html
 
 
 
-
-
----------------------------------------
 
 
 ### Copa Libertadores 2013
@@ -2439,9 +2400,6 @@ permalink: /book.html
 | **Final / 2nd Leg** / July 24 |
 | (Wed) 24/Jul 2013 12:00 | Atlético Mineiro | 2 : 0 / 4 : 3 i.E. | Olimpia |  |
 
----------------------------------------
-
-
 ### Club World Cup 2013
 
 
@@ -2474,9 +2432,6 @@ permalink: /book.html
 | (Sat) 21/Dec 2013 12:00 | Guangzhou Evergrande | 16 : 30 | Atlético Mineiro |  |
 | **Final**  |
 | (Sat) 21/Dec 2013 12:00 | FC Bayern München | 19 : 30 | Raja Casablanca |  |
-
----------------------------------------
-
 ## Albania (ALB) - 9 Teams
 {: #al }
 
@@ -2511,9 +2466,6 @@ KS Teuta   _#teuta_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Andorra (AND) - 4 Teams
 {: #ad }
 
@@ -2538,9 +2490,6 @@ UE Santa Coloma   _#uesantacoloma_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Armenia (ARM) - 7 Teams
 {: #am }
 
@@ -2571,9 +2520,6 @@ Ulisses FC   _#ulisses_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Austria (AUT) - 82 Teams
 {: #at }
 
@@ -2886,9 +2832,6 @@ SCR Altach • SC Rheindorf Altach  (ALT)  -- Altach _#altach_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Azerbaijan (AZE) - 7 Teams
 {: #az }
 
@@ -2919,9 +2862,6 @@ Xäzär Länkäran FK   _#lankaran_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Belarus (BLR) - 10 Teams
 {: #by }
 
@@ -2956,9 +2896,6 @@ FC Torpedo Zhodino   _#zhodino_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Belgium (BEL) - 9 Teams
 {: #be }
 
@@ -3133,9 +3070,6 @@ Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Bosnia and Herzegovina (BIH) - 8 Teams
 {: #ba }
 
@@ -3168,9 +3102,6 @@ NK Široki Brijeg   _#brijeg_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Bulgaria (BUL) - 8 Teams
 {: #bg }
 
@@ -3595,9 +3526,6 @@ PFC Lokomotiv Sofia   _#lokomotivsofia_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Croatia (CRO) - 10 Teams
 {: #hr }
 
@@ -3632,9 +3560,6 @@ RNK Split   _#rnksplit_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Cyprus (CYP) - 7 Teams
 {: #cy }
 
@@ -3663,9 +3588,6 @@ Apollon Limassol FC   _#apollonlimassol_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Czech Republic (CZE) - 10 Teams
 {: #cz }
 
@@ -3898,9 +3820,6 @@ Plzeň • Viktoria Plzeň • FC Viktoria Plzeň   -- Plzeň [Pilsen] _#plzen_{
 
 
  
-
----------------------------------------
-
 ## Denmark (DEN) - 10 Teams
 {: #dk }
 
@@ -3935,9 +3854,6 @@ Randers FC   _#randers_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## England (ENG) - 22 Teams
 {: #en }
 
@@ -4123,9 +4039,6 @@ Southampton • Southampton FC • FC Southampton  (SOU)  -- Southampton _#south
 
 
  
-
----------------------------------------
-
 ## Estonia (EST) - 6 Teams
 {: #ee }
 
@@ -4154,9 +4067,6 @@ JK Trans Narva   _#narva_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Faroe Islands (FRO) - 7 Teams
 {: #fo }
 
@@ -4187,9 +4097,6 @@ Víkingur   _#vikingur_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Finland (FIN) - 11 Teams
 {: #fi }
 
@@ -4228,9 +4135,6 @@ Valkeakosken Haka   _#haka_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## France (FRA) - 21 Teams
 {: #fr }
 
@@ -4583,9 +4487,6 @@ SC Bastia • Sporting Club de Bastia  (BAS)  -- Bastia _#bastia_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Georgia (GEO) - 8 Teams
 {: #ge }
 
@@ -4618,9 +4519,6 @@ Georgia  (GEO)  _#geo_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Germany (GER) - 57 Teams
 {: #de }
 
@@ -4979,9 +4877,6 @@ Erzgebirge Aue • Aue • FC Erzgebirge Aue  (AUE)  -- Aue _#aue_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Greece (GRE) - 10 Teams
 {: #gr }
 
@@ -5016,9 +4911,6 @@ Panathinaikos FC   _#panathinaikos_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Hungary (HUN) - 11 Teams
 {: #hu }
 
@@ -5057,9 +4949,6 @@ Zalaegerszegi TE   _#zalaegerszegi_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Iceland (ISL) - 11 Teams
 {: #is }
 
@@ -5098,9 +4987,6 @@ Valur Reykjavík   _#valurreykjavik_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Irland (IRL) - 10 Teams
 {: #ie }
 
@@ -5515,9 +5401,6 @@ Sporting Fingal FC   _#fingal_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Israel (ISR) - 7 Teams
 {: #il }
 
@@ -5548,9 +5431,6 @@ Maccabi Tel-Aviv FC   _#maccabitelaviv_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Italy (ITA) - 24 Teams
 {: #it }
 
@@ -5896,9 +5776,6 @@ Palermo • US Palermo • Unione Sportiva Città di Palermo  (PAL)  -- Palermo 
 
 
  
-
----------------------------------------
-
 ## Kazakhstan (KAZ) - 9 Teams
 {: #kz }
 
@@ -5933,9 +5810,6 @@ Shakhter • FC Shakhter Karagandy   _#karagandy_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Latvija [Latvia] (LVA) - 7 Teams
 {: #lv }
 
@@ -5966,9 +5840,6 @@ Skonto FC   _#skonto_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Liechtenstein (LIE) - 2 Teams
 {: #li }
 
@@ -5987,9 +5858,6 @@ FC USV Eschen/Mauren   _#eschen_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Lithuania (LTU) - 8 Teams
 {: #lt }
 
@@ -6022,9 +5890,6 @@ VMFD Žalgiris   _#zalgiris_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Luxembourg (LUX) - 7 Teams
 {: #lu }
 
@@ -6055,9 +5920,6 @@ UN Käerjéng 97   _#kaerjeng_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Macedonia (MKD) - 9 Teams
 {: #mk }
 
@@ -6092,9 +5954,6 @@ FK Vardar   _#vardar_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Malta (MLT) - 6 Teams
 {: #mt }
 
@@ -6123,9 +5982,6 @@ Valletta FC   _#valletta_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Moldova (MDA) - 7 Teams
 {: #md }
 
@@ -6156,9 +6012,6 @@ FC Zimbru Chisinau   _#zimbruchisinau_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Montenegro (MNE) - 7 Teams
 {: #me }
 
@@ -6189,9 +6042,6 @@ OFK Petrovac   _#petrovac_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Netherlands (NED) - 19 Teams
 {: #nl }
 
@@ -6410,9 +6260,6 @@ Willem II • Willem II Tilburg   _#willemii_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Northern Ireland (NIR) - 6 Teams
 {: #nd }
 
@@ -6441,9 +6288,6 @@ Portadown FC   _#portadown_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Norway (NOR) - 11 Teams
 {: #no }
 
@@ -6482,9 +6326,6 @@ Vålerenga Fotball   _#valerenga_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Poland (POL) - 8 Teams
 {: #pl }
 
@@ -6517,9 +6358,6 @@ Wisła Kraków   _#krakow_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Portugal (POR) - 10 Teams
 {: #pt }
 
@@ -6550,9 +6388,6 @@ Vitória SC   _#vitoriasc_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Romania (ROU) - 19 Teams
 {: #ro }
 
@@ -7201,9 +7036,6 @@ Steaua • Steaua București  (SBU)  -- București [Bucharest] _#steaua_{: .key}
 
 
  
-
----------------------------------------
-
 ## Russia (RUS) - 13 Teams
 {: #ru }
 
@@ -7238,9 +7070,6 @@ Russia  (RUS)  _#rus_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## San Marino (SMR) - 7 Teams
 {: #sm }
 
@@ -7271,9 +7100,6 @@ SS Murata   _#murata_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Scotland (SCO) - 10 Teams
 {: #sc }
 
@@ -7308,9 +7134,6 @@ Saint Johnstone FC   _#saintjohnstone_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Serbia (SRB) - 10 Teams
 {: #rs }
 
@@ -7347,9 +7170,6 @@ Serbia  (SRB)  _#srb_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Slovakia (SVK) - 9 Teams
 {: #sk }
 
@@ -7496,9 +7316,6 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Slovenia (SVN) - 10 Teams
 {: #si }
 
@@ -7535,9 +7352,6 @@ Slovenia  (SVN)  _#svn_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Spain (ESP) - 43 Teams
 {: #es }
 
@@ -7907,9 +7721,6 @@ Valencia • Valencia CF • Valencia C.F. • Valencia Club de Fútbol • FC V
 
 
  
-
----------------------------------------
-
 ## Sweden (SWE) - 11 Teams
 {: #se }
 
@@ -7948,9 +7759,6 @@ Sweden  (SWE)  _#swe_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Switzerland (SUI) - 11 Teams
 {: #ch }
 
@@ -8353,9 +8161,6 @@ FC Sion • Sion  (SIO)  -- Sion _#sion_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Turkey (TUR) - 10 Teams
 {: #tr }
 
@@ -8388,9 +8193,6 @@ Turkey  (TUR)  _#tur_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Ukraine (UKR) - 10 Teams
 {: #ua }
 
@@ -8421,9 +8223,6 @@ Ukraine  (UKR)  _#ukr_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Wales (WAL) - 9 Teams
 {: #wa }
 
@@ -8456,9 +8255,6 @@ The New Saints FC   _#newsaints_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Argentina (ARG) - 21 Teams
 {: #ar }
 
@@ -8849,9 +8645,6 @@ Newell's • N.O. Boys • Club Atlético Newell's Old Boys   -- Rosario _#newel
 
 
  
-
----------------------------------------
-
 ## Bolivia (BOL) - 5 Teams
 {: #bo }
 
@@ -8872,9 +8665,6 @@ Real Potosí • Club Bamin Real Potosí   _#realpotosi_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Brazil (BRA) - 25 Teams
 {: #br }
 
@@ -9320,9 +9110,6 @@ Figueirense • Figueirense FC • Figueirense SC • Figueirense Futebol Clube 
 
 
  
-
----------------------------------------
-
 ## Chile (CHI) - 6 Teams
 {: #cl }
 
@@ -9351,9 +9138,6 @@ Unión Española • Club Unión Española S.A.D.P   _#unionespanola_{: .key} <b
 
 
  
-
----------------------------------------
-
 ## Colombia (COL) - 7 Teams
 {: #co }
 
@@ -9384,9 +9168,6 @@ Santa Fe • Corporación Deportiva Santa Fe • Independiente Santa Fe   _#sant
 
 
  
-
----------------------------------------
-
 ## Ecuador (ECU) - 7 Teams
 {: #ec }
 
@@ -9417,9 +9198,6 @@ LDU Quito • LDU de Quito • Liga de Quito • Liga Deportiva Universitaria de
 
 
  
-
----------------------------------------
-
 ## Paraguay (PAR) - 5 Teams
 {: #py }
 
@@ -9446,9 +9224,6 @@ Paraguay  (PAR)  _#par_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Peru (PER) - 7 Teams
 {: #pe }
 
@@ -9477,9 +9252,6 @@ Sporting Cristal • Club Sporting Cristal   _#sportingcristal_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Uruguay (URU) - 5 Teams
 {: #uy }
 
@@ -9506,9 +9278,6 @@ Uruguay  (URU)  _#uru_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Venezuela (VEN) - 6 Teams
 {: #ve }
 
@@ -9875,9 +9644,6 @@ Universidad César Vallejo • Club Deportivo Universidad César Vallejo   -- Tr
 
 
  
-
----------------------------------------
-
 ## Canada (CAN) - 4 Teams
 {: #ca }
 
@@ -10086,9 +9852,6 @@ Montreal Impact • Montreal I.   -- Montreal _#montreal_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## México [Mexico] (MEX) - 19 Teams
 {: #mx }
 
@@ -10597,9 +10360,6 @@ San Luis • Club San Luis  (SNL)  -- San Luis Potosì _#sanluis_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## United States (USA) - 16 Teams
 {: #us }
 
@@ -11370,9 +11130,6 @@ San José • Club Deportivo San José  (SJ)  -- San Jose _#sanjose_{: .key} <br
 
 
  
-
----------------------------------------
-
 ## Belize (BLZ) - 1 Teams
 {: #bz }
 
@@ -11391,9 +11148,6 @@ Belize  (BLZ)  _#blz_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Costa Rica (CRC) - 4 Teams
 {: #cr }
 
@@ -11418,9 +11172,6 @@ Herediano • CS Herediano   _#herediano_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## El Salvador (SLV) - 6 Teams
 {: #sv }
 
@@ -11449,9 +11200,6 @@ Metapán • I. Metapán • Isidro Metapán • Asociación Deportiva Isidro Me
 
 
  
-
----------------------------------------
-
 ## Guatemala (GUA) - 5 Teams
 {: #gt }
 
@@ -11478,9 +11226,6 @@ Xelajú • Club Xelajú MC   _#xelaju_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Honduras (HON) - 5 Teams
 {: #hn }
 
@@ -11507,9 +11252,6 @@ Victoria • CD Victoria   _#cdvictoria_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Nicaragua (NCA) - 1 Teams
 {: #ni }
 
@@ -11528,9 +11270,6 @@ R. Estelí • Real Estelí • Real Estelí FC   _#esteli_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Panamá [Panama] (PAN) - 6 Teams
 {: #pa }
 
@@ -11559,9 +11298,6 @@ Tauro • Tauro FC   _#tauro_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Cuba (CUB) - 1 Teams
 {: #cu }
 
@@ -11580,9 +11316,6 @@ Cuba  (CUB)  _#cub_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Grenada (GRN) - 1 Teams
 {: #gd }
 
@@ -11601,9 +11334,6 @@ Grenada  (GRN)  _#grn_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Guadeloupe (GPE) - 1 Teams
 {: #gp }
 
@@ -11622,9 +11352,6 @@ Guadeloupe  (GPE)  _#gpe_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Guyana (GUY) - 2 Teams
 {: #gy }
 
@@ -11643,9 +11370,6 @@ Guyana  (GUY)  _#guy_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Haiti (HAI) - 3 Teams
 {: #ht }
 
@@ -11668,9 +11392,6 @@ Valencia • Valencia FC   _#valenciafc_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Jamaica (JAM) - 1 Teams
 {: #jm }
 
@@ -11689,9 +11410,6 @@ Jamaica  (JAM)  _#jam_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Martinique (MTQ) - 1 Teams
 {: #mq }
 
@@ -11710,9 +11428,6 @@ Martinique  (MTQ)  _#mtq_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Puerto Rico (PUR) - 1 Teams
 {: #pr }
 
@@ -11731,9 +11446,6 @@ Puerto Rico Islanders • Puerto Rico Islanders FC   _#puertorico_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Trinidad and Tobago (TRI) - 3 Teams
 {: #tt }
 
@@ -11756,9 +11468,6 @@ W Connection • WC FC   _#wconnection_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Algeria (ALG) - 1 Teams
 {: #dz }
 
@@ -11777,9 +11486,6 @@ Algeria  (ALG)  _#alg_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Angola (ANG) - 1 Teams
 {: #ao }
 
@@ -11798,9 +11504,6 @@ Angola  (ANG)  _#ang_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Burkina Faso (BFA) - 1 Teams
 {: #bf }
 
@@ -11819,9 +11522,6 @@ Burkina Faso  (BFA)  _#bfa_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Cameroon (CMR) - 1 Teams
 {: #cm }
 
@@ -11840,9 +11540,6 @@ Cameroon  (CMR)  _#cmr_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Cape Verde (CPV) - 1 Teams
 {: #cv }
 
@@ -11861,9 +11558,6 @@ Cape Verde  (CPV)  _#cpv_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Congo DR (COD) - 1 Teams
 {: #cd }
 
@@ -11882,9 +11576,6 @@ Congo DR  (COD)  _#cod_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Côte d'Ivoire (CIV) - 1 Teams
 {: #ci }
 
@@ -11903,9 +11594,6 @@ Côte d'Ivoire  (CIV)  _#civ_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Egypt (EGY) - 19 Teams
 {: #eg }
 
@@ -11954,9 +11642,6 @@ Zamalek • Zamalek SC • Zamalek Sporting Club • نادى الزمالك   _
 
 
  
-
----------------------------------------
-
 ## Ethiopia (ETH) - 1 Teams
 {: #et }
 
@@ -11975,9 +11660,6 @@ Ethiopia  (ETH)  _#eth_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Ghana (GHA) - 1 Teams
 {: #gh }
 
@@ -11996,9 +11678,6 @@ Ghana  (GHA)  _#gha_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Mali (MLI) - 1 Teams
 {: #ml }
 
@@ -12017,9 +11696,6 @@ Mali  (MLI)  _#mli_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Morocco (MAR) - 2 Teams
 {: #ma }
 
@@ -12040,9 +11716,6 @@ Raja Casablanca • Raja Club Athletic   _#casablanca_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Niger (NIG) - 1 Teams
 {: #ne }
 
@@ -12061,9 +11734,6 @@ Niger  (NIG)  _#nig_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Nigeria (NGA) - 1 Teams
 {: #ng }
 
@@ -12082,9 +11752,6 @@ Nigeria  (NGA)  _#nga_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Senegal (SEN) - 1 Teams
 {: #sn }
 
@@ -12103,9 +11770,6 @@ Senegal  (SEN)  _#sen_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## South Africa (RSA) - 1 Teams
 {: #za }
 
@@ -12124,9 +11788,6 @@ South Africa  (RSA)  _#rsa_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Togo (TOG) - 1 Teams
 {: #tg }
 
@@ -12145,9 +11806,6 @@ Togo  (TOG)  _#tog_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Tunisia (TUN) - 1 Teams
 {: #tn }
 
@@ -12166,9 +11824,6 @@ Tunisia  (TUN)  _#tun_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Zambia (ZAM) - 1 Teams
 {: #zm }
 
@@ -12187,9 +11842,6 @@ Zambia  (ZAM)  _#zam_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Iran (IRN) - 1 Teams
 {: #ir }
 
@@ -12208,9 +11860,6 @@ Iran  (IRN)  _#irn_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Iraq (IRQ) - 1 Teams
 {: #iq }
 
@@ -12229,9 +11878,6 @@ Iraq  (IRQ)  _#irq_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Jordan (JOR) - 1 Teams
 {: #jo }
 
@@ -12250,9 +11896,6 @@ Jordan  (JOR)  _#jor_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Australia (AUS) - 10 Teams
 {: #au }
 
@@ -12403,9 +12046,6 @@ Perth Glory  (PTH)  -- Perth _#perth_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## China (CHN) - 1 Teams
 {: #cn }
 
@@ -12424,9 +12064,6 @@ Guangzhou Evergrande   _#guangzhou_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Japan (JPN) - 19 Teams
 {: #jp }
 
@@ -12481,9 +12118,6 @@ Yokohama F. Marinos • Yokohama F Marinos • 横浜F・マリノス   _#yokoha
 
 
  
-
----------------------------------------
-
 ## North Korea (PRK) - 1 Teams
 {: #kp }
 
@@ -12502,9 +12136,6 @@ North Korea  (PRK)  _#prk_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## South Korea (KOR) - 15 Teams
 {: #kr }
 
@@ -12551,9 +12182,6 @@ Ulsan Hyundai • Ulsan Hyundai FC • 울산 현대   _#uhfc_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## New Zealand (NZL) - 10 Teams
 {: #nz }
 
@@ -12588,9 +12216,6 @@ YoungHeart Manawatu  (YHM)  _#manawatu_{: .key} <br>
 
 
  
-
----------------------------------------
-
 ## Tahiti (TAH) - 1 Teams
 {: #pf }
 

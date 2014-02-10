@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Germany (GER)
-permalink: /de.html
----
+layout: booktitle: Germany (GER)permalink: /de.html---
 
 ## Germany (GER) - 57 Teams
 {: #de }

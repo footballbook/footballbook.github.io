@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Norway (NOR)
-permalink: /no.html
----
+layout: booktitle: Norway (NOR)permalink: /no.html---
 
 ## Norway (NOR) - 11 Teams
 {: #no }

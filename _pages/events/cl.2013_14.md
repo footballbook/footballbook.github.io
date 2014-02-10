@@ -1,8 +1,5 @@
 ---
-layout: book
-title: Champions League (Europe) 2013/14
-permalink: /cl.2013_14.html
----
+layout: booktitle: Champions League (Europe) 2013/14permalink: /cl.2013_14.html---
 
 
 ### Champions League (Europe) 2013/14

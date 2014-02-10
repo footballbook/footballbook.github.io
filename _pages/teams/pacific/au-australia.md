@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Australia (AUS)
-permalink: /au.html
----
+layout: booktitle: Australia (AUS)permalink: /au.html---
 
 ## Australia (AUS) - 10 Teams
 {: #au }

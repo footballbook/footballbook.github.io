@@ -1,8 +1,5 @@
 ---
-layout: book
-title: Euro 2012
-permalink: /euro.2012.html
----
+layout: booktitle: Euro 2012permalink: /euro.2012.html---
 
 
 ### Euro 2012

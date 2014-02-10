@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Portugal (POR)
-permalink: /pt.html
----
+layout: booktitle: Portugal (POR)permalink: /pt.html---
 
 ## Portugal (POR) - 10 Teams
 {: #pt }

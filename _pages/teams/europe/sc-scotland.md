@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Scotland (SCO)
-permalink: /sc.html
----
+layout: booktitle: Scotland (SCO)permalink: /sc.html---
 
 ## Scotland (SCO) - 10 Teams
 {: #sc }

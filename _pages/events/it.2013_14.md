@@ -1,8 +1,5 @@
 ---
-layout: book
-title: Serie A 2013/14
-permalink: /it.2013_14.html
----
+layout: booktitle: Serie A 2013/14permalink: /it.2013_14.html---
 
 
 ### Serie A 2013/14

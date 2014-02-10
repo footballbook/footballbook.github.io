@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Angola (ANG)
-permalink: /ao.html
----
+layout: booktitle: Angola (ANG)permalink: /ao.html---
 
 ## Angola (ANG) - 1 Teams
 {: #ao }

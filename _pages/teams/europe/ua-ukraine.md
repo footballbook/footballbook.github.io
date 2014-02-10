@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Ukraine (UKR)
-permalink: /ua.html
----
+layout: booktitle: Ukraine (UKR)permalink: /ua.html---
 
 ## Ukraine (UKR) - 10 Teams
 {: #ua }

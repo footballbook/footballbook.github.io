@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Malta (MLT)
-permalink: /mt.html
----
+layout: booktitle: Malta (MLT)permalink: /mt.html---
 
 ## Malta (MLT) - 6 Teams
 {: #mt }

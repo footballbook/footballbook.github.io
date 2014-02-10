@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Paraguay (PAR)
-permalink: /py.html
----
+layout: booktitle: Paraguay (PAR)permalink: /py.html---
 
 ## Paraguay (PAR) - 5 Teams
 {: #py }

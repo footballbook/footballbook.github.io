@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Lithuania (LTU)
-permalink: /lt.html
----
+layout: booktitle: Lithuania (LTU)permalink: /lt.html---
 
 ## Lithuania (LTU) - 8 Teams
 {: #lt }

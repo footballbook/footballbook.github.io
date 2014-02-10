@@ -1,5 +1,5 @@
 
-### {{ event.full_title }}
+### {{ event.title }}
 
 
 #### {{ event.teams.count }} Teams

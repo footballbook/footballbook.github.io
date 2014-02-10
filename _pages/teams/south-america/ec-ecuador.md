@@ -1,8 +1,5 @@
 ---
-layout:    book
-title:     Ecuador (ECU)
-permalink: /ec.html
----
+layout: booktitle: Ecuador (ECU)permalink: /ec.html---
 
 ## Ecuador (ECU) - 7 Teams
 {: #ec }
