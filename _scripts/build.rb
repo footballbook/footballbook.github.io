@@ -31,6 +31,9 @@ require_relative 'helpers/page'
 
 require_relative 'filters'
 require_relative 'utils'
+require_relative 'pages'
+require_relative 'book'
+
 
 
 
@@ -72,178 +75,9 @@ Event     = SportDb::Model::Event
 Game      = SportDb::Model::Game
 
 
-#####
-# todo/fix: use constant to set  ./_pages   - output (root) folder for generated pages
-# todo/fix: use constant to set layout  e.g. book
 
-
-####################################
-# 1) generate multi-page version
-
-
-
-
-def build_book
-
-### generate events index
-
-File.open( '_pages/events.md', 'w+') do |file|
-  file.write render_events( frontmatter: <<EOS )
----
-layout: book
-title: Contents
-permalink: /events.html
----
-
-EOS
-end
-
-
-### generate event pages
-
-Event.all.each do |event|
-  puts " build event page #{event.key} #{event.title}..."
-
-  key = event.key.gsub( '/', '_' )
-
-  File.open( "_pages/events/#{key}.md", 'w+') do |file|
-    file.write render_event( event, frontmatter: <<EOS )
----
-layout: book
-title: #{event.title}
-permalink: /#{key}.html
----
-
-EOS
-  end
-end
-
-
-### generate teams a-z index
-
-File.open( '_pages/teams.md', 'w+') do |file|
-  file.write render_teams_idx( frontmatter: <<EOS )
----
-layout: book
-title: Contents
-permalink: /teams.html
----
-
-EOS
-end
-
-
-### generate table of contents (toc)
-
-File.open( '_pages/index.md', 'w+') do |file|
-  file.write render_toc( frontmatter: <<EOS )
----
-layout: book
-title: Contents
-permalink: /index.html
----
-
-EOS
-end
-
-
-### generate pages for countries
-
-# Country.where( "key in ('at','mx','hr', 'de', 'be', 'nl', 'cz')" ).each do |country|
-Country.all.each do |country|
-  next if country.teams.count == 0   # skip country w/o teams
-
-  puts "build country page #{country.key}..."
-
-  path = country_to_md_path( country )
-  puts "path=#{path}"
-  File.open( "_pages/teams/#{path}", 'w+') do |file|
-    file.write render_country( country, frontmatter: <<EOS )
----
-layout:    book
-title:     #{country.title} (#{country.code})
-permalink: /#{country.key}.html
----
-
-EOS
-  end
-
-end
-
-end # method build_book
-
-
-
-##########################################
-# 2) generate all-in-one-page version
-
-def build_book_all_in_one
-
-book_text = <<EOS
----
-layout: book
-title: Contents
-permalink: /book.html
----
-
-EOS
-
-book_text += render_toc( inline: true )
-
-### generate event pages
-# note: use same order as table of contents
-
-League.all.each do |league|
-  next if league.events.count == 0
-
-  book_text += <<EOS
-
----------------------------------------
-
-EOS
-
-  league.events.each_with_index do |event,i|
-    puts " build event page #{event.key} #{event.title}..."
-    book_text += render_event( event )
-  end
-end
-
-
-### generate pages for countries
-# note: use same order as table of contents
-
-Continent.all.each do |continent|
-  continent.countries.order(:title).each do |country|
-    next if country.teams.count == 0   # skip country w/o teams
-
-    puts "build country page #{country.key}..."
-
-    book_text += <<EOS
-
----------------------------------------
-
-EOS
-
-    book_text += render_country( country )
-  end
-end
-
-
-#### add team a-z index
-
-book_text += render_teams_idx()
-
-
-
-File.open( '_pages/book.md', 'w+') do |file|
-  file.write book_text
-end
-
-end # method build_book_all_in_one
-
-
-build_book()
-build_book_all_in_one()
+build_book()                # multi-page version
+build_book( inline: true )  # all-in-one-page version a.k.a. inline version
 
 
 puts 'Done. Bye.'

@@ -5,6 +5,18 @@ def urlify( title )
 end
 
 
+def render_frontmatter( h )
+  buf = ''
+  buf += "---\n"
+
+  h.each do |key,value|
+    buf += "#{key}: #{value}"
+  end
+
+  buf += "---\n\n"
+  buf
+end
+
 
 def render_erb_template( tmpl, ctx )
 
