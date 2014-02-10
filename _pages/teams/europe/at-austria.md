@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Austria (AUT)permalink: /at.html---
+layout: book
+title: Austria (AUT)
+permalink: /at.html
+---
 
 ## Austria (AUT) - 82 Teams
 {: #at }

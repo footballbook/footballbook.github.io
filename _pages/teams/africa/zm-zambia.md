@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Zambia (ZAM)permalink: /zm.html---
+layout: book
+title: Zambia (ZAM)
+permalink: /zm.html
+---
 
 ## Zambia (ZAM) - 1 Teams
 {: #zm }

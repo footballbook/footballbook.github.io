@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Guatemala (GUA)permalink: /gt.html---
+layout: book
+title: Guatemala (GUA)
+permalink: /gt.html
+---
 
 ## Guatemala (GUA) - 5 Teams
 {: #gt }

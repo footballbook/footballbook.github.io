@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Mali (MLI)permalink: /ml.html---
+layout: book
+title: Mali (MLI)
+permalink: /ml.html
+---
 
 ## Mali (MLI) - 1 Teams
 {: #ml }

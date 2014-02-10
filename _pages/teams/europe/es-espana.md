@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Spain (ESP)permalink: /es.html---
+layout: book
+title: Spain (ESP)
+permalink: /es.html
+---
 
 ## Spain (ESP) - 43 Teams
 {: #es }

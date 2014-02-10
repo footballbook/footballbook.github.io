@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Liechtenstein (LIE)permalink: /li.html---
+layout: book
+title: Liechtenstein (LIE)
+permalink: /li.html
+---
 
 ## Liechtenstein (LIE) - 2 Teams
 {: #li }

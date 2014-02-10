@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Northern Ireland (NIR)permalink: /nd.html---
+layout: book
+title: Northern Ireland (NIR)
+permalink: /nd.html
+---
 
 ## Northern Ireland (NIR) - 6 Teams
 {: #nd }

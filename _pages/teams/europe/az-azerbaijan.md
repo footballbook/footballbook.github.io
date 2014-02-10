@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Azerbaijan (AZE)permalink: /az.html---
+layout: book
+title: Azerbaijan (AZE)
+permalink: /az.html
+---
 
 ## Azerbaijan (AZE) - 7 Teams
 {: #az }

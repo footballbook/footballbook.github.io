@@ -10,7 +10,7 @@ def render_frontmatter( h )
   buf += "---\n"
 
   h.each do |key,value|
-    buf += "#{key}: #{value}"
+    buf += "#{key}: #{value}\n"
   end
 
   buf += "---\n\n"

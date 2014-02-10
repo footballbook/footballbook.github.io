@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Romania (ROU)permalink: /ro.html---
+layout: book
+title: Romania (ROU)
+permalink: /ro.html
+---
 
 ## Romania (ROU) - 19 Teams
 {: #ro }

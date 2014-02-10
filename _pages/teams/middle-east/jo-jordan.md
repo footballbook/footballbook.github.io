@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Jordan (JOR)permalink: /jo.html---
+layout: book
+title: Jordan (JOR)
+permalink: /jo.html
+---
 
 ## Jordan (JOR) - 1 Teams
 {: #jo }

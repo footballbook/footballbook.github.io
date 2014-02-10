@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Georgia (GEO)permalink: /ge.html---
+layout: book
+title: Georgia (GEO)
+permalink: /ge.html
+---
 
 ## Georgia (GEO) - 8 Teams
 {: #ge }

@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Wales (WAL)permalink: /wa.html---
+layout: book
+title: Wales (WAL)
+permalink: /wa.html
+---
 
 ## Wales (WAL) - 9 Teams
 {: #wa }

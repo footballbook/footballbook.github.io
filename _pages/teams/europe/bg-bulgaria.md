@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Bulgaria (BUL)permalink: /bg.html---
+layout: book
+title: Bulgaria (BUL)
+permalink: /bg.html
+---
 
 ## Bulgaria (BUL) - 8 Teams
 {: #bg }

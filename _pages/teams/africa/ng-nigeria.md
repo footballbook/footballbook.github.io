@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Nigeria (NGA)permalink: /ng.html---
+layout: book
+title: Nigeria (NGA)
+permalink: /ng.html
+---
 
 ## Nigeria (NGA) - 1 Teams
 {: #ng }

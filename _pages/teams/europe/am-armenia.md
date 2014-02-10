@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Armenia (ARM)permalink: /am.html---
+layout: book
+title: Armenia (ARM)
+permalink: /am.html
+---
 
 ## Armenia (ARM) - 7 Teams
 {: #am }

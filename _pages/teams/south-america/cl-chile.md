@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Chile (CHI)permalink: /cl.html---
+layout: book
+title: Chile (CHI)
+permalink: /cl.html
+---
 
 ## Chile (CHI) - 6 Teams
 {: #cl }

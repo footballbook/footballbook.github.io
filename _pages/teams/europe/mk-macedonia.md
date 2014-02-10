@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Macedonia (MKD)permalink: /mk.html---
+layout: book
+title: Macedonia (MKD)
+permalink: /mk.html
+---
 
 ## Macedonia (MKD) - 9 Teams
 {: #mk }

@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Jamaica (JAM)permalink: /jm.html---
+layout: book
+title: Jamaica (JAM)
+permalink: /jm.html
+---
 
 ## Jamaica (JAM) - 1 Teams
 {: #jm }

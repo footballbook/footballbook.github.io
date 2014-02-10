@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Hungary (HUN)permalink: /hu.html---
+layout: book
+title: Hungary (HUN)
+permalink: /hu.html
+---
 
 ## Hungary (HUN) - 11 Teams
 {: #hu }

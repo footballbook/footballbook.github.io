@@ -1,5 +1,8 @@
 ---
-layout: booktitle: ÖFB Cup 2013/14permalink: /at.cup.2013_14.html---
+layout: book
+title: ÖFB Cup 2013/14
+permalink: /at.cup.2013_14.html
+---
 
 
 ### ÖFB Cup 2013/14

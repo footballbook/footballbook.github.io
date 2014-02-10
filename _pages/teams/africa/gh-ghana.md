@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Ghana (GHA)permalink: /gh.html---
+layout: book
+title: Ghana (GHA)
+permalink: /gh.html
+---
 
 ## Ghana (GHA) - 1 Teams
 {: #gh }

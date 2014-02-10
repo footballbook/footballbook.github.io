@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Tunisia (TUN)permalink: /tn.html---
+layout: book
+title: Tunisia (TUN)
+permalink: /tn.html
+---
 
 ## Tunisia (TUN) - 1 Teams
 {: #tn }

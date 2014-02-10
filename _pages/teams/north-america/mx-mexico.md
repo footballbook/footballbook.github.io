@@ -1,5 +1,8 @@
 ---
-layout: booktitle: México [Mexico] (MEX)permalink: /mx.html---
+layout: book
+title: México [Mexico] (MEX)
+permalink: /mx.html
+---
 
 ## México [Mexico] (MEX) - 19 Teams
 {: #mx }

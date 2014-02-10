@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Irland (IRL)permalink: /ie.html---
+layout: book
+title: Irland (IRL)
+permalink: /ie.html
+---
 
 ## Irland (IRL) - 10 Teams
 {: #ie }

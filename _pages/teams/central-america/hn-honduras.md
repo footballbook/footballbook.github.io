@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Honduras (HON)permalink: /hn.html---
+layout: book
+title: Honduras (HON)
+permalink: /hn.html
+---
 
 ## Honduras (HON) - 5 Teams
 {: #hn }

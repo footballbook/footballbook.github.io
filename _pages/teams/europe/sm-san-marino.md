@@ -1,5 +1,8 @@
 ---
-layout: booktitle: San Marino (SMR)permalink: /sm.html---
+layout: book
+title: San Marino (SMR)
+permalink: /sm.html
+---
 
 ## San Marino (SMR) - 7 Teams
 {: #sm }

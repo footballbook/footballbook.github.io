@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Canada (CAN)permalink: /ca.html---
+layout: book
+title: Canada (CAN)
+permalink: /ca.html
+---
 
 ## Canada (CAN) - 4 Teams
 {: #ca }

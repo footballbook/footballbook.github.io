@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Croatia (CRO)permalink: /hr.html---
+layout: book
+title: Croatia (CRO)
+permalink: /hr.html
+---
 
 ## Croatia (CRO) - 10 Teams
 {: #hr }

@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Italy (ITA)permalink: /it.html---
+layout: book
+title: Italy (ITA)
+permalink: /it.html
+---
 
 ## Italy (ITA) - 24 Teams
 {: #it }

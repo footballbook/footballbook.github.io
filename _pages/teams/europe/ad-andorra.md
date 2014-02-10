@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Andorra (AND)permalink: /ad.html---
+layout: book
+title: Andorra (AND)
+permalink: /ad.html
+---
 
 ## Andorra (AND) - 4 Teams
 {: #ad }

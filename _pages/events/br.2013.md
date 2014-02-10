@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Campeonato Brasileiro Série A 2013permalink: /br.2013.html---
+layout: book
+title: Campeonato Brasileiro Série A 2013
+permalink: /br.2013.html
+---
 
 
 ### Campeonato Brasileiro Série A 2013

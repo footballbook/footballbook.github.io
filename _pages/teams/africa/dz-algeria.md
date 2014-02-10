@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Algeria (ALG)permalink: /dz.html---
+layout: book
+title: Algeria (ALG)
+permalink: /dz.html
+---
 
 ## Algeria (ALG) - 1 Teams
 {: #dz }

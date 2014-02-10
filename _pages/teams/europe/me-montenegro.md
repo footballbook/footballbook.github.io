@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Montenegro (MNE)permalink: /me.html---
+layout: book
+title: Montenegro (MNE)
+permalink: /me.html
+---
 
 ## Montenegro (MNE) - 7 Teams
 {: #me }

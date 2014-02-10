@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Russia (RUS)permalink: /ru.html---
+layout: book
+title: Russia (RUS)
+permalink: /ru.html
+---
 
 ## Russia (RUS) - 13 Teams
 {: #ru }

@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Deutsche Bundesliga 2013/14permalink: /de.2013_14.html---
+layout: book
+title: Deutsche Bundesliga 2013/14
+permalink: /de.2013_14.html
+---
 
 
 ### Deutsche Bundesliga 2013/14

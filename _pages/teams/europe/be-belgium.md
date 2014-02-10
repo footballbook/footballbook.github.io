@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Belgium (BEL)permalink: /be.html---
+layout: book
+title: Belgium (BEL)
+permalink: /be.html
+---
 
 ## Belgium (BEL) - 9 Teams
 {: #be }

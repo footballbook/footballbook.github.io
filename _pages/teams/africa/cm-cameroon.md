@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Cameroon (CMR)permalink: /cm.html---
+layout: book
+title: Cameroon (CMR)
+permalink: /cm.html
+---
 
 ## Cameroon (CMR) - 1 Teams
 {: #cm }

@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Estonia (EST)permalink: /ee.html---
+layout: book
+title: Estonia (EST)
+permalink: /ee.html
+---
 
 ## Estonia (EST) - 6 Teams
 {: #ee }

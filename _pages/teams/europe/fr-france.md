@@ -1,5 +1,8 @@
 ---
-layout: booktitle: France (FRA)permalink: /fr.html---
+layout: book
+title: France (FRA)
+permalink: /fr.html
+---
 
 ## France (FRA) - 21 Teams
 {: #fr }

@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Slovakia (SVK)permalink: /sk.html---
+layout: book
+title: Slovakia (SVK)
+permalink: /sk.html
+---
 
 ## Slovakia (SVK) - 9 Teams
 {: #sk }

@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Peru (PER)permalink: /pe.html---
+layout: book
+title: Peru (PER)
+permalink: /pe.html
+---
 
 ## Peru (PER) - 7 Teams
 {: #pe }

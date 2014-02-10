@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Venezuela (VEN)permalink: /ve.html---
+layout: book
+title: Venezuela (VEN)
+permalink: /ve.html
+---
 
 ## Venezuela (VEN) - 6 Teams
 {: #ve }

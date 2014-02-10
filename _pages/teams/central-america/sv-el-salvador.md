@@ -1,5 +1,8 @@
 ---
-layout: booktitle: El Salvador (SLV)permalink: /sv.html---
+layout: book
+title: El Salvador (SLV)
+permalink: /sv.html
+---
 
 ## El Salvador (SLV) - 6 Teams
 {: #sv }

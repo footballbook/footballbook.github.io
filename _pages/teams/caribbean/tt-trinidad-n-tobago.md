@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Trinidad and Tobago (TRI)permalink: /tt.html---
+layout: book
+title: Trinidad and Tobago (TRI)
+permalink: /tt.html
+---
 
 ## Trinidad and Tobago (TRI) - 3 Teams
 {: #tt }

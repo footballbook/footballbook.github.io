@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Israel (ISR)permalink: /il.html---
+layout: book
+title: Israel (ISR)
+permalink: /il.html
+---
 
 ## Israel (ISR) - 7 Teams
 {: #il }

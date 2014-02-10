@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Morocco (MAR)permalink: /ma.html---
+layout: book
+title: Morocco (MAR)
+permalink: /ma.html
+---
 
 ## Morocco (MAR) - 2 Teams
 {: #ma }

@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Czech Republic (CZE)permalink: /cz.html---
+layout: book
+title: Czech Republic (CZE)
+permalink: /cz.html
+---
 
 ## Czech Republic (CZE) - 10 Teams
 {: #cz }

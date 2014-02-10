@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Nicaragua (NCA)permalink: /ni.html---
+layout: book
+title: Nicaragua (NCA)
+permalink: /ni.html
+---
 
 ## Nicaragua (NCA) - 1 Teams
 {: #ni }

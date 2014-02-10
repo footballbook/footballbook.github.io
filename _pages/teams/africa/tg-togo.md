@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Togo (TOG)permalink: /tg.html---
+layout: book
+title: Togo (TOG)
+permalink: /tg.html
+---
 
 ## Togo (TOG) - 1 Teams
 {: #tg }

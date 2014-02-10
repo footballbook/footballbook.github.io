@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Turkey (TUR)permalink: /tr.html---
+layout: book
+title: Turkey (TUR)
+permalink: /tr.html
+---
 
 ## Turkey (TUR) - 10 Teams
 {: #tr }

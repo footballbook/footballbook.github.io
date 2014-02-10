@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Argentina (ARG)permalink: /ar.html---
+layout: book
+title: Argentina (ARG)
+permalink: /ar.html
+---
 
 ## Argentina (ARG) - 21 Teams
 {: #ar }

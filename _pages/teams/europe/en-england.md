@@ -1,5 +1,8 @@
 ---
-layout: booktitle: England (ENG)permalink: /en.html---
+layout: book
+title: England (ENG)
+permalink: /en.html
+---
 
 ## England (ENG) - 22 Teams
 {: #en }

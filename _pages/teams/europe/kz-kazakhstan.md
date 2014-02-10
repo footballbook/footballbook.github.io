@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Kazakhstan (KAZ)permalink: /kz.html---
+layout: book
+title: Kazakhstan (KAZ)
+permalink: /kz.html
+---
 
 ## Kazakhstan (KAZ) - 9 Teams
 {: #kz }

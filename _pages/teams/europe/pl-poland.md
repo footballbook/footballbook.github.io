@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Poland (POL)permalink: /pl.html---
+layout: book
+title: Poland (POL)
+permalink: /pl.html
+---
 
 ## Poland (POL) - 8 Teams
 {: #pl }

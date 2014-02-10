@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Japan (JPN)permalink: /jp.html---
+layout: book
+title: Japan (JPN)
+permalink: /jp.html
+---
 
 ## Japan (JPN) - 19 Teams
 {: #jp }

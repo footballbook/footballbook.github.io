@@ -1,5 +1,8 @@
 ---
-layout: booktitle: South Korea (KOR)permalink: /kr.html---
+layout: book
+title: South Korea (KOR)
+permalink: /kr.html
+---
 
 ## South Korea (KOR) - 15 Teams
 {: #kr }

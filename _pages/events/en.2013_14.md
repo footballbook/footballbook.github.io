@@ -1,5 +1,8 @@
 ---
-layout: booktitle: English Premier League 2013/14permalink: /en.2013_14.html---
+layout: book
+title: English Premier League 2013/14
+permalink: /en.2013_14.html
+---
 
 
 ### English Premier League 2013/14

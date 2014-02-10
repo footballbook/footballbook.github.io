@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Österr. Bundesliga 2013/14permalink: /at.2013_14.html---
+layout: book
+title: Österr. Bundesliga 2013/14
+permalink: /at.2013_14.html
+---
 
 
 ### Österr. Bundesliga 2013/14

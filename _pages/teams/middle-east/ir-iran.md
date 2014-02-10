@@ -1,5 +1,8 @@
 ---
-layout: booktitle: Iran (IRN)permalink: /ir.html---
+layout: book
+title: Iran (IRN)
+permalink: /ir.html
+---
 
 ## Iran (IRN) - 1 Teams
 {: #ir }
