@@ -1,6 +1,3 @@
-# The Free World Football Almanac
-
-
 ## Table of Contents
 
 [Leagues & Tournaments](#events) •

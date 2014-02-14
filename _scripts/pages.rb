@@ -17,6 +17,8 @@ def build_page_toc( opts={} )
   end
 
   File.open( file_path, file_flags ) do |file|
+    file.write render_cover( opts )
+    file.write render_about( opts )
     file.write render_toc( opts )
   end
 end
