@@ -4,7 +4,7 @@ title: Argentina (ARG)
 permalink: /ar.html
 ---
 
-## Argentina (ARG) - 21 Teams
+## Argentina (ARG) - 1 Teams
 {: #ar }
 
 
@@ -12,7 +12,7 @@ permalink: /ar.html
 
 
 
-[Ciudad de Buenos Aires](#ar-cc) _(1)_{:.count} • [Provincia de Buenos Aires](#ar-bb) _(1)_{:.count} • [Catamarca](#ar-kk) _(1)_{:.count} • [Chaco](#ar-hh) _(1)_{:.count} • [Chubut](#ar-uu) _(1)_{:.count} • [Córdoba](#ar-xx) _(1)_{:.count} • [Corrientes](#ar-ww) _(1)_{:.count} • [Entre Ríos](#ar-ee) _(1)_{:.count} • [Formosa](#ar-pp) _(1)_{:.count} • [Jujuy](#ar-yy) _(1)_{:.count} • [La Pampa](#ar-ll) _(1)_{:.count} • [La Rioja](#ar-ff) _(1)_{:.count} • [Mendoza](#ar-mm) _(1)_{:.count} • [Misiones](#ar-nn) _(1)_{:.count} • [Neuquén](#ar-qq) _(1)_{:.count} • [Río Negro](#ar-rr) _(1)_{:.count} • [Salta](#ar-aa) _(1)_{:.count} • [San Juan](#ar-jj) _(1)_{:.count} • [San Luis](#ar-dd) _(1)_{:.count} • [Santa Cruz](#ar-zz) _(1)_{:.count} • [Santa Fe](#ar-ss) _(2)_{:.count} • [Santiago del Estero](#ar-gg) _(1)_{:.count} • [Tierra del Fuego (Antártida e Islas del Atlántico Sur)](#ar-vv) _(1)_{:.count} • [Tucumán](#ar-tt) _(1)_{:.count}
+[Ciudad de Buenos Aires](#ar-c) _(1)_{:.count} • [Provincia de Buenos Aires](#ar-b) _(1)_{:.count} • [Catamarca](#ar-k) _(1)_{:.count} • [Chaco](#ar-h) _(1)_{:.count} • [Chubut](#ar-u) _(1)_{:.count} • [Córdoba](#ar-x) _(1)_{:.count} • [Corrientes](#ar-w) _(1)_{:.count} • [Entre Ríos](#ar-e) _(1)_{:.count} • [Formosa](#ar-p) _(1)_{:.count} • [Jujuy](#ar-y) _(1)_{:.count} • [La Pampa](#ar-l) _(1)_{:.count} • [La Rioja](#ar-f) _(1)_{:.count} • [Mendoza](#ar-m) _(1)_{:.count} • [Misiones](#ar-n) _(1)_{:.count} • [Neuquén](#ar-q) _(1)_{:.count} • [Río Negro](#ar-r) _(1)_{:.count} • [Salta](#ar-a) _(1)_{:.count} • [San Juan](#ar-j) _(1)_{:.count} • [San Luis](#ar-d) _(1)_{:.count} • [Santa Cruz](#ar-z) _(1)_{:.count} • [Santa Fe](#ar-s) _(2)_{:.count} • [Santiago del Estero](#ar-g) _(1)_{:.count} • [Tierra del Fuego (Antártida e Islas del Atlántico Sur)](#ar-v) _(1)_{:.count} • [Tucumán](#ar-t) _(1)_{:.count}
 
 
 ### Uncategorized _(1)_{:.count}
@@ -22,8 +22,8 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-### Ciudad de Buenos Aires _(12)_{:.count}
-{: #ar-cc }
+### Ciudad de Buenos Aires _(0)_{:.count}
+{: #ar-c }
 
 
 
@@ -31,37 +31,13 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-All Boys • Club Atlético All Boys   -- Buenos Aires _#allboys_{: .key} <br>
-{: .team #allboys }
-Argentions • Argentinos Jrs • Asociación Atlética Argentinos Juniors   -- Buenos Aires _#argentinos_{: .key} <br>
-{: .team #argentinos }
-Arsenal • Arsenal de Sarandí • Arsenal FC • Arsenal Fútbol Club   -- Buenos Aires _#arsenalsarandi_{: .key} <br>
-{: .team #arsenalsarandi }
-Boca • Boca Jrs • Boca Juniors • Club Atlético Boca Juniors   -- Buenos Aires _#bocajuniors_{: .key} <br>
-{: .team #bocajuniors }
-Independiente • CA Independiente de Avellaneda • Club Atlético Independiente   -- Buenos Aires _#independiente_{: .key} <br>
-{: .team #independiente }
-Lanús • Club Atlético Lanús   -- Buenos Aires _#lanus_{: .key} <br>
-{: .team #lanus }
-Quilmes • Quilmes AC • Quilmes Atlético Club   -- Buenos Aires _#quilmes_{: .key} <br>
-{: .team #quilmes }
-Racing • Racing Club   -- Buenos Aires _#racing_{: .key} <br>
-{: .team #racing }
-River • River Plate • Club Atlético River Plate   -- Buenos Aires _#riverplate_{: .key} <br>
-{: .team #riverplate }
-San Lorenzo • Club Atlético San Lorenzo de Almagro   -- Buenos Aires _#sanlorenzo_{: .key} <br>
-{: .team #sanlorenzo }
-Tigre • CA Tigre • Club Atlético Tigre   -- Buenos Aires _#tigre_{: .key} <br>
-{: .team #tigre }
-Vélez • Vélez Sarsfield • CA Vélez • Club Atlético Vélez Sarsfield   -- Buenos Aires _#velez_{: .key} <br>
-{: .team #velez }
 
 </div>
 
 
 
-### Provincia de Buenos Aires _(1)_{:.count}
-{: #ar-bb }
+### Provincia de Buenos Aires _(0)_{:.count}
+{: #ar-b }
 
 
 
@@ -69,15 +45,13 @@ Vélez • Vélez Sarsfield • CA Vélez • Club Atlético Vélez Sarsfield   
 
 <div class='columns3' markdown='1'>
 
-Estudiantes • Estudiantes LP • Club Estudiantes de La Plata   -- La Plata _#estudiantes_{: .key} <br>
-{: .team #estudiantes }
 
 </div>
 
 
 
 ### Catamarca _(0)_{:.count}
-{: #ar-kk }
+{: #ar-k }
 
 
 
@@ -91,7 +65,7 @@ Estudiantes • Estudiantes LP • Club Estudiantes de La Plata   -- La Plata _#
 
 
 ### Chaco _(0)_{:.count}
-{: #ar-hh }
+{: #ar-h }
 
 
 
@@ -105,7 +79,7 @@ Estudiantes • Estudiantes LP • Club Estudiantes de La Plata   -- La Plata _#
 
 
 ### Chubut _(0)_{:.count}
-{: #ar-uu }
+{: #ar-u }
 
 
 
@@ -118,8 +92,8 @@ Estudiantes • Estudiantes LP • Club Estudiantes de La Plata   -- La Plata _#
 
 
 
-### Córdoba _(1)_{:.count}
-{: #ar-xx }
+### Córdoba _(0)_{:.count}
+{: #ar-x }
 
 
 
@@ -127,15 +101,13 @@ Estudiantes • Estudiantes LP • Club Estudiantes de La Plata   -- La Plata _#
 
 <div class='columns3' markdown='1'>
 
-Belgrano • Club Atlético Belgrano   -- Córdoba _#belgrano_{: .key} <br>
-{: .team #belgrano }
 
 </div>
 
 
 
 ### Corrientes _(0)_{:.count}
-{: #ar-ww }
+{: #ar-w }
 
 
 
@@ -149,7 +121,7 @@ Belgrano • Club Atlético Belgrano   -- Córdoba _#belgrano_{: .key} <br>
 
 
 ### Entre Ríos _(0)_{:.count}
-{: #ar-ee }
+{: #ar-e }
 
 
 
@@ -163,7 +135,7 @@ Belgrano • Club Atlético Belgrano   -- Córdoba _#belgrano_{: .key} <br>
 
 
 ### Formosa _(0)_{:.count}
-{: #ar-pp }
+{: #ar-p }
 
 
 
@@ -177,7 +149,7 @@ Belgrano • Club Atlético Belgrano   -- Córdoba _#belgrano_{: .key} <br>
 
 
 ### Jujuy _(0)_{:.count}
-{: #ar-yy }
+{: #ar-y }
 
 
 
@@ -191,7 +163,7 @@ Belgrano • Club Atlético Belgrano   -- Córdoba _#belgrano_{: .key} <br>
 
 
 ### La Pampa _(0)_{:.count}
-{: #ar-ll }
+{: #ar-l }
 
 
 
@@ -205,7 +177,7 @@ Belgrano • Club Atlético Belgrano   -- Córdoba _#belgrano_{: .key} <br>
 
 
 ### La Rioja _(0)_{:.count}
-{: #ar-ff }
+{: #ar-f }
 
 
 
@@ -218,8 +190,8 @@ Belgrano • Club Atlético Belgrano   -- Córdoba _#belgrano_{: .key} <br>
 
 
 
-### Mendoza _(1)_{:.count}
-{: #ar-mm }
+### Mendoza _(0)_{:.count}
+{: #ar-m }
 
 
 
@@ -227,15 +199,13 @@ Belgrano • Club Atlético Belgrano   -- Córdoba _#belgrano_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Godoy Cruz • Club Deportivo Godoy Cruz Antonio Tomba   -- Mendoza _#godoycruz_{: .key} <br>
-{: .team #godoycruz }
 
 </div>
 
 
 
 ### Misiones _(0)_{:.count}
-{: #ar-nn }
+{: #ar-n }
 
 
 
@@ -249,7 +219,7 @@ Godoy Cruz • Club Deportivo Godoy Cruz Antonio Tomba   -- Mendoza _#godoycruz_
 
 
 ### Neuquén _(0)_{:.count}
-{: #ar-qq }
+{: #ar-q }
 
 
 
@@ -263,7 +233,7 @@ Godoy Cruz • Club Deportivo Godoy Cruz Antonio Tomba   -- Mendoza _#godoycruz_
 
 
 ### Río Negro _(0)_{:.count}
-{: #ar-rr }
+{: #ar-r }
 
 
 
@@ -277,7 +247,7 @@ Godoy Cruz • Club Deportivo Godoy Cruz Antonio Tomba   -- Mendoza _#godoycruz_
 
 
 ### Salta _(0)_{:.count}
-{: #ar-aa }
+{: #ar-a }
 
 
 
@@ -290,8 +260,8 @@ Godoy Cruz • Club Deportivo Godoy Cruz Antonio Tomba   -- Mendoza _#godoycruz_
 
 
 
-### San Juan _(1)_{:.count}
-{: #ar-jj }
+### San Juan _(0)_{:.count}
+{: #ar-j }
 
 
 
@@ -299,15 +269,13 @@ Godoy Cruz • Club Deportivo Godoy Cruz Antonio Tomba   -- Mendoza _#godoycruz_
 
 <div class='columns3' markdown='1'>
 
-San Martín • San Martín San Juan • Club Atlético San Martín   -- San Juan _#sanmartin_{: .key} <br>
-{: .team #sanmartin }
 
 </div>
 
 
 
 ### San Luis _(0)_{:.count}
-{: #ar-dd }
+{: #ar-d }
 
 
 
@@ -321,7 +289,7 @@ San Martín • San Martín San Juan • Club Atlético San Martín   -- San Jua
 
 
 ### Santa Cruz _(0)_{:.count}
-{: #ar-zz }
+{: #ar-z }
 
 
 
@@ -334,8 +302,8 @@ San Martín • San Martín San Juan • Club Atlético San Martín   -- San Jua
 
 
 
-### Santa Fe _(2)_{:.count}
-{: #ar-ss }
+### Santa Fe _(0)_{:.count}
+{: #ar-s }
 
 
 
@@ -343,17 +311,13 @@ San Martín • San Martín San Juan • Club Atlético San Martín   -- San Jua
 
 <div class='columns3' markdown='1'>
 
-At. de Rafaela • Atl. Rafaela • Atlético Rafaela • Atlético de Rafaela • Asociación Mutual Social y Deportiva Atlético de Rafaela   -- Rafaela _#rafaela_{: .key} <br>
-{: .team #rafaela }
-Newell's • N.O. Boys • Club Atlético Newell's Old Boys   -- Rosario _#newells_{: .key} <br>
-{: .team #newells }
 
 </div>
 
 
 
 ### Santiago del Estero _(0)_{:.count}
-{: #ar-gg }
+{: #ar-g }
 
 
 
@@ -367,7 +331,7 @@ Newell's • N.O. Boys • Club Atlético Newell's Old Boys   -- Rosario _#newel
 
 
 ### Tierra del Fuego (Antártida e Islas del Atlántico Sur) _(0)_{:.count}
-{: #ar-vv }
+{: #ar-v }
 
 
 
@@ -381,7 +345,7 @@ Newell's • N.O. Boys • Club Atlético Newell's Old Boys   -- Rosario _#newel
 
 
 ### Tucumán _(0)_{:.count}
-{: #ar-tt }
+{: #ar-t }
 
 
 

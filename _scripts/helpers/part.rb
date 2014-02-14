@@ -40,6 +40,15 @@ def render_teams( teams, opts={} )
 end
 
 
+### reuse/cleanup
+# - use common render_part(ial)  or similar
+# - allow check for if is collection or single record - how??
+
+def render_ground( ground, opts={} )
+  tmpl       = File.read_utf8( '_templates/shared/_ground.md' )
+  render_erb_template( tmpl, binding )
+end
+
 def render_team( team, opts={} )
   tmpl       = File.read_utf8( '_templates/shared/_team.md' )
   render_erb_template( tmpl, binding )

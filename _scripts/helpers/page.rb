@@ -29,6 +29,14 @@ def render_events( opts={} )
   text
 end
 
+def render_grounds( opts={} )
+  tmpl       = File.read_utf8( '_templates/grounds.md' )
+  text = ''
+  text << render_frontmatter( opts[:frontmatter] )   if opts[:frontmatter]
+  text << render_erb_template( tmpl, binding )
+  text
+end
+
 
 def render_event( event, opts={} )
   tmpl       = File.read_utf8( '_templates/event.md' )

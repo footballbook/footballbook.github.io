@@ -16,10 +16,13 @@ def build_page_toc( opts={} )
                          permalink: '/index.html' } )
   end
 
+#### fix: move frontmatter option out of render_xxx
+## and add to build_page !!!
+
   File.open( file_path, file_flags ) do |file|
     file.write render_cover( opts )
-    file.write render_about( opts )
-    file.write render_toc( opts )
+    file.write render_about( opts.merge( frontmatter: nil ) ) ## hack: remove frontmatter opts
+    file.write render_toc( opts.merge( frontmatter: nil ) )
   end
 end
 
@@ -78,6 +81,24 @@ EOS
 
   File.open( file_path, file_flags ) do |file|
     file.write render_country( country, opts )
+  end
+end
+
+def build_page_grounds( opts={} )
+  if opts[:inline].present?
+    file_path  = '_pages/book.md'
+    file_flags = 'a+'   ## Append; open or create file for update, writing at end-of-file.
+  else
+    file_path = '_pages/stadiums.md'
+    file_flags = 'w+'   ## Truncate to zero length or create file for update. 
+    opts = opts.merge( frontmatter: {
+                         layout:    'book',
+                         title:     'Stadiums',
+                         permalink: '/stadiums.html' } )
+  end
+
+  File.open( file_path, file_flags ) do |file|
+    file.write render_grounds( opts )
   end
 end
 

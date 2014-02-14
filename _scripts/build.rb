@@ -73,6 +73,7 @@ Team      = SportDb::Model::Team
 League    = SportDb::Model::League
 Event     = SportDb::Model::Event
 Game      = SportDb::Model::Game
+Ground    = SportDb::Model::Ground
 
 
 

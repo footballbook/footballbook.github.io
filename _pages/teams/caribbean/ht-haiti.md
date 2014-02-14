@@ -4,7 +4,7 @@ title: Haiti (HAI)
 permalink: /ht.html
 ---
 
-## Haiti (HAI) - 3 Teams
+## Haiti (HAI) - 1 Teams
 {: #ht }
 
 
@@ -15,14 +15,10 @@ permalink: /ht.html
 
 
 
-### Uncategorized _(3)_{:.count}
+### Uncategorized _(1)_{:.count}
 
 Haiti  (HAI)  _#hai_{: .key} <br>
 {: .team #hai }
-Tempête • Tempête FC • Tempête Football Club  (TFC)  _#tempete_{: .key} <br>
-{: .team #tempete }
-Valencia • Valencia FC   _#valenciafc_{: .key} <br>
-{: .team #valenciafc }
 
 
  

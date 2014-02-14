@@ -4,7 +4,7 @@ title: Australia (AUS)
 permalink: /au.html
 ---
 
-## Australia (AUS) - 10 Teams
+## Australia (AUS) - 1 Teams
 {: #au }
 
 
@@ -15,16 +15,14 @@ permalink: /au.html
 [New South Wales](#au-ns) _(6)_{:.count} • [Queensland](#au-ql) _(5)_{:.count} • [South Australia](#au-sa) _(1)_{:.count} • [Tasmania](#au-ts) _(2)_{:.count} • [Victoria](#au-vi) _(5)_{:.count} • [Western Australia](#au-wa) _(1)_{:.count} • [Australian Capital Territory](#au-ct) _(1)_{:.count} • [Northern Territory](#au-nt) _(1)_{:.count}
 
 
-### Uncategorized _(2)_{:.count}
+### Uncategorized _(1)_{:.count}
 
 Australia  (AUS)  _#aus_{: .key} <br>
 {: .team #aus }
-Central Coast Mariners  (CCM)  _#centralcoast_{: .key} <br>
-{: .team #centralcoast }
 
 
 
-### New South Wales _(4)_{:.count}
+### New South Wales _(0)_{:.count}
 {: #au-ns }
 
 
@@ -33,20 +31,12 @@ Central Coast Mariners  (CCM)  _#centralcoast_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Newcastle Jets • Newcastle United Jets  (NUJ)  -- Newcastle _#newcastlejets_{: .key} <br>
-{: .team #newcastlejets }
-Newcastle United • Newcastle  (NEW)  -- Newcastle _#newcastle_{: .key} <br>
-{: .team #newcastle }
-Sydney FC  (SFC)  -- Sydney _#sydneyfc_{: .key} <br>
-{: .team #sydneyfc }
-Western Sydney Wanderers • WS Wanderers FC  (WSW)  -- Sydney _#westernsydney_{: .key} <br>
-{: .team #westernsydney }
 
 </div>
 
 
 
-### Queensland _(1)_{:.count}
+### Queensland _(0)_{:.count}
 {: #au-ql }
 
 
@@ -55,14 +45,12 @@ Western Sydney Wanderers • WS Wanderers FC  (WSW)  -- Sydney _#westernsydney_{
 
 <div class='columns3' markdown='1'>
 
-Brisbane Roar  (BNR)  -- Brisbane _#brisbane_{: .key} <br>
-{: .team #brisbane }
 
 </div>
 
 
 
-### South Australia _(1)_{:.count}
+### South Australia _(0)_{:.count}
 {: #au-sa }
 
 
@@ -71,8 +59,6 @@ Brisbane Roar  (BNR)  -- Brisbane _#brisbane_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Adelaide United  (ADU)  -- Adelaide _#adelaide_{: .key} <br>
-{: .team #adelaide }
 
 </div>
 
@@ -92,7 +78,7 @@ Adelaide United  (ADU)  -- Adelaide _#adelaide_{: .key} <br>
 
 
 
-### Victoria _(2)_{:.count}
+### Victoria _(0)_{:.count}
 {: #au-vi }
 
 
@@ -101,16 +87,12 @@ Adelaide United  (ADU)  -- Adelaide _#adelaide_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Melbourne Heart  (MBH)  -- Melbourne _#melbourneheart_{: .key} <br>
-{: .team #melbourneheart }
-Melbourne Victory  (MBV)  -- Melbourne _#melbournevictory_{: .key} <br>
-{: .team #melbournevictory }
 
 </div>
 
 
 
-### Western Australia _(1)_{:.count}
+### Western Australia _(0)_{:.count}
 {: #au-wa }
 
 
@@ -119,8 +101,6 @@ Melbourne Victory  (MBV)  -- Melbourne _#melbournevictory_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Perth Glory  (PTH)  -- Perth _#perth_{: .key} <br>
-{: .team #perth }
 
 </div>
 

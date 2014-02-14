@@ -4,7 +4,7 @@ title: Slovakia (SVK)
 permalink: /sk.html
 ---
 
-## Slovakia (SVK) - 9 Teams
+## Slovakia (SVK) - 1 Teams
 {: #sk }
 
 
@@ -15,26 +15,10 @@ permalink: /sk.html
 [Bratislava](#sk-bl) _(1)_{:.count} • [Trnava](#sk-ta) _(1)_{:.count} • [Trenčín](#sk-tc) _(3)_{:.count} • [Nitra](#sk-ni) _(4)_{:.count} • [Žilina](#sk-zi) _(2)_{:.count} • [Banská Bystrica](#sk-bc) _(2)_{:.count} • [Prešov](#sk-pv) _(4)_{:.count} • [Košice](#sk-ki) _(3)_{:.count}
 
 
-### Uncategorized _(9)_{:.count}
+### Uncategorized _(1)_{:.count}
 
-Dukla Banská Bystrica   _#bystrica_{: .key} <br>
-{: .team #bystrica }
-FC Nitra   _#nitra_{: .key} <br>
-{: .team #nitra }
-FC Spartak Trnava   _#trnava_{: .key} <br>
-{: .team #trnava }
-FK Senica   _#senica_{: .key} <br>
-{: .team #senica }
-MFK Košice   _#kosice_{: .key} <br>
-{: .team #kosice }
-MFK Petržalka   _#petrzalka_{: .key} <br>
-{: .team #petrzalka }
-MŠK Žilina   _#zilina_{: .key} <br>
-{: .team #zilina }
 Slovakia  (SVK)  _#svk_{: .key} <br>
 {: .team #svk }
-ŠK Slovan Bratislava   _#bratislava_{: .key} <br>
-{: .team #bratislava }
 
 
 

@@ -4,7 +4,7 @@ title: Canada (CAN)
 permalink: /ca.html
 ---
 
-## Canada (CAN) - 4 Teams
+## Canada (CAN) - 1 Teams
 {: #ca }
 
 
@@ -22,7 +22,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-### British Columbia _(1)_{:.count}
+### British Columbia _(0)_{:.count}
 {: #ca-bc }
 
 
@@ -31,8 +31,6 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Vancouver Whitecaps   -- Vancouver _#vancouver_{: .key} <br>
-{: .team #vancouver }
 
 </div>
 
@@ -136,7 +134,7 @@ Vancouver Whitecaps   -- Vancouver _#vancouver_{: .key} <br>
 
 
 
-### Ontario _(2)_{:.count}
+### Ontario _(0)_{:.count}
 {: #ca-on }
 
 
@@ -145,16 +143,12 @@ Vancouver Whitecaps   -- Vancouver _#vancouver_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Toronto • Toronto FC  (TFC)  -- Toronto _#toronto_{: .key} <br>
-{: .team #toronto }
-Waikato FC  (WFC)  -- Hamilton _#waikato_{: .key} <br>
-{: .team #waikato }
 
 </div>
 
 
 
-### Québec _(1)_{:.count}
+### Québec _(0)_{:.count}
 {: #ca-qc }
 
 
@@ -163,8 +157,6 @@ Waikato FC  (WFC)  -- Hamilton _#waikato_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Montreal Impact • Montreal I.   -- Montreal _#montreal_{: .key} <br>
-{: .team #montreal }
 
 </div>
 

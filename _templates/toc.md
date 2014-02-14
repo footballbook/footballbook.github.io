@@ -2,6 +2,7 @@
 
 [Leagues & Tournaments](#events) •
 [World Tour](#tour) •
+[Stadiums](#stadiums) •
 [A-Z Teams](#az)
 
 
@@ -50,6 +51,11 @@
   {{ columns_end() }}
 
 {% end %}<!-- each continent -->
+
+
+### Stadiums
+{: #stadiums}
+[Stadiums](stadiums.html) _({{Ground.count}})_{: .count} <br>
 
 
 ### A-Z Teams

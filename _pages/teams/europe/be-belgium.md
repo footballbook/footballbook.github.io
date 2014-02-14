@@ -4,7 +4,7 @@ title: Belgium (BEL)
 permalink: /be.html
 ---
 
-## Belgium (BEL) - 9 Teams
+## Belgium (BEL) - 1 Teams
 {: #be }
 
 
@@ -12,32 +12,18 @@ permalink: /be.html
 
 
 
-[Bruxelles•Brussel [Brussels (Capital Region)]](#be-bx) _(1)_{:.count} • [Antwerpen [Antwerp]](#be-an) _(2)_{:.count} • [Limburg](#be-li) _(0)_{:.count} • [Oost-Vlaanderen [East Flanders]](#be-ov) _(1)_{:.count} • [Brabant Wallon [Walloon Brabant]](#be-br) _(1)_{:.count} • [West-Vlaanderen [West Flanders]](#be-wv) _(1)_{:.count} • [Hainaut](#be-ht) _(2)_{:.count} • [Liège](#be-lg) _(1)_{:.count} • [Luxembourg](#be-lx) _(0)_{:.count} • [Namur](#be-na) _(1)_{:.count}
+[Bruxelles•Brussel [Brussels (Capital Region)]](#be-bru) _(1)_{:.count} • [Antwerpen [Antwerp]](#be-van) _(2)_{:.count} • [Limburg](#be-vli) _(1)_{:.count} • [Oost-Vlaanderen [East Flanders]](#be-vov) _(1)_{:.count} • [Vlaams-Brabant [Flemish Brabant]](#be-vbr) _(1)_{:.count} • [West-Vlaanderen [West Flanders]](#be-vwv) _(2)_{:.count} • [Brabant Wallon [Walloon Brabant]](#be-wbr) _(1)_{:.count} • [Hainaut](#be-wht) _(2)_{:.count} • [Liège](#be-wlg) _(1)_{:.count} • [Luxembourg](#be-wlx) _(1)_{:.count} • [Namur](#be-wna) _(1)_{:.count}
 
 
-### Uncategorized _(8)_{:.count}
+### Uncategorized _(1)_{:.count}
 
 Belgium  (BEL)  _#bel_{: .key} <br>
 {: .team #bel }
-Cercle Brugge KSV   _#cerclebrugge_{: .key} <br>
-{: .team #cerclebrugge }
-Club Brugge KV   _#brugge_{: .key} <br>
-{: .team #brugge }
-Genk • KRC Genk • Koninklijke Racing Club Genk   _#genk_{: .key} <br>
-{: .team #genk }
-KAA Gent   _#gent_{: .key} <br>
-{: .team #gent }
-KSC Lokeren OV   _#lokeren_{: .key} <br>
-{: .team #lokeren }
-KVC Westerlo   _#westerlo_{: .key} <br>
-{: .team #westerlo }
-R. Standard de Liège   _#standardliege_{: .key} <br>
-{: .team #standardliege }
 
 
 
-### Bruxelles•Brussel [Brussels (Capital Region)] _(1)_{:.count}
-{: #be-bx }
+### Bruxelles•Brussel [Brussels (Capital Region)] _(0)_{:.count}
+{: #be-bru }
 
 
 
@@ -45,15 +31,13 @@ R. Standard de Liège   _#standardliege_{: .key} <br>
 
 <div class='columns3' markdown='1'>
 
-Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
-{: .team #anderlecht }
 
 </div>
 
 
 
 ### Antwerpen [Antwerp] _(0)_{:.count}
-{: #be-an }
+{: #be-van }
 
 
 
@@ -67,7 +51,7 @@ Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
 
 
 ### Limburg _(0)_{:.count}
-{: #be-li }
+{: #be-vli }
 
 
 
@@ -81,7 +65,7 @@ Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
 
 
 ### Oost-Vlaanderen [East Flanders] _(0)_{:.count}
-{: #be-ov }
+{: #be-vov }
 
 
 
@@ -94,8 +78,8 @@ Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
 
 
 
-### Brabant Wallon [Walloon Brabant] _(0)_{:.count}
-{: #be-br }
+### Vlaams-Brabant [Flemish Brabant] _(0)_{:.count}
+{: #be-vbr }
 
 
 
@@ -109,7 +93,21 @@ Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
 
 
 ### West-Vlaanderen [West Flanders] _(0)_{:.count}
-{: #be-wv }
+{: #be-vwv }
+
+
+
+
+
+<div class='columns3' markdown='1'>
+
+
+</div>
+
+
+
+### Brabant Wallon [Walloon Brabant] _(0)_{:.count}
+{: #be-wbr }
 
 
 
@@ -123,7 +121,7 @@ Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
 
 
 ### Hainaut _(0)_{:.count}
-{: #be-ht }
+{: #be-wht }
 
 
 
@@ -137,7 +135,7 @@ Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
 
 
 ### Liège _(0)_{:.count}
-{: #be-lg }
+{: #be-wlg }
 
 
 
@@ -151,7 +149,7 @@ Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
 
 
 ### Luxembourg _(0)_{:.count}
-{: #be-lx }
+{: #be-wlx }
 
 
 
@@ -165,7 +163,7 @@ Anderlecht • RSC Anderlecht   -- Brussel _#anderlecht_{: .key} <br>
 
 
 ### Namur _(0)_{:.count}
-{: #be-na }
+{: #be-wna }
 
 
 
