@@ -12,11 +12,9 @@
 
 **{{ country.title }}**  _({{ country.grounds.count }})_{: .count}
 
-{{ columns_begin }}
   {% country.grounds.order('capacity DESC').each do |ground| %}
     {{ render_ground( ground, opts ) }}
   {% end %}
-{{ columns_end }}
 
 {% end %}
 

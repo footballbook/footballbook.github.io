@@ -7,16 +7,18 @@ permalink: /index.html
 # The Free World Football Almanac
 
 
-Last Update:  2014-02-14 16:31:15 -0600
+Last Update:  2014-02-14 16:47:38 -0600
 
 
 Auto-built from the open public domain football data (`football.db`)
-hosted on GitHub. Contribute and help update the data; see `github.com/openfootball`.
+hosted on GitHub. Contribute and help update the data; see  [`github.com/openfootball`](https://github.com/openfootball).
+{: .small}
 
 
 Questions? Comments?
-
-Send them along to the Open Sports forum/mailing list @ `groups.google.com/group/opensport`.
+Send them along to the Open Sports forum/mailing list
+@ [`groups.google.com/group/opensport`](http://groups.google.com/group/opensport).
+{: .small}
 
 ## Contents
 

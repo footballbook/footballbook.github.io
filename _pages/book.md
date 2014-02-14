@@ -7,16 +7,18 @@ permalink: /book.html
 # The Free World Football Almanac
 
 
-Last Update:  2014-02-14 16:31:36 -0600
+Last Update:  2014-02-14 16:48:01 -0600
 
 
 Auto-built from the open public domain football data (`football.db`)
-hosted on GitHub. Contribute and help update the data; see `github.com/openfootball`.
+hosted on GitHub. Contribute and help update the data; see  [`github.com/openfootball`](https://github.com/openfootball).
+{: .small}
 
 
 Questions? Comments?
-
-Send them along to the Open Sports forum/mailing list @ `groups.google.com/group/opensport`.
+Send them along to the Open Sports forum/mailing list
+@ [`groups.google.com/group/opensport`](http://groups.google.com/group/opensport).
+{: .small}
 
 ## Contents
 
@@ -8519,9 +8521,6 @@ Tahiti  (TAH)  _#tah_{: .key} <br>
 
 **Austria**  _(33)_{: .count}
 
-
-<div class='columns300' markdown='1'>
-
 Happel-Stadion • Ernst-Happel-Stadion • Praterstadion  (1931)  max. 53295 attendance   _#happelstadion_{: .key}  -- Wien <br>
 Wörtherseestadion • $Hypo$-Arena  (2008)  max. 32000 attendance   _#woertherseestadion_{: .key}  -- Klagenfurt <br>
 Wals-Siezenheim-Stadion • $Red Bull$ Arena  (2003)  max. 31020 attendance   _#walssiezenheimstadion_{: .key}  -- Salzburg (Wals-Siezenheim) <br>
@@ -8556,40 +8555,22 @@ Kufstein Arena • Grenzlandstadion  (1925)  max. 5000 attendance   _#kufsteinar
 Sportplatz Horn   max. 3000 attendance   _#sportplatzhorn_{: .key}  -- Horn <br>
 Untersberg-Arena  (1989)  max. 2955 attendance   _#untersbergarena_{: .key}  -- Grödig <br>
 
-</div>
-
-
 
 **England**  _(4)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Wembley • Wembley Stadium  (2007)  max. 90000 attendance   _#wembley_{: .key}  -- London <br>
 Old Trafford  (1910)  max. 76212 attendance   _#oldtrafford_{: .key}  -- Manchester <br>
 Ashburton Grove • $Emirates$ Stadium  (2006)  max. 60361 attendance   _#ashburtongrove_{: .key}  -- London <br>
 St. James' Park   max. 1891 attendance   _#stjamespark_{: .key}  -- Newcastle <br>
 
-</div>
-
-
 
 **France**  _(2)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Stade de France  (1998)  max. 81338 attendance   _#stadedefrance_{: .key}  -- Paris (Saint-Denis) <br>
 Stade Vélodrome  (1937)  max. 60031 attendance   _#stadevelodrome_{: .key}  -- Marseille <br>
 
-</div>
-
-
 
 **Germany**  _(36)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Olympiastadion  (1936)  max. 74176 attendance  ; Olympischer Platz 3 // 14053 Berlin  _#olympiastadion_{: .key}  <br>
 Westfalenstadion • $Signal Iduna$ Park   max. 67000 attendance   _#westfalenstadion_{: .key}  -- Dortmund <br>
@@ -8628,53 +8609,29 @@ Städtisches Waldstadion Aalen • $Scholz$ Arena  (1949)  max. 13251 attendance
 Stadion am Bornheimer Hang • $Frankfurter Volksbank$ Stadion  (1931)  max. 12542 attendance   _#stadionambornheimerhang_{: .key}  -- Frankfurt <br>
 Hardtwaldstadion  (1951)  max. 12100 attendance   _#hardtwaldstadion_{: .key}  -- Sandhausen <br>
 
-</div>
-
-
 
 **Italy**  _(4)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Stadio Giuseppe Meazza • San Siro  (1926)  max. 80074 attendance   _#stadiogiuseppemeazza_{: .key}  -- Milano <br>
 Stadio Olimpico di Roma  (1927)  max. 72698 attendance   _#stadioolimpicodiroma_{: .key}  -- Roma <br>
 Stadio San Paolo  (1959)  max. 60240 attendance   _#stadiosanpaolo_{: .key}  -- Napoli <br>
 Stadio San Nicola  (1990)  max. 58248 attendance   _#stadiosannicola_{: .key}  -- Bari <br>
 
-</div>
-
-
 
 **Netherlands**  _(2)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Amsterdam ArenA  (1996)  max. 51628 attendance   _#amsterdamarena_{: .key}  -- Amsterdam <br>
 Stadion Feijenoord • De Kuip  (1937)  max. 51137 attendance   _#stadionfeijenoord_{: .key}  -- Rotterdam <br>
 
-</div>
-
-
 
 **Portugal**  _(3)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Estádio da Luz  (2003)  max. 65647 attendance   _#estadiodaluz_{: .key}  -- Lisboa <br>
 Estádio do Dragão  (2003)  max. 50476 attendance   _#estadiododragao_{: .key}  -- Porto <br>
 Estádio José Alvalade XXI  (2003)  max. 50466 attendance   _#estadiojosealvaladexxi_{: .key}  -- Lisboa <br>
 
-</div>
-
-
 
 **Spain**  _(7)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Camp Nou  (1957)  max. 96636 attendance   _#campnou_{: .key}  -- Barcelona <br>
 Estadio Santiago Bernabéu  (1947)  max. 85454 attendance   _#estadiosantiagobernabeu_{: .key}  -- Madrid <br>
@@ -8684,22 +8641,13 @@ Estadio Vicente Calderón  (1966)  max. 55005 attendance   _#estadiovicentecalde
 Estadio Mestalla  (1923)  max. 52602 attendance   _#estadiomestalla_{: .key}  -- Valencia <br>
 Estadio Benito Villamarín  (1929)  max. 51309 attendance   _#estadiobenitovillamarin_{: .key}  -- Sevilla <br>
 
-</div>
-
-
 
 **Switzerland**  _(4)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 St. Jakob-Park   max. 42000 attendance   _#stjakobpark_{: .key}  -- Basel <br>
 Stade de Suisse   max. 31907 attendance   _#stadedesuisse_{: .key}  -- Bern <br>
 Stade de Genève   max. 31228 attendance   _#stadedegeneve_{: .key}  -- Geneva <br>
 Letzigrund   max. 30000 attendance   _#letzigrund_{: .key}  -- Zurich <br>
-
-</div>
-
 
 
 
@@ -8708,9 +8656,6 @@ Letzigrund   max. 30000 attendance   _#letzigrund_{: .key}  -- Zurich <br>
 
 
 **Brazil**  _(12)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Maracanã • Estádio do Maracanã   max. 76935 attendance   _#maracana_{: .key}  -- Rio de Janeiro <br>
 Estádio Nacional Mané Garrincha   max. 70042 attendance   _#estadionacionalmanegarrincha_{: .key}  -- Brasília <br>
@@ -8725,9 +8670,6 @@ Arena Pantanal   max. 42968 attendance   _#arenapantanal_{: .key}  -- Cuiabá <b
 Arena Amazônia   max. 42374 attendance   _#arenaamazonia_{: .key}  -- Manaus <br>
 Arena das Dunas   max. 42086 attendance   _#arenadasdunas_{: .key}  -- Natal <br>
 
-</div>
-
-
 
 
 #### North America
@@ -8736,19 +8678,10 @@ Arena das Dunas   max. 42086 attendance   _#arenadasdunas_{: .key}  -- Natal <br
 
 **Canada**  _(1)_{: .count}
 
-
-<div class='columns300' markdown='1'>
-
 $Saputo$ Stadium  (2008)  max. 20341 attendance   _#saputostadium_{: .key}  -- Montreal  <br>
-
-</div>
-
 
 
 **México [Mexico]**  _(18)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Estadio Azteca • Azteca  (1966)  max. 105084 attendance  ; Calzada de Tlalpan 3465 // México, D.F.  _#azteca_{: .key}  <br>
 Estadio Olímpico Universitario • Olímpico Universitario  (1952)  max. 70500 attendance  ; Av. Insurgents Sur s/n, Ciudad Universitaria, Coyoacán // México, D.F. C.P. 08400  _#olimpicouniversitario_{: .key}  <br>
@@ -8769,14 +8702,8 @@ Estadio Nemesio Díez • Nemesio Díez  (1954)  max. 27000 attendance  ; Consti
 Estadio Caliente • Caliente  (2007)  max. 24000 attendance  ; Boulevard Agua Caliente 12027, Col. Hipódromo // Tijuana, Baja California  _#caliente_{: .key}  <br>
 Estadio Olímpico Andrés Quintana Roo • Olímpico Andrés Quintana Roo  (2007)  max. 18500 attendance  ; Av. Mayapan, Kabah y Av. La Luna s/n, Colonia Centro // Cancún, Quintana Roo  _#andresquintanaroo_{: .key}  <br>
 
-</div>
-
-
 
 **United States**  _(21)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Rose Bowl   max. 92542 attendance   _#rosebowl_{: .key}  -- Pasadena <br>
 Cowboys Stadium • $AT&T$ Stadium  (2009)  max. 80000 attendance  ; One Legends Way // Arlington | TX 76011  _#cowboysstadium_{: .key}  <br>
@@ -8800,9 +8727,6 @@ RFK Memorial Stadium  (1961)  max. 19467 attendance  ; Washington // DC  _#rfkme
 $PPL$ Park  (2010)  max. 18500 attendance  ; Chester // Pennsylvania  _#pplpark_{: .key}  <br>
 $Dick's Sporting Goods$ Park  (2007)  max. 18086 attendance   _#dickssportinggoodspark_{: .key}  -- Commerce City <br>
 
-</div>
-
-
 
 
 #### Central America
@@ -8821,20 +8745,11 @@ $Dick's Sporting Goods$ Park  (2007)  max. 18086 attendance   _#dickssportinggoo
 
 **Morocco**  _(2)_{: .count}
 
-
-<div class='columns300' markdown='1'>
-
 Stade Adrar   max. 45480 attendance   _#stadeadrar_{: .key}  -- Agadir <br>
 Stade de Marrakech   max. 45240 attendance   _#stadedemarrakech_{: .key}  -- Marrakesh <br>
 
-</div>
-
-
 
 **South Africa**  _(10)_{: .count}
-
-
-<div class='columns300' markdown='1'>
 
 Soccer City   max. 84490 attendance   _#soccercity_{: .key}  -- Johannesburg <br>
 Cape Town Stadium   max. 64100 attendance   _#capetownstadium_{: .key}  -- Cape Town <br>
@@ -8846,9 +8761,6 @@ Peter Mokaba Stadium   max. 41733 attendance   _#petermokabastadium_{: .key}  --
 Mbombela Stadium   max. 40929 attendance   _#mbombelastadium_{: .key}  -- Nelspruit <br>
 Free State Stadium   max. 40911 attendance   _#freestatestadium_{: .key}  -- Bloemfontein <br>
 Royal Bafokeng Stadium   max. 38646 attendance   _#royalbafokengstadium_{: .key}  -- Rustenburg <br>
-
-</div>
-
 
 
 

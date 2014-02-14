@@ -47,9 +47,14 @@
         background-color: yellow;
         text-decoration: underline;
      }
-     .count, .tags, .pop, .key {
+     .count, .tags, .key {
         color: grey;
         font-size: 10px;
+     }
+     
+     .small {
+        color: grey;
+        font-size: 11px;
      }
      
      .pop {
