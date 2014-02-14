@@ -11,21 +11,13 @@ permalink: /world.confed.2013.html
 #### 8 Teams
 
 
-
 [Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-
 [Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-
 [Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-
 [Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-
 [Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-
 [Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
-
 [Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
-
 [Tahiti (TAH)](pf.html#tah)  (Tahiti, Pacific) <br>
 
 
@@ -35,8 +27,8 @@ permalink: /world.confed.2013.html
 
  Group A •  Group B
 
-| Group A -- |  | Italy  | Mexico  | Brazil  | Japan  |
-| Group B -- |  | Spain  | Nigeria  | Uruguay  | Tahiti  |
+| Group A --  | Italy  | Mexico  | Brazil  | Japan  |
+| Group B --  | Spain  | Nigeria  | Uruguay  | Tahiti  |
 
  
 

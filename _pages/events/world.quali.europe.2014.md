@@ -11,39 +11,22 @@ permalink: /world.quali.europe.2014.html
 #### 17 Teams
 
 
-
 [Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
-
 [Germany (GER)](de.html#ger)  (Germany, Europe) <br>
-
 [Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
-
 [Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-
 [Irland (IRL)](ie.html#irl)  (Irland, Europe) <br>
-
 [Croatia (CRO)](hr.html#cro)  (Croatia, Europe) <br>
-
 [Ukraine (UKR)](ua.html#ukr)  (Ukraine, Europe) <br>
-
 [Sweden (SWE)](se.html#swe)  (Sweden, Europe) <br>
-
 [France (FRA)](fr.html#fra)  (France, Europe) <br>
-
 [Faroe Islands (FRO)](fo.html#fro)  (Faroe Islands, Europe) <br>
-
 [Kazakhstan (KAZ)](kz.html#kaz)  (Kazakhstan, Europe) <br>
-
 [Austria (AUT)](at.html#aut)  (Austria, Europe) <br>
-
 [Belarus (BLR)](by.html#blr)  (Belarus, Europe) <br>
-
 [Finland (FIN)](fi.html#fin)  (Finland, Europe) <br>
-
 [Georgia (GEO)](ge.html#geo)  (Georgia, Europe) <br>
-
 [Romania (ROU)](ro.html#rou)  (Romania, Europe) <br>
-
 [Iceland (ISL)](is.html#isl)  (Iceland, Europe) <br>
 
 
@@ -53,8 +36,8 @@ permalink: /world.quali.europe.2014.html
 
  Group C •  Group I
 
-| Group C -- |  | Germany  | Irland  | Sweden  | Faroe Islands  | Kazakhstan  | Austria  |
-| Group I -- |  | Spain  | France  | Belarus  | Finland  | Georgia  |
+| Group C --  | Germany  | Irland  | Sweden  | Faroe Islands  | Kazakhstan  | Austria  |
+| Group I --  | Spain  | France  | Belarus  | Finland  | Georgia  |
 
  
 

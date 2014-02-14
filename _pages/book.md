@@ -7,7 +7,7 @@ permalink: /book.html
 # The Free World Football Almanac
 
 
-Last Update:  2014-02-14 14:20:24 -0600
+Last Update:  2014-02-14 14:48:39 -0600
 
 
 Auto-built from the open public domain football data (`football.db`)
@@ -23,7 +23,7 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 [Leagues & Tournaments](#events) •
 [World Tour](#tour) •
 [Stadiums](#stadiums) •
-[A-Z Teams](#az)
+[A-Z National Teams, Clubs](#az)
 
 
 
@@ -52,37 +52,37 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[Austria (AUT)](#at) -- _1 Teams_{:.count}  <br>
-[Belarus (BLR)](#by) -- _1 Teams_{:.count}  <br>
-[Belgium (BEL)](#be) -- _1 Teams_{:.count}  <br>
-[Bosnia and Herzegovina (BIH)](#ba) -- _1 Teams_{:.count}  <br>
-[Croatia (CRO)](#hr) -- _1 Teams_{:.count}  <br>
-[Czech Republic (CZE)](#cz) -- _1 Teams_{:.count}  <br>
-[Denmark (DEN)](#dk) -- _1 Teams_{:.count}  <br>
-[England (ENG)](#en) -- _1 Teams_{:.count}  <br>
-[Faroe Islands (FRO)](#fo) -- _1 Teams_{:.count}  <br>
-[Finland (FIN)](#fi) -- _1 Teams_{:.count}  <br>
-[France (FRA)](#fr) -- _1 Teams_{:.count}  <br>
-[Georgia (GEO)](#ge) -- _1 Teams_{:.count}  <br>
-[Germany (GER)](#de) -- _1 Teams_{:.count}  <br>
-[Greece (GRE)](#gr) -- _1 Teams_{:.count}  <br>
-[Iceland (ISL)](#is) -- _1 Teams_{:.count}  <br>
-[Irland (IRL)](#ie) -- _1 Teams_{:.count}  <br>
-[Italy (ITA)](#it) -- _1 Teams_{:.count}  <br>
-[Kazakhstan (KAZ)](#kz) -- _1 Teams_{:.count}  <br>
-[Netherlands (NED)](#nl) -- _1 Teams_{:.count}  <br>
-[Poland (POL)](#pl) -- _1 Teams_{:.count}  <br>
-[Portugal (POR)](#pt) -- _1 Teams_{:.count}  <br>
-[Romania (ROU)](#ro) -- _1 Teams_{:.count}  <br>
-[Russia (RUS)](#ru) -- _1 Teams_{:.count}  <br>
-[Serbia (SRB)](#rs) -- _1 Teams_{:.count}  <br>
-[Slovakia (SVK)](#sk) -- _1 Teams_{:.count}  <br>
-[Slovenia (SVN)](#si) -- _1 Teams_{:.count}  <br>
-[Spain (ESP)](#es) -- _1 Teams_{:.count}  <br>
-[Sweden (SWE)](#se) -- _1 Teams_{:.count}  <br>
-[Switzerland (SUI)](#ch) -- _1 Teams_{:.count}  <br>
-[Turkey (TUR)](#tr) -- _1 Teams_{:.count}  <br>
-[Ukraine (UKR)](#ua) -- _1 Teams_{:.count}  <br>
+[Austria (AUT)](#at) -- _1 National Team_{:.count}  <br>
+[Belarus (BLR)](#by) -- _1 National Team_{:.count}  <br>
+[Belgium (BEL)](#be) -- _1 National Team_{:.count}  <br>
+[Bosnia and Herzegovina (BIH)](#ba) -- _1 National Team_{:.count}  <br>
+[Croatia (CRO)](#hr) -- _1 National Team_{:.count}  <br>
+[Czech Republic (CZE)](#cz) -- _1 National Team_{:.count}  <br>
+[Denmark (DEN)](#dk) -- _1 National Team_{:.count}  <br>
+[England (ENG)](#en) -- _1 National Team_{:.count}  <br>
+[Faroe Islands (FRO)](#fo) -- _1 National Team_{:.count}  <br>
+[Finland (FIN)](#fi) -- _1 National Team_{:.count}  <br>
+[France (FRA)](#fr) -- _1 National Team_{:.count}  <br>
+[Georgia (GEO)](#ge) -- _1 National Team_{:.count}  <br>
+[Germany (GER)](#de) -- _1 National Team_{:.count}  <br>
+[Greece (GRE)](#gr) -- _1 National Team_{:.count}  <br>
+[Iceland (ISL)](#is) -- _1 National Team_{:.count}  <br>
+[Irland (IRL)](#ie) -- _1 National Team_{:.count}  <br>
+[Italy (ITA)](#it) -- _1 National Team_{:.count}  <br>
+[Kazakhstan (KAZ)](#kz) -- _1 National Team_{:.count}  <br>
+[Netherlands (NED)](#nl) -- _1 National Team_{:.count}  <br>
+[Poland (POL)](#pl) -- _1 National Team_{:.count}  <br>
+[Portugal (POR)](#pt) -- _1 National Team_{:.count}  <br>
+[Romania (ROU)](#ro) -- _1 National Team_{:.count}  <br>
+[Russia (RUS)](#ru) -- _1 National Team_{:.count}  <br>
+[Serbia (SRB)](#rs) -- _1 National Team_{:.count}  <br>
+[Slovakia (SVK)](#sk) -- _1 National Team_{:.count}  <br>
+[Slovenia (SVN)](#si) -- _1 National Team_{:.count}  <br>
+[Spain (ESP)](#es) -- _1 National Team_{:.count}  <br>
+[Sweden (SWE)](#se) -- _1 National Team_{:.count}  <br>
+[Switzerland (SUI)](#ch) -- _1 National Team_{:.count}  <br>
+[Turkey (TUR)](#tr) -- _1 National Team_{:.count}  <br>
+[Ukraine (UKR)](#ua) -- _1 National Team_{:.count}  <br>
 
 </div>
 
@@ -95,16 +95,16 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[Argentina (ARG)](#ar) -- _1 Teams_{:.count}  <br>
-[Bolivia (BOL)](#bo) -- _1 Teams_{:.count}  <br>
-[Brazil (BRA)](#br) -- _1 Teams_{:.count}  <br>
-[Chile (CHI)](#cl) -- _1 Teams_{:.count}  <br>
-[Colombia (COL)](#co) -- _1 Teams_{:.count}  <br>
-[Ecuador (ECU)](#ec) -- _1 Teams_{:.count}  <br>
-[Paraguay (PAR)](#py) -- _1 Teams_{:.count}  <br>
-[Peru (PER)](#pe) -- _1 Teams_{:.count}  <br>
-[Uruguay (URU)](#uy) -- _1 Teams_{:.count}  <br>
-[Venezuela (VEN)](#ve) -- _1 Teams_{:.count}  <br>
+[Argentina (ARG)](#ar) -- _1 Clubs_{:.count}  <br>
+[Bolivia (BOL)](#bo) -- _1 Clubs_{:.count}  <br>
+[Brazil (BRA)](#br) -- _1 Clubs_{:.count}  <br>
+[Chile (CHI)](#cl) -- _1 Clubs_{:.count}  <br>
+[Colombia (COL)](#co) -- _1 Clubs_{:.count}  <br>
+[Ecuador (ECU)](#ec) -- _1 Clubs_{:.count}  <br>
+[Paraguay (PAR)](#py) -- _1 Clubs_{:.count}  <br>
+[Peru (PER)](#pe) -- _1 Clubs_{:.count}  <br>
+[Uruguay (URU)](#uy) -- _1 Clubs_{:.count}  <br>
+[Venezuela (VEN)](#ve) -- _1 Clubs_{:.count}  <br>
 
 </div>
 
@@ -117,9 +117,9 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[Canada (CAN)](#ca) -- _1 Teams_{:.count}  <br>
-[México [Mexico] (MEX)](#mx) -- _1 Teams_{:.count}  <br>
-[United States (USA)](#us) -- _1 Teams_{:.count}  <br>
+[Canada (CAN)](#ca) -- _1 National Team_{:.count}  <br>
+[México [Mexico] (MEX)](#mx) -- _1 National Team_{:.count}  <br>
+[United States (USA)](#us) -- _1 National Team_{:.count}  <br>
 
 </div>
 
@@ -132,12 +132,12 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[Belize (BLZ)](#bz) -- _1 Teams_{:.count}  <br>
-[Costa Rica (CRC)](#cr) -- _1 Teams_{:.count}  <br>
-[El Salvador (SLV)](#sv) -- _1 Teams_{:.count}  <br>
-[Guatemala (GUA)](#gt) -- _1 Teams_{:.count}  <br>
-[Honduras (HON)](#hn) -- _1 Teams_{:.count}  <br>
-[Panamá [Panama] (PAN)](#pa) -- _1 Teams_{:.count}  <br>
+[Belize (BLZ)](#bz) -- _1 National Team_{:.count}  <br>
+[Costa Rica (CRC)](#cr) -- _1 National Team_{:.count}  <br>
+[El Salvador (SLV)](#sv) -- _1 National Team_{:.count}  <br>
+[Guatemala (GUA)](#gt) -- _1 National Team_{:.count}  <br>
+[Honduras (HON)](#hn) -- _1 National Team_{:.count}  <br>
+[Panamá [Panama] (PAN)](#pa) -- _1 National Team_{:.count}  <br>
 
 </div>
 
@@ -150,14 +150,14 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[Cuba (CUB)](#cu) -- _1 Teams_{:.count}  <br>
-[Grenada (GRN)](#gd) -- _1 Teams_{:.count}  <br>
-[Guadeloupe (GPE)](#gp) -- _1 Teams_{:.count}  <br>
-[Guyana (GUY)](#gy) -- _1 Teams_{:.count}  <br>
-[Haiti (HAI)](#ht) -- _1 Teams_{:.count}  <br>
-[Jamaica (JAM)](#jm) -- _1 Teams_{:.count}  <br>
-[Martinique (MTQ)](#mq) -- _1 Teams_{:.count}  <br>
-[Trinidad and Tobago (TRI)](#tt) -- _1 Teams_{:.count}  <br>
+[Cuba (CUB)](#cu) -- _1 National Team_{:.count}  <br>
+[Grenada (GRN)](#gd) -- _1 National Team_{:.count}  <br>
+[Guadeloupe (GPE)](#gp) -- _1 National Team_{:.count}  <br>
+[Guyana (GUY)](#gy) -- _1 National Team_{:.count}  <br>
+[Haiti (HAI)](#ht) -- _1 National Team_{:.count}  <br>
+[Jamaica (JAM)](#jm) -- _1 National Team_{:.count}  <br>
+[Martinique (MTQ)](#mq) -- _1 National Team_{:.count}  <br>
+[Trinidad and Tobago (TRI)](#tt) -- _1 National Team_{:.count}  <br>
 
 </div>
 
@@ -170,25 +170,25 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[Algeria (ALG)](#dz) -- _1 Teams_{:.count}  <br>
-[Angola (ANG)](#ao) -- _1 Teams_{:.count}  <br>
-[Burkina Faso (BFA)](#bf) -- _1 Teams_{:.count}  <br>
-[Cameroon (CMR)](#cm) -- _1 Teams_{:.count}  <br>
-[Cape Verde (CPV)](#cv) -- _1 Teams_{:.count}  <br>
-[Congo DR (COD)](#cd) -- _1 Teams_{:.count}  <br>
-[Côte d'Ivoire (CIV)](#ci) -- _1 Teams_{:.count}  <br>
-[Egypt (EGY)](#eg) -- _1 Teams_{:.count}  <br>
-[Ethiopia (ETH)](#et) -- _1 Teams_{:.count}  <br>
-[Ghana (GHA)](#gh) -- _1 Teams_{:.count}  <br>
-[Mali (MLI)](#ml) -- _1 Teams_{:.count}  <br>
-[Morocco (MAR)](#ma) -- _1 Teams_{:.count}  <br>
-[Niger (NIG)](#ne) -- _1 Teams_{:.count}  <br>
-[Nigeria (NGA)](#ng) -- _1 Teams_{:.count}  <br>
-[Senegal (SEN)](#sn) -- _1 Teams_{:.count}  <br>
-[South Africa (RSA)](#za) -- _1 Teams_{:.count}  <br>
-[Togo (TOG)](#tg) -- _1 Teams_{:.count}  <br>
-[Tunisia (TUN)](#tn) -- _1 Teams_{:.count}  <br>
-[Zambia (ZAM)](#zm) -- _1 Teams_{:.count}  <br>
+[Algeria (ALG)](#dz) -- _1 National Team_{:.count}  <br>
+[Angola (ANG)](#ao) -- _1 National Team_{:.count}  <br>
+[Burkina Faso (BFA)](#bf) -- _1 National Team_{:.count}  <br>
+[Cameroon (CMR)](#cm) -- _1 National Team_{:.count}  <br>
+[Cape Verde (CPV)](#cv) -- _1 National Team_{:.count}  <br>
+[Congo DR (COD)](#cd) -- _1 National Team_{:.count}  <br>
+[Côte d'Ivoire (CIV)](#ci) -- _1 National Team_{:.count}  <br>
+[Egypt (EGY)](#eg) -- _1 National Team_{:.count}  <br>
+[Ethiopia (ETH)](#et) -- _1 National Team_{:.count}  <br>
+[Ghana (GHA)](#gh) -- _1 National Team_{:.count}  <br>
+[Mali (MLI)](#ml) -- _1 National Team_{:.count}  <br>
+[Morocco (MAR)](#ma) -- _1 National Team_{:.count}  <br>
+[Niger (NIG)](#ne) -- _1 National Team_{:.count}  <br>
+[Nigeria (NGA)](#ng) -- _1 National Team_{:.count}  <br>
+[Senegal (SEN)](#sn) -- _1 National Team_{:.count}  <br>
+[South Africa (RSA)](#za) -- _1 National Team_{:.count}  <br>
+[Togo (TOG)](#tg) -- _1 National Team_{:.count}  <br>
+[Tunisia (TUN)](#tn) -- _1 National Team_{:.count}  <br>
+[Zambia (ZAM)](#zm) -- _1 National Team_{:.count}  <br>
 
 </div>
 
@@ -201,9 +201,9 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[Iran (IRN)](#ir) -- _1 Teams_{:.count}  <br>
-[Iraq (IRQ)](#iq) -- _1 Teams_{:.count}  <br>
-[Jordan (JOR)](#jo) -- _1 Teams_{:.count}  <br>
+[Iran (IRN)](#ir) -- _1 National Team_{:.count}  <br>
+[Iraq (IRQ)](#iq) -- _1 National Team_{:.count}  <br>
+[Jordan (JOR)](#jo) -- _1 National Team_{:.count}  <br>
 
 </div>
 
@@ -216,10 +216,10 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[Australia (AUS)](#au) -- _1 Teams_{:.count}  <br>
-[Japan (JPN)](#jp) -- _1 Teams_{:.count}  <br>
-[North Korea (PRK)](#kp) -- _1 Teams_{:.count}  <br>
-[South Korea (KOR)](#kr) -- _1 Teams_{:.count}  <br>
+[Australia (AUS)](#au) -- _1 National Team_{:.count}  <br>
+[Japan (JPN)](#jp) -- _1 National Team_{:.count}  <br>
+[North Korea (PRK)](#kp) -- _1 National Team_{:.count}  <br>
+[South Korea (KOR)](#kr) -- _1 National Team_{:.count}  <br>
 
 </div>
 
@@ -232,8 +232,8 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[New Zealand (NZL)](#nz) -- _1 Teams_{:.count}  <br>
-[Tahiti (TAH)](#pf) -- _1 Teams_{:.count}  <br>
+[New Zealand (NZL)](#nz) -- _1 National Team_{:.count}  <br>
+[Tahiti (TAH)](#pf) -- _1 National Team_{:.count}  <br>
 
 </div>
 
@@ -257,11 +257,12 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 [Stadiums](stadiums.html) _(159)_{: .count} <br>
 
 
-### A-Z Teams
+### A-Z National Teams, Clubs
 {: #az}
 
 
-[Teams A-Z Index](teams.html) _(10)_{: .count} <br>
+[National Teams A-Z Index](national-teams.html) _(76)_{: .count} <br>
+[Clubs A-Z Index](clubs.html) _(10)_{: .count} <br>
 
 
 
@@ -271,21 +272,13 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 8 Teams
 
 
-
 [Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-
 [Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-
 [Egypt (EGY)](eg.html#egy)  (Egypt, Africa) <br>
-
 [South Africa (RSA)](za.html#rsa)  (South Africa, Africa) <br>
-
 [United States (USA)](us.html#usa)  (United States, North America) <br>
-
 [Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-
 [Iraq (IRQ)](iq.html#irq)  (Iraq, Middle East) <br>
-
 [New Zealand (NZL)](nz.html#nzl)  (New Zealand, Pacific) <br>
 
 
@@ -295,8 +288,8 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group A •  Group B
 
-| Group A -- |  | Spain  | South Africa  | Iraq  | New Zealand  |
-| Group B -- |  | Italy  | Egypt  | United States  | Brazil  |
+| Group A --  | Spain  | South Africa  | Iraq  | New Zealand  |
+| Group B --  | Italy  | Egypt  | United States  | Brazil  |
 
  
 
@@ -339,21 +332,13 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 8 Teams
 
 
-
 [Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-
 [Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-
 [Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-
 [Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-
 [Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-
 [Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
-
 [Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
-
 [Tahiti (TAH)](pf.html#tah)  (Tahiti, Pacific) <br>
 
 
@@ -363,8 +348,8 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group A •  Group B
 
-| Group A -- |  | Italy  | Mexico  | Brazil  | Japan  |
-| Group B -- |  | Spain  | Nigeria  | Uruguay  | Tahiti  |
+| Group A --  | Italy  | Mexico  | Brazil  | Japan  |
+| Group B --  | Spain  | Nigeria  | Uruguay  | Tahiti  |
 
  
 
@@ -404,69 +389,37 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 32 Teams
 
 
-
 [Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
-
 [Netherlands (NED)](nl.html#ned)  (Netherlands, Europe) <br>
-
 [Denmark (DEN)](dk.html#den)  (Denmark, Europe) <br>
-
 [Germany (GER)](de.html#ger)  (Germany, Europe) <br>
-
 [Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
-
 [Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-
 [Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-
 [France (FRA)](fr.html#fra)  (France, Europe) <br>
-
 [England (ENG)](en.html#eng)  (England, Europe) <br>
-
 [Switzerland (SUI)](ch.html#sui)  (Switzerland, Europe) <br>
-
 [Serbia (SRB)](rs.html#srb)  (Serbia, Europe) <br>
-
 [Slovenia (SVN)](si.html#svn)  (Slovenia, Europe) <br>
-
 [Slovakia (SVK)](sk.html#svk)  (Slovakia, Europe) <br>
-
 [Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
-
 [Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
-
 [Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
-
 [Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
-
 [Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-
 [South Africa (RSA)](za.html#rsa)  (South Africa, Africa) <br>
-
 [Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-
 [United States (USA)](us.html#usa)  (United States, North America) <br>
-
 [Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
-
 [Argentina (ARG)](ar.html#arg)  (Argentina, South America) <br>
-
 [Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-
 [Chile (CHI)](cl.html#chi)  (Chile, South America) <br>
-
 [Paraguay (PAR)](py.html#par)  (Paraguay, South America) <br>
-
 [Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
-
 [Australia (AUS)](au.html#aus)  (Australia, Asia & Australia) <br>
-
 [Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
-
 [North Korea (PRK)](kp.html#prk)  (North Korea, Asia & Australia) <br>
-
 [South Korea (KOR)](kr.html#kor)  (South Korea, Asia & Australia) <br>
-
 [New Zealand (NZL)](nz.html#nzl)  (New Zealand, Pacific) <br>
 
 
@@ -476,14 +429,14 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group A •  Group B •  Group C •  Group D •  Group E •  Group F •  Group G •  Group H
 
-| Group A -- |  | France  | South Africa  | Mexico  | Uruguay  |
-| Group B -- |  | Greece  | Nigeria  | Argentina  | South Korea  |
-| Group C -- |  | England  | Slovenia  | Algeria  | United States  |
-| Group D -- |  | Germany  | Serbia  | Ghana  | Australia  |
-| Group E -- |  | Netherlands  | Denmark  | Cameroon  | Japan  |
-| Group F -- |  | Italy  | Slovakia  | Paraguay  | New Zealand  |
-| Group G -- |  | Portugal  | Côte d'Ivoire  | Brazil  | North Korea  |
-| Group H -- |  | Spain  | Switzerland  | Honduras  | Chile  |
+| Group A --  | France  | South Africa  | Mexico  | Uruguay  |
+| Group B --  | Greece  | Nigeria  | Argentina  | South Korea  |
+| Group C --  | England  | Slovenia  | Algeria  | United States  |
+| Group D --  | Germany  | Serbia  | Ghana  | Australia  |
+| Group E --  | Netherlands  | Denmark  | Cameroon  | Japan  |
+| Group F --  | Italy  | Slovakia  | Paraguay  | New Zealand  |
+| Group G --  | Portugal  | Côte d'Ivoire  | Brazil  | North Korea  |
+| Group H --  | Spain  | Switzerland  | Honduras  | Chile  |
 
  
 
@@ -585,69 +538,37 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 32 Teams
 
 
-
 [Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
-
 [Russia (RUS)](ru.html#rus)  (Russia, Europe) <br>
-
 [Netherlands (NED)](nl.html#ned)  (Netherlands, Europe) <br>
-
 [Germany (GER)](de.html#ger)  (Germany, Europe) <br>
-
 [Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
-
 [Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-
 [Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-
 [Croatia (CRO)](hr.html#cro)  (Croatia, Europe) <br>
-
 [France (FRA)](fr.html#fra)  (France, Europe) <br>
-
 [England (ENG)](en.html#eng)  (England, Europe) <br>
-
 [Switzerland (SUI)](ch.html#sui)  (Switzerland, Europe) <br>
-
 [Belgium (BEL)](be.html#bel)  (Belgium, Europe) <br>
-
 [Bosnia-Herzegovina (BIH)](ba.html#bih)  (Bosnia and Herzegovina, Europe) <br>
-
 [Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
-
 [Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
-
 [Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
-
 [Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
-
 [Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-
 [Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-
 [United States (USA)](us.html#usa)  (United States, North America) <br>
-
 [Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
-
 [Costa Rica (CRC)](cr.html#crc)  (Costa Rica, Central America) <br>
-
 [Argentina (ARG)](ar.html#arg)  (Argentina, South America) <br>
-
 [Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-
 [Chile (CHI)](cl.html#chi)  (Chile, South America) <br>
-
 [Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
-
 [Colombia (COL)](co.html#col)  (Colombia, South America) <br>
-
 [Ecuador (ECU)](ec.html#ecu)  (Ecuador, South America) <br>
-
 [Australia (AUS)](au.html#aus)  (Australia, Asia & Australia) <br>
-
 [Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
-
 [South Korea (KOR)](kr.html#kor)  (South Korea, Asia & Australia) <br>
-
 [Iran (IRN)](ir.html#irn)  (Iran, Middle East) <br>
 
 
@@ -657,14 +578,14 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group A •  Group B •  Group C •  Group D •  Group E •  Group F •  Group G •  Group H
 
-| Group A -- |  | Croatia  | Cameroon  | Mexico  | Brazil  |
-| Group B -- |  | Netherlands  | Spain  | Chile  | Australia  |
-| Group C -- |  | Greece  | Côte d'Ivoire  | Colombia  | Japan  |
-| Group D -- |  | Italy  | England  | Costa Rica  | Uruguay  |
-| Group E -- |  | France  | Switzerland  | Honduras  | Ecuador  |
-| Group F -- |  | Bosnia-Herzegovina  | Nigeria  | Argentina  | Iran  |
-| Group G -- |  | Germany  | Portugal  | Ghana  | United States  |
-| Group H -- |  | Russia  | Belgium  | Algeria  | South Korea  |
+| Group A --  | Croatia  | Cameroon  | Mexico  | Brazil  |
+| Group B --  | Netherlands  | Spain  | Chile  | Australia  |
+| Group C --  | Greece  | Côte d'Ivoire  | Colombia  | Japan  |
+| Group D --  | Italy  | England  | Costa Rica  | Uruguay  |
+| Group E --  | France  | Switzerland  | Honduras  | Ecuador  |
+| Group F --  | Bosnia-Herzegovina  | Nigeria  | Argentina  | Iran  |
+| Group G --  | Germany  | Portugal  | Ghana  | United States  |
+| Group H --  | Russia  | Belgium  | Algeria  | South Korea  |
 
  
 
@@ -750,39 +671,22 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 17 Teams
 
 
-
 [Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
-
 [Germany (GER)](de.html#ger)  (Germany, Europe) <br>
-
 [Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
-
 [Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-
 [Irland (IRL)](ie.html#irl)  (Irland, Europe) <br>
-
 [Croatia (CRO)](hr.html#cro)  (Croatia, Europe) <br>
-
 [Ukraine (UKR)](ua.html#ukr)  (Ukraine, Europe) <br>
-
 [Sweden (SWE)](se.html#swe)  (Sweden, Europe) <br>
-
 [France (FRA)](fr.html#fra)  (France, Europe) <br>
-
 [Faroe Islands (FRO)](fo.html#fro)  (Faroe Islands, Europe) <br>
-
 [Kazakhstan (KAZ)](kz.html#kaz)  (Kazakhstan, Europe) <br>
-
 [Austria (AUT)](at.html#aut)  (Austria, Europe) <br>
-
 [Belarus (BLR)](by.html#blr)  (Belarus, Europe) <br>
-
 [Finland (FIN)](fi.html#fin)  (Finland, Europe) <br>
-
 [Georgia (GEO)](ge.html#geo)  (Georgia, Europe) <br>
-
 [Romania (ROU)](ro.html#rou)  (Romania, Europe) <br>
-
 [Iceland (ISL)](is.html#isl)  (Iceland, Europe) <br>
 
 
@@ -792,8 +696,8 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group C •  Group I
 
-| Group C -- |  | Germany  | Irland  | Sweden  | Faroe Islands  | Kazakhstan  | Austria  |
-| Group I -- |  | Spain  | France  | Belarus  | Finland  | Georgia  |
+| Group C --  | Germany  | Irland  | Sweden  | Faroe Islands  | Kazakhstan  | Austria  |
+| Group I --  | Spain  | France  | Belarus  | Finland  | Georgia  |
 
  
 
@@ -883,21 +787,13 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 8 Teams
 
 
-
 [Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-
 [United States (USA)](us.html#usa)  (United States, North America) <br>
-
 [Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
-
 [Costa Rica (CRC)](cr.html#crc)  (Costa Rica, Central America) <br>
-
 [El Salvador (SLV)](sv.html#slv)  (El Salvador, Central America) <br>
-
 [Panama (PAN)](pa.html#pan)  (Panamá [Panama], Central America) <br>
-
 [Jamaica (JAM)](jm.html#jam)  (Jamaica, Caribbean) <br>
-
 [Guyana (GUY)](gy.html#guy)  (Guyana, Caribbean) <br>
 
 
@@ -907,8 +803,8 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group 2 •  Group HEX
 
-| Group 2 -- |  | Mexico  | Costa Rica  | El Salvador  | Guyana  |
-| Group HEX -- |  | Mexico  | United States  | Honduras  | Costa Rica  | Panama  | Jamaica  |
+| Group 2 --  | Mexico  | Costa Rica  | El Salvador  | Guyana  |
+| Group HEX --  | Mexico  | United States  | Honduras  | Costa Rica  | Panama  | Jamaica  |
 
  
 
@@ -985,25 +881,15 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 10 Teams
 
 
-
 [Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
-
 [Tunisia (TUN)](tn.html#tun)  (Tunisia, Africa) <br>
-
 [Egypt (EGY)](eg.html#egy)  (Egypt, Africa) <br>
-
 [Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
-
 [Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
-
 [Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
-
 [Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-
 [Burkina Faso (BFA)](bf.html#bfa)  (Burkina Faso, Africa) <br>
-
 [Ethiopia (ETH)](et.html#eth)  (Ethiopia, Africa) <br>
-
 [Senegal (SEN)](sn.html#sen)  (Senegal, Africa) <br>
 
 
@@ -8721,13 +8607,354 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 {: #others }
 
 
-# Teams A-Z Index _(86)_{:.count}
+## National Teams A-Z Index _(76)_{:.count}
 
 
  A •  B •  C •  D •  E •  F •  G •  H •  I •  J •  K •  L •  M •  N •  O •  P •  Q •  R •  S •  T •  U •  V •  W •  X •  Y •  Z
 
 
-## A
+### A
+
+
+<div class='columns300' markdown='1'>
+
+**[Algeria (ALG)](dz.html#alg)** ( [Algeria (ALG)](dz.html) ) _#alg_{: .key} <br>
+**[Angola (ANG)](ao.html#ang)** ( [Angola (ANG)](ao.html) ) _#ang_{: .key} <br>
+**[Australia (AUS)](au.html#aus)** ( [Australia (AUS)](au.html) ) _#aus_{: .key} <br>
+**[Austria (AUT)](at.html#aut)** ( [Austria (AUT)](at.html) ) _#aut_{: .key} <br>
+
+</div>
+
+
+
+### B
+
+
+<div class='columns300' markdown='1'>
+
+**[Belgium (BEL)](be.html#bel)** ( [Belgium (BEL)](be.html) ) _#bel_{: .key} <br>
+**[Burkina Faso (BFA)](bf.html#bfa)** ( [Burkina Faso (BFA)](bf.html) ) _#bfa_{: .key} <br>
+**[Bosnia-Herzegovina (BIH)](ba.html#bih)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#bih_{: .key} <br>
+**[Belarus (BLR)](by.html#blr)** ( [Belarus (BLR)](by.html) ) _#blr_{: .key} <br>
+**[Belize (BLZ)](bz.html#blz)** ( [Belize (BLZ)](bz.html) ) _#blz_{: .key} <br>
+
+</div>
+
+
+
+### C
+
+
+<div class='columns300' markdown='1'>
+
+**[Canada (CAN)](ca.html#can)** ( [Canada (CAN)](ca.html) ) _#can_{: .key} <br>
+**[Côte d'Ivoire (CIV)](ci.html#civ)** ( [Côte d'Ivoire (CIV)](ci.html) ) _#civ_{: .key} <br>
+**[Cameroon (CMR)](cm.html#cmr)** ( [Cameroon (CMR)](cm.html) ) _#cmr_{: .key} <br>
+**[Congo DR (COD)](cd.html#cod)** ( [Congo DR (COD)](cd.html) ) _#cod_{: .key} <br>
+**[Cape Verde (CPV)](cv.html#cpv)** ( [Cape Verde (CPV)](cv.html) ) _#cpv_{: .key} <br>
+**[Costa Rica (CRC)](cr.html#crc)** ( [Costa Rica (CRC)](cr.html) ) _#crc_{: .key} <br>
+**[Croatia (CRO)](hr.html#cro)** ( [Croatia (CRO)](hr.html) ) _#cro_{: .key} <br>
+**[Cuba (CUB)](cu.html#cub)** ( [Cuba (CUB)](cu.html) ) _#cub_{: .key} <br>
+**[Czech Republic (CZE)](cz.html#cze)** ( [Czech Republic (CZE)](cz.html) ) _#cze_{: .key} <br>
+
+</div>
+
+
+
+### D
+
+
+<div class='columns300' markdown='1'>
+
+**[Denmark (DEN)](dk.html#den)** ( [Denmark (DEN)](dk.html) ) _#den_{: .key} <br>
+
+</div>
+
+
+
+### E
+
+
+<div class='columns300' markdown='1'>
+
+**[Egypt (EGY)](eg.html#egy)** ( [Egypt (EGY)](eg.html) ) _#egy_{: .key} <br>
+**[England (ENG)](en.html#eng)** ( [England (ENG)](en.html) ) _#eng_{: .key} <br>
+**[Spain (ESP)](es.html#esp)** ( [Spain (ESP)](es.html) ) _#esp_{: .key} <br>
+**[Ethiopia (ETH)](et.html#eth)** ( [Ethiopia (ETH)](et.html) ) _#eth_{: .key} <br>
+
+</div>
+
+
+
+### F
+
+
+<div class='columns300' markdown='1'>
+
+**[Finland (FIN)](fi.html#fin)** ( [Finland (FIN)](fi.html) ) _#fin_{: .key} <br>
+**[France (FRA)](fr.html#fra)** ( [France (FRA)](fr.html) ) _#fra_{: .key} <br>
+**[Faroe Islands (FRO)](fo.html#fro)** ( [Faroe Islands (FRO)](fo.html) ) _#fro_{: .key} <br>
+
+</div>
+
+
+
+### G
+
+
+<div class='columns300' markdown='1'>
+
+**[Georgia (GEO)](ge.html#geo)** ( [Georgia (GEO)](ge.html) ) _#geo_{: .key} <br>
+**[Germany (GER)](de.html#ger)** ( [Germany (GER)](de.html) ) _#ger_{: .key} <br>
+**[Ghana (GHA)](gh.html#gha)** ( [Ghana (GHA)](gh.html) ) _#gha_{: .key} <br>
+**[Guadeloupe (GPE)](gp.html#gpe)** ( [Guadeloupe (GPE)](gp.html) ) _#gpe_{: .key} <br>
+**[Greece (GRE)](gr.html#gre)** ( [Greece (GRE)](gr.html) ) _#gre_{: .key} <br>
+**[Grenada (GRN)](gd.html#grn)** ( [Grenada (GRN)](gd.html) ) _#grn_{: .key} <br>
+**[Guatemala (GUA)](gt.html#gua)** ( [Guatemala (GUA)](gt.html) ) _#gua_{: .key} <br>
+**[Guyana (GUY)](gy.html#guy)** ( [Guyana (GUY)](gy.html) ) _#guy_{: .key} <br>
+
+</div>
+
+
+
+### H
+
+
+<div class='columns300' markdown='1'>
+
+**[Haiti (HAI)](ht.html#hai)** ( [Haiti (HAI)](ht.html) ) _#hai_{: .key} <br>
+**[Honduras (HON)](hn.html#hon)** ( [Honduras (HON)](hn.html) ) _#hon_{: .key} <br>
+
+</div>
+
+
+
+### I
+
+
+<div class='columns300' markdown='1'>
+
+**[Irland (IRL)](ie.html#irl)** ( [Irland (IRL)](ie.html) ) _#irl_{: .key} <br>
+**[Iran (IRN)](ir.html#irn)** ( [Iran (IRN)](ir.html) ) _#irn_{: .key} <br>
+**[Iraq (IRQ)](iq.html#irq)** ( [Iraq (IRQ)](iq.html) ) _#irq_{: .key} <br>
+**[Iceland (ISL)](is.html#isl)** ( [Iceland (ISL)](is.html) ) _#isl_{: .key} <br>
+**[Italy (ITA)](it.html#ita)** ( [Italy (ITA)](it.html) ) _#ita_{: .key} <br>
+
+</div>
+
+
+
+### J
+
+
+<div class='columns300' markdown='1'>
+
+**[Jamaica (JAM)](jm.html#jam)** ( [Jamaica (JAM)](jm.html) ) _#jam_{: .key} <br>
+**[Jordan (JOR)](jo.html#jor)** ( [Jordan (JOR)](jo.html) ) _#jor_{: .key} <br>
+**[Japan (JPN)](jp.html#jpn)** ( [Japan (JPN)](jp.html) ) _#jpn_{: .key} <br>
+
+</div>
+
+
+
+### K
+
+
+<div class='columns300' markdown='1'>
+
+**[Kazakhstan (KAZ)](kz.html#kaz)** ( [Kazakhstan (KAZ)](kz.html) ) _#kaz_{: .key} <br>
+**[South Korea (KOR)](kr.html#kor)** ( [South Korea (KOR)](kr.html) ) _#kor_{: .key} <br>
+
+</div>
+
+
+
+### L
+
+
+<div class='columns300' markdown='1'>
+
+
+</div>
+
+
+
+### M
+
+
+<div class='columns300' markdown='1'>
+
+**[Morocco (MAR)](ma.html#mar)** ( [Morocco (MAR)](ma.html) ) _#mar_{: .key} <br>
+**[Mexico (MEX)](mx.html#mex)** ( [México [Mexico] (MEX)](mx.html) ) _#mex_{: .key} <br>
+**[Mali (MLI)](ml.html#mli)** ( [Mali (MLI)](ml.html) ) _#mli_{: .key} <br>
+**[Martinique (MTQ)](mq.html#mtq)** ( [Martinique (MTQ)](mq.html) ) _#mtq_{: .key} <br>
+
+</div>
+
+
+
+### N
+
+
+<div class='columns300' markdown='1'>
+
+**[Netherlands (NED)](nl.html#ned)** ( [Netherlands (NED)](nl.html) ) _#ned_{: .key} <br>
+**[Nigeria (NGA)](ng.html#nga)** ( [Nigeria (NGA)](ng.html) ) _#nga_{: .key} <br>
+**[Niger (NIG)](ne.html#nig)** ( [Niger (NIG)](ne.html) ) _#nig_{: .key} <br>
+**[New Zealand (NZL)](nz.html#nzl)** ( [New Zealand (NZL)](nz.html) ) _#nzl_{: .key} <br>
+
+</div>
+
+
+
+### O
+
+
+<div class='columns300' markdown='1'>
+
+
+</div>
+
+
+
+### P
+
+
+<div class='columns300' markdown='1'>
+
+**[Panama (PAN)](pa.html#pan)** ( [Panamá [Panama] (PAN)](pa.html) ) _#pan_{: .key} <br>
+**[Poland (POL)](pl.html#pol)** ( [Poland (POL)](pl.html) ) _#pol_{: .key} <br>
+**[Portugal (POR)](pt.html#por)** ( [Portugal (POR)](pt.html) ) _#por_{: .key} <br>
+**[North Korea (PRK)](kp.html#prk)** ( [North Korea (PRK)](kp.html) ) _#prk_{: .key} <br>
+
+</div>
+
+
+
+### Q
+
+
+<div class='columns300' markdown='1'>
+
+
+</div>
+
+
+
+### R
+
+
+<div class='columns300' markdown='1'>
+
+**[Romania (ROU)](ro.html#rou)** ( [Romania (ROU)](ro.html) ) _#rou_{: .key} <br>
+**[South Africa (RSA)](za.html#rsa)** ( [South Africa (RSA)](za.html) ) _#rsa_{: .key} <br>
+**[Russia (RUS)](ru.html#rus)** ( [Russia (RUS)](ru.html) ) _#rus_{: .key} <br>
+
+</div>
+
+
+
+### S
+
+
+<div class='columns300' markdown='1'>
+
+**[Senegal (SEN)](sn.html#sen)** ( [Senegal (SEN)](sn.html) ) _#sen_{: .key} <br>
+**[El Salvador (SLV)](sv.html#slv)** ( [El Salvador (SLV)](sv.html) ) _#slv_{: .key} <br>
+**[Serbia (SRB)](rs.html#srb)** ( [Serbia (SRB)](rs.html) ) _#srb_{: .key} <br>
+**[Switzerland (SUI)](ch.html#sui)** ( [Switzerland (SUI)](ch.html) ) _#sui_{: .key} <br>
+**[Slovakia (SVK)](sk.html#svk)** ( [Slovakia (SVK)](sk.html) ) _#svk_{: .key} <br>
+**[Slovenia (SVN)](si.html#svn)** ( [Slovenia (SVN)](si.html) ) _#svn_{: .key} <br>
+**[Sweden (SWE)](se.html#swe)** ( [Sweden (SWE)](se.html) ) _#swe_{: .key} <br>
+
+</div>
+
+
+
+### T
+
+
+<div class='columns300' markdown='1'>
+
+**[Tahiti (TAH)](pf.html#tah)** ( [Tahiti (TAH)](pf.html) ) _#tah_{: .key} <br>
+**[Togo (TOG)](tg.html#tog)** ( [Togo (TOG)](tg.html) ) _#tog_{: .key} <br>
+**[Trinidad and Tobago (TRI)](tt.html#tri)** ( [Trinidad and Tobago (TRI)](tt.html) ) _#tri_{: .key} <br>
+**[Tunisia (TUN)](tn.html#tun)** ( [Tunisia (TUN)](tn.html) ) _#tun_{: .key} <br>
+**[Turkey (TUR)](tr.html#tur)** ( [Turkey (TUR)](tr.html) ) _#tur_{: .key} <br>
+
+</div>
+
+
+
+### U
+
+
+<div class='columns300' markdown='1'>
+
+**[Ukraine (UKR)](ua.html#ukr)** ( [Ukraine (UKR)](ua.html) ) _#ukr_{: .key} <br>
+**[United States (USA)](us.html#usa)** ( [United States (USA)](us.html) ) _#usa_{: .key} <br>
+
+</div>
+
+
+
+### V
+
+
+<div class='columns300' markdown='1'>
+
+
+</div>
+
+
+
+### W
+
+
+<div class='columns300' markdown='1'>
+
+
+</div>
+
+
+
+### X
+
+
+<div class='columns300' markdown='1'>
+
+
+</div>
+
+
+
+### Y
+
+
+<div class='columns300' markdown='1'>
+
+
+</div>
+
+
+
+### Z
+
+
+<div class='columns300' markdown='1'>
+
+**[Zambia (ZAM)](zm.html#zam)** ( [Zambia (ZAM)](zm.html) ) _#zam_{: .key} <br>
+
+</div>
+
+
+## Clubs A-Z Index _(10)_{:.count}
+
+
+ A •  B •  C •  D •  E •  F •  G •  H •  I •  J •  K •  L •  M •  N •  O •  P •  Q •  R •  S •  T •  U •  V •  W •  X •  Y •  Z
+
+
+### A
 
 
 <div class='columns300' markdown='1'>
@@ -8738,7 +8965,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## B
+### B
 
 
 <div class='columns300' markdown='1'>
@@ -8750,7 +8977,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## C
+### C
 
 
 <div class='columns300' markdown='1'>
@@ -8762,7 +8989,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## D
+### D
 
 
 <div class='columns300' markdown='1'>
@@ -8772,7 +8999,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## E
+### E
 
 
 <div class='columns300' markdown='1'>
@@ -8783,7 +9010,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## F
+### F
 
 
 <div class='columns300' markdown='1'>
@@ -8793,7 +9020,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## G
+### G
 
 
 <div class='columns300' markdown='1'>
@@ -8803,7 +9030,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## H
+### H
 
 
 <div class='columns300' markdown='1'>
@@ -8813,7 +9040,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## I
+### I
 
 
 <div class='columns300' markdown='1'>
@@ -8823,7 +9050,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## J
+### J
 
 
 <div class='columns300' markdown='1'>
@@ -8833,7 +9060,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## K
+### K
 
 
 <div class='columns300' markdown='1'>
@@ -8843,7 +9070,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## L
+### L
 
 
 <div class='columns300' markdown='1'>
@@ -8853,7 +9080,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## M
+### M
 
 
 <div class='columns300' markdown='1'>
@@ -8863,7 +9090,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## N
+### N
 
 
 <div class='columns300' markdown='1'>
@@ -8873,7 +9100,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## O
+### O
 
 
 <div class='columns300' markdown='1'>
@@ -8883,7 +9110,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## P
+### P
 
 
 <div class='columns300' markdown='1'>
@@ -8895,7 +9122,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## Q
+### Q
 
 
 <div class='columns300' markdown='1'>
@@ -8905,7 +9132,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## R
+### R
 
 
 <div class='columns300' markdown='1'>
@@ -8915,7 +9142,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## S
+### S
 
 
 <div class='columns300' markdown='1'>
@@ -8925,7 +9152,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## T
+### T
 
 
 <div class='columns300' markdown='1'>
@@ -8935,7 +9162,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## U
+### U
 
 
 <div class='columns300' markdown='1'>
@@ -8946,7 +9173,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## V
+### V
 
 
 <div class='columns300' markdown='1'>
@@ -8957,7 +9184,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## W
+### W
 
 
 <div class='columns300' markdown='1'>
@@ -8967,7 +9194,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## X
+### X
 
 
 <div class='columns300' markdown='1'>
@@ -8977,7 +9204,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## Y
+### Y
 
 
 <div class='columns300' markdown='1'>
@@ -8987,7 +9214,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 
 
-## Z
+### Z
 
 
 <div class='columns300' markdown='1'>

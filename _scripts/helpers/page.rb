@@ -64,13 +64,22 @@ def render_toc( opts={} )
 end
 
 
-def render_teams_idx( opts={} )
-  tmpl = File.read_utf8( '_templates/teams-idx.md' )
+def render_national_teams_idx( opts={} )
+  tmpl = File.read_utf8( '_templates/national-teams-idx.md' )
   text = ''
   text << render_frontmatter( opts[:frontmatter] )  if opts[:frontmatter]
   text << render_erb_template( tmpl, binding )
   text
 end
+
+def render_clubs_idx( opts={} )
+  tmpl = File.read_utf8( '_templates/clubs-idx.md' )
+  text = ''
+  text << render_frontmatter( opts[:frontmatter] )  if opts[:frontmatter]
+  text << render_erb_template( tmpl, binding )
+  text
+end
+
 
 def render_back( opts={} )
   tmpl = File.read_utf8( '_templates/back.md' )

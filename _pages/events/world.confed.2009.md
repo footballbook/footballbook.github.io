@@ -11,21 +11,13 @@ permalink: /world.confed.2009.html
 #### 8 Teams
 
 
-
 [Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-
 [Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-
 [Egypt (EGY)](eg.html#egy)  (Egypt, Africa) <br>
-
 [South Africa (RSA)](za.html#rsa)  (South Africa, Africa) <br>
-
 [United States (USA)](us.html#usa)  (United States, North America) <br>
-
 [Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-
 [Iraq (IRQ)](iq.html#irq)  (Iraq, Middle East) <br>
-
 [New Zealand (NZL)](nz.html#nzl)  (New Zealand, Pacific) <br>
 
 
@@ -35,8 +27,8 @@ permalink: /world.confed.2009.html
 
  Group A •  Group B
 
-| Group A -- |  | Spain  | South Africa  | Iraq  | New Zealand  |
-| Group B -- |  | Italy  | Egypt  | United States  | Brazil  |
+| Group A --  | Spain  | South Africa  | Iraq  | New Zealand  |
+| Group B --  | Italy  | Egypt  | United States  | Brazil  |
 
  
 

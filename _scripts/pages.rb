@@ -124,25 +124,46 @@ def build_page_events( opts={} )
 end
 
 
-def build_page_teams_idx( opts={} )
+def build_page_national_teams_idx( opts={} )
+  ### generate national teams a-z index
+
+  if opts[:inline].present?
+    file_path  = '_pages/book.md'
+    file_flags = 'a+'   ## Append; open or create file for update, writing at end-of-file.
+  else
+    file_path = '_pages/national-teams.md'
+    file_flags = 'w+'   ## Truncate to zero length or create file for update. 
+    opts = opts.merge( frontmatter: {
+                         layout:    'book',
+                         title:     'National Teams A-Z Index',
+                         permalink: '/national-teams.html' } )
+  end
+
+  File.open( file_path, file_flags ) do |file|
+    file.write render_national_teams_idx( opts )
+  end
+end
+
+def build_page_clubs_idx( opts={} )
   ### generate teams a-z index
 
   if opts[:inline].present?
     file_path  = '_pages/book.md'
     file_flags = 'a+'   ## Append; open or create file for update, writing at end-of-file.
   else
-    file_path = '_pages/teams.md'
+    file_path = '_pages/clubs.md'
     file_flags = 'w+'   ## Truncate to zero length or create file for update. 
     opts = opts.merge( frontmatter: {
                          layout:    'book',
-                         title:     'Teams A-Z Index',
-                         permalink: '/teams.html' } )
+                         title:     'Clubs A-Z Index',
+                         permalink: '/clubs.html' } )
   end
 
   File.open( file_path, file_flags ) do |file|
-    file.write render_teams_idx( opts )
+    file.write render_clubs_idx( opts )
   end
 end
+
 
 def build_page_back( opts={} )
   if opts[:inline].present?

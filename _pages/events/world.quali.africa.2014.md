@@ -11,25 +11,15 @@ permalink: /world.quali.africa.2014.html
 #### 10 Teams
 
 
-
 [Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
-
 [Tunisia (TUN)](tn.html#tun)  (Tunisia, Africa) <br>
-
 [Egypt (EGY)](eg.html#egy)  (Egypt, Africa) <br>
-
 [Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
-
 [Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
-
 [Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
-
 [Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-
 [Burkina Faso (BFA)](bf.html#bfa)  (Burkina Faso, Africa) <br>
-
 [Ethiopia (ETH)](et.html#eth)  (Ethiopia, Africa) <br>
-
 [Senegal (SEN)](sn.html#sen)  (Senegal, Africa) <br>
 
 

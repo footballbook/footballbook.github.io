@@ -1,4 +1,4 @@
-# Teams A-Z Index _({{ Team.count }})_{:.count}
+## Clubs A-Z Index _({{ Team.where(club:true).count }})_{:.count}
 
 .. <!-- add/fix: add category for starting w/ non-letters e.g. digits -->
 .. <!-- todo: add entries for synonims - how?? use see xxx  why?  why not? -->
@@ -11,7 +11,7 @@
 
 {% ('A'..'Z').each do |letter| %}
 
-## {{ letter }}
+### {{ letter }}
 
 {{ columns_begin }}
 {% Team.where( "key like '#{letter.downcase}%'").where( club:true ).order(:key).each do |team| %}

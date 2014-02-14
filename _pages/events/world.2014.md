@@ -11,69 +11,37 @@ permalink: /world.2014.html
 #### 32 Teams
 
 
-
 [Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
-
 [Russia (RUS)](ru.html#rus)  (Russia, Europe) <br>
-
 [Netherlands (NED)](nl.html#ned)  (Netherlands, Europe) <br>
-
 [Germany (GER)](de.html#ger)  (Germany, Europe) <br>
-
 [Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
-
 [Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-
 [Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-
 [Croatia (CRO)](hr.html#cro)  (Croatia, Europe) <br>
-
 [France (FRA)](fr.html#fra)  (France, Europe) <br>
-
 [England (ENG)](en.html#eng)  (England, Europe) <br>
-
 [Switzerland (SUI)](ch.html#sui)  (Switzerland, Europe) <br>
-
 [Belgium (BEL)](be.html#bel)  (Belgium, Europe) <br>
-
 [Bosnia-Herzegovina (BIH)](ba.html#bih)  (Bosnia and Herzegovina, Europe) <br>
-
 [Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
-
 [Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
-
 [Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
-
 [Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
-
 [Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-
 [Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-
 [United States (USA)](us.html#usa)  (United States, North America) <br>
-
 [Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
-
 [Costa Rica (CRC)](cr.html#crc)  (Costa Rica, Central America) <br>
-
 [Argentina (ARG)](ar.html#arg)  (Argentina, South America) <br>
-
 [Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-
 [Chile (CHI)](cl.html#chi)  (Chile, South America) <br>
-
 [Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
-
 [Colombia (COL)](co.html#col)  (Colombia, South America) <br>
-
 [Ecuador (ECU)](ec.html#ecu)  (Ecuador, South America) <br>
-
 [Australia (AUS)](au.html#aus)  (Australia, Asia & Australia) <br>
-
 [Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
-
 [South Korea (KOR)](kr.html#kor)  (South Korea, Asia & Australia) <br>
-
 [Iran (IRN)](ir.html#irn)  (Iran, Middle East) <br>
 
 
@@ -83,14 +51,14 @@ permalink: /world.2014.html
 
  Group A •  Group B •  Group C •  Group D •  Group E •  Group F •  Group G •  Group H
 
-| Group A -- |  | Croatia  | Cameroon  | Mexico  | Brazil  |
-| Group B -- |  | Netherlands  | Spain  | Chile  | Australia  |
-| Group C -- |  | Greece  | Côte d'Ivoire  | Colombia  | Japan  |
-| Group D -- |  | Italy  | England  | Costa Rica  | Uruguay  |
-| Group E -- |  | France  | Switzerland  | Honduras  | Ecuador  |
-| Group F -- |  | Bosnia-Herzegovina  | Nigeria  | Argentina  | Iran  |
-| Group G -- |  | Germany  | Portugal  | Ghana  | United States  |
-| Group H -- |  | Russia  | Belgium  | Algeria  | South Korea  |
+| Group A --  | Croatia  | Cameroon  | Mexico  | Brazil  |
+| Group B --  | Netherlands  | Spain  | Chile  | Australia  |
+| Group C --  | Greece  | Côte d'Ivoire  | Colombia  | Japan  |
+| Group D --  | Italy  | England  | Costa Rica  | Uruguay  |
+| Group E --  | France  | Switzerland  | Honduras  | Ecuador  |
+| Group F --  | Bosnia-Herzegovina  | Nigeria  | Argentina  | Iran  |
+| Group G --  | Germany  | Portugal  | Ghana  | United States  |
+| Group H --  | Russia  | Belgium  | Algeria  | South Korea  |
 
  
 

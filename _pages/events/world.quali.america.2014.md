@@ -11,21 +11,13 @@ permalink: /world.quali.america.2014.html
 #### 8 Teams
 
 
-
 [Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-
 [United States (USA)](us.html#usa)  (United States, North America) <br>
-
 [Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
-
 [Costa Rica (CRC)](cr.html#crc)  (Costa Rica, Central America) <br>
-
 [El Salvador (SLV)](sv.html#slv)  (El Salvador, Central America) <br>
-
 [Panama (PAN)](pa.html#pan)  (Panamá [Panama], Central America) <br>
-
 [Jamaica (JAM)](jm.html#jam)  (Jamaica, Caribbean) <br>
-
 [Guyana (GUY)](gy.html#guy)  (Guyana, Caribbean) <br>
 
 
@@ -35,8 +27,8 @@ permalink: /world.quali.america.2014.html
 
  Group 2 •  Group HEX
 
-| Group 2 -- |  | Mexico  | Costa Rica  | El Salvador  | Guyana  |
-| Group HEX -- |  | Mexico  | United States  | Honduras  | Costa Rica  | Panama  | Jamaica  |
+| Group 2 --  | Mexico  | Costa Rica  | El Salvador  | Guyana  |
+| Group HEX --  | Mexico  | United States  | Honduras  | Costa Rica  | Panama  | Jamaica  |
 
  
 

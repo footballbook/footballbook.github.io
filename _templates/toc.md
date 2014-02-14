@@ -3,7 +3,7 @@
 [Leagues & Tournaments](#events) •
 [World Tour](#tour) •
 [Stadiums](#stadiums) •
-[A-Z Teams](#az)
+[A-Z National Teams, Clubs](#az)
 
 
 .. <!-- (re)use partial for events ??? -->
@@ -58,10 +58,11 @@
 [Stadiums](stadiums.html) _({{Ground.count}})_{: .count} <br>
 
 
-### A-Z Teams
+### A-Z National Teams, Clubs
 {: #az}
 
 <!-- fix: for all-in-one page version use/check opts :inline -->
-[Teams A-Z Index](teams.html) _({{Team.where(club:true).count}})_{: .count} <br>
+[National Teams A-Z Index](national-teams.html) _({{Team.where(club:false).count}})_{: .count} <br>
+[Clubs A-Z Index](clubs.html) _({{Team.where(club:true).count}})_{: .count} <br>
 
 <!-- [Leagues & Tournaments A-Z Index](events.html) _({{Event.count}})_{: .count} <br> -->

@@ -11,69 +11,37 @@ permalink: /world.2010.html
 #### 32 Teams
 
 
-
 [Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
-
 [Netherlands (NED)](nl.html#ned)  (Netherlands, Europe) <br>
-
 [Denmark (DEN)](dk.html#den)  (Denmark, Europe) <br>
-
 [Germany (GER)](de.html#ger)  (Germany, Europe) <br>
-
 [Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
-
 [Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-
 [Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-
 [France (FRA)](fr.html#fra)  (France, Europe) <br>
-
 [England (ENG)](en.html#eng)  (England, Europe) <br>
-
 [Switzerland (SUI)](ch.html#sui)  (Switzerland, Europe) <br>
-
 [Serbia (SRB)](rs.html#srb)  (Serbia, Europe) <br>
-
 [Slovenia (SVN)](si.html#svn)  (Slovenia, Europe) <br>
-
 [Slovakia (SVK)](sk.html#svk)  (Slovakia, Europe) <br>
-
 [Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
-
 [Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
-
 [Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
-
 [Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
-
 [Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-
 [South Africa (RSA)](za.html#rsa)  (South Africa, Africa) <br>
-
 [Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-
 [United States (USA)](us.html#usa)  (United States, North America) <br>
-
 [Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
-
 [Argentina (ARG)](ar.html#arg)  (Argentina, South America) <br>
-
 [Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-
 [Chile (CHI)](cl.html#chi)  (Chile, South America) <br>
-
 [Paraguay (PAR)](py.html#par)  (Paraguay, South America) <br>
-
 [Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
-
 [Australia (AUS)](au.html#aus)  (Australia, Asia & Australia) <br>
-
 [Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
-
 [North Korea (PRK)](kp.html#prk)  (North Korea, Asia & Australia) <br>
-
 [South Korea (KOR)](kr.html#kor)  (South Korea, Asia & Australia) <br>
-
 [New Zealand (NZL)](nz.html#nzl)  (New Zealand, Pacific) <br>
 
 
@@ -83,14 +51,14 @@ permalink: /world.2010.html
 
  Group A •  Group B •  Group C •  Group D •  Group E •  Group F •  Group G •  Group H
 
-| Group A -- |  | France  | South Africa  | Mexico  | Uruguay  |
-| Group B -- |  | Greece  | Nigeria  | Argentina  | South Korea  |
-| Group C -- |  | England  | Slovenia  | Algeria  | United States  |
-| Group D -- |  | Germany  | Serbia  | Ghana  | Australia  |
-| Group E -- |  | Netherlands  | Denmark  | Cameroon  | Japan  |
-| Group F -- |  | Italy  | Slovakia  | Paraguay  | New Zealand  |
-| Group G -- |  | Portugal  | Côte d'Ivoire  | Brazil  | North Korea  |
-| Group H -- |  | Spain  | Switzerland  | Honduras  | Chile  |
+| Group A --  | France  | South Africa  | Mexico  | Uruguay  |
+| Group B --  | Greece  | Nigeria  | Argentina  | South Korea  |
+| Group C --  | England  | Slovenia  | Algeria  | United States  |
+| Group D --  | Germany  | Serbia  | Ghana  | Australia  |
+| Group E --  | Netherlands  | Denmark  | Cameroon  | Japan  |
+| Group F --  | Italy  | Slovakia  | Paraguay  | New Zealand  |
+| Group G --  | Portugal  | Côte d'Ivoire  | Brazil  | North Korea  |
+| Group H --  | Spain  | Switzerland  | Honduras  | Chile  |
 
  
 
