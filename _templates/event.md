@@ -5,11 +5,11 @@
 #### {{ event.teams.count }} Teams
 
 
-{% event.teams.each_with_index do |team,i| %}
-     {{ ' • ' if i > 0 }}  ++
-     {{ link_to_team( team ) }}  ++
-     {{ team.title2  if team.title2.present? }}  ++
-      {# render_team_world_tree( team ) #}
+{% event.teams.each do |team| %}
+  {{ link_to_team( team ) }}  ++
+  {{ team.title2  if team.title2.present? }}  ++
+  ({{ render_world_tree_for( team ) }})  ++
+  <br>
 {% end %}
 
 
@@ -26,10 +26,7 @@
 
 {% event.groups.each do |group| %}
 | ++
-  {{ group.title }} ++
-| ++
-   --  ++
-| ++ 
+  {{ group.title }} -- ++
   {% group.teams.each do |team| %} ++ 
     | ++
     {{ team.title }} ++ 
@@ -52,7 +49,7 @@
 
 
 {% event.rounds.each do |round| %}
-| ++ 
+|{: colspan='4'} ++ 
    **{{ round.title }}** ++
    {{ "/ #{round.title2}" if round.title2.present? }} ++
 |

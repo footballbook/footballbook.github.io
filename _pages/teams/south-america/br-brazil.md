@@ -4,7 +4,7 @@ title: Brazil (BRA)
 permalink: /br.html
 ---
 
-## Brazil (BRA) - 1 Teams
+## Brazil (BRA) - 1 Clubs
 {: #br }
 
 
@@ -29,7 +29,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -43,7 +43,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -57,7 +57,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -71,7 +71,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -85,7 +85,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -99,7 +99,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -113,7 +113,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -127,7 +127,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -141,7 +141,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -155,7 +155,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -169,7 +169,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -183,7 +183,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -197,7 +197,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -211,7 +211,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -225,7 +225,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -239,7 +239,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -253,7 +253,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -267,7 +267,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -281,7 +281,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -295,7 +295,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -309,7 +309,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -323,7 +323,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -337,7 +337,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -351,7 +351,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -365,7 +365,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -379,7 +379,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -393,7 +393,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

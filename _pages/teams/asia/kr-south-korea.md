@@ -4,7 +4,7 @@ title: South Korea (KOR)
 permalink: /kr.html
 ---
 
-## South Korea (KOR) - 1 Teams
+## South Korea (KOR) - 0 Clubs
 {: #kr }
 
 

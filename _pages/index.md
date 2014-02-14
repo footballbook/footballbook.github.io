@@ -7,29 +7,18 @@ permalink: /index.html
 # The Free World Football Almanac
 
 
-Last Update:  2014-02-13 19:37:36 -0600
+Last Update:  2014-02-14 14:20:07 -0600
 
 
 Auto-built from the open public domain football data (`football.db`)
 hosted on GitHub. Contribute and help update the data; see `github.com/openfootball`.
 
 
-
-Stats:
-
-- 76 National Teams
-- 10 Clubs
-- 254 Games
-- 6 Leagues & Tournaments
-- 7 Events
-- 159 Stadiums
-
-
 Questions? Comments?
 
 Send them along to the Open Sports forum/mailing list @ `groups.google.com/group/opensport`.
 
-## Table of Contents
+## Contents
 
 [Leagues & Tournaments](#events) •
 [World Tour](#tour) •
@@ -272,6 +261,6 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 {: #az}
 
 
-[Teams A-Z Index](teams.html) _(245)_{: .count} <br>
+[Teams A-Z Index](teams.html) _(10)_{: .count} <br>
 
 

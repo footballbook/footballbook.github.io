@@ -4,7 +4,7 @@ title: Costa Rica (CRC)
 permalink: /cr.html
 ---
 
-## Costa Rica (CRC) - 1 Teams
+## Costa Rica (CRC) - 0 Clubs
 {: #cr }
 
 

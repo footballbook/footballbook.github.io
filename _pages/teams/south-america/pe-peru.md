@@ -4,7 +4,7 @@ title: Peru (PER)
 permalink: /pe.html
 ---
 
-## Peru (PER) - 1 Teams
+## Peru (PER) - 1 Clubs
 {: #pe }
 
 

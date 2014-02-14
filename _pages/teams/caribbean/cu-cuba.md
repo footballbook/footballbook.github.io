@@ -4,7 +4,7 @@ title: Cuba (CUB)
 permalink: /cu.html
 ---
 
-## Cuba (CUB) - 1 Teams
+## Cuba (CUB) - 0 Clubs
 {: #cu }
 
 

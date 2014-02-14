@@ -4,7 +4,7 @@ title: Zambia (ZAM)
 permalink: /zm.html
 ---
 
-## Zambia (ZAM) - 1 Teams
+## Zambia (ZAM) - 0 Clubs
 {: #zm }
 
 

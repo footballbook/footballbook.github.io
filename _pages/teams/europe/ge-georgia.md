@@ -4,7 +4,7 @@ title: Georgia (GEO)
 permalink: /ge.html
 ---
 
-## Georgia (GEO) - 1 Teams
+## Georgia (GEO) - 0 Clubs
 {: #ge }
 
 

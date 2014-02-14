@@ -4,7 +4,7 @@ title: Iceland (ISL)
 permalink: /is.html
 ---
 
-## Iceland (ISL) - 1 Teams
+## Iceland (ISL) - 0 Clubs
 {: #is }
 
 

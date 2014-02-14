@@ -144,3 +144,21 @@ def build_page_teams_idx( opts={} )
   end
 end
 
+def build_page_back( opts={} )
+  if opts[:inline].present?
+    file_path  = '_pages/book.md'
+    file_flags = 'a+'   ## Append; open or create file for update, writing at end-of-file.
+  else
+    file_path = '_pages/back.md'
+    file_flags = 'w+'   ## Truncate to zero length or create file for update. 
+    opts = opts.merge( frontmatter: {
+                         layout:    'book',
+                         title:     'Back',
+                         permalink: '/back.html' } )
+  end
+
+  File.open( file_path, file_flags ) do |file|
+    file.write render_back( opts )
+  end
+end
+

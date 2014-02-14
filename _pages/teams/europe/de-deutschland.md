@@ -4,7 +4,7 @@ title: Germany (GER)
 permalink: /de.html
 ---
 
-## Germany (GER) - 1 Teams
+## Germany (GER) - 0 Clubs
 {: #de }
 
 
@@ -29,7 +29,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -43,7 +43,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -57,7 +57,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -71,7 +71,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -85,7 +85,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -99,7 +99,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -113,7 +113,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -127,7 +127,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -141,7 +141,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -155,7 +155,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -169,7 +169,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -183,7 +183,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -197,7 +197,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -211,7 +211,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -225,7 +225,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -239,7 +239,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

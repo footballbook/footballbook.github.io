@@ -4,7 +4,7 @@ title: Cameroon (CMR)
 permalink: /cm.html
 ---
 
-## Cameroon (CMR) - 1 Teams
+## Cameroon (CMR) - 0 Clubs
 {: #cm }
 
 

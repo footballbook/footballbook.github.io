@@ -14,7 +14,7 @@
 ## {{ letter }}
 
 {{ columns_begin }}
-{% Team.where( "key like '#{letter.downcase}%'").order(:key).each do |team| %}
+{% Team.where( "key like '#{letter.downcase}%'").where( club:true ).order(:key).each do |team| %}
   {{ render_team_idx( team, opts ) }}
 {% end %}
 {{ columns_end }}

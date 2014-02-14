@@ -4,7 +4,7 @@ title: Martinique (MTQ)
 permalink: /mq.html
 ---
 
-## Martinique (MTQ) - 1 Teams
+## Martinique (MTQ) - 0 Clubs
 {: #mq }
 
 

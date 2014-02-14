@@ -7,29 +7,18 @@ permalink: /book.html
 # The Free World Football Almanac
 
 
-Last Update:  2014-02-13 19:37:54 -0600
+Last Update:  2014-02-14 14:20:24 -0600
 
 
 Auto-built from the open public domain football data (`football.db`)
 hosted on GitHub. Contribute and help update the data; see `github.com/openfootball`.
 
 
-
-Stats:
-
-- 76 National Teams
-- 10 Clubs
-- 254 Games
-- 6 Leagues & Tournaments
-- 7 Events
-- 159 Stadiums
-
-
 Questions? Comments?
 
 Send them along to the Open Sports forum/mailing list @ `groups.google.com/group/opensport`.
 
-## Table of Contents
+## Contents
 
 [Leagues & Tournaments](#events) •
 [World Tour](#tour) •
@@ -272,7 +261,7 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 {: #az}
 
 
-[Teams A-Z Index](teams.html) _(245)_{: .count} <br>
+[Teams A-Z Index](teams.html) _(10)_{: .count} <br>
 
 
 
@@ -282,7 +271,23 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 8 Teams
 
 
- [Spain (ESP)](es.html#esp)   •  [Italy (ITA)](it.html#ita)   •  [Egypt (EGY)](eg.html#egy)   •  [South Africa (RSA)](za.html#rsa)   •  [United States (USA)](us.html#usa)   •  [Brazil (BRA)](br.html#bra)   •  [Iraq (IRQ)](iq.html#irq)   •  [New Zealand (NZL)](nz.html#nzl)  
+
+[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
+
+[Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
+
+[Egypt (EGY)](eg.html#egy)  (Egypt, Africa) <br>
+
+[South Africa (RSA)](za.html#rsa)  (South Africa, Africa) <br>
+
+[United States (USA)](us.html#usa)  (United States, North America) <br>
+
+[Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
+
+[Iraq (IRQ)](iq.html#irq)  (Iraq, Middle East) <br>
+
+[New Zealand (NZL)](nz.html#nzl)  (New Zealand, Pacific) <br>
+
 
 
 
@@ -290,8 +295,8 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group A •  Group B
 
-| Group A | -- |  | Spain  | South Africa  | Iraq  | New Zealand  |
-| Group B | -- |  | Italy  | Egypt  | United States  | Brazil  |
+| Group A -- |  | Spain  | South Africa  | Iraq  | New Zealand  |
+| Group B -- |  | Italy  | Egypt  | United States  | Brazil  |
 
  
 
@@ -302,30 +307,30 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Semi-finals •  Third-place play-off •  Final
 
 
-| **Matchday 1**  |
+|{: colspan='4'} **Matchday 1**  |
 | (Sun) 14/Jun 2009 12:00 | South Africa | 16 : 0 | Iraq | (Group A) |
 | (Sun) 14/Jun 2009 12:00 | New Zealand | 20 : 30 | Spain | (Group A) |
-| **Matchday 2**  |
+|{: colspan='4'} **Matchday 2**  |
 | (Mon) 15/Jun 2009 12:00 | Brazil | 16 : 0 | Egypt | (Group B) |
 | (Mon) 15/Jun 2009 12:00 | United States | 20 : 30 | Italy | (Group B) |
-| **Matchday 3**  |
+|{: colspan='4'} **Matchday 3**  |
 | (Wed) 17/Jun 2009 12:00 | Spain | 16 : 0 | Iraq | (Group A) |
 | (Wed) 17/Jun 2009 12:00 | South Africa | 20 : 30 | New Zealand | (Group A) |
-| **Matchday 4**  |
+|{: colspan='4'} **Matchday 4**  |
 | (Thu) 18/Jun 2009 12:00 | United States | 16 : 0 | Brazil | (Group B) |
 | (Thu) 18/Jun 2009 12:00 | Egypt | 20 : 30 | Italy | (Group B) |
-| **Matchday 5**  |
+|{: colspan='4'} **Matchday 5**  |
 | (Sat) 20/Jun 2009 12:00 | Iraq | 20 : 30 | New Zealand | (Group A) |
 | (Sat) 20/Jun 2009 12:00 | Spain | 20 : 30 | South Africa | (Group A) |
-| **Matchday 6**  |
+|{: colspan='4'} **Matchday 6**  |
 | (Sun) 21/Jun 2009 12:00 | Italy | 20 : 30 | Brazil | (Group B) |
 | (Sun) 21/Jun 2009 12:00 | Egypt | 20 : 30 | United States | (Group B) |
-| **Semi-finals**  |
+|{: colspan='4'} **Semi-finals**  |
 | (Wed) 24/Jun 2009 12:00 | Spain | 20 : 30 | United States |  |
 | (Thu) 25/Jun 2009 12:00 | Brazil | 20 : 30 | South Africa |  |
-| **Third-place play-off**  |
+|{: colspan='4'} **Third-place play-off**  |
 | (Sun) 28/Jun 2009 12:00 | Spain | 15 : 0 / 3 : 2 n.V. | South Africa |  |
-| **Final**  |
+|{: colspan='4'} **Final**  |
 | (Sun) 28/Jun 2009 12:00 | United States | 20 : 30 | Brazil |  |
 
 ### Confederations Cup 2013
@@ -334,7 +339,23 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 8 Teams
 
 
- [Spain (ESP)](es.html#esp)   •  [Italy (ITA)](it.html#ita)   •  [Nigeria (NGA)](ng.html#nga)   •  [Mexico (MEX)](mx.html#mex)   •  [Brazil (BRA)](br.html#bra)   •  [Uruguay (URU)](uy.html#uru)   •  [Japan (JPN)](jp.html#jpn)   •  [Tahiti (TAH)](pf.html#tah)  
+
+[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
+
+[Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
+
+[Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
+
+[Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
+
+[Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
+
+[Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
+
+[Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
+
+[Tahiti (TAH)](pf.html#tah)  (Tahiti, Pacific) <br>
+
 
 
 
@@ -342,8 +363,8 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group A •  Group B
 
-| Group A | -- |  | Italy  | Mexico  | Brazil  | Japan  |
-| Group B | -- |  | Spain  | Nigeria  | Uruguay  | Tahiti  |
+| Group A -- |  | Italy  | Mexico  | Brazil  | Japan  |
+| Group B -- |  | Spain  | Nigeria  | Uruguay  | Tahiti  |
 
  
 
@@ -354,27 +375,27 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Semi-finals •  Third place play-off •  Final
 
 
-| **Matchday 1**  |
+|{: colspan='4'} **Matchday 1**  |
 | (Sat) 15/Jun 2013 12:00 | Brazil | 16 : 0 | Japan | (Group A) |
 | (Sun) 16/Jun 2013 12:00 | Mexico | 16 : 0 | Italy | (Group A) |
 | (Sun) 16/Jun 2013 12:00 | Spain | 19 : 0 | Uruguay | (Group B) |
 | (Mon) 17/Jun 2013 12:00 | Tahiti | 16 : 0 | Nigeria | (Group B) |
-| **Matchday 2**  |
+|{: colspan='4'} **Matchday 2**  |
 | (Wed) 19/Jun 2013 12:00 | Brazil | 16 : 0 | Mexico | (Group A) |
 | (Wed) 19/Jun 2013 12:00 | Italy | 19 : 0 | Japan | (Group A) |
 | (Thu) 20/Jun 2013 12:00 | Spain | 16 : 0 | Tahiti | (Group B) |
 | (Thu) 20/Jun 2013 12:00 | Nigeria | 19 : 0 | Uruguay | (Group B) |
-| **Matchday 3**  |
+|{: colspan='4'} **Matchday 3**  |
 | (Sat) 22/Jun 2013 12:00 | Italy | 16 : 0 | Brazil | (Group A) |
 | (Sat) 22/Jun 2013 12:00 | Japan | 16 : 0 | Mexico | (Group A) |
 | (Sun) 23/Jun 2013 12:00 | Nigeria | 16 : 0 | Spain | (Group B) |
 | (Sun) 23/Jun 2013 12:00 | Uruguay | 16 : 0 | Tahiti | (Group B) |
-| **Semi-finals**  |
+|{: colspan='4'} **Semi-finals**  |
 | (Wed) 26/Jun 2013 12:00 | Brazil | 16 : 0 | Uruguay |  |
 | (Thu) 27/Jun 2013 12:00 | Spain | 16 : 0 / 0 : 0 n.V. / 7 : 6 i.E. | Italy |  |
-| **Third place play-off**  |
+|{: colspan='4'} **Third place play-off**  |
 | (Sun) 30/Jun 2013 12:00 | Uruguay | 13 : 0 / 2 : 2 n.V. / 2 : 3 i.E. | Italy |  |
-| **Final**  |
+|{: colspan='4'} **Final**  |
 | (Sun) 30/Jun 2013 12:00 | Brazil | 19 : 0 | Spain |  |
 
 ### World Cup 2010
@@ -383,7 +404,71 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 32 Teams
 
 
- [Greece (GRE)](gr.html#gre)   •  [Netherlands (NED)](nl.html#ned)   •  [Denmark (DEN)](dk.html#den)   •  [Germany (GER)](de.html#ger)   •  [Portugal (POR)](pt.html#por)   •  [Spain (ESP)](es.html#esp)   •  [Italy (ITA)](it.html#ita)   •  [France (FRA)](fr.html#fra)   •  [England (ENG)](en.html#eng)   •  [Switzerland (SUI)](ch.html#sui)   •  [Serbia (SRB)](rs.html#srb)   •  [Slovenia (SVN)](si.html#svn)   •  [Slovakia (SVK)](sk.html#svk)   •  [Algeria (ALG)](dz.html#alg)   •  [Côte d'Ivoire (CIV)](ci.html#civ)   •  [Ghana (GHA)](gh.html#gha)   •  [Cameroon (CMR)](cm.html#cmr)   •  [Nigeria (NGA)](ng.html#nga)   •  [South Africa (RSA)](za.html#rsa)   •  [Mexico (MEX)](mx.html#mex)   •  [United States (USA)](us.html#usa)   •  [Honduras (HON)](hn.html#hon)   •  [Argentina (ARG)](ar.html#arg)   •  [Brazil (BRA)](br.html#bra)   •  [Chile (CHI)](cl.html#chi)   •  [Paraguay (PAR)](py.html#par)   •  [Uruguay (URU)](uy.html#uru)   •  [Australia (AUS)](au.html#aus)   •  [Japan (JPN)](jp.html#jpn)   •  [North Korea (PRK)](kp.html#prk)   •  [South Korea (KOR)](kr.html#kor)   •  [New Zealand (NZL)](nz.html#nzl)  
+
+[Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
+
+[Netherlands (NED)](nl.html#ned)  (Netherlands, Europe) <br>
+
+[Denmark (DEN)](dk.html#den)  (Denmark, Europe) <br>
+
+[Germany (GER)](de.html#ger)  (Germany, Europe) <br>
+
+[Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
+
+[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
+
+[Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
+
+[France (FRA)](fr.html#fra)  (France, Europe) <br>
+
+[England (ENG)](en.html#eng)  (England, Europe) <br>
+
+[Switzerland (SUI)](ch.html#sui)  (Switzerland, Europe) <br>
+
+[Serbia (SRB)](rs.html#srb)  (Serbia, Europe) <br>
+
+[Slovenia (SVN)](si.html#svn)  (Slovenia, Europe) <br>
+
+[Slovakia (SVK)](sk.html#svk)  (Slovakia, Europe) <br>
+
+[Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
+
+[Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
+
+[Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
+
+[Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
+
+[Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
+
+[South Africa (RSA)](za.html#rsa)  (South Africa, Africa) <br>
+
+[Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
+
+[United States (USA)](us.html#usa)  (United States, North America) <br>
+
+[Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
+
+[Argentina (ARG)](ar.html#arg)  (Argentina, South America) <br>
+
+[Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
+
+[Chile (CHI)](cl.html#chi)  (Chile, South America) <br>
+
+[Paraguay (PAR)](py.html#par)  (Paraguay, South America) <br>
+
+[Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
+
+[Australia (AUS)](au.html#aus)  (Australia, Asia & Australia) <br>
+
+[Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
+
+[North Korea (PRK)](kp.html#prk)  (North Korea, Asia & Australia) <br>
+
+[South Korea (KOR)](kr.html#kor)  (South Korea, Asia & Australia) <br>
+
+[New Zealand (NZL)](nz.html#nzl)  (New Zealand, Pacific) <br>
+
 
 
 
@@ -391,14 +476,14 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group A •  Group B •  Group C •  Group D •  Group E •  Group F •  Group G •  Group H
 
-| Group A | -- |  | France  | South Africa  | Mexico  | Uruguay  |
-| Group B | -- |  | Greece  | Nigeria  | Argentina  | South Korea  |
-| Group C | -- |  | England  | Slovenia  | Algeria  | United States  |
-| Group D | -- |  | Germany  | Serbia  | Ghana  | Australia  |
-| Group E | -- |  | Netherlands  | Denmark  | Cameroon  | Japan  |
-| Group F | -- |  | Italy  | Slovakia  | Paraguay  | New Zealand  |
-| Group G | -- |  | Portugal  | Côte d'Ivoire  | Brazil  | North Korea  |
-| Group H | -- |  | Spain  | Switzerland  | Honduras  | Chile  |
+| Group A -- |  | France  | South Africa  | Mexico  | Uruguay  |
+| Group B -- |  | Greece  | Nigeria  | Argentina  | South Korea  |
+| Group C -- |  | England  | Slovenia  | Algeria  | United States  |
+| Group D -- |  | Germany  | Serbia  | Ghana  | Australia  |
+| Group E -- |  | Netherlands  | Denmark  | Cameroon  | Japan  |
+| Group F -- |  | Italy  | Slovakia  | Paraguay  | New Zealand  |
+| Group G -- |  | Portugal  | Côte d'Ivoire  | Brazil  | North Korea  |
+| Group H -- |  | Spain  | Switzerland  | Honduras  | Chile  |
 
  
 
@@ -409,70 +494,70 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 7 •  Matchday 8 •  Matchday 9 •  Matchday 10 •  Matchday 11 •  Matchday 12 •  Matchday 13 •  Matchday 14 •  Matchday 15 •  Round of 16 •  Quarterfinals •  Semifinals •  Third-place play-off •  Final
 
 
-| **Matchday 1**  |
+|{: colspan='4'} **Matchday 1**  |
 | (Fri) 11/Jun 2010 12:00 | South Africa | 16 : 0 | Mexico | (Group A) |
 | (Fri) 11/Jun 2010 12:00 | Uruguay | 20 : 30 | France | (Group A) |
-| **Matchday 2**  |
+|{: colspan='4'} **Matchday 2**  |
 | (Sat) 12/Jun 2010 12:00 | Argentina | 16 : 0 | Nigeria | (Group B) |
 | (Sat) 12/Jun 2010 12:00 | South Korea | 13 : 30 | Greece | (Group B) |
 | (Sat) 12/Jun 2010 12:00 | England | 20 : 30 | United States | (Group C) |
-| **Matchday 3**  |
+|{: colspan='4'} **Matchday 3**  |
 | (Sun) 13/Jun 2010 12:00 | Algeria | 13 : 30 | Slovenia | (Group C) |
 | (Sun) 13/Jun 2010 12:00 | Germany | 20 : 30 | Australia | (Group D) |
 | (Sun) 13/Jun 2010 12:00 | Serbia | 16 : 0 | Ghana | (Group D) |
-| **Matchday 4**  |
+|{: colspan='4'} **Matchday 4**  |
 | (Mon) 14/Jun 2010 12:00 | Netherlands | 13 : 30 | Denmark | (Group E) |
 | (Mon) 14/Jun 2010 12:00 | Japan | 16 : 0 | Cameroon | (Group E) |
 | (Mon) 14/Jun 2010 12:00 | Italy | 20 : 30 | Paraguay | (Group F) |
-| **Matchday 5**  |
+|{: colspan='4'} **Matchday 5**  |
 | (Tue) 15/Jun 2010 12:00 | New Zealand | 13 : 30 | Slovakia | (Group F) |
 | (Tue) 15/Jun 2010 12:00 | Côte d'Ivoire | 16 : 0 | Portugal | (Group G) |
 | (Tue) 15/Jun 2010 12:00 | Brazil | 20 : 30 | North Korea | (Group G) |
-| **Matchday 6**  |
+|{: colspan='4'} **Matchday 6**  |
 | (Wed) 16/Jun 2010 12:00 | Honduras | 13 : 30 | Chile | (Group H) |
 | (Wed) 16/Jun 2010 12:00 | Spain | 16 : 0 | Switzerland | (Group H) |
 | (Wed) 16/Jun 2010 12:00 | South Africa | 20 : 30 | Uruguay | (Group A) |
-| **Matchday 7**  |
+|{: colspan='4'} **Matchday 7**  |
 | (Thu) 17/Jun 2010 12:00 | France | 20 : 30 | Mexico | (Group A) |
 | (Thu) 17/Jun 2010 12:00 | Greece | 16 : 0 | Nigeria | (Group B) |
 | (Thu) 17/Jun 2010 12:00 | Argentina | 13 : 30 | South Korea | (Group B) |
-| **Matchday 8**  |
+|{: colspan='4'} **Matchday 8**  |
 | (Fri) 18/Jun 2010 12:00 | Germany | 13 : 30 | Serbia | (Group D) |
 | (Fri) 18/Jun 2010 12:00 | Slovenia | 16 : 0 | United States | (Group C) |
 | (Fri) 18/Jun 2010 12:00 | England | 20 : 30 | Algeria | (Group C) |
-| **Matchday 9**  |
+|{: colspan='4'} **Matchday 9**  |
 | (Sat) 19/Jun 2010 12:00 | Ghana | 16 : 0 | Australia | (Group D) |
 | (Sat) 19/Jun 2010 12:00 | Netherlands | 13 : 30 | Japan | (Group E) |
 | (Sat) 19/Jun 2010 12:00 | Cameroon | 20 : 30 | Denmark | (Group E) |
-| **Matchday 10**  |
+|{: colspan='4'} **Matchday 10**  |
 | (Sun) 20/Jun 2010 12:00 | Slovakia | 13 : 30 | Paraguay | (Group F) |
 | (Sun) 20/Jun 2010 12:00 | Italy | 16 : 0 | New Zealand | (Group F) |
 | (Sun) 20/Jun 2010 12:00 | Brazil | 20 : 30 | Côte d'Ivoire | (Group G) |
-| **Matchday 11**  |
+|{: colspan='4'} **Matchday 11**  |
 | (Mon) 21/Jun 2010 12:00 | Portugal | 13 : 30 | North Korea | (Group G) |
 | (Mon) 21/Jun 2010 12:00 | Chile | 16 : 0 | Switzerland | (Group H) |
 | (Mon) 21/Jun 2010 12:00 | Spain | 20 : 30 | Honduras | (Group H) |
-| **Matchday 12**  |
+|{: colspan='4'} **Matchday 12**  |
 | (Tue) 22/Jun 2010 12:00 | Mexico | 16 : 0 | Uruguay | (Group A) |
 | (Tue) 22/Jun 2010 12:00 | France | 16 : 0 | South Africa | (Group A) |
 | (Tue) 22/Jun 2010 12:00 | Nigeria | 20 : 30 | South Korea | (Group B) |
 | (Tue) 22/Jun 2010 12:00 | Greece | 20 : 30 | Argentina | (Group B) |
-| **Matchday 13**  |
+|{: colspan='4'} **Matchday 13**  |
 | (Wed) 23/Jun 2010 12:00 | Slovenia | 16 : 0 | England | (Group C) |
 | (Wed) 23/Jun 2010 12:00 | United States | 16 : 0 | Algeria | (Group C) |
 | (Wed) 23/Jun 2010 12:00 | Ghana | 20 : 30 | Germany | (Group D) |
 | (Wed) 23/Jun 2010 12:00 | Australia | 20 : 30 | Serbia | (Group D) |
-| **Matchday 14**  |
+|{: colspan='4'} **Matchday 14**  |
 | (Thu) 24/Jun 2010 12:00 | Slovakia | 16 : 0 | Italy | (Group F) |
 | (Thu) 24/Jun 2010 12:00 | Paraguay | 16 : 0 | New Zealand | (Group F) |
 | (Thu) 24/Jun 2010 12:00 | Denmark | 20 : 30 | Japan | (Group E) |
 | (Thu) 24/Jun 2010 12:00 | Cameroon | 20 : 30 | Netherlands | (Group E) |
-| **Matchday 15**  |
+|{: colspan='4'} **Matchday 15**  |
 | (Fri) 25/Jun 2010 12:00 | Portugal | 16 : 0 | Brazil | (Group G) |
 | (Fri) 25/Jun 2010 12:00 | North Korea | 16 : 0 | Côte d'Ivoire | (Group G) |
 | (Fri) 25/Jun 2010 12:00 | Chile | 20 : 30 | Spain | (Group H) |
 | (Fri) 25/Jun 2010 12:00 | Switzerland | 20 : 30 | Honduras | (Group H) |
-| **Round of 16**  |
+|{: colspan='4'} **Round of 16**  |
 | (Sat) 26/Jun 2010 12:00 | Uruguay | 16 : 0 | South Korea |  |
 | (Sat) 26/Jun 2010 12:00 | United States | 20 : 30 / 1 : 2 n.V. | Ghana |  |
 | (Sun) 27/Jun 2010 12:00 | Germany | 16 : 0 | England |  |
@@ -481,17 +566,17 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 | (Mon) 28/Jun 2010 12:00 | Brazil | 20 : 30 | Chile |  |
 | (Tue) 29/Jun 2010 12:00 | Paraguay | 16 : 0 / 0 : 0 n.V. / 5 : 3 i.E. | Japan |  |
 | (Tue) 29/Jun 2010 12:00 | Spain | 20 : 30 | Portugal |  |
-| **Quarterfinals**  |
+|{: colspan='4'} **Quarterfinals**  |
 | (Fri) 2/Jul 2010 12:00 | Netherlands | 16 : 0 | Brazil |  |
 | (Fri) 2/Jul 2010 12:00 | Uruguay | 20 : 30 / 1 : 1 n.V. / 4 : 2 i.E. | Ghana |  |
 | (Sat) 3/Jul 2010 12:00 | Argentina | 16 : 0 | Germany |  |
 | (Sat) 3/Jul 2010 12:00 | Paraguay | 20 : 30 | Spain |  |
-| **Semifinals**  |
+|{: colspan='4'} **Semifinals**  |
 | (Tue) 6/Jul 2010 12:00 | Uruguay | 20 : 30 | Netherlands |  |
 | (Wed) 7/Jul 2010 12:00 | Germany | 20 : 30 | Spain |  |
-| **Third-place play-off**  |
+|{: colspan='4'} **Third-place play-off**  |
 | (Sat) 10/Jul 2010 12:00 | Uruguay | 20 : 30 | Germany |  |
-| **Final**  |
+|{: colspan='4'} **Final**  |
 | (Sun) 11/Jul 2010 12:00 | Netherlands | 20 : 30 / 0 : 1 n.V. | Spain |  |
 
 ### World Cup 2014
@@ -500,7 +585,71 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 32 Teams
 
 
- [Greece (GRE)](gr.html#gre)   •  [Russia (RUS)](ru.html#rus)   •  [Netherlands (NED)](nl.html#ned)   •  [Germany (GER)](de.html#ger)   •  [Portugal (POR)](pt.html#por)   •  [Spain (ESP)](es.html#esp)   •  [Italy (ITA)](it.html#ita)   •  [Croatia (CRO)](hr.html#cro)   •  [France (FRA)](fr.html#fra)   •  [England (ENG)](en.html#eng)   •  [Switzerland (SUI)](ch.html#sui)   •  [Belgium (BEL)](be.html#bel)   •  [Bosnia-Herzegovina (BIH)](ba.html#bih)   •  [Algeria (ALG)](dz.html#alg)   •  [Côte d'Ivoire (CIV)](ci.html#civ)   •  [Ghana (GHA)](gh.html#gha)   •  [Cameroon (CMR)](cm.html#cmr)   •  [Nigeria (NGA)](ng.html#nga)   •  [Mexico (MEX)](mx.html#mex)   •  [United States (USA)](us.html#usa)   •  [Honduras (HON)](hn.html#hon)   •  [Costa Rica (CRC)](cr.html#crc)   •  [Argentina (ARG)](ar.html#arg)   •  [Brazil (BRA)](br.html#bra)   •  [Chile (CHI)](cl.html#chi)   •  [Uruguay (URU)](uy.html#uru)   •  [Colombia (COL)](co.html#col)   •  [Ecuador (ECU)](ec.html#ecu)   •  [Australia (AUS)](au.html#aus)   •  [Japan (JPN)](jp.html#jpn)   •  [South Korea (KOR)](kr.html#kor)   •  [Iran (IRN)](ir.html#irn)  
+
+[Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
+
+[Russia (RUS)](ru.html#rus)  (Russia, Europe) <br>
+
+[Netherlands (NED)](nl.html#ned)  (Netherlands, Europe) <br>
+
+[Germany (GER)](de.html#ger)  (Germany, Europe) <br>
+
+[Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
+
+[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
+
+[Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
+
+[Croatia (CRO)](hr.html#cro)  (Croatia, Europe) <br>
+
+[France (FRA)](fr.html#fra)  (France, Europe) <br>
+
+[England (ENG)](en.html#eng)  (England, Europe) <br>
+
+[Switzerland (SUI)](ch.html#sui)  (Switzerland, Europe) <br>
+
+[Belgium (BEL)](be.html#bel)  (Belgium, Europe) <br>
+
+[Bosnia-Herzegovina (BIH)](ba.html#bih)  (Bosnia and Herzegovina, Europe) <br>
+
+[Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
+
+[Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
+
+[Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
+
+[Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
+
+[Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
+
+[Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
+
+[United States (USA)](us.html#usa)  (United States, North America) <br>
+
+[Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
+
+[Costa Rica (CRC)](cr.html#crc)  (Costa Rica, Central America) <br>
+
+[Argentina (ARG)](ar.html#arg)  (Argentina, South America) <br>
+
+[Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
+
+[Chile (CHI)](cl.html#chi)  (Chile, South America) <br>
+
+[Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
+
+[Colombia (COL)](co.html#col)  (Colombia, South America) <br>
+
+[Ecuador (ECU)](ec.html#ecu)  (Ecuador, South America) <br>
+
+[Australia (AUS)](au.html#aus)  (Australia, Asia & Australia) <br>
+
+[Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
+
+[South Korea (KOR)](kr.html#kor)  (South Korea, Asia & Australia) <br>
+
+[Iran (IRN)](ir.html#irn)  (Iran, Middle East) <br>
+
 
 
 
@@ -508,14 +657,14 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group A •  Group B •  Group C •  Group D •  Group E •  Group F •  Group G •  Group H
 
-| Group A | -- |  | Croatia  | Cameroon  | Mexico  | Brazil  |
-| Group B | -- |  | Netherlands  | Spain  | Chile  | Australia  |
-| Group C | -- |  | Greece  | Côte d'Ivoire  | Colombia  | Japan  |
-| Group D | -- |  | Italy  | England  | Costa Rica  | Uruguay  |
-| Group E | -- |  | France  | Switzerland  | Honduras  | Ecuador  |
-| Group F | -- |  | Bosnia-Herzegovina  | Nigeria  | Argentina  | Iran  |
-| Group G | -- |  | Germany  | Portugal  | Ghana  | United States  |
-| Group H | -- |  | Russia  | Belgium  | Algeria  | South Korea  |
+| Group A -- |  | Croatia  | Cameroon  | Mexico  | Brazil  |
+| Group B -- |  | Netherlands  | Spain  | Chile  | Australia  |
+| Group C -- |  | Greece  | Côte d'Ivoire  | Colombia  | Japan  |
+| Group D -- |  | Italy  | England  | Costa Rica  | Uruguay  |
+| Group E -- |  | France  | Switzerland  | Honduras  | Ecuador  |
+| Group F -- |  | Bosnia-Herzegovina  | Nigeria  | Argentina  | Iran  |
+| Group G -- |  | Germany  | Portugal  | Ghana  | United States  |
+| Group H -- |  | Russia  | Belgium  | Algeria  | South Korea  |
 
  
 
@@ -526,74 +675,74 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 7 •  Matchday 8 •  Matchday 9 •  Matchday 10 •  Matchday 11 •  Matchday 12 •  Matchday 13 •  Matchday 14 •  Matchday 15 •  Round of 16 •  Quarter-finals •  Semi-finals •  Round 19  -  Match for third place •  Final
 
 
-| **Matchday 1**  |
+|{: colspan='4'} **Matchday 1**  |
 | (Thu) 12/Jun 2014 12:00 | Brazil | - : - | Croatia | (Group A) |
-| **Matchday 2**  |
+|{: colspan='4'} **Matchday 2**  |
 | (Fri) 13/Jun 2014 12:00 | Mexico | - : - | Cameroon | (Group A) |
 | (Fri) 13/Jun 2014 12:00 | Spain | - : - | Netherlands | (Group B) |
 | (Fri) 13/Jun 2014 12:00 | Chile | - : - | Australia | (Group B) |
-| **Matchday 3**  |
+|{: colspan='4'} **Matchday 3**  |
 | (Sat) 14/Jun 2014 12:00 | Colombia | - : - | Greece | (Group C) |
 | (Sat) 14/Jun 2014 12:00 | Côte d'Ivoire | - : - | Japan | (Group C) |
 | (Sat) 14/Jun 2014 12:00 | Uruguay | - : - | Costa Rica | (Group D) |
 | (Sat) 14/Jun 2014 12:00 | England | - : - | Italy | (Group D) |
-| **Matchday 4**  |
+|{: colspan='4'} **Matchday 4**  |
 | (Sun) 15/Jun 2014 12:00 | Switzerland | - : - | Ecuador | (Group E) |
 | (Sun) 15/Jun 2014 12:00 | France | - : - | Honduras | (Group E) |
 | (Sun) 15/Jun 2014 12:00 | Argentina | - : - | Bosnia-Herzegovina | (Group F) |
-| **Matchday 5**  |
+|{: colspan='4'} **Matchday 5**  |
 | (Mon) 16/Jun 2014 12:00 | Iran | - : - | Nigeria | (Group F) |
 | (Mon) 16/Jun 2014 12:00 | Germany | - : - | Portugal | (Group G) |
 | (Mon) 16/Jun 2014 12:00 | Ghana | - : - | United States | (Group G) |
-| **Matchday 6**  |
+|{: colspan='4'} **Matchday 6**  |
 | (Tue) 17/Jun 2014 12:00 | Belgium | - : - | Algeria | (Group H) |
 | (Tue) 17/Jun 2014 12:00 | Russia | - : - | South Korea | (Group H) |
 | (Tue) 17/Jun 2014 12:00 | Brazil | - : - | Mexico | (Group A) |
-| **Matchday 7**  |
+|{: colspan='4'} **Matchday 7**  |
 | (Wed) 18/Jun 2014 12:00 | Cameroon | - : - | Croatia | (Group A) |
 | (Wed) 18/Jun 2014 12:00 | Spain | - : - | Chile | (Group B) |
 | (Wed) 18/Jun 2014 12:00 | Australia | - : - | Netherlands | (Group B) |
-| **Matchday 8**  |
+|{: colspan='4'} **Matchday 8**  |
 | (Thu) 19/Jun 2014 12:00 | Colombia | - : - | Côte d'Ivoire | (Group C) |
 | (Thu) 19/Jun 2014 12:00 | Japan | - : - | Greece | (Group C) |
 | (Thu) 19/Jun 2014 12:00 | Uruguay | - : - | England | (Group D) |
-| **Matchday 9**  |
+|{: colspan='4'} **Matchday 9**  |
 | (Fri) 20/Jun 2014 12:00 | Italy | - : - | Costa Rica | (Group D) |
 | (Fri) 20/Jun 2014 12:00 | Switzerland | - : - | France | (Group E) |
 | (Fri) 20/Jun 2014 12:00 | Honduras | - : - | Ecuador | (Group E) |
-| **Matchday 10**  |
+|{: colspan='4'} **Matchday 10**  |
 | (Sat) 21/Jun 2014 12:00 | Argentina | - : - | Iran | (Group F) |
 | (Sat) 21/Jun 2014 12:00 | Nigeria | - : - | Bosnia-Herzegovina | (Group F) |
 | (Sat) 21/Jun 2014 12:00 | Germany | - : - | Ghana | (Group G) |
-| **Matchday 11**  |
+|{: colspan='4'} **Matchday 11**  |
 | (Sun) 22/Jun 2014 12:00 | United States | - : - | Portugal | (Group G) |
 | (Sun) 22/Jun 2014 12:00 | Belgium | - : - | Russia | (Group H) |
 | (Sun) 22/Jun 2014 12:00 | South Korea | - : - | Algeria | (Group H) |
-| **Matchday 12**  |
+|{: colspan='4'} **Matchday 12**  |
 | (Mon) 23/Jun 2014 12:00 | Cameroon | - : - | Brazil | (Group A) |
 | (Mon) 23/Jun 2014 12:00 | Croatia | - : - | Mexico | (Group A) |
 | (Mon) 23/Jun 2014 12:00 | Australia | - : - | Spain | (Group B) |
 | (Mon) 23/Jun 2014 12:00 | Netherlands | - : - | Chile | (Group B) |
-| **Matchday 13**  |
+|{: colspan='4'} **Matchday 13**  |
 | (Tue) 24/Jun 2014 12:00 | Japan | - : - | Colombia | (Group C) |
 | (Tue) 24/Jun 2014 12:00 | Côte d'Ivoire | - : - | Greece | (Group C) |
 | (Tue) 24/Jun 2014 12:00 | Italy | - : - | Uruguay | (Group D) |
 | (Tue) 24/Jun 2014 12:00 | Costa Rica | - : - | England | (Group D) |
-| **Matchday 14**  |
+|{: colspan='4'} **Matchday 14**  |
 | (Wed) 25/Jun 2014 12:00 | Honduras | - : - | Switzerland | (Group E) |
 | (Wed) 25/Jun 2014 12:00 | Ecuador | - : - | France | (Group E) |
 | (Wed) 25/Jun 2014 12:00 | Nigeria | - : - | Argentina | (Group F) |
 | (Wed) 25/Jun 2014 12:00 | Bosnia-Herzegovina | - : - | Iran | (Group F) |
-| **Matchday 15**  |
+|{: colspan='4'} **Matchday 15**  |
 | (Thu) 26/Jun 2014 12:00 | United States | - : - | Germany | (Group G) |
 | (Thu) 26/Jun 2014 12:00 | Portugal | - : - | Ghana | (Group G) |
 | (Thu) 26/Jun 2014 12:00 | South Korea | - : - | Belgium | (Group H) |
 | (Thu) 26/Jun 2014 12:00 | Algeria | - : - | Russia | (Group H) |
-| **Round of 16**  |
-| **Quarter-finals**  |
-| **Semi-finals**  |
-| **Round 19  -  Match for third place**  |
-| **Final**  |
+|{: colspan='4'} **Round of 16**  |
+|{: colspan='4'} **Quarter-finals**  |
+|{: colspan='4'} **Semi-finals**  |
+|{: colspan='4'} **Round 19  -  Match for third place**  |
+|{: colspan='4'} **Final**  |
 
 ### World Cup Quali Europe 2014
 
@@ -601,7 +750,41 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 17 Teams
 
 
- [Greece (GRE)](gr.html#gre)   •  [Germany (GER)](de.html#ger)   •  [Portugal (POR)](pt.html#por)   •  [Spain (ESP)](es.html#esp)   •  [Irland (IRL)](ie.html#irl)   •  [Croatia (CRO)](hr.html#cro)   •  [Ukraine (UKR)](ua.html#ukr)   •  [Sweden (SWE)](se.html#swe)   •  [France (FRA)](fr.html#fra)   •  [Faroe Islands (FRO)](fo.html#fro)   •  [Kazakhstan (KAZ)](kz.html#kaz)   •  [Austria (AUT)](at.html#aut)   •  [Belarus (BLR)](by.html#blr)   •  [Finland (FIN)](fi.html#fin)   •  [Georgia (GEO)](ge.html#geo)   •  [Romania (ROU)](ro.html#rou)   •  [Iceland (ISL)](is.html#isl)  
+
+[Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
+
+[Germany (GER)](de.html#ger)  (Germany, Europe) <br>
+
+[Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
+
+[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
+
+[Irland (IRL)](ie.html#irl)  (Irland, Europe) <br>
+
+[Croatia (CRO)](hr.html#cro)  (Croatia, Europe) <br>
+
+[Ukraine (UKR)](ua.html#ukr)  (Ukraine, Europe) <br>
+
+[Sweden (SWE)](se.html#swe)  (Sweden, Europe) <br>
+
+[France (FRA)](fr.html#fra)  (France, Europe) <br>
+
+[Faroe Islands (FRO)](fo.html#fro)  (Faroe Islands, Europe) <br>
+
+[Kazakhstan (KAZ)](kz.html#kaz)  (Kazakhstan, Europe) <br>
+
+[Austria (AUT)](at.html#aut)  (Austria, Europe) <br>
+
+[Belarus (BLR)](by.html#blr)  (Belarus, Europe) <br>
+
+[Finland (FIN)](fi.html#fin)  (Finland, Europe) <br>
+
+[Georgia (GEO)](ge.html#geo)  (Georgia, Europe) <br>
+
+[Romania (ROU)](ro.html#rou)  (Romania, Europe) <br>
+
+[Iceland (ISL)](is.html#isl)  (Iceland, Europe) <br>
+
 
 
 
@@ -609,8 +792,8 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group C •  Group I
 
-| Group C | -- |  | Germany  | Irland  | Sweden  | Faroe Islands  | Kazakhstan  | Austria  |
-| Group I | -- |  | Spain  | France  | Belarus  | Finland  | Georgia  |
+| Group C -- |  | Germany  | Irland  | Sweden  | Faroe Islands  | Kazakhstan  | Austria  |
+| Group I -- |  | Spain  | France  | Belarus  | Finland  | Georgia  |
 
  
 
@@ -621,74 +804,74 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 7 •  Matchday 8 •  Matchday 9 •  Matchday 10 •  Matchday 11 •  Matchday 12 •  Round 13  -  Play-off 1st Leg •  Round 14  -  Play-off 2nd Leg  (Knockout)
 
 
-| **Matchday 1** / Fr. 7. Sep 2012 |
+|{: colspan='4'} **Matchday 1** / Fr. 7. Sep 2012 |
 | (Fri) 7/Sep 2012 15:00 | Germany | 3 : 0 | Faroe Islands | (Group C) |
 | (Fri) 7/Sep 2012 15:00 | Georgia | 1 : 0 | Belarus | (Group I) |
 | (Fri) 7/Sep 2012 15:00 | Kazakhstan | 1 : 2 | Irland | (Group C) |
 | (Fri) 7/Sep 2012 15:00 | Finland | 0 : 1 | France | (Group I) |
-| **Matchday 2** / Di. 11. Sep 2012 |
+|{: colspan='4'} **Matchday 2** / Di. 11. Sep 2012 |
 | (Tue) 11/Sep 2012 15:00 | Austria | 1 : 2 | Germany | (Group C) |
 | (Tue) 11/Sep 2012 15:00 | Georgia | 0 : 1 | Spain | (Group I) |
 | (Tue) 11/Sep 2012 15:00 | Sweden | 2 : 0 | Kazakhstan | (Group C) |
 | (Tue) 11/Sep 2012 15:00 | France | 3 : 1 | Belarus | (Group I) |
-| **Matchday 3** / Fr. 12. Okt 2012 |
+|{: colspan='4'} **Matchday 3** / Fr. 12. Okt 2012 |
 | (Fri) 12/Oct 2012 20:45 | Irland | 1 : 6 | Germany | (Group C) |
 | (Fri) 12/Oct 2012 17:30 | Finland | 1 : 1 | Georgia | (Group I) |
 | (Fri) 12/Oct 2012 18:00 | Faroe Islands | 1 : 2 | Sweden | (Group C) |
 | (Fri) 12/Oct 2012 20:00 | Belarus | 0 : 4 | Spain | (Group I) |
 | (Fri) 12/Oct 2012 18:00 | Kazakhstan | 0 : 0 | Austria | (Group C) |
-| **Matchday 4** / Di. 16. Okt 2012 |
+|{: colspan='4'} **Matchday 4** / Di. 16. Okt 2012 |
 | (Tue) 16/Oct 2012 21:00 | Spain | 1 : 1 | France | (Group I) |
 | (Tue) 16/Oct 2012 20:45 | Germany | 4 : 4 | Sweden | (Group C) |
 | (Tue) 16/Oct 2012 18:00 | Belarus | 2 : 0 | Georgia | (Group I) |
 | (Tue) 16/Oct 2012 20:00 | Faroe Islands | 1 : 4 | Irland | (Group C) |
 | (Tue) 16/Oct 2012 20:30 | Austria | 4 : 0 | Kazakhstan | (Group C) |
-| **Matchday 5** / Fr. 22. Mär 2013 |
+|{: colspan='4'} **Matchday 5** / Fr. 22. Mär 2013 |
 | (Fri) 22/Mar 2013 15:00 | France | 3 : 1 | Georgia | (Group I) |
 | (Fri) 22/Mar 2013 15:00 | Spain | 1 : 1 | Finland | (Group I) |
 | (Fri) 22/Mar 2013 15:00 | Kazakhstan | 0 : 3 | Germany | (Group C) |
 | (Fri) 22/Mar 2013 15:00 | Austria | 6 : 0 | Faroe Islands | (Group C) |
 | (Fri) 22/Mar 2013 15:00 | Sweden | 0 : 0 | Irland | (Group C) |
-| **Matchday 6** / Di. 26. Mär 2013 |
+|{: colspan='4'} **Matchday 6** / Di. 26. Mär 2013 |
 | (Tue) 26/Mar 2013 15:00 | France | 0 : 1 | Spain | (Group I) |
 | (Tue) 26/Mar 2013 15:00 | Germany | 4 : 1 | Kazakhstan | (Group C) |
 | (Tue) 26/Mar 2013 15:00 | Irland | 2 : 2 | Austria | (Group C) |
-| **Matchday 7** / Fr. 7. Jun 2013 |
+|{: colspan='4'} **Matchday 7** / Fr. 7. Jun 2013 |
 | (Fri) 7/Jun 2013 15:00 | Finland | 1 : 0 | Belarus | (Group I) |
 | (Fri) 7/Jun 2013 15:00 | Irland | 3 : 0 | Faroe Islands | (Group C) |
 | (Fri) 7/Jun 2013 15:00 | Austria | 2 : 1 | Sweden | (Group C) |
-| **Matchday 8** / Di. 11. Jun 2013 |
+|{: colspan='4'} **Matchday 8** / Di. 11. Jun 2013 |
 | (Tue) 11/Jun 2013 15:00 | Belarus | 1 : 1 | Finland | (Group I) |
 | (Tue) 11/Jun 2013 15:00 | Sweden | 2 : 0 | Faroe Islands | (Group C) |
-| **Matchday 9** / Fr. 6. Sep 2013 |
+|{: colspan='4'} **Matchday 9** / Fr. 6. Sep 2013 |
 | (Fri) 6/Sep 2013 15:00 | Georgia | 0 : 0 | France | (Group I) |
 | (Fri) 6/Sep 2013 15:00 | Finland | 0 : 2 | Spain | (Group I) |
 | (Fri) 6/Sep 2013 15:00 | Germany | 3 : 0 | Austria | (Group C) |
 | (Fri) 6/Sep 2013 15:00 | Kazakhstan | 2 : 1 | Faroe Islands | (Group C) |
 | (Fri) 6/Sep 2013 15:00 | Irland | 1 : 2 | Sweden | (Group C) |
-| **Matchday 10** / Di. 10. Sep 2013 |
+|{: colspan='4'} **Matchday 10** / Di. 10. Sep 2013 |
 | (Tue) 10/Sep 2013 15:00 | Belarus | 2 : 4 | France | (Group I) |
 | (Tue) 10/Sep 2013 15:00 | Georgia | 0 : 1 | Finland | (Group I) |
 | (Tue) 10/Sep 2013 15:00 | Faroe Islands | 0 : 3 | Germany | (Group C) |
 | (Tue) 10/Sep 2013 15:00 | Austria | 1 : 0 | Irland | (Group C) |
 | (Tue) 10/Sep 2013 15:00 | Kazakhstan | 0 : 1 | Sweden | (Group C) |
-| **Matchday 11** / Fr. 11. Okt 2013 |
+|{: colspan='4'} **Matchday 11** / Fr. 11. Okt 2013 |
 | (Fri) 11/Oct 2013 15:00 | Spain | 2 : 1 | Belarus | (Group I) |
 | (Fri) 11/Oct 2013 15:00 | Germany | 3 : 0 | Irland | (Group C) |
 | (Fri) 11/Oct 2013 15:00 | Faroe Islands | 1 : 1 | Kazakhstan | (Group C) |
 | (Fri) 11/Oct 2013 15:00 | Sweden | 2 : 1 | Austria | (Group C) |
-| **Matchday 12** / Di. 15. Okt 2013 |
+|{: colspan='4'} **Matchday 12** / Di. 15. Okt 2013 |
 | (Tue) 15/Oct 2013 15:00 | France | 3 : 0 | Finland | (Group I) |
 | (Tue) 15/Oct 2013 15:00 | Spain | 2 : 0 | Georgia | (Group I) |
 | (Tue) 15/Oct 2013 15:00 | Sweden | 3 : 5 | Germany | (Group C) |
 | (Tue) 15/Oct 2013 15:00 | Faroe Islands | 0 : 3 | Austria | (Group C) |
 | (Tue) 15/Oct 2013 15:00 | Irland | 3 : 1 | Kazakhstan | (Group C) |
-| **Round 13  -  Play-off 1st Leg** / Fr Nov 15, 2013 |
+|{: colspan='4'} **Round 13  -  Play-off 1st Leg** / Fr Nov 15, 2013 |
 | (Fri) 15/Nov 2013 19:45 | Portugal | 1 : 0 | Sweden |  |
 | (Fri) 15/Nov 2013 21:45 | Ukraine | 2 : 0 | France |  |
 | (Fri) 15/Nov 2013 21:45 | Greece | 3 : 1 | Romania |  |
 | (Fri) 15/Nov 2013 19:00 | Iceland | 0 : 0 | Croatia |  |
-| **Round 14  -  Play-off 2nd Leg  (Knockout)** / Tu Nov 19, 2013 |
+|{: colspan='4'} **Round 14  -  Play-off 2nd Leg  (Knockout)** / Tu Nov 19, 2013 |
 | (Tue) 19/Nov 2013 20:45 | Sweden | 2 : 3 | Portugal |  |
 | (Tue) 19/Nov 2013 21:00 | France | 3 : 0 | Ukraine |  |
 | (Tue) 19/Nov 2013 21:00 | Romania | 1 : 1 | Greece |  |
@@ -700,7 +883,23 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 8 Teams
 
 
- [Mexico (MEX)](mx.html#mex)   •  [United States (USA)](us.html#usa)   •  [Honduras (HON)](hn.html#hon)   •  [Costa Rica (CRC)](cr.html#crc)   •  [El Salvador (SLV)](sv.html#slv)   •  [Panama (PAN)](pa.html#pan)   •  [Jamaica (JAM)](jm.html#jam)   •  [Guyana (GUY)](gy.html#guy)  
+
+[Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
+
+[United States (USA)](us.html#usa)  (United States, North America) <br>
+
+[Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
+
+[Costa Rica (CRC)](cr.html#crc)  (Costa Rica, Central America) <br>
+
+[El Salvador (SLV)](sv.html#slv)  (El Salvador, Central America) <br>
+
+[Panama (PAN)](pa.html#pan)  (Panamá [Panama], Central America) <br>
+
+[Jamaica (JAM)](jm.html#jam)  (Jamaica, Caribbean) <br>
+
+[Guyana (GUY)](gy.html#guy)  (Guyana, Caribbean) <br>
+
 
 
 
@@ -708,8 +907,8 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
  Group 2 •  Group HEX
 
-| Group 2 | -- |  | Mexico  | Costa Rica  | El Salvador  | Guyana  |
-| Group HEX | -- |  | Mexico  | United States  | Honduras  | Costa Rica  | Panama  | Jamaica  |
+| Group 2 -- |  | Mexico  | Costa Rica  | El Salvador  | Guyana  |
+| Group HEX -- |  | Mexico  | United States  | Honduras  | Costa Rica  | Panama  | Jamaica  |
 
  
 
@@ -720,62 +919,62 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 7 •  Matchday 8 •  Matchday 9 •  Matchday 10 •  Matchday 11
 
 
-| **Matchday 1**  |
+|{: colspan='4'} **Matchday 1**  |
 | (Sat) 9/Jun 2012 12:00 | Mexico | 3 : 1 | Guyana | (Group 2) |
 | (Sat) 9/Jun 2012 12:00 | Costa Rica | 2 : 2 | El Salvador | (Group 2) |
-| **Matchday 2**  |
+|{: colspan='4'} **Matchday 2**  |
 | (Wed) 13/Jun 2012 12:00 | Guyana | 0 : 4 | Costa Rica | (Group 2) |
 | (Wed) 13/Jun 2012 12:00 | El Salvador | 1 : 2 | Mexico | (Group 2) |
-| **Matchday 3**  |
+|{: colspan='4'} **Matchday 3**  |
 | (Sat) 8/Sep 2012 12:00 | El Salvador | 2 : 2 | Guyana | (Group 2) |
 | (Sat) 8/Sep 2012 12:00 | Costa Rica | 0 : 2 | Mexico | (Group 2) |
-| **Matchday 4**  |
+|{: colspan='4'} **Matchday 4**  |
 | (Wed) 12/Sep 2012 12:00 | Guyana | 2 : 3 | El Salvador | (Group 2) |
 | (Wed) 12/Sep 2012 12:00 | Mexico | 1 : 0 | Costa Rica | (Group 2) |
-| **Matchday 5**  |
+|{: colspan='4'} **Matchday 5**  |
 | (Sat) 13/Oct 2012 12:00 | Guyana | 0 : 5 | Mexico | (Group 2) |
 | (Sat) 13/Oct 2012 12:00 | El Salvador | 0 : 1 | Costa Rica | (Group 2) |
-| **Matchday 6**  |
+|{: colspan='4'} **Matchday 6**  |
 | (Wed) 17/Oct 2012 12:00 | Mexico | 2 : 0 | El Salvador | (Group 2) |
 | (Wed) 17/Oct 2012 12:00 | Costa Rica | 7 : 0 | Guyana | (Group 2) |
-| **Matchday 1**  |
+|{: colspan='4'} **Matchday 1**  |
 | (Wed) 6/Feb 2013 15:00 | Honduras | 2 : 1 | United States | (Group HEX) |
 | (Wed) 6/Feb 2013 20:30 | Mexico | 0 : 0 | Jamaica | (Group HEX) |
 | (Wed) 6/Feb 2013 21:00 | Panama | 2 : 2 | Costa Rica | (Group HEX) |
-| **Matchday 2**  |
+|{: colspan='4'} **Matchday 2**  |
 | (Fri) 22/Mar 2013 12:00 | Honduras | 2 : 2 | Mexico | (Group HEX) |
 | (Fri) 22/Mar 2013 12:00 | Jamaica | 1 : 1 | Panama | (Group HEX) |
 | (Fri) 22/Mar 2013 12:00 | United States | 1 : 0 | Costa Rica | (Group HEX) |
-| **Matchday 3**  |
+|{: colspan='4'} **Matchday 3**  |
 | (Tue) 26/Mar 2013 12:00 | Costa Rica | 2 : 0 | Jamaica | (Group HEX) |
 | (Tue) 26/Mar 2013 12:00 | Mexico | 0 : 0 | United States | (Group HEX) |
 | (Tue) 26/Mar 2013 12:00 | Panama | 2 : 0 | Honduras | (Group HEX) |
-| **Matchday 4**  |
+|{: colspan='4'} **Matchday 4**  |
 | (Tue) 4/Jun 2013 12:00 | Jamaica | 0 : 1 | Mexico | (Group HEX) |
-| **Matchday 5**  |
+|{: colspan='4'} **Matchday 5**  |
 | (Fri) 7/Jun 2013 12:00 | Panama | 0 : 0 | Mexico | (Group HEX) |
 | (Fri) 7/Jun 2013 12:00 | Jamaica | 1 : 2 | United States | (Group HEX) |
 | (Fri) 7/Jun 2013 12:00 | Costa Rica | 1 : 0 | Honduras | (Group HEX) |
-| **Matchday 6**  |
+|{: colspan='4'} **Matchday 6**  |
 | (Tue) 11/Jun 2013 12:00 | Mexico | 0 : 0 | Costa Rica | (Group HEX) |
 | (Tue) 11/Jun 2013 12:00 | United States | 2 : 0 | Panama | (Group HEX) |
 | (Tue) 11/Jun 2013 12:00 | Honduras | 2 : 0 | Jamaica | (Group HEX) |
-| **Matchday 7**  |
+|{: colspan='4'} **Matchday 7**  |
 | (Tue) 18/Jun 2013 12:00 | United States | 1 : 0 | Honduras | (Group HEX) |
 | (Tue) 18/Jun 2013 12:00 | Costa Rica | 2 : 0 | Panama | (Group HEX) |
-| **Matchday 8**  |
+|{: colspan='4'} **Matchday 8**  |
 | (Fri) 6/Sep 2013 12:00 | Mexico | 1 : 2 | Honduras | (Group HEX) |
 | (Fri) 6/Sep 2013 12:00 | Panama | 0 : 0 | Jamaica | (Group HEX) |
 | (Fri) 6/Sep 2013 12:00 | Costa Rica | 3 : 1 | United States | (Group HEX) |
-| **Matchday 9**  |
+|{: colspan='4'} **Matchday 9**  |
 | (Tue) 10/Sep 2013 12:00 | United States | 2 : 0 | Mexico | (Group HEX) |
 | (Tue) 10/Sep 2013 12:00 | Honduras | 2 : 2 | Panama | (Group HEX) |
 | (Tue) 10/Sep 2013 12:00 | Jamaica | 1 : 1 | Costa Rica | (Group HEX) |
-| **Matchday 10**  |
+|{: colspan='4'} **Matchday 10**  |
 | (Fri) 11/Oct 2013 12:00 | Mexico | 2 : 1 | Panama | (Group HEX) |
 | (Fri) 11/Oct 2013 12:00 | Honduras | 1 : 0 | Costa Rica | (Group HEX) |
 | (Fri) 11/Oct 2013 12:00 | United States | 2 : 0 | Jamaica | (Group HEX) |
-| **Matchday 11**  |
+|{: colspan='4'} **Matchday 11**  |
 | (Tue) 15/Oct 2013 12:00 | Costa Rica | 2 : 1 | Mexico | (Group HEX) |
 | (Tue) 15/Oct 2013 12:00 | Jamaica | 2 : 2 | Honduras | (Group HEX) |
 | (Tue) 15/Oct 2013 12:00 | Panama | 2 : 3 | United States | (Group HEX) |
@@ -786,7 +985,27 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 10 Teams
 
 
- [Algeria (ALG)](dz.html#alg)   •  [Tunisia (TUN)](tn.html#tun)   •  [Egypt (EGY)](eg.html#egy)   •  [Côte d'Ivoire (CIV)](ci.html#civ)   •  [Ghana (GHA)](gh.html#gha)   •  [Cameroon (CMR)](cm.html#cmr)   •  [Nigeria (NGA)](ng.html#nga)   •  [Burkina Faso (BFA)](bf.html#bfa)   •  [Ethiopia (ETH)](et.html#eth)   •  [Senegal (SEN)](sn.html#sen)  
+
+[Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
+
+[Tunisia (TUN)](tn.html#tun)  (Tunisia, Africa) <br>
+
+[Egypt (EGY)](eg.html#egy)  (Egypt, Africa) <br>
+
+[Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
+
+[Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
+
+[Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
+
+[Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
+
+[Burkina Faso (BFA)](bf.html#bfa)  (Burkina Faso, Africa) <br>
+
+[Ethiopia (ETH)](et.html#eth)  (Ethiopia, Africa) <br>
+
+[Senegal (SEN)](sn.html#sen)  (Senegal, Africa) <br>
+
 
 
  
@@ -798,19 +1017,19 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Round 1  -  Playoff 1st Leg •  Round 2  -  Playoff 2nd Leg
 
 
-| **Round 1  -  Playoff 1st Leg** / 11-15 October |
+|{: colspan='4'} **Round 1  -  Playoff 1st Leg** / 11-15 October |
 | (Sat) 12/Oct 2013 17:00 | Côte d'Ivoire | 3 : 1 | Senegal |  |
 | (Sat) 12/Oct 2013 16:00 | Burkina Faso | 3 : 2 | Algeria |  |
 | (Sun) 13/Oct 2013 16:00 | Ethiopia | 1 : 2 | Nigeria |  |
 | (Sun) 13/Oct 2013 18:00 | Tunisia | 0 : 0 | Cameroon |  |
 | (Tue) 15/Oct 2013 16:00 | Ghana | 6 : 1 | Egypt |  |
-| **Round 2  -  Playoff 2nd Leg** / 15-19 November |
+|{: colspan='4'} **Round 2  -  Playoff 2nd Leg** / 15-19 November |
 | (Sat) 16/Nov 2013 19:00 | Senegal | 1 : 1 | Côte d'Ivoire |  |
 | (Sat) 16/Nov 2013 16:00 | Nigeria | 2 : 0 | Ethiopia |  |
 | (Sun) 17/Nov 2013 15:00 | Cameroon | 4 : 1 | Tunisia |  |
 | (Tue) 19/Nov 2013 18:00 | Egypt | 2 : 1 | Ghana |  |
 | (Tue) 19/Nov 2013 19:15 | Algeria | 1 : 0 | Burkina Faso |  |
-## Austria (AUT) - 1 Teams
+## Austria (AUT) - 0 Clubs
 {: #at }
 
 
@@ -835,7 +1054,7 @@ Austria  (AUT)  _#aut_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -849,7 +1068,7 @@ Austria  (AUT)  _#aut_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -863,7 +1082,7 @@ Austria  (AUT)  _#aut_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -877,7 +1096,7 @@ Austria  (AUT)  _#aut_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -891,7 +1110,7 @@ Austria  (AUT)  _#aut_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -905,7 +1124,7 @@ Austria  (AUT)  _#aut_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -919,7 +1138,7 @@ Austria  (AUT)  _#aut_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -933,7 +1152,7 @@ Austria  (AUT)  _#aut_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -947,14 +1166,14 @@ Austria  (AUT)  _#aut_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Belarus (BLR) - 1 Teams
+## Belarus (BLR) - 0 Clubs
 {: #by }
 
 
@@ -972,7 +1191,7 @@ Belarus  (BLR)  _#blr_{: .key} <br>
 
 
  
-## Belgium (BEL) - 1 Teams
+## Belgium (BEL) - 0 Clubs
 {: #be }
 
 
@@ -997,7 +1216,7 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1011,7 +1230,7 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1025,7 +1244,7 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1039,7 +1258,7 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1053,7 +1272,7 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1067,7 +1286,7 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1081,7 +1300,7 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1095,7 +1314,7 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1109,7 +1328,7 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1123,7 +1342,7 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1137,14 +1356,14 @@ Belgium  (BEL)  _#bel_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Bosnia and Herzegovina (BIH) - 1 Teams
+## Bosnia and Herzegovina (BIH) - 0 Clubs
 {: #ba }
 
 
@@ -1162,7 +1381,7 @@ Bosnia-Herzegovina • Bosnia and Herzegovina • Bosnia  (BIH)  _#bih_{: .key} 
 
 
  
-## Croatia (CRO) - 1 Teams
+## Croatia (CRO) - 0 Clubs
 {: #hr }
 
 
@@ -1180,7 +1399,7 @@ Croatia  (CRO)  _#cro_{: .key} <br>
 
 
  
-## Czech Republic (CZE) - 1 Teams
+## Czech Republic (CZE) - 0 Clubs
 {: #cz }
 
 
@@ -1205,7 +1424,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1219,7 +1438,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1233,7 +1452,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1247,7 +1466,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1261,7 +1480,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1275,7 +1494,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1289,7 +1508,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1303,7 +1522,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1317,7 +1536,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1331,7 +1550,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1345,7 +1564,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1359,7 +1578,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1373,7 +1592,7 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1387,14 +1606,14 @@ Czech Republic  (CZE)  _#cze_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Denmark (DEN) - 1 Teams
+## Denmark (DEN) - 0 Clubs
 {: #dk }
 
 
@@ -1412,7 +1631,7 @@ Denmark  (DEN)  _#den_{: .key} <br>
 
 
  
-## England (ENG) - 1 Teams
+## England (ENG) - 0 Clubs
 {: #en }
 
 
@@ -1437,7 +1656,7 @@ England  (ENG)  _#eng_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1451,7 +1670,7 @@ England  (ENG)  _#eng_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1465,7 +1684,7 @@ England  (ENG)  _#eng_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1479,7 +1698,7 @@ England  (ENG)  _#eng_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1493,7 +1712,7 @@ England  (ENG)  _#eng_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1507,7 +1726,7 @@ England  (ENG)  _#eng_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1521,7 +1740,7 @@ England  (ENG)  _#eng_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1535,7 +1754,7 @@ England  (ENG)  _#eng_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1549,14 +1768,14 @@ England  (ENG)  _#eng_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Faroe Islands (FRO) - 1 Teams
+## Faroe Islands (FRO) - 0 Clubs
 {: #fo }
 
 
@@ -1574,7 +1793,7 @@ Faroe Islands  (FRO)  _#fro_{: .key} <br>
 
 
  
-## Finland (FIN) - 1 Teams
+## Finland (FIN) - 0 Clubs
 {: #fi }
 
 
@@ -1592,7 +1811,7 @@ Finland  (FIN)  _#fin_{: .key} <br>
 
 
  
-## France (FRA) - 1 Teams
+## France (FRA) - 0 Clubs
 {: #fr }
 
 
@@ -1617,7 +1836,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1631,7 +1850,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1645,7 +1864,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1659,7 +1878,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1673,7 +1892,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1687,7 +1906,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1701,7 +1920,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1715,7 +1934,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1729,7 +1948,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1743,7 +1962,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1757,7 +1976,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1771,7 +1990,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1785,7 +2004,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1799,7 +2018,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1813,7 +2032,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1827,7 +2046,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1841,7 +2060,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1855,7 +2074,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1869,7 +2088,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1883,7 +2102,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1897,14 +2116,14 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Georgia (GEO) - 1 Teams
+## Georgia (GEO) - 0 Clubs
 {: #ge }
 
 
@@ -1922,7 +2141,7 @@ Georgia  (GEO)  _#geo_{: .key} <br>
 
 
  
-## Germany (GER) - 1 Teams
+## Germany (GER) - 0 Clubs
 {: #de }
 
 
@@ -1947,7 +2166,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1961,7 +2180,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1975,7 +2194,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -1989,7 +2208,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2003,7 +2222,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2017,7 +2236,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2031,7 +2250,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2045,7 +2264,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2059,7 +2278,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2073,7 +2292,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2087,7 +2306,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2101,7 +2320,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2115,7 +2334,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2129,7 +2348,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2143,7 +2362,7 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2157,14 +2376,14 @@ Germany  (GER)  _#ger_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Greece (GRE) - 1 Teams
+## Greece (GRE) - 0 Clubs
 {: #gr }
 
 
@@ -2182,7 +2401,7 @@ Greece  (GRE)  _#gre_{: .key} <br>
 
 
  
-## Iceland (ISL) - 1 Teams
+## Iceland (ISL) - 0 Clubs
 {: #is }
 
 
@@ -2200,7 +2419,7 @@ Iceland  (ISL)  _#isl_{: .key} <br>
 
 
  
-## Irland (IRL) - 1 Teams
+## Irland (IRL) - 0 Clubs
 {: #ie }
 
 
@@ -2225,7 +2444,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2239,7 +2458,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2253,7 +2472,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2267,7 +2486,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2281,7 +2500,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2295,7 +2514,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2309,7 +2528,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2323,7 +2542,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2337,7 +2556,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2351,7 +2570,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2365,7 +2584,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2379,7 +2598,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2393,7 +2612,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2407,7 +2626,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2421,7 +2640,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2435,7 +2654,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2449,7 +2668,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2463,7 +2682,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2477,7 +2696,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2491,7 +2710,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2505,7 +2724,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2519,7 +2738,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2533,7 +2752,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2547,7 +2766,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2561,7 +2780,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2575,7 +2794,7 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2589,14 +2808,14 @@ Irland  (IRL)  _#irl_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Italy (ITA) - 1 Teams
+## Italy (ITA) - 0 Clubs
 {: #it }
 
 
@@ -2621,7 +2840,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2635,7 +2854,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2649,7 +2868,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2663,7 +2882,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2677,7 +2896,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2691,7 +2910,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2705,7 +2924,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2719,7 +2938,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2733,7 +2952,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2747,7 +2966,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2761,7 +2980,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2775,7 +2994,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2789,7 +3008,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2803,7 +3022,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2817,7 +3036,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2831,7 +3050,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2845,7 +3064,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2859,7 +3078,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2873,7 +3092,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2887,14 +3106,14 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Kazakhstan (KAZ) - 1 Teams
+## Kazakhstan (KAZ) - 0 Clubs
 {: #kz }
 
 
@@ -2912,7 +3131,7 @@ Kazakhstan  (KAZ)  _#kaz_{: .key} <br>
 
 
  
-## Netherlands (NED) - 1 Teams
+## Netherlands (NED) - 0 Clubs
 {: #nl }
 
 
@@ -2937,7 +3156,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2951,7 +3170,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2965,7 +3184,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2979,7 +3198,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -2993,7 +3212,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3007,7 +3226,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3021,7 +3240,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3035,7 +3254,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3049,7 +3268,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3063,7 +3282,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3077,7 +3296,7 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3091,14 +3310,14 @@ Netherlands  (NED)  _#ned_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Poland (POL) - 1 Teams
+## Poland (POL) - 0 Clubs
 {: #pl }
 
 
@@ -3116,7 +3335,7 @@ Poland  (POL)  _#pol_{: .key} <br>
 
 
  
-## Portugal (POR) - 1 Teams
+## Portugal (POR) - 0 Clubs
 {: #pt }
 
 
@@ -3134,7 +3353,7 @@ Portugal  (POR)  _#por_{: .key} <br>
 
 
  
-## Romania (ROU) - 1 Teams
+## Romania (ROU) - 0 Clubs
 {: #ro }
 
 
@@ -3159,7 +3378,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3173,7 +3392,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3187,7 +3406,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3201,7 +3420,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3215,7 +3434,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3229,7 +3448,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3243,7 +3462,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3257,7 +3476,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3271,7 +3490,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3285,7 +3504,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3299,7 +3518,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3313,7 +3532,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3327,7 +3546,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3341,7 +3560,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3355,7 +3574,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3369,7 +3588,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3383,7 +3602,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3397,7 +3616,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3411,7 +3630,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3425,7 +3644,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3439,7 +3658,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3453,7 +3672,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3467,7 +3686,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3481,7 +3700,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3495,7 +3714,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3509,7 +3728,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3523,7 +3742,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3537,7 +3756,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3551,7 +3770,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3565,7 +3784,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3579,7 +3798,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3593,7 +3812,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3607,7 +3826,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3621,7 +3840,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3635,7 +3854,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3649,7 +3868,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3663,7 +3882,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3677,7 +3896,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3691,7 +3910,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3705,7 +3924,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3719,7 +3938,7 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3733,14 +3952,14 @@ Romania  (ROU)  _#rou_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Russia (RUS) - 1 Teams
+## Russia (RUS) - 0 Clubs
 {: #ru }
 
 
@@ -3758,7 +3977,7 @@ Russia  (RUS)  _#rus_{: .key} <br>
 
 
  
-## Serbia (SRB) - 1 Teams
+## Serbia (SRB) - 0 Clubs
 {: #rs }
 
 
@@ -3776,7 +3995,7 @@ Serbia  (SRB)  _#srb_{: .key} <br>
 
 
  
-## Slovakia (SVK) - 1 Teams
+## Slovakia (SVK) - 0 Clubs
 {: #sk }
 
 
@@ -3801,7 +4020,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3815,7 +4034,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3829,7 +4048,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3843,7 +4062,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3857,7 +4076,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3871,7 +4090,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3885,7 +4104,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3899,14 +4118,14 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Slovenia (SVN) - 1 Teams
+## Slovenia (SVN) - 0 Clubs
 {: #si }
 
 
@@ -3924,7 +4143,7 @@ Slovenia  (SVN)  _#svn_{: .key} <br>
 
 
  
-## Spain (ESP) - 1 Teams
+## Spain (ESP) - 0 Clubs
 {: #es }
 
 
@@ -3949,7 +4168,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3963,7 +4182,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3977,7 +4196,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -3991,7 +4210,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4005,7 +4224,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4019,7 +4238,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4033,7 +4252,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4047,7 +4266,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4061,7 +4280,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4075,7 +4294,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4089,7 +4308,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4103,7 +4322,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4117,7 +4336,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4131,7 +4350,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4145,7 +4364,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4159,7 +4378,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4173,7 +4392,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4187,7 +4406,7 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4201,14 +4420,14 @@ Spain  (ESP)  _#esp_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Sweden (SWE) - 1 Teams
+## Sweden (SWE) - 0 Clubs
 {: #se }
 
 
@@ -4226,7 +4445,7 @@ Sweden  (SWE)  _#swe_{: .key} <br>
 
 
  
-## Switzerland (SUI) - 1 Teams
+## Switzerland (SUI) - 0 Clubs
 {: #ch }
 
 
@@ -4251,7 +4470,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4265,7 +4484,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4279,7 +4498,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4293,7 +4512,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4307,7 +4526,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4321,7 +4540,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4335,7 +4554,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4349,7 +4568,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4363,7 +4582,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4377,7 +4596,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4391,7 +4610,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4405,7 +4624,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4419,7 +4638,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4433,7 +4652,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4447,7 +4666,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4461,7 +4680,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4475,7 +4694,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4489,7 +4708,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4503,7 +4722,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4517,7 +4736,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4531,7 +4750,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4545,7 +4764,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4559,7 +4778,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4573,7 +4792,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4587,7 +4806,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4601,14 +4820,14 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Turkey (TUR) - 1 Teams
+## Turkey (TUR) - 0 Clubs
 {: #tr }
 
 
@@ -4626,7 +4845,7 @@ Turkey  (TUR)  _#tur_{: .key} <br>
 
 
  
-## Ukraine (UKR) - 1 Teams
+## Ukraine (UKR) - 0 Clubs
 {: #ua }
 
 
@@ -4644,7 +4863,7 @@ Ukraine  (UKR)  _#ukr_{: .key} <br>
 
 
  
-## Argentina (ARG) - 1 Teams
+## Argentina (ARG) - 1 Clubs
 {: #ar }
 
 
@@ -4669,7 +4888,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4683,7 +4902,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4697,7 +4916,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4711,7 +4930,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4725,7 +4944,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4739,7 +4958,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4753,7 +4972,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4767,7 +4986,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4781,7 +5000,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4795,7 +5014,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4809,7 +5028,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4823,7 +5042,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4837,7 +5056,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4851,7 +5070,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4865,7 +5084,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4879,7 +5098,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4893,7 +5112,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4907,7 +5126,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4921,7 +5140,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4935,7 +5154,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4949,7 +5168,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4963,7 +5182,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4977,7 +5196,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -4991,14 +5210,14 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Bolivia (BOL) - 1 Teams
+## Bolivia (BOL) - 1 Clubs
 {: #bo }
 
 
@@ -5016,7 +5235,7 @@ Bolivia  (BOL)  _#bol_{: .key} <br>
 
 
  
-## Brazil (BRA) - 1 Teams
+## Brazil (BRA) - 1 Clubs
 {: #br }
 
 
@@ -5041,7 +5260,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5055,7 +5274,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5069,7 +5288,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5083,7 +5302,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5097,7 +5316,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5111,7 +5330,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5125,7 +5344,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5139,7 +5358,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5153,7 +5372,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5167,7 +5386,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5181,7 +5400,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5195,7 +5414,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5209,7 +5428,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5223,7 +5442,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5237,7 +5456,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5251,7 +5470,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5265,7 +5484,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5279,7 +5498,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5293,7 +5512,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5307,7 +5526,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5321,7 +5540,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5335,7 +5554,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5349,7 +5568,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5363,7 +5582,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5377,7 +5596,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5391,7 +5610,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5405,14 +5624,14 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Chile (CHI) - 1 Teams
+## Chile (CHI) - 1 Clubs
 {: #cl }
 
 
@@ -5430,7 +5649,7 @@ Chile  (CHI)  _#chi_{: .key} <br>
 
 
  
-## Colombia (COL) - 1 Teams
+## Colombia (COL) - 1 Clubs
 {: #co }
 
 
@@ -5448,7 +5667,7 @@ Colombia  (COL)  _#col_{: .key} <br>
 
 
  
-## Ecuador (ECU) - 1 Teams
+## Ecuador (ECU) - 1 Clubs
 {: #ec }
 
 
@@ -5466,7 +5685,7 @@ Ecuador  (ECU)  _#ecu_{: .key} <br>
 
 
  
-## Paraguay (PAR) - 1 Teams
+## Paraguay (PAR) - 1 Clubs
 {: #py }
 
 
@@ -5484,7 +5703,7 @@ Paraguay  (PAR)  _#par_{: .key} <br>
 
 
  
-## Peru (PER) - 1 Teams
+## Peru (PER) - 1 Clubs
 {: #pe }
 
 
@@ -5502,7 +5721,7 @@ Peru  (PER)  _#per_{: .key} <br>
 
 
  
-## Uruguay (URU) - 1 Teams
+## Uruguay (URU) - 1 Clubs
 {: #uy }
 
 
@@ -5520,7 +5739,7 @@ Uruguay  (URU)  _#uru_{: .key} <br>
 
 
  
-## Venezuela (VEN) - 1 Teams
+## Venezuela (VEN) - 1 Clubs
 {: #ve }
 
 
@@ -5545,7 +5764,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5559,7 +5778,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5573,7 +5792,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5587,7 +5806,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5601,7 +5820,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5615,7 +5834,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5629,7 +5848,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5643,7 +5862,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5657,7 +5876,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5671,7 +5890,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5685,7 +5904,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5699,7 +5918,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5713,7 +5932,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5727,7 +5946,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5741,7 +5960,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5755,7 +5974,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5769,7 +5988,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5783,7 +6002,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5797,7 +6016,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5811,7 +6030,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5825,7 +6044,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5839,7 +6058,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5853,7 +6072,7 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5867,14 +6086,14 @@ Venezuela  (VEN)  _#ven_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Canada (CAN) - 1 Teams
+## Canada (CAN) - 0 Clubs
 {: #ca }
 
 
@@ -5899,7 +6118,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5913,7 +6132,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5927,7 +6146,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5941,7 +6160,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5955,7 +6174,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5969,7 +6188,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5983,7 +6202,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -5997,7 +6216,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6011,7 +6230,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6025,7 +6244,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6039,7 +6258,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6053,7 +6272,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6067,14 +6286,14 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## México [Mexico] (MEX) - 1 Teams
+## México [Mexico] (MEX) - 0 Clubs
 {: #mx }
 
 
@@ -6099,7 +6318,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6113,7 +6332,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6127,7 +6346,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6141,7 +6360,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6155,7 +6374,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6169,7 +6388,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6183,7 +6402,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6197,7 +6416,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6211,7 +6430,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6225,7 +6444,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6239,7 +6458,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6253,7 +6472,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6267,7 +6486,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6281,7 +6500,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6295,7 +6514,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6309,7 +6528,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6323,7 +6542,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6337,7 +6556,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6351,7 +6570,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6365,7 +6584,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6379,7 +6598,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6393,7 +6612,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6407,7 +6626,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6421,7 +6640,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6435,7 +6654,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6449,7 +6668,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6463,7 +6682,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6477,7 +6696,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6491,7 +6710,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6505,7 +6724,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6519,7 +6738,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6533,14 +6752,14 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## United States (USA) - 1 Teams
+## United States (USA) - 0 Clubs
 {: #us }
 
 
@@ -6565,7 +6784,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6579,7 +6798,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6593,7 +6812,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6607,7 +6826,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6621,7 +6840,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6635,7 +6854,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6649,7 +6868,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6663,7 +6882,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6677,7 +6896,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6691,7 +6910,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6705,7 +6924,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6719,7 +6938,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6733,7 +6952,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6747,7 +6966,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6761,7 +6980,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6775,7 +6994,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6789,7 +7008,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6803,7 +7022,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6817,7 +7036,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6831,7 +7050,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6845,7 +7064,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6859,7 +7078,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6873,7 +7092,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6887,7 +7106,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6901,7 +7120,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6915,7 +7134,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6929,7 +7148,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6943,7 +7162,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6957,7 +7176,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6971,7 +7190,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6985,7 +7204,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -6999,7 +7218,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7013,7 +7232,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7027,7 +7246,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7041,7 +7260,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7055,7 +7274,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7069,7 +7288,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7083,7 +7302,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7097,7 +7316,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7111,7 +7330,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7125,7 +7344,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7139,7 +7358,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7153,7 +7372,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7167,7 +7386,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7181,7 +7400,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7195,7 +7414,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7209,7 +7428,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7223,7 +7442,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7237,7 +7456,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7251,7 +7470,7 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7265,14 +7484,14 @@ United States  (USA)  _#usa_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Belize (BLZ) - 1 Teams
+## Belize (BLZ) - 0 Clubs
 {: #bz }
 
 
@@ -7290,7 +7509,7 @@ Belize  (BLZ)  _#blz_{: .key} <br>
 
 
  
-## Costa Rica (CRC) - 1 Teams
+## Costa Rica (CRC) - 0 Clubs
 {: #cr }
 
 
@@ -7308,7 +7527,7 @@ Costa Rica  (CRC)  _#crc_{: .key} <br>
 
 
  
-## El Salvador (SLV) - 1 Teams
+## El Salvador (SLV) - 0 Clubs
 {: #sv }
 
 
@@ -7326,7 +7545,7 @@ El Salvador  (SLV)  _#slv_{: .key} <br>
 
 
  
-## Guatemala (GUA) - 1 Teams
+## Guatemala (GUA) - 0 Clubs
 {: #gt }
 
 
@@ -7344,7 +7563,7 @@ Guatemala  (GUA)  _#gua_{: .key} <br>
 
 
  
-## Honduras (HON) - 1 Teams
+## Honduras (HON) - 0 Clubs
 {: #hn }
 
 
@@ -7362,7 +7581,7 @@ Honduras  (HON)  _#hon_{: .key} <br>
 
 
  
-## Panamá [Panama] (PAN) - 1 Teams
+## Panamá [Panama] (PAN) - 0 Clubs
 {: #pa }
 
 
@@ -7380,7 +7599,7 @@ Panama  (PAN)  _#pan_{: .key} <br>
 
 
  
-## Cuba (CUB) - 1 Teams
+## Cuba (CUB) - 0 Clubs
 {: #cu }
 
 
@@ -7398,7 +7617,7 @@ Cuba  (CUB)  _#cub_{: .key} <br>
 
 
  
-## Grenada (GRN) - 1 Teams
+## Grenada (GRN) - 0 Clubs
 {: #gd }
 
 
@@ -7416,7 +7635,7 @@ Grenada  (GRN)  _#grn_{: .key} <br>
 
 
  
-## Guadeloupe (GPE) - 1 Teams
+## Guadeloupe (GPE) - 0 Clubs
 {: #gp }
 
 
@@ -7434,7 +7653,7 @@ Guadeloupe  (GPE)  _#gpe_{: .key} <br>
 
 
  
-## Guyana (GUY) - 1 Teams
+## Guyana (GUY) - 0 Clubs
 {: #gy }
 
 
@@ -7452,7 +7671,7 @@ Guyana  (GUY)  _#guy_{: .key} <br>
 
 
  
-## Haiti (HAI) - 1 Teams
+## Haiti (HAI) - 0 Clubs
 {: #ht }
 
 
@@ -7470,7 +7689,7 @@ Haiti  (HAI)  _#hai_{: .key} <br>
 
 
  
-## Jamaica (JAM) - 1 Teams
+## Jamaica (JAM) - 0 Clubs
 {: #jm }
 
 
@@ -7488,7 +7707,7 @@ Jamaica  (JAM)  _#jam_{: .key} <br>
 
 
  
-## Martinique (MTQ) - 1 Teams
+## Martinique (MTQ) - 0 Clubs
 {: #mq }
 
 
@@ -7506,7 +7725,7 @@ Martinique  (MTQ)  _#mtq_{: .key} <br>
 
 
  
-## Trinidad and Tobago (TRI) - 1 Teams
+## Trinidad and Tobago (TRI) - 0 Clubs
 {: #tt }
 
 
@@ -7524,7 +7743,7 @@ Trinidad and Tobago  (TRI)  _#tri_{: .key} <br>
 
 
  
-## Algeria (ALG) - 1 Teams
+## Algeria (ALG) - 0 Clubs
 {: #dz }
 
 
@@ -7542,7 +7761,7 @@ Algeria  (ALG)  _#alg_{: .key} <br>
 
 
  
-## Angola (ANG) - 1 Teams
+## Angola (ANG) - 0 Clubs
 {: #ao }
 
 
@@ -7560,7 +7779,7 @@ Angola  (ANG)  _#ang_{: .key} <br>
 
 
  
-## Burkina Faso (BFA) - 1 Teams
+## Burkina Faso (BFA) - 0 Clubs
 {: #bf }
 
 
@@ -7578,7 +7797,7 @@ Burkina Faso  (BFA)  _#bfa_{: .key} <br>
 
 
  
-## Cameroon (CMR) - 1 Teams
+## Cameroon (CMR) - 0 Clubs
 {: #cm }
 
 
@@ -7596,7 +7815,7 @@ Cameroon  (CMR)  _#cmr_{: .key} <br>
 
 
  
-## Cape Verde (CPV) - 1 Teams
+## Cape Verde (CPV) - 0 Clubs
 {: #cv }
 
 
@@ -7614,7 +7833,7 @@ Cape Verde  (CPV)  _#cpv_{: .key} <br>
 
 
  
-## Congo DR (COD) - 1 Teams
+## Congo DR (COD) - 0 Clubs
 {: #cd }
 
 
@@ -7632,7 +7851,7 @@ Congo DR  (COD)  _#cod_{: .key} <br>
 
 
  
-## Côte d'Ivoire (CIV) - 1 Teams
+## Côte d'Ivoire (CIV) - 0 Clubs
 {: #ci }
 
 
@@ -7650,7 +7869,7 @@ Côte d'Ivoire  (CIV)  _#civ_{: .key} <br>
 
 
  
-## Egypt (EGY) - 1 Teams
+## Egypt (EGY) - 0 Clubs
 {: #eg }
 
 
@@ -7668,7 +7887,7 @@ Egypt  (EGY)  _#egy_{: .key} <br>
 
 
  
-## Ethiopia (ETH) - 1 Teams
+## Ethiopia (ETH) - 0 Clubs
 {: #et }
 
 
@@ -7686,7 +7905,7 @@ Ethiopia  (ETH)  _#eth_{: .key} <br>
 
 
  
-## Ghana (GHA) - 1 Teams
+## Ghana (GHA) - 0 Clubs
 {: #gh }
 
 
@@ -7704,7 +7923,7 @@ Ghana  (GHA)  _#gha_{: .key} <br>
 
 
  
-## Mali (MLI) - 1 Teams
+## Mali (MLI) - 0 Clubs
 {: #ml }
 
 
@@ -7722,7 +7941,7 @@ Mali  (MLI)  _#mli_{: .key} <br>
 
 
  
-## Morocco (MAR) - 1 Teams
+## Morocco (MAR) - 0 Clubs
 {: #ma }
 
 
@@ -7740,7 +7959,7 @@ Morocco  (MAR)  _#mar_{: .key} <br>
 
 
  
-## Niger (NIG) - 1 Teams
+## Niger (NIG) - 0 Clubs
 {: #ne }
 
 
@@ -7758,7 +7977,7 @@ Niger  (NIG)  _#nig_{: .key} <br>
 
 
  
-## Nigeria (NGA) - 1 Teams
+## Nigeria (NGA) - 0 Clubs
 {: #ng }
 
 
@@ -7776,7 +7995,7 @@ Nigeria  (NGA)  _#nga_{: .key} <br>
 
 
  
-## Senegal (SEN) - 1 Teams
+## Senegal (SEN) - 0 Clubs
 {: #sn }
 
 
@@ -7794,7 +8013,7 @@ Senegal  (SEN)  _#sen_{: .key} <br>
 
 
  
-## South Africa (RSA) - 1 Teams
+## South Africa (RSA) - 0 Clubs
 {: #za }
 
 
@@ -7812,7 +8031,7 @@ South Africa  (RSA)  _#rsa_{: .key} <br>
 
 
  
-## Togo (TOG) - 1 Teams
+## Togo (TOG) - 0 Clubs
 {: #tg }
 
 
@@ -7830,7 +8049,7 @@ Togo  (TOG)  _#tog_{: .key} <br>
 
 
  
-## Tunisia (TUN) - 1 Teams
+## Tunisia (TUN) - 0 Clubs
 {: #tn }
 
 
@@ -7848,7 +8067,7 @@ Tunisia  (TUN)  _#tun_{: .key} <br>
 
 
  
-## Zambia (ZAM) - 1 Teams
+## Zambia (ZAM) - 0 Clubs
 {: #zm }
 
 
@@ -7866,7 +8085,7 @@ Zambia  (ZAM)  _#zam_{: .key} <br>
 
 
  
-## Iran (IRN) - 1 Teams
+## Iran (IRN) - 0 Clubs
 {: #ir }
 
 
@@ -7884,7 +8103,7 @@ Iran  (IRN)  _#irn_{: .key} <br>
 
 
  
-## Iraq (IRQ) - 1 Teams
+## Iraq (IRQ) - 0 Clubs
 {: #iq }
 
 
@@ -7902,7 +8121,7 @@ Iraq  (IRQ)  _#irq_{: .key} <br>
 
 
  
-## Jordan (JOR) - 1 Teams
+## Jordan (JOR) - 0 Clubs
 {: #jo }
 
 
@@ -7920,7 +8139,7 @@ Jordan  (JOR)  _#jor_{: .key} <br>
 
 
  
-## Australia (AUS) - 1 Teams
+## Australia (AUS) - 0 Clubs
 {: #au }
 
 
@@ -7945,7 +8164,7 @@ Australia  (AUS)  _#aus_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7959,7 +8178,7 @@ Australia  (AUS)  _#aus_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7973,7 +8192,7 @@ Australia  (AUS)  _#aus_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -7987,7 +8206,7 @@ Australia  (AUS)  _#aus_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -8001,7 +8220,7 @@ Australia  (AUS)  _#aus_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -8015,7 +8234,7 @@ Australia  (AUS)  _#aus_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -8029,7 +8248,7 @@ Australia  (AUS)  _#aus_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -8043,14 +8262,14 @@ Australia  (AUS)  _#aus_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
 
 
  
-## Japan (JPN) - 1 Teams
+## Japan (JPN) - 0 Clubs
 {: #jp }
 
 
@@ -8068,7 +8287,7 @@ Japan  (JPN)  _#jpn_{: .key} <br>
 
 
  
-## North Korea (PRK) - 1 Teams
+## North Korea (PRK) - 0 Clubs
 {: #kp }
 
 
@@ -8086,7 +8305,7 @@ North Korea  (PRK)  _#prk_{: .key} <br>
 
 
  
-## South Korea (KOR) - 1 Teams
+## South Korea (KOR) - 0 Clubs
 {: #kr }
 
 
@@ -8104,7 +8323,7 @@ South Korea  (KOR)  _#kor_{: .key} <br>
 
 
  
-## New Zealand (NZL) - 1 Teams
+## New Zealand (NZL) - 0 Clubs
 {: #nz }
 
 
@@ -8122,7 +8341,7 @@ New Zealand  (NZL)  _#nzl_{: .key} <br>
 
 
  
-## Tahiti (TAH) - 1 Teams
+## Tahiti (TAH) - 0 Clubs
 {: #pf }
 
 
@@ -8513,11 +8732,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Algeria (ALG)](dz.html#alg)** ( [Algeria (ALG)](dz.html) ) _#alg_{: .key} <br>
-**[Angola (ANG)](ao.html#ang)** ( [Angola (ANG)](ao.html) ) _#ang_{: .key} <br>
 **[Argentina (ARG)](ar.html#arg)** ( [Argentina (ARG)](ar.html) ) _#arg_{: .key} <br>
-**[Australia (AUS)](au.html#aus)** ( [Australia (AUS)](au.html) ) _#aus_{: .key} <br>
-**[Austria (AUT)](at.html#aut)** ( [Austria (AUT)](at.html) ) _#aut_{: .key} <br>
 
 </div>
 
@@ -8528,11 +8743,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Belgium (BEL)](be.html#bel)** ( [Belgium (BEL)](be.html) ) _#bel_{: .key} <br>
-**[Burkina Faso (BFA)](bf.html#bfa)** ( [Burkina Faso (BFA)](bf.html) ) _#bfa_{: .key} <br>
-**[Bosnia-Herzegovina (BIH)](ba.html#bih)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#bih_{: .key} <br>
-**[Belarus (BLR)](by.html#blr)** ( [Belarus (BLR)](by.html) ) _#blr_{: .key} <br>
-**[Belize (BLZ)](bz.html#blz)** ( [Belize (BLZ)](bz.html) ) _#blz_{: .key} <br>
 **[Bolivia (BOL)](bo.html#bol)** ( [Bolivia (BOL)](bo.html) ) _#bol_{: .key} <br>
 **[Brazil (BRA)](br.html#bra)** ( [Brazil (BRA)](br.html) ) _#bra_{: .key} <br>
 
@@ -8545,17 +8755,8 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Canada (CAN)](ca.html#can)** ( [Canada (CAN)](ca.html) ) _#can_{: .key} <br>
 **[Chile (CHI)](cl.html#chi)** ( [Chile (CHI)](cl.html) ) _#chi_{: .key} <br>
-**[Côte d'Ivoire (CIV)](ci.html#civ)** ( [Côte d'Ivoire (CIV)](ci.html) ) _#civ_{: .key} <br>
-**[Cameroon (CMR)](cm.html#cmr)** ( [Cameroon (CMR)](cm.html) ) _#cmr_{: .key} <br>
-**[Congo DR (COD)](cd.html#cod)** ( [Congo DR (COD)](cd.html) ) _#cod_{: .key} <br>
 **[Colombia (COL)](co.html#col)** ( [Colombia (COL)](co.html) ) _#col_{: .key} <br>
-**[Cape Verde (CPV)](cv.html#cpv)** ( [Cape Verde (CPV)](cv.html) ) _#cpv_{: .key} <br>
-**[Costa Rica (CRC)](cr.html#crc)** ( [Costa Rica (CRC)](cr.html) ) _#crc_{: .key} <br>
-**[Croatia (CRO)](hr.html#cro)** ( [Croatia (CRO)](hr.html) ) _#cro_{: .key} <br>
-**[Cuba (CUB)](cu.html#cub)** ( [Cuba (CUB)](cu.html) ) _#cub_{: .key} <br>
-**[Czech Republic (CZE)](cz.html#cze)** ( [Czech Republic (CZE)](cz.html) ) _#cze_{: .key} <br>
 
 </div>
 
@@ -8566,7 +8767,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Denmark (DEN)](dk.html#den)** ( [Denmark (DEN)](dk.html) ) _#den_{: .key} <br>
 
 </div>
 
@@ -8578,10 +8778,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 <div class='columns300' markdown='1'>
 
 **[Ecuador (ECU)](ec.html#ecu)** ( [Ecuador (ECU)](ec.html) ) _#ecu_{: .key} <br>
-**[Egypt (EGY)](eg.html#egy)** ( [Egypt (EGY)](eg.html) ) _#egy_{: .key} <br>
-**[England (ENG)](en.html#eng)** ( [England (ENG)](en.html) ) _#eng_{: .key} <br>
-**[Spain (ESP)](es.html#esp)** ( [Spain (ESP)](es.html) ) _#esp_{: .key} <br>
-**[Ethiopia (ETH)](et.html#eth)** ( [Ethiopia (ETH)](et.html) ) _#eth_{: .key} <br>
 
 </div>
 
@@ -8592,9 +8788,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Finland (FIN)](fi.html#fin)** ( [Finland (FIN)](fi.html) ) _#fin_{: .key} <br>
-**[France (FRA)](fr.html#fra)** ( [France (FRA)](fr.html) ) _#fra_{: .key} <br>
-**[Faroe Islands (FRO)](fo.html#fro)** ( [Faroe Islands (FRO)](fo.html) ) _#fro_{: .key} <br>
 
 </div>
 
@@ -8605,14 +8798,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Georgia (GEO)](ge.html#geo)** ( [Georgia (GEO)](ge.html) ) _#geo_{: .key} <br>
-**[Germany (GER)](de.html#ger)** ( [Germany (GER)](de.html) ) _#ger_{: .key} <br>
-**[Ghana (GHA)](gh.html#gha)** ( [Ghana (GHA)](gh.html) ) _#gha_{: .key} <br>
-**[Guadeloupe (GPE)](gp.html#gpe)** ( [Guadeloupe (GPE)](gp.html) ) _#gpe_{: .key} <br>
-**[Greece (GRE)](gr.html#gre)** ( [Greece (GRE)](gr.html) ) _#gre_{: .key} <br>
-**[Grenada (GRN)](gd.html#grn)** ( [Grenada (GRN)](gd.html) ) _#grn_{: .key} <br>
-**[Guatemala (GUA)](gt.html#gua)** ( [Guatemala (GUA)](gt.html) ) _#gua_{: .key} <br>
-**[Guyana (GUY)](gy.html#guy)** ( [Guyana (GUY)](gy.html) ) _#guy_{: .key} <br>
 
 </div>
 
@@ -8623,8 +8808,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Haiti (HAI)](ht.html#hai)** ( [Haiti (HAI)](ht.html) ) _#hai_{: .key} <br>
-**[Honduras (HON)](hn.html#hon)** ( [Honduras (HON)](hn.html) ) _#hon_{: .key} <br>
 
 </div>
 
@@ -8635,11 +8818,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Irland (IRL)](ie.html#irl)** ( [Irland (IRL)](ie.html) ) _#irl_{: .key} <br>
-**[Iran (IRN)](ir.html#irn)** ( [Iran (IRN)](ir.html) ) _#irn_{: .key} <br>
-**[Iraq (IRQ)](iq.html#irq)** ( [Iraq (IRQ)](iq.html) ) _#irq_{: .key} <br>
-**[Iceland (ISL)](is.html#isl)** ( [Iceland (ISL)](is.html) ) _#isl_{: .key} <br>
-**[Italy (ITA)](it.html#ita)** ( [Italy (ITA)](it.html) ) _#ita_{: .key} <br>
 
 </div>
 
@@ -8650,9 +8828,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Jamaica (JAM)](jm.html#jam)** ( [Jamaica (JAM)](jm.html) ) _#jam_{: .key} <br>
-**[Jordan (JOR)](jo.html#jor)** ( [Jordan (JOR)](jo.html) ) _#jor_{: .key} <br>
-**[Japan (JPN)](jp.html#jpn)** ( [Japan (JPN)](jp.html) ) _#jpn_{: .key} <br>
 
 </div>
 
@@ -8663,8 +8838,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Kazakhstan (KAZ)](kz.html#kaz)** ( [Kazakhstan (KAZ)](kz.html) ) _#kaz_{: .key} <br>
-**[South Korea (KOR)](kr.html#kor)** ( [South Korea (KOR)](kr.html) ) _#kor_{: .key} <br>
 
 </div>
 
@@ -8685,10 +8858,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Morocco (MAR)](ma.html#mar)** ( [Morocco (MAR)](ma.html) ) _#mar_{: .key} <br>
-**[Mexico (MEX)](mx.html#mex)** ( [México [Mexico] (MEX)](mx.html) ) _#mex_{: .key} <br>
-**[Mali (MLI)](ml.html#mli)** ( [Mali (MLI)](ml.html) ) _#mli_{: .key} <br>
-**[Martinique (MTQ)](mq.html#mtq)** ( [Martinique (MTQ)](mq.html) ) _#mtq_{: .key} <br>
 
 </div>
 
@@ -8699,10 +8868,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Netherlands (NED)](nl.html#ned)** ( [Netherlands (NED)](nl.html) ) _#ned_{: .key} <br>
-**[Nigeria (NGA)](ng.html#nga)** ( [Nigeria (NGA)](ng.html) ) _#nga_{: .key} <br>
-**[Niger (NIG)](ne.html#nig)** ( [Niger (NIG)](ne.html) ) _#nig_{: .key} <br>
-**[New Zealand (NZL)](nz.html#nzl)** ( [New Zealand (NZL)](nz.html) ) _#nzl_{: .key} <br>
 
 </div>
 
@@ -8723,12 +8888,8 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Panama (PAN)](pa.html#pan)** ( [Panamá [Panama] (PAN)](pa.html) ) _#pan_{: .key} <br>
 **[Paraguay (PAR)](py.html#par)** ( [Paraguay (PAR)](py.html) ) _#par_{: .key} <br>
 **[Peru (PER)](pe.html#per)** ( [Peru (PER)](pe.html) ) _#per_{: .key} <br>
-**[Poland (POL)](pl.html#pol)** ( [Poland (POL)](pl.html) ) _#pol_{: .key} <br>
-**[Portugal (POR)](pt.html#por)** ( [Portugal (POR)](pt.html) ) _#por_{: .key} <br>
-**[North Korea (PRK)](kp.html#prk)** ( [North Korea (PRK)](kp.html) ) _#prk_{: .key} <br>
 
 </div>
 
@@ -8749,9 +8910,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Romania (ROU)](ro.html#rou)** ( [Romania (ROU)](ro.html) ) _#rou_{: .key} <br>
-**[South Africa (RSA)](za.html#rsa)** ( [South Africa (RSA)](za.html) ) _#rsa_{: .key} <br>
-**[Russia (RUS)](ru.html#rus)** ( [Russia (RUS)](ru.html) ) _#rus_{: .key} <br>
 
 </div>
 
@@ -8762,13 +8920,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Senegal (SEN)](sn.html#sen)** ( [Senegal (SEN)](sn.html) ) _#sen_{: .key} <br>
-**[El Salvador (SLV)](sv.html#slv)** ( [El Salvador (SLV)](sv.html) ) _#slv_{: .key} <br>
-**[Serbia (SRB)](rs.html#srb)** ( [Serbia (SRB)](rs.html) ) _#srb_{: .key} <br>
-**[Switzerland (SUI)](ch.html#sui)** ( [Switzerland (SUI)](ch.html) ) _#sui_{: .key} <br>
-**[Slovakia (SVK)](sk.html#svk)** ( [Slovakia (SVK)](sk.html) ) _#svk_{: .key} <br>
-**[Slovenia (SVN)](si.html#svn)** ( [Slovenia (SVN)](si.html) ) _#svn_{: .key} <br>
-**[Sweden (SWE)](se.html#swe)** ( [Sweden (SWE)](se.html) ) _#swe_{: .key} <br>
 
 </div>
 
@@ -8779,11 +8930,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Tahiti (TAH)](pf.html#tah)** ( [Tahiti (TAH)](pf.html) ) _#tah_{: .key} <br>
-**[Togo (TOG)](tg.html#tog)** ( [Togo (TOG)](tg.html) ) _#tog_{: .key} <br>
-**[Trinidad and Tobago (TRI)](tt.html#tri)** ( [Trinidad and Tobago (TRI)](tt.html) ) _#tri_{: .key} <br>
-**[Tunisia (TUN)](tn.html#tun)** ( [Tunisia (TUN)](tn.html) ) _#tun_{: .key} <br>
-**[Turkey (TUR)](tr.html#tur)** ( [Turkey (TUR)](tr.html) ) _#tur_{: .key} <br>
 
 </div>
 
@@ -8794,9 +8940,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Ukraine (UKR)](ua.html#ukr)** ( [Ukraine (UKR)](ua.html) ) _#ukr_{: .key} <br>
 **[Uruguay (URU)](uy.html#uru)** ( [Uruguay (URU)](uy.html) ) _#uru_{: .key} <br>
-**[United States (USA)](us.html#usa)** ( [United States (USA)](us.html) ) _#usa_{: .key} <br>
 
 </div>
 
@@ -8848,8 +8992,20 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Zambia (ZAM)](zm.html#zam)** ( [Zambia (ZAM)](zm.html) ) _#zam_{: .key} <br>
 
 </div>
 
+
+
+<!-- back page stuff
+-->
+
+Stats:
+
+- 76 National Teams
+- 10 Clubs
+- 254 Games
+- 6 Leagues & Tournaments
+- 7 Events
+- 159 Stadiums
 

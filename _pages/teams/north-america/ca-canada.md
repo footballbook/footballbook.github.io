@@ -4,7 +4,7 @@ title: Canada (CAN)
 permalink: /ca.html
 ---
 
-## Canada (CAN) - 1 Teams
+## Canada (CAN) - 0 Clubs
 {: #ca }
 
 
@@ -29,7 +29,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -43,7 +43,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -57,7 +57,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -71,7 +71,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -85,7 +85,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -99,7 +99,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -113,7 +113,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -127,7 +127,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -141,7 +141,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -155,7 +155,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -169,7 +169,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -183,7 +183,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -197,7 +197,7 @@ Canada  (CAN)  _#can_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

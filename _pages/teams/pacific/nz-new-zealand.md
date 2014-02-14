@@ -4,7 +4,7 @@ title: New Zealand (NZL)
 permalink: /nz.html
 ---
 
-## New Zealand (NZL) - 1 Teams
+## New Zealand (NZL) - 0 Clubs
 {: #nz }
 
 

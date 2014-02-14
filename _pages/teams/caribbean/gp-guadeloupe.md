@@ -4,7 +4,7 @@ title: Guadeloupe (GPE)
 permalink: /gp.html
 ---
 
-## Guadeloupe (GPE) - 1 Teams
+## Guadeloupe (GPE) - 0 Clubs
 {: #gp }
 
 

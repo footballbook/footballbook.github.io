@@ -4,7 +4,7 @@ title: Turkey (TUR)
 permalink: /tr.html
 ---
 
-## Turkey (TUR) - 1 Teams
+## Turkey (TUR) - 0 Clubs
 {: #tr }
 
 

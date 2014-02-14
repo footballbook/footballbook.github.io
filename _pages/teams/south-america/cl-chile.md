@@ -4,7 +4,7 @@ title: Chile (CHI)
 permalink: /cl.html
 ---
 
-## Chile (CHI) - 1 Teams
+## Chile (CHI) - 1 Clubs
 {: #cl }
 
 

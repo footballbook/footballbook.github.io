@@ -71,3 +71,11 @@ def render_teams_idx( opts={} )
   text << render_erb_template( tmpl, binding )
   text
 end
+
+def render_back( opts={} )
+  tmpl = File.read_utf8( '_templates/back.md' )
+  text = ''
+  text << render_frontmatter( opts[:frontmatter] )  if opts[:frontmatter]
+  text << render_erb_template( tmpl, binding )
+  text
+end

@@ -4,7 +4,7 @@ title: Ghana (GHA)
 permalink: /gh.html
 ---
 
-## Ghana (GHA) - 1 Teams
+## Ghana (GHA) - 0 Clubs
 {: #gh }
 
 

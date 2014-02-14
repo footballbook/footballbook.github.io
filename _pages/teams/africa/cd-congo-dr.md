@@ -4,7 +4,7 @@ title: Congo DR (COD)
 permalink: /cd.html
 ---
 
-## Congo DR (COD) - 1 Teams
+## Congo DR (COD) - 0 Clubs
 {: #cd }
 
 

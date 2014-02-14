@@ -4,7 +4,7 @@ title: North Korea (PRK)
 permalink: /kp.html
 ---
 
-## North Korea (PRK) - 1 Teams
+## North Korea (PRK) - 0 Clubs
 {: #kp }
 
 

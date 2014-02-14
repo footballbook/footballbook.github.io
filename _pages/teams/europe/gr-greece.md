@@ -4,7 +4,7 @@ title: Greece (GRE)
 permalink: /gr.html
 ---
 
-## Greece (GRE) - 1 Teams
+## Greece (GRE) - 0 Clubs
 {: #gr }
 
 

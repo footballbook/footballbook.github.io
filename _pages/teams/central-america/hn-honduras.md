@@ -4,7 +4,7 @@ title: Honduras (HON)
 permalink: /hn.html
 ---
 
-## Honduras (HON) - 1 Teams
+## Honduras (HON) - 0 Clubs
 {: #hn }
 
 

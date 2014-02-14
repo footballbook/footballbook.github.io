@@ -4,7 +4,7 @@ title: France (FRA)
 permalink: /fr.html
 ---
 
-## France (FRA) - 1 Teams
+## France (FRA) - 0 Clubs
 {: #fr }
 
 
@@ -29,7 +29,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -43,7 +43,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -57,7 +57,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -71,7 +71,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -85,7 +85,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -99,7 +99,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -113,7 +113,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -127,7 +127,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -141,7 +141,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -155,7 +155,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -169,7 +169,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -183,7 +183,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -197,7 +197,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -211,7 +211,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -225,7 +225,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -239,7 +239,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -253,7 +253,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -267,7 +267,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -281,7 +281,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -295,7 +295,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -309,7 +309,7 @@ France  (FRA)  _#fra_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

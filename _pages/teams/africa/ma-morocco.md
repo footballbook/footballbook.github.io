@@ -4,7 +4,7 @@ title: Morocco (MAR)
 permalink: /ma.html
 ---
 
-## Morocco (MAR) - 1 Teams
+## Morocco (MAR) - 0 Clubs
 {: #ma }
 
 

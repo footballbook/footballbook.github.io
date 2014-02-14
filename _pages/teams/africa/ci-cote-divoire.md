@@ -4,7 +4,7 @@ title: Côte d'Ivoire (CIV)
 permalink: /ci.html
 ---
 
-## Côte d'Ivoire (CIV) - 1 Teams
+## Côte d'Ivoire (CIV) - 0 Clubs
 {: #ci }
 
 

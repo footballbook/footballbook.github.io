@@ -4,7 +4,7 @@ title: Denmark (DEN)
 permalink: /dk.html
 ---
 
-## Denmark (DEN) - 1 Teams
+## Denmark (DEN) - 0 Clubs
 {: #dk }
 
 

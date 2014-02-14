@@ -4,7 +4,7 @@ title: Burkina Faso (BFA)
 permalink: /bf.html
 ---
 
-## Burkina Faso (BFA) - 1 Teams
+## Burkina Faso (BFA) - 0 Clubs
 {: #bf }
 
 

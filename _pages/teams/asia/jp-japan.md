@@ -4,7 +4,7 @@ title: Japan (JPN)
 permalink: /jp.html
 ---
 
-## Japan (JPN) - 1 Teams
+## Japan (JPN) - 0 Clubs
 {: #jp }
 
 

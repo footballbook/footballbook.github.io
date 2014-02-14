@@ -4,7 +4,7 @@ title: Senegal (SEN)
 permalink: /sn.html
 ---
 
-## Senegal (SEN) - 1 Teams
+## Senegal (SEN) - 0 Clubs
 {: #sn }
 
 

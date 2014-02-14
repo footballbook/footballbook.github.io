@@ -4,7 +4,7 @@ title: Slovakia (SVK)
 permalink: /sk.html
 ---
 
-## Slovakia (SVK) - 1 Teams
+## Slovakia (SVK) - 0 Clubs
 {: #sk }
 
 
@@ -29,7 +29,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -43,7 +43,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -57,7 +57,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -71,7 +71,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -85,7 +85,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -99,7 +99,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -113,7 +113,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>
@@ -127,7 +127,7 @@ Slovakia  (SVK)  _#svk_{: .key} <br>
 
 
 
-<div class='columns3' markdown='1'>
+<div class='columns300' markdown='1'>
 
 
 </div>

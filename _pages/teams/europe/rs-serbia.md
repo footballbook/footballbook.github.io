@@ -4,7 +4,7 @@ title: Serbia (SRB)
 permalink: /rs.html
 ---
 
-## Serbia (SRB) - 1 Teams
+## Serbia (SRB) - 0 Clubs
 {: #rs }
 
 

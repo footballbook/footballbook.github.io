@@ -4,6 +4,26 @@
 # part helpers
 
 
+
+def render_world_tree_for( o, opts={} )
+  buf = ''
+
+  values = []
+  if o.city_id.present?    ## todo/fix: can we just use o.city? or o.city.present?
+    values << o.city.title
+    values << o.city.region.title              if o.city.region_id.present?
+    values << o.city.country.title
+    values << o.city.country.continent.title   if o.city.country.continent_id.present?
+  else
+    values << o.country.title
+    values << o.country.continent.title   if o.country.continent_id.present?
+  end
+
+  buf << values.join(', ')
+  buf
+end
+
+
 #####
 # todo: find a better name for ender_toc_countries ??
 

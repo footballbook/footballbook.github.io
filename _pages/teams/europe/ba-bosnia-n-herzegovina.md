@@ -4,7 +4,7 @@ title: Bosnia and Herzegovina (BIH)
 permalink: /ba.html
 ---
 
-## Bosnia and Herzegovina (BIH) - 1 Teams
+## Bosnia and Herzegovina (BIH) - 0 Clubs
 {: #ba }
 
 

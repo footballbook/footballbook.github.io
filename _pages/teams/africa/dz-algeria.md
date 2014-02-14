@@ -4,7 +4,7 @@ title: Algeria (ALG)
 permalink: /dz.html
 ---
 
-## Algeria (ALG) - 1 Teams
+## Algeria (ALG) - 0 Clubs
 {: #dz }
 
 

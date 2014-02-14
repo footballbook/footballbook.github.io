@@ -4,7 +4,7 @@ title: Poland (POL)
 permalink: /pl.html
 ---
 
-## Poland (POL) - 1 Teams
+## Poland (POL) - 0 Clubs
 {: #pl }
 
 

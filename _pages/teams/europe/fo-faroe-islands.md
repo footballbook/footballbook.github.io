@@ -4,7 +4,7 @@ title: Faroe Islands (FRO)
 permalink: /fo.html
 ---
 
-## Faroe Islands (FRO) - 1 Teams
+## Faroe Islands (FRO) - 0 Clubs
 {: #fo }
 
 

@@ -4,7 +4,7 @@ title: Niger (NIG)
 permalink: /ne.html
 ---
 
-## Niger (NIG) - 1 Teams
+## Niger (NIG) - 0 Clubs
 {: #ne }
 
 

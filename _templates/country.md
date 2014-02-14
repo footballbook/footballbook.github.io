@@ -1,7 +1,7 @@
 ## {{ country.title }}   ++
    ({{ country.code }})  ++
    -                     ++
-   {{ country.teams.count }} Teams
+   {{ country.teams.where(club:true).count }} Clubs
    {: #{{ country.key }} }
 
 
@@ -42,8 +42,8 @@
  <!-- change to navbar_cities_for_region( region ) ??? -->
  <!-- cities_navbar_for_region( region ) -->
 
- {{ columns_begin( columns: 3 ) }}
+ {{ columns_begin }}
  {{ render_teams( region.teams.order(:title) ) }}
- {{ columns_end() }}
+ {{ columns_end }}
 
 {% end %} <!-- each region -->

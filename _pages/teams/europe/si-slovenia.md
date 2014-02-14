@@ -4,7 +4,7 @@ title: Slovenia (SVN)
 permalink: /si.html
 ---
 
-## Slovenia (SVN) - 1 Teams
+## Slovenia (SVN) - 0 Clubs
 {: #si }
 
 

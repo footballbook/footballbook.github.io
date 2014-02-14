@@ -4,7 +4,7 @@ title: Panamá [Panama] (PAN)
 permalink: /pa.html
 ---
 
-## Panamá [Panama] (PAN) - 1 Teams
+## Panamá [Panama] (PAN) - 0 Clubs
 {: #pa }
 
 

@@ -4,7 +4,7 @@ title: Portugal (POR)
 permalink: /pt.html
 ---
 
-## Portugal (POR) - 1 Teams
+## Portugal (POR) - 0 Clubs
 {: #pt }
 
 

@@ -4,7 +4,7 @@ title: Guatemala (GUA)
 permalink: /gt.html
 ---
 
-## Guatemala (GUA) - 1 Teams
+## Guatemala (GUA) - 0 Clubs
 {: #gt }
 
 

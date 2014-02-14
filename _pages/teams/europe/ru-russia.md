@@ -4,7 +4,7 @@ title: Russia (RUS)
 permalink: /ru.html
 ---
 
-## Russia (RUS) - 1 Teams
+## Russia (RUS) - 0 Clubs
 {: #ru }
 
 

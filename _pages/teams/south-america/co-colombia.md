@@ -4,7 +4,7 @@ title: Colombia (COL)
 permalink: /co.html
 ---
 
-## Colombia (COL) - 1 Teams
+## Colombia (COL) - 1 Clubs
 {: #co }
 
 

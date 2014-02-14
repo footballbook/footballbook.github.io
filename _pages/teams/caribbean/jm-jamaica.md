@@ -4,7 +4,7 @@ title: Jamaica (JAM)
 permalink: /jm.html
 ---
 
-## Jamaica (JAM) - 1 Teams
+## Jamaica (JAM) - 0 Clubs
 {: #jm }
 
 

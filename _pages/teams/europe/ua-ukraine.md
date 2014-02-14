@@ -4,7 +4,7 @@ title: Ukraine (UKR)
 permalink: /ua.html
 ---
 
-## Ukraine (UKR) - 1 Teams
+## Ukraine (UKR) - 0 Clubs
 {: #ua }
 
 

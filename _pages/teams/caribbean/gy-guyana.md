@@ -4,7 +4,7 @@ title: Guyana (GUY)
 permalink: /gy.html
 ---
 
-## Guyana (GUY) - 1 Teams
+## Guyana (GUY) - 0 Clubs
 {: #gy }
 
 

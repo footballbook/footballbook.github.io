@@ -4,7 +4,7 @@ title: Nigeria (NGA)
 permalink: /ng.html
 ---
 
-## Nigeria (NGA) - 1 Teams
+## Nigeria (NGA) - 0 Clubs
 {: #ng }
 
 

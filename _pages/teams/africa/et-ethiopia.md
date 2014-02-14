@@ -4,7 +4,7 @@ title: Ethiopia (ETH)
 permalink: /et.html
 ---
 
-## Ethiopia (ETH) - 1 Teams
+## Ethiopia (ETH) - 0 Clubs
 {: #et }
 
 

@@ -4,7 +4,7 @@ title: Finland (FIN)
 permalink: /fi.html
 ---
 
-## Finland (FIN) - 1 Teams
+## Finland (FIN) - 0 Clubs
 {: #fi }
 
 

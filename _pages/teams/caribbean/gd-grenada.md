@@ -4,7 +4,7 @@ title: Grenada (GRN)
 permalink: /gd.html
 ---
 
-## Grenada (GRN) - 1 Teams
+## Grenada (GRN) - 0 Clubs
 {: #gd }
 
 

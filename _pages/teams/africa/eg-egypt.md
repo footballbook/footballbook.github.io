@@ -4,7 +4,7 @@ title: Egypt (EGY)
 permalink: /eg.html
 ---
 
-## Egypt (EGY) - 1 Teams
+## Egypt (EGY) - 0 Clubs
 {: #eg }
 
 

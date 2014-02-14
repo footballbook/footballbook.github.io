@@ -58,8 +58,9 @@ EOS
 
   build_page_grounds( opts )
 
-
   build_page_teams_idx( opts )
+
+  build_page_back( opts )
 
 
 end # method build_book

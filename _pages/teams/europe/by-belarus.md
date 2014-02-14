@@ -4,7 +4,7 @@ title: Belarus (BLR)
 permalink: /by.html
 ---
 
-## Belarus (BLR) - 1 Teams
+## Belarus (BLR) - 0 Clubs
 {: #by }
 
 

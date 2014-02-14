@@ -4,7 +4,7 @@ title: Jordan (JOR)
 permalink: /jo.html
 ---
 
-## Jordan (JOR) - 1 Teams
+## Jordan (JOR) - 0 Clubs
 {: #jo }
 
 

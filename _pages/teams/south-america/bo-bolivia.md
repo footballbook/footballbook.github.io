@@ -4,7 +4,7 @@ title: Bolivia (BOL)
 permalink: /bo.html
 ---
 
-## Bolivia (BOL) - 1 Teams
+## Bolivia (BOL) - 1 Clubs
 {: #bo }
 
 

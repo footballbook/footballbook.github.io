@@ -4,7 +4,7 @@ title: Haiti (HAI)
 permalink: /ht.html
 ---
 
-## Haiti (HAI) - 1 Teams
+## Haiti (HAI) - 0 Clubs
 {: #ht }
 
 

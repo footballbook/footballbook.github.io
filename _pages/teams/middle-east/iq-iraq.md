@@ -4,7 +4,7 @@ title: Iraq (IRQ)
 permalink: /iq.html
 ---
 
-## Iraq (IRQ) - 1 Teams
+## Iraq (IRQ) - 0 Clubs
 {: #iq }
 
 

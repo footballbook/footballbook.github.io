@@ -4,7 +4,7 @@ title: Cape Verde (CPV)
 permalink: /cv.html
 ---
 
-## Cape Verde (CPV) - 1 Teams
+## Cape Verde (CPV) - 0 Clubs
 {: #cv }
 
 

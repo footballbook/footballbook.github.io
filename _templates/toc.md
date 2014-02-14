@@ -1,4 +1,4 @@
-## Table of Contents
+## Contents
 
 [Leagues & Tournaments](#events) •
 [World Tour](#tour) •
@@ -62,6 +62,6 @@
 {: #az}
 
 <!-- fix: for all-in-one page version use/check opts :inline -->
-[Teams A-Z Index](teams.html) _({{Country.count}})_{: .count} <br>
+[Teams A-Z Index](teams.html) _({{Team.where(club:true).count}})_{: .count} <br>
 
 <!-- [Leagues & Tournaments A-Z Index](events.html) _({{Event.count}})_{: .count} <br> -->

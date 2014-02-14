@@ -4,7 +4,7 @@ title: Belize (BLZ)
 permalink: /bz.html
 ---
 
-## Belize (BLZ) - 1 Teams
+## Belize (BLZ) - 0 Clubs
 {: #bz }
 
 

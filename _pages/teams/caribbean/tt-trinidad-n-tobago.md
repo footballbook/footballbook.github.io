@@ -4,7 +4,7 @@ title: Trinidad and Tobago (TRI)
 permalink: /tt.html
 ---
 
-## Trinidad and Tobago (TRI) - 1 Teams
+## Trinidad and Tobago (TRI) - 0 Clubs
 {: #tt }
 
 

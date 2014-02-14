@@ -4,7 +4,7 @@ title: Ecuador (ECU)
 permalink: /ec.html
 ---
 
-## Ecuador (ECU) - 1 Teams
+## Ecuador (ECU) - 1 Clubs
 {: #ec }
 
 

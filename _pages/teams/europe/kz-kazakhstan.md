@@ -4,7 +4,7 @@ title: Kazakhstan (KAZ)
 permalink: /kz.html
 ---
 
-## Kazakhstan (KAZ) - 1 Teams
+## Kazakhstan (KAZ) - 0 Clubs
 {: #kz }
 
 
