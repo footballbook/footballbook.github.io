@@ -4,7 +4,7 @@ title: Venezuela (VEN)
 permalink: /ve.html
 ---
 
-## Venezuela (VEN) - 1 Clubs
+## Venezuela (VEN) - 0 Clubs
 {: #ve }
 
 

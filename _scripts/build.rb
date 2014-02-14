@@ -25,6 +25,7 @@ require_relative 'helpers/navbar'
 require_relative 'helpers/part'
 require_relative 'helpers/misc'
 require_relative 'helpers/city'
+require_relative 'helpers/ground'
 require_relative 'helpers/team'
 require_relative 'helpers/page'
 

@@ -4,7 +4,7 @@ title: Brazil (BRA)
 permalink: /br.html
 ---
 
-## Brazil (BRA) - 1 Clubs
+## Brazil (BRA) - 0 Clubs
 {: #br }
 
 

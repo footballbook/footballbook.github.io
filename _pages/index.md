@@ -7,7 +7,7 @@ permalink: /index.html
 # The Free World Football Almanac
 
 
-Last Update:  2014-02-14 14:48:19 -0600
+Last Update:  2014-02-14 16:31:15 -0600
 
 
 Auto-built from the open public domain football data (`football.db`)
@@ -95,16 +95,16 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[Argentina (ARG)](ar.html) -- _1 Clubs_{:.count}  <br>
-[Bolivia (BOL)](bo.html) -- _1 Clubs_{:.count}  <br>
-[Brazil (BRA)](br.html) -- _1 Clubs_{:.count}  <br>
-[Chile (CHI)](cl.html) -- _1 Clubs_{:.count}  <br>
-[Colombia (COL)](co.html) -- _1 Clubs_{:.count}  <br>
-[Ecuador (ECU)](ec.html) -- _1 Clubs_{:.count}  <br>
-[Paraguay (PAR)](py.html) -- _1 Clubs_{:.count}  <br>
-[Peru (PER)](pe.html) -- _1 Clubs_{:.count}  <br>
-[Uruguay (URU)](uy.html) -- _1 Clubs_{:.count}  <br>
-[Venezuela (VEN)](ve.html) -- _1 Clubs_{:.count}  <br>
+[Argentina (ARG)](ar.html) -- _1 National Team_{:.count}  <br>
+[Bolivia (BOL)](bo.html) -- _1 National Team_{:.count}  <br>
+[Brazil (BRA)](br.html) -- _1 National Team_{:.count}  <br>
+[Chile (CHI)](cl.html) -- _1 National Team_{:.count}  <br>
+[Colombia (COL)](co.html) -- _1 National Team_{:.count}  <br>
+[Ecuador (ECU)](ec.html) -- _1 National Team_{:.count}  <br>
+[Paraguay (PAR)](py.html) -- _1 National Team_{:.count}  <br>
+[Peru (PER)](pe.html) -- _1 National Team_{:.count}  <br>
+[Uruguay (URU)](uy.html) -- _1 National Team_{:.count}  <br>
+[Venezuela (VEN)](ve.html) -- _1 National Team_{:.count}  <br>
 
 </div>
 
@@ -257,11 +257,11 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 [Stadiums](stadiums.html) _(159)_{: .count} <br>
 
 
-### A-Z Teams
+### A-Z National Teams, Clubs
 {: #az}
 
 
-[National Teams A-Z Index](national-teams.html) _(76)_{: .count} <br>
-[Clubs A-Z Index](clubs.html) _(10)_{: .count} <br>
+[National Teams A-Z Index](national-teams.html) _(86)_{: .count} <br>
+[Clubs A-Z Index](clubs.html) _(0)_{: .count} <br>
 
 

@@ -49,12 +49,11 @@
 
 
 {% event.rounds.each do |round| %}
-|{: colspan='4'} ++ 
-   **{{ round.title }}** ++
-   {{ "/ #{round.title2}" if round.title2.present? }} ++
-|
-.. <!-- new row -->
-..
+
+##### {{ round.title }} ++
+   {{ " / #{round.title2}" if round.title2.present? }}
+
+
   {% round.games.each do |game| %}
   | ++
      {{ game.play_at.strftime('(%a) %-d/%b %Y %H:%M' ) }}  ++

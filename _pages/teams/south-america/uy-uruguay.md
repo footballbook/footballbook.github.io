@@ -4,7 +4,7 @@ title: Uruguay (URU)
 permalink: /uy.html
 ---
 
-## Uruguay (URU) - 1 Clubs
+## Uruguay (URU) - 0 Clubs
 {: #uy }
 
 

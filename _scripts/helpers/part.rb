@@ -6,17 +6,28 @@
 
 
 def render_world_tree_for( o, opts={} )
+
+  ### fix: move to helpers/world.rb  and rename to world_tree_for (remove render!!)
+
   buf = ''
 
   values = []
-  if o.city_id.present?    ## todo/fix: can we just use o.city? or o.city.present?
-    values << o.city.title
-    values << o.city.region.title              if o.city.region_id.present?
-    values << o.city.country.title
-    values << o.city.country.continent.title   if o.city.country.continent_id.present?
-  else
-    values << o.country.title
+
+  ## check special case
+  #  o is SportDb::Model::Team  and  national team (e.g. club:false)
+  if o.kind_of?( Team ) && o.club == false
+    #  skip country/region/city only show only continent if present
     values << o.country.continent.title   if o.country.continent_id.present?
+  else
+    if o.city_id.present?    ## todo/fix: can we just use o.city? or o.city.present?
+      values << o.city.title
+      values << o.city.region.title              if o.city.region_id.present?
+      values << o.city.country.title
+      values << o.city.country.continent.title   if o.city.country.continent_id.present?
+    else
+      values << o.country.title
+      values << o.country.continent.title   if o.country.continent_id.present?
+    end
   end
 
   buf << values.join(', ')

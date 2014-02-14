@@ -4,7 +4,7 @@ title: National Teams A-Z Index
 permalink: /national-teams.html
 ---
 
-## National Teams A-Z Index _(76)_{:.count}
+## National Teams A-Z Index _(86)_{:.count}
 
 
  A •  B •  C •  D •  E •  F •  G •  H •  I •  J •  K •  L •  M •  N •  O •  P •  Q •  R •  S •  T •  U •  V •  W •  X •  Y •  Z
@@ -17,6 +17,7 @@ permalink: /national-teams.html
 
 **[Algeria (ALG)](dz.html#alg)** ( [Algeria (ALG)](dz.html) ) _#alg_{: .key} <br>
 **[Angola (ANG)](ao.html#ang)** ( [Angola (ANG)](ao.html) ) _#ang_{: .key} <br>
+**[Argentina (ARG)](ar.html#arg)** ( [Argentina (ARG)](ar.html) ) _#arg_{: .key} <br>
 **[Australia (AUS)](au.html#aus)** ( [Australia (AUS)](au.html) ) _#aus_{: .key} <br>
 **[Austria (AUT)](at.html#aut)** ( [Austria (AUT)](at.html) ) _#aut_{: .key} <br>
 
@@ -34,6 +35,8 @@ permalink: /national-teams.html
 **[Bosnia-Herzegovina (BIH)](ba.html#bih)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#bih_{: .key} <br>
 **[Belarus (BLR)](by.html#blr)** ( [Belarus (BLR)](by.html) ) _#blr_{: .key} <br>
 **[Belize (BLZ)](bz.html#blz)** ( [Belize (BLZ)](bz.html) ) _#blz_{: .key} <br>
+**[Bolivia (BOL)](bo.html#bol)** ( [Bolivia (BOL)](bo.html) ) _#bol_{: .key} <br>
+**[Brazil (BRA)](br.html#bra)** ( [Brazil (BRA)](br.html) ) _#bra_{: .key} <br>
 
 </div>
 
@@ -45,9 +48,11 @@ permalink: /national-teams.html
 <div class='columns300' markdown='1'>
 
 **[Canada (CAN)](ca.html#can)** ( [Canada (CAN)](ca.html) ) _#can_{: .key} <br>
+**[Chile (CHI)](cl.html#chi)** ( [Chile (CHI)](cl.html) ) _#chi_{: .key} <br>
 **[Côte d'Ivoire (CIV)](ci.html#civ)** ( [Côte d'Ivoire (CIV)](ci.html) ) _#civ_{: .key} <br>
 **[Cameroon (CMR)](cm.html#cmr)** ( [Cameroon (CMR)](cm.html) ) _#cmr_{: .key} <br>
 **[Congo DR (COD)](cd.html#cod)** ( [Congo DR (COD)](cd.html) ) _#cod_{: .key} <br>
+**[Colombia (COL)](co.html#col)** ( [Colombia (COL)](co.html) ) _#col_{: .key} <br>
 **[Cape Verde (CPV)](cv.html#cpv)** ( [Cape Verde (CPV)](cv.html) ) _#cpv_{: .key} <br>
 **[Costa Rica (CRC)](cr.html#crc)** ( [Costa Rica (CRC)](cr.html) ) _#crc_{: .key} <br>
 **[Croatia (CRO)](hr.html#cro)** ( [Croatia (CRO)](hr.html) ) _#cro_{: .key} <br>
@@ -74,6 +79,7 @@ permalink: /national-teams.html
 
 <div class='columns300' markdown='1'>
 
+**[Ecuador (ECU)](ec.html#ecu)** ( [Ecuador (ECU)](ec.html) ) _#ecu_{: .key} <br>
 **[Egypt (EGY)](eg.html#egy)** ( [Egypt (EGY)](eg.html) ) _#egy_{: .key} <br>
 **[England (ENG)](en.html#eng)** ( [England (ENG)](en.html) ) _#eng_{: .key} <br>
 **[Spain (ESP)](es.html#esp)** ( [Spain (ESP)](es.html) ) _#esp_{: .key} <br>
@@ -220,6 +226,8 @@ permalink: /national-teams.html
 <div class='columns300' markdown='1'>
 
 **[Panama (PAN)](pa.html#pan)** ( [Panamá [Panama] (PAN)](pa.html) ) _#pan_{: .key} <br>
+**[Paraguay (PAR)](py.html#par)** ( [Paraguay (PAR)](py.html) ) _#par_{: .key} <br>
+**[Peru (PER)](pe.html#per)** ( [Peru (PER)](pe.html) ) _#per_{: .key} <br>
 **[Poland (POL)](pl.html#pol)** ( [Poland (POL)](pl.html) ) _#pol_{: .key} <br>
 **[Portugal (POR)](pt.html#por)** ( [Portugal (POR)](pt.html) ) _#por_{: .key} <br>
 **[North Korea (PRK)](kp.html#prk)** ( [North Korea (PRK)](kp.html) ) _#prk_{: .key} <br>
@@ -289,6 +297,7 @@ permalink: /national-teams.html
 <div class='columns300' markdown='1'>
 
 **[Ukraine (UKR)](ua.html#ukr)** ( [Ukraine (UKR)](ua.html) ) _#ukr_{: .key} <br>
+**[Uruguay (URU)](uy.html#uru)** ( [Uruguay (URU)](uy.html) ) _#uru_{: .key} <br>
 **[United States (USA)](us.html#usa)** ( [United States (USA)](us.html) ) _#usa_{: .key} <br>
 
 </div>
@@ -300,6 +309,7 @@ permalink: /national-teams.html
 
 <div class='columns300' markdown='1'>
 
+**[Venezuela (VEN)](ve.html#ven)** ( [Venezuela (VEN)](ve.html) ) _#ven_{: .key} <br>
 
 </div>
 

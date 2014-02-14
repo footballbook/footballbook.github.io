@@ -4,7 +4,7 @@ title: Paraguay (PAR)
 permalink: /py.html
 ---
 
-## Paraguay (PAR) - 1 Clubs
+## Paraguay (PAR) - 0 Clubs
 {: #py }
 
 

@@ -11,23 +11,23 @@ permalink: /world.quali.europe.2014.html
 #### 17 Teams
 
 
-[Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
-[Germany (GER)](de.html#ger)  (Germany, Europe) <br>
-[Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
-[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-[Irland (IRL)](ie.html#irl)  (Irland, Europe) <br>
-[Croatia (CRO)](hr.html#cro)  (Croatia, Europe) <br>
-[Ukraine (UKR)](ua.html#ukr)  (Ukraine, Europe) <br>
-[Sweden (SWE)](se.html#swe)  (Sweden, Europe) <br>
-[France (FRA)](fr.html#fra)  (France, Europe) <br>
-[Faroe Islands (FRO)](fo.html#fro)  (Faroe Islands, Europe) <br>
-[Kazakhstan (KAZ)](kz.html#kaz)  (Kazakhstan, Europe) <br>
-[Austria (AUT)](at.html#aut)  (Austria, Europe) <br>
-[Belarus (BLR)](by.html#blr)  (Belarus, Europe) <br>
-[Finland (FIN)](fi.html#fin)  (Finland, Europe) <br>
-[Georgia (GEO)](ge.html#geo)  (Georgia, Europe) <br>
-[Romania (ROU)](ro.html#rou)  (Romania, Europe) <br>
-[Iceland (ISL)](is.html#isl)  (Iceland, Europe) <br>
+[Greece (GRE)](gr.html#gre)  (Europe) <br>
+[Germany (GER)](de.html#ger)  (Europe) <br>
+[Portugal (POR)](pt.html#por)  (Europe) <br>
+[Spain (ESP)](es.html#esp)  (Europe) <br>
+[Irland (IRL)](ie.html#irl)  (Europe) <br>
+[Croatia (CRO)](hr.html#cro)  (Europe) <br>
+[Ukraine (UKR)](ua.html#ukr)  (Europe) <br>
+[Sweden (SWE)](se.html#swe)  (Europe) <br>
+[France (FRA)](fr.html#fra)  (Europe) <br>
+[Faroe Islands (FRO)](fo.html#fro)  (Europe) <br>
+[Kazakhstan (KAZ)](kz.html#kaz)  (Europe) <br>
+[Austria (AUT)](at.html#aut)  (Europe) <br>
+[Belarus (BLR)](by.html#blr)  (Europe) <br>
+[Finland (FIN)](fi.html#fin)  (Europe) <br>
+[Georgia (GEO)](ge.html#geo)  (Europe) <br>
+[Romania (ROU)](ro.html#rou)  (Europe) <br>
+[Iceland (ISL)](is.html#isl)  (Europe) <br>
 
 
 
@@ -48,74 +48,116 @@ permalink: /world.quali.europe.2014.html
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 7 •  Matchday 8 •  Matchday 9 •  Matchday 10 •  Matchday 11 •  Matchday 12 •  Round 13  -  Play-off 1st Leg •  Round 14  -  Play-off 2nd Leg  (Knockout)
 
 
-|{: colspan='4'} **Matchday 1** / Fr. 7. Sep 2012 |
+
+##### Matchday 1  / Fr. 7. Sep 2012
+
+
 | (Fri) 7/Sep 2012 15:00 | Germany | 3 : 0 | Faroe Islands | (Group C) |
 | (Fri) 7/Sep 2012 15:00 | Georgia | 1 : 0 | Belarus | (Group I) |
 | (Fri) 7/Sep 2012 15:00 | Kazakhstan | 1 : 2 | Irland | (Group C) |
 | (Fri) 7/Sep 2012 15:00 | Finland | 0 : 1 | France | (Group I) |
-|{: colspan='4'} **Matchday 2** / Di. 11. Sep 2012 |
+
+##### Matchday 2  / Di. 11. Sep 2012
+
+
 | (Tue) 11/Sep 2012 15:00 | Austria | 1 : 2 | Germany | (Group C) |
 | (Tue) 11/Sep 2012 15:00 | Georgia | 0 : 1 | Spain | (Group I) |
 | (Tue) 11/Sep 2012 15:00 | Sweden | 2 : 0 | Kazakhstan | (Group C) |
 | (Tue) 11/Sep 2012 15:00 | France | 3 : 1 | Belarus | (Group I) |
-|{: colspan='4'} **Matchday 3** / Fr. 12. Okt 2012 |
+
+##### Matchday 3  / Fr. 12. Okt 2012
+
+
 | (Fri) 12/Oct 2012 20:45 | Irland | 1 : 6 | Germany | (Group C) |
 | (Fri) 12/Oct 2012 17:30 | Finland | 1 : 1 | Georgia | (Group I) |
 | (Fri) 12/Oct 2012 18:00 | Faroe Islands | 1 : 2 | Sweden | (Group C) |
 | (Fri) 12/Oct 2012 20:00 | Belarus | 0 : 4 | Spain | (Group I) |
 | (Fri) 12/Oct 2012 18:00 | Kazakhstan | 0 : 0 | Austria | (Group C) |
-|{: colspan='4'} **Matchday 4** / Di. 16. Okt 2012 |
+
+##### Matchday 4  / Di. 16. Okt 2012
+
+
 | (Tue) 16/Oct 2012 21:00 | Spain | 1 : 1 | France | (Group I) |
 | (Tue) 16/Oct 2012 20:45 | Germany | 4 : 4 | Sweden | (Group C) |
 | (Tue) 16/Oct 2012 18:00 | Belarus | 2 : 0 | Georgia | (Group I) |
 | (Tue) 16/Oct 2012 20:00 | Faroe Islands | 1 : 4 | Irland | (Group C) |
 | (Tue) 16/Oct 2012 20:30 | Austria | 4 : 0 | Kazakhstan | (Group C) |
-|{: colspan='4'} **Matchday 5** / Fr. 22. Mär 2013 |
+
+##### Matchday 5  / Fr. 22. Mär 2013
+
+
 | (Fri) 22/Mar 2013 15:00 | France | 3 : 1 | Georgia | (Group I) |
 | (Fri) 22/Mar 2013 15:00 | Spain | 1 : 1 | Finland | (Group I) |
 | (Fri) 22/Mar 2013 15:00 | Kazakhstan | 0 : 3 | Germany | (Group C) |
 | (Fri) 22/Mar 2013 15:00 | Austria | 6 : 0 | Faroe Islands | (Group C) |
 | (Fri) 22/Mar 2013 15:00 | Sweden | 0 : 0 | Irland | (Group C) |
-|{: colspan='4'} **Matchday 6** / Di. 26. Mär 2013 |
+
+##### Matchday 6  / Di. 26. Mär 2013
+
+
 | (Tue) 26/Mar 2013 15:00 | France | 0 : 1 | Spain | (Group I) |
 | (Tue) 26/Mar 2013 15:00 | Germany | 4 : 1 | Kazakhstan | (Group C) |
 | (Tue) 26/Mar 2013 15:00 | Irland | 2 : 2 | Austria | (Group C) |
-|{: colspan='4'} **Matchday 7** / Fr. 7. Jun 2013 |
+
+##### Matchday 7  / Fr. 7. Jun 2013
+
+
 | (Fri) 7/Jun 2013 15:00 | Finland | 1 : 0 | Belarus | (Group I) |
 | (Fri) 7/Jun 2013 15:00 | Irland | 3 : 0 | Faroe Islands | (Group C) |
 | (Fri) 7/Jun 2013 15:00 | Austria | 2 : 1 | Sweden | (Group C) |
-|{: colspan='4'} **Matchday 8** / Di. 11. Jun 2013 |
+
+##### Matchday 8  / Di. 11. Jun 2013
+
+
 | (Tue) 11/Jun 2013 15:00 | Belarus | 1 : 1 | Finland | (Group I) |
 | (Tue) 11/Jun 2013 15:00 | Sweden | 2 : 0 | Faroe Islands | (Group C) |
-|{: colspan='4'} **Matchday 9** / Fr. 6. Sep 2013 |
+
+##### Matchday 9  / Fr. 6. Sep 2013
+
+
 | (Fri) 6/Sep 2013 15:00 | Georgia | 0 : 0 | France | (Group I) |
 | (Fri) 6/Sep 2013 15:00 | Finland | 0 : 2 | Spain | (Group I) |
 | (Fri) 6/Sep 2013 15:00 | Germany | 3 : 0 | Austria | (Group C) |
 | (Fri) 6/Sep 2013 15:00 | Kazakhstan | 2 : 1 | Faroe Islands | (Group C) |
 | (Fri) 6/Sep 2013 15:00 | Irland | 1 : 2 | Sweden | (Group C) |
-|{: colspan='4'} **Matchday 10** / Di. 10. Sep 2013 |
+
+##### Matchday 10  / Di. 10. Sep 2013
+
+
 | (Tue) 10/Sep 2013 15:00 | Belarus | 2 : 4 | France | (Group I) |
 | (Tue) 10/Sep 2013 15:00 | Georgia | 0 : 1 | Finland | (Group I) |
 | (Tue) 10/Sep 2013 15:00 | Faroe Islands | 0 : 3 | Germany | (Group C) |
 | (Tue) 10/Sep 2013 15:00 | Austria | 1 : 0 | Irland | (Group C) |
 | (Tue) 10/Sep 2013 15:00 | Kazakhstan | 0 : 1 | Sweden | (Group C) |
-|{: colspan='4'} **Matchday 11** / Fr. 11. Okt 2013 |
+
+##### Matchday 11  / Fr. 11. Okt 2013
+
+
 | (Fri) 11/Oct 2013 15:00 | Spain | 2 : 1 | Belarus | (Group I) |
 | (Fri) 11/Oct 2013 15:00 | Germany | 3 : 0 | Irland | (Group C) |
 | (Fri) 11/Oct 2013 15:00 | Faroe Islands | 1 : 1 | Kazakhstan | (Group C) |
 | (Fri) 11/Oct 2013 15:00 | Sweden | 2 : 1 | Austria | (Group C) |
-|{: colspan='4'} **Matchday 12** / Di. 15. Okt 2013 |
+
+##### Matchday 12  / Di. 15. Okt 2013
+
+
 | (Tue) 15/Oct 2013 15:00 | France | 3 : 0 | Finland | (Group I) |
 | (Tue) 15/Oct 2013 15:00 | Spain | 2 : 0 | Georgia | (Group I) |
 | (Tue) 15/Oct 2013 15:00 | Sweden | 3 : 5 | Germany | (Group C) |
 | (Tue) 15/Oct 2013 15:00 | Faroe Islands | 0 : 3 | Austria | (Group C) |
 | (Tue) 15/Oct 2013 15:00 | Irland | 3 : 1 | Kazakhstan | (Group C) |
-|{: colspan='4'} **Round 13  -  Play-off 1st Leg** / Fr Nov 15, 2013 |
+
+##### Round 13  -  Play-off 1st Leg  / Fr Nov 15, 2013
+
+
 | (Fri) 15/Nov 2013 19:45 | Portugal | 1 : 0 | Sweden |  |
 | (Fri) 15/Nov 2013 21:45 | Ukraine | 2 : 0 | France |  |
 | (Fri) 15/Nov 2013 21:45 | Greece | 3 : 1 | Romania |  |
 | (Fri) 15/Nov 2013 19:00 | Iceland | 0 : 0 | Croatia |  |
-|{: colspan='4'} **Round 14  -  Play-off 2nd Leg  (Knockout)** / Tu Nov 19, 2013 |
+
+##### Round 14  -  Play-off 2nd Leg  (Knockout)  / Tu Nov 19, 2013
+
+
 | (Tue) 19/Nov 2013 20:45 | Sweden | 2 : 3 | Portugal |  |
 | (Tue) 19/Nov 2013 21:00 | France | 3 : 0 | Ukraine |  |
 | (Tue) 19/Nov 2013 21:00 | Romania | 1 : 1 | Greece |  |

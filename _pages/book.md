@@ -7,7 +7,7 @@ permalink: /book.html
 # The Free World Football Almanac
 
 
-Last Update:  2014-02-14 14:48:39 -0600
+Last Update:  2014-02-14 16:31:36 -0600
 
 
 Auto-built from the open public domain football data (`football.db`)
@@ -95,16 +95,16 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 
 <div class='columns3' markdown='1'>
 
-[Argentina (ARG)](#ar) -- _1 Clubs_{:.count}  <br>
-[Bolivia (BOL)](#bo) -- _1 Clubs_{:.count}  <br>
-[Brazil (BRA)](#br) -- _1 Clubs_{:.count}  <br>
-[Chile (CHI)](#cl) -- _1 Clubs_{:.count}  <br>
-[Colombia (COL)](#co) -- _1 Clubs_{:.count}  <br>
-[Ecuador (ECU)](#ec) -- _1 Clubs_{:.count}  <br>
-[Paraguay (PAR)](#py) -- _1 Clubs_{:.count}  <br>
-[Peru (PER)](#pe) -- _1 Clubs_{:.count}  <br>
-[Uruguay (URU)](#uy) -- _1 Clubs_{:.count}  <br>
-[Venezuela (VEN)](#ve) -- _1 Clubs_{:.count}  <br>
+[Argentina (ARG)](#ar) -- _1 National Team_{:.count}  <br>
+[Bolivia (BOL)](#bo) -- _1 National Team_{:.count}  <br>
+[Brazil (BRA)](#br) -- _1 National Team_{:.count}  <br>
+[Chile (CHI)](#cl) -- _1 National Team_{:.count}  <br>
+[Colombia (COL)](#co) -- _1 National Team_{:.count}  <br>
+[Ecuador (ECU)](#ec) -- _1 National Team_{:.count}  <br>
+[Paraguay (PAR)](#py) -- _1 National Team_{:.count}  <br>
+[Peru (PER)](#pe) -- _1 National Team_{:.count}  <br>
+[Uruguay (URU)](#uy) -- _1 National Team_{:.count}  <br>
+[Venezuela (VEN)](#ve) -- _1 National Team_{:.count}  <br>
 
 </div>
 
@@ -261,8 +261,8 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 {: #az}
 
 
-[National Teams A-Z Index](national-teams.html) _(76)_{: .count} <br>
-[Clubs A-Z Index](clubs.html) _(10)_{: .count} <br>
+[National Teams A-Z Index](national-teams.html) _(86)_{: .count} <br>
+[Clubs A-Z Index](clubs.html) _(0)_{: .count} <br>
 
 
 
@@ -272,14 +272,14 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 8 Teams
 
 
-[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-[Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-[Egypt (EGY)](eg.html#egy)  (Egypt, Africa) <br>
-[South Africa (RSA)](za.html#rsa)  (South Africa, Africa) <br>
-[United States (USA)](us.html#usa)  (United States, North America) <br>
-[Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-[Iraq (IRQ)](iq.html#irq)  (Iraq, Middle East) <br>
-[New Zealand (NZL)](nz.html#nzl)  (New Zealand, Pacific) <br>
+[Spain (ESP)](es.html#esp)  (Europe) <br>
+[Italy (ITA)](it.html#ita)  (Europe) <br>
+[Egypt (EGY)](eg.html#egy)  (Africa) <br>
+[South Africa (RSA)](za.html#rsa)  (Africa) <br>
+[United States (USA)](us.html#usa)  (North America) <br>
+[Brazil (BRA)](br.html#bra)  (South America) <br>
+[Iraq (IRQ)](iq.html#irq)  (Middle East) <br>
+[New Zealand (NZL)](nz.html#nzl)  (Pacific) <br>
 
 
 
@@ -300,30 +300,57 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Semi-finals •  Third-place play-off •  Final
 
 
-|{: colspan='4'} **Matchday 1**  |
+
+##### Matchday 1 
+
+
 | (Sun) 14/Jun 2009 12:00 | South Africa | 16 : 0 | Iraq | (Group A) |
 | (Sun) 14/Jun 2009 12:00 | New Zealand | 20 : 30 | Spain | (Group A) |
-|{: colspan='4'} **Matchday 2**  |
+
+##### Matchday 2 
+
+
 | (Mon) 15/Jun 2009 12:00 | Brazil | 16 : 0 | Egypt | (Group B) |
 | (Mon) 15/Jun 2009 12:00 | United States | 20 : 30 | Italy | (Group B) |
-|{: colspan='4'} **Matchday 3**  |
+
+##### Matchday 3 
+
+
 | (Wed) 17/Jun 2009 12:00 | Spain | 16 : 0 | Iraq | (Group A) |
 | (Wed) 17/Jun 2009 12:00 | South Africa | 20 : 30 | New Zealand | (Group A) |
-|{: colspan='4'} **Matchday 4**  |
+
+##### Matchday 4 
+
+
 | (Thu) 18/Jun 2009 12:00 | United States | 16 : 0 | Brazil | (Group B) |
 | (Thu) 18/Jun 2009 12:00 | Egypt | 20 : 30 | Italy | (Group B) |
-|{: colspan='4'} **Matchday 5**  |
+
+##### Matchday 5 
+
+
 | (Sat) 20/Jun 2009 12:00 | Iraq | 20 : 30 | New Zealand | (Group A) |
 | (Sat) 20/Jun 2009 12:00 | Spain | 20 : 30 | South Africa | (Group A) |
-|{: colspan='4'} **Matchday 6**  |
+
+##### Matchday 6 
+
+
 | (Sun) 21/Jun 2009 12:00 | Italy | 20 : 30 | Brazil | (Group B) |
 | (Sun) 21/Jun 2009 12:00 | Egypt | 20 : 30 | United States | (Group B) |
-|{: colspan='4'} **Semi-finals**  |
+
+##### Semi-finals 
+
+
 | (Wed) 24/Jun 2009 12:00 | Spain | 20 : 30 | United States |  |
 | (Thu) 25/Jun 2009 12:00 | Brazil | 20 : 30 | South Africa |  |
-|{: colspan='4'} **Third-place play-off**  |
+
+##### Third-place play-off 
+
+
 | (Sun) 28/Jun 2009 12:00 | Spain | 15 : 0 / 3 : 2 n.V. | South Africa |  |
-|{: colspan='4'} **Final**  |
+
+##### Final 
+
+
 | (Sun) 28/Jun 2009 12:00 | United States | 20 : 30 | Brazil |  |
 
 ### Confederations Cup 2013
@@ -332,14 +359,14 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 8 Teams
 
 
-[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-[Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-[Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-[Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-[Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-[Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
-[Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
-[Tahiti (TAH)](pf.html#tah)  (Tahiti, Pacific) <br>
+[Spain (ESP)](es.html#esp)  (Europe) <br>
+[Italy (ITA)](it.html#ita)  (Europe) <br>
+[Nigeria (NGA)](ng.html#nga)  (Africa) <br>
+[Mexico (MEX)](mx.html#mex)  (North America) <br>
+[Brazil (BRA)](br.html#bra)  (South America) <br>
+[Uruguay (URU)](uy.html#uru)  (South America) <br>
+[Japan (JPN)](jp.html#jpn)  (Asia & Australia) <br>
+[Tahiti (TAH)](pf.html#tah)  (Pacific) <br>
 
 
 
@@ -360,27 +387,45 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Semi-finals •  Third place play-off •  Final
 
 
-|{: colspan='4'} **Matchday 1**  |
+
+##### Matchday 1 
+
+
 | (Sat) 15/Jun 2013 12:00 | Brazil | 16 : 0 | Japan | (Group A) |
 | (Sun) 16/Jun 2013 12:00 | Mexico | 16 : 0 | Italy | (Group A) |
 | (Sun) 16/Jun 2013 12:00 | Spain | 19 : 0 | Uruguay | (Group B) |
 | (Mon) 17/Jun 2013 12:00 | Tahiti | 16 : 0 | Nigeria | (Group B) |
-|{: colspan='4'} **Matchday 2**  |
+
+##### Matchday 2 
+
+
 | (Wed) 19/Jun 2013 12:00 | Brazil | 16 : 0 | Mexico | (Group A) |
 | (Wed) 19/Jun 2013 12:00 | Italy | 19 : 0 | Japan | (Group A) |
 | (Thu) 20/Jun 2013 12:00 | Spain | 16 : 0 | Tahiti | (Group B) |
 | (Thu) 20/Jun 2013 12:00 | Nigeria | 19 : 0 | Uruguay | (Group B) |
-|{: colspan='4'} **Matchday 3**  |
+
+##### Matchday 3 
+
+
 | (Sat) 22/Jun 2013 12:00 | Italy | 16 : 0 | Brazil | (Group A) |
 | (Sat) 22/Jun 2013 12:00 | Japan | 16 : 0 | Mexico | (Group A) |
 | (Sun) 23/Jun 2013 12:00 | Nigeria | 16 : 0 | Spain | (Group B) |
 | (Sun) 23/Jun 2013 12:00 | Uruguay | 16 : 0 | Tahiti | (Group B) |
-|{: colspan='4'} **Semi-finals**  |
+
+##### Semi-finals 
+
+
 | (Wed) 26/Jun 2013 12:00 | Brazil | 16 : 0 | Uruguay |  |
 | (Thu) 27/Jun 2013 12:00 | Spain | 16 : 0 / 0 : 0 n.V. / 7 : 6 i.E. | Italy |  |
-|{: colspan='4'} **Third place play-off**  |
+
+##### Third place play-off 
+
+
 | (Sun) 30/Jun 2013 12:00 | Uruguay | 13 : 0 / 2 : 2 n.V. / 2 : 3 i.E. | Italy |  |
-|{: colspan='4'} **Final**  |
+
+##### Final 
+
+
 | (Sun) 30/Jun 2013 12:00 | Brazil | 19 : 0 | Spain |  |
 
 ### World Cup 2010
@@ -389,38 +434,38 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 32 Teams
 
 
-[Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
-[Netherlands (NED)](nl.html#ned)  (Netherlands, Europe) <br>
-[Denmark (DEN)](dk.html#den)  (Denmark, Europe) <br>
-[Germany (GER)](de.html#ger)  (Germany, Europe) <br>
-[Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
-[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-[Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-[France (FRA)](fr.html#fra)  (France, Europe) <br>
-[England (ENG)](en.html#eng)  (England, Europe) <br>
-[Switzerland (SUI)](ch.html#sui)  (Switzerland, Europe) <br>
-[Serbia (SRB)](rs.html#srb)  (Serbia, Europe) <br>
-[Slovenia (SVN)](si.html#svn)  (Slovenia, Europe) <br>
-[Slovakia (SVK)](sk.html#svk)  (Slovakia, Europe) <br>
-[Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
-[Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
-[Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
-[Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
-[Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-[South Africa (RSA)](za.html#rsa)  (South Africa, Africa) <br>
-[Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-[United States (USA)](us.html#usa)  (United States, North America) <br>
-[Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
-[Argentina (ARG)](ar.html#arg)  (Argentina, South America) <br>
-[Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-[Chile (CHI)](cl.html#chi)  (Chile, South America) <br>
-[Paraguay (PAR)](py.html#par)  (Paraguay, South America) <br>
-[Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
-[Australia (AUS)](au.html#aus)  (Australia, Asia & Australia) <br>
-[Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
-[North Korea (PRK)](kp.html#prk)  (North Korea, Asia & Australia) <br>
-[South Korea (KOR)](kr.html#kor)  (South Korea, Asia & Australia) <br>
-[New Zealand (NZL)](nz.html#nzl)  (New Zealand, Pacific) <br>
+[Greece (GRE)](gr.html#gre)  (Europe) <br>
+[Netherlands (NED)](nl.html#ned)  (Europe) <br>
+[Denmark (DEN)](dk.html#den)  (Europe) <br>
+[Germany (GER)](de.html#ger)  (Europe) <br>
+[Portugal (POR)](pt.html#por)  (Europe) <br>
+[Spain (ESP)](es.html#esp)  (Europe) <br>
+[Italy (ITA)](it.html#ita)  (Europe) <br>
+[France (FRA)](fr.html#fra)  (Europe) <br>
+[England (ENG)](en.html#eng)  (Europe) <br>
+[Switzerland (SUI)](ch.html#sui)  (Europe) <br>
+[Serbia (SRB)](rs.html#srb)  (Europe) <br>
+[Slovenia (SVN)](si.html#svn)  (Europe) <br>
+[Slovakia (SVK)](sk.html#svk)  (Europe) <br>
+[Algeria (ALG)](dz.html#alg)  (Africa) <br>
+[Côte d'Ivoire (CIV)](ci.html#civ)  (Africa) <br>
+[Ghana (GHA)](gh.html#gha)  (Africa) <br>
+[Cameroon (CMR)](cm.html#cmr)  (Africa) <br>
+[Nigeria (NGA)](ng.html#nga)  (Africa) <br>
+[South Africa (RSA)](za.html#rsa)  (Africa) <br>
+[Mexico (MEX)](mx.html#mex)  (North America) <br>
+[United States (USA)](us.html#usa)  (North America) <br>
+[Honduras (HON)](hn.html#hon)  (Central America) <br>
+[Argentina (ARG)](ar.html#arg)  (South America) <br>
+[Brazil (BRA)](br.html#bra)  (South America) <br>
+[Chile (CHI)](cl.html#chi)  (South America) <br>
+[Paraguay (PAR)](py.html#par)  (South America) <br>
+[Uruguay (URU)](uy.html#uru)  (South America) <br>
+[Australia (AUS)](au.html#aus)  (Asia & Australia) <br>
+[Japan (JPN)](jp.html#jpn)  (Asia & Australia) <br>
+[North Korea (PRK)](kp.html#prk)  (Asia & Australia) <br>
+[South Korea (KOR)](kr.html#kor)  (Asia & Australia) <br>
+[New Zealand (NZL)](nz.html#nzl)  (Pacific) <br>
 
 
 
@@ -447,70 +492,118 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 7 •  Matchday 8 •  Matchday 9 •  Matchday 10 •  Matchday 11 •  Matchday 12 •  Matchday 13 •  Matchday 14 •  Matchday 15 •  Round of 16 •  Quarterfinals •  Semifinals •  Third-place play-off •  Final
 
 
-|{: colspan='4'} **Matchday 1**  |
+
+##### Matchday 1 
+
+
 | (Fri) 11/Jun 2010 12:00 | South Africa | 16 : 0 | Mexico | (Group A) |
 | (Fri) 11/Jun 2010 12:00 | Uruguay | 20 : 30 | France | (Group A) |
-|{: colspan='4'} **Matchday 2**  |
+
+##### Matchday 2 
+
+
 | (Sat) 12/Jun 2010 12:00 | Argentina | 16 : 0 | Nigeria | (Group B) |
 | (Sat) 12/Jun 2010 12:00 | South Korea | 13 : 30 | Greece | (Group B) |
 | (Sat) 12/Jun 2010 12:00 | England | 20 : 30 | United States | (Group C) |
-|{: colspan='4'} **Matchday 3**  |
+
+##### Matchday 3 
+
+
 | (Sun) 13/Jun 2010 12:00 | Algeria | 13 : 30 | Slovenia | (Group C) |
 | (Sun) 13/Jun 2010 12:00 | Germany | 20 : 30 | Australia | (Group D) |
 | (Sun) 13/Jun 2010 12:00 | Serbia | 16 : 0 | Ghana | (Group D) |
-|{: colspan='4'} **Matchday 4**  |
+
+##### Matchday 4 
+
+
 | (Mon) 14/Jun 2010 12:00 | Netherlands | 13 : 30 | Denmark | (Group E) |
 | (Mon) 14/Jun 2010 12:00 | Japan | 16 : 0 | Cameroon | (Group E) |
 | (Mon) 14/Jun 2010 12:00 | Italy | 20 : 30 | Paraguay | (Group F) |
-|{: colspan='4'} **Matchday 5**  |
+
+##### Matchday 5 
+
+
 | (Tue) 15/Jun 2010 12:00 | New Zealand | 13 : 30 | Slovakia | (Group F) |
 | (Tue) 15/Jun 2010 12:00 | Côte d'Ivoire | 16 : 0 | Portugal | (Group G) |
 | (Tue) 15/Jun 2010 12:00 | Brazil | 20 : 30 | North Korea | (Group G) |
-|{: colspan='4'} **Matchday 6**  |
+
+##### Matchday 6 
+
+
 | (Wed) 16/Jun 2010 12:00 | Honduras | 13 : 30 | Chile | (Group H) |
 | (Wed) 16/Jun 2010 12:00 | Spain | 16 : 0 | Switzerland | (Group H) |
 | (Wed) 16/Jun 2010 12:00 | South Africa | 20 : 30 | Uruguay | (Group A) |
-|{: colspan='4'} **Matchday 7**  |
+
+##### Matchday 7 
+
+
 | (Thu) 17/Jun 2010 12:00 | France | 20 : 30 | Mexico | (Group A) |
 | (Thu) 17/Jun 2010 12:00 | Greece | 16 : 0 | Nigeria | (Group B) |
 | (Thu) 17/Jun 2010 12:00 | Argentina | 13 : 30 | South Korea | (Group B) |
-|{: colspan='4'} **Matchday 8**  |
+
+##### Matchday 8 
+
+
 | (Fri) 18/Jun 2010 12:00 | Germany | 13 : 30 | Serbia | (Group D) |
 | (Fri) 18/Jun 2010 12:00 | Slovenia | 16 : 0 | United States | (Group C) |
 | (Fri) 18/Jun 2010 12:00 | England | 20 : 30 | Algeria | (Group C) |
-|{: colspan='4'} **Matchday 9**  |
+
+##### Matchday 9 
+
+
 | (Sat) 19/Jun 2010 12:00 | Ghana | 16 : 0 | Australia | (Group D) |
 | (Sat) 19/Jun 2010 12:00 | Netherlands | 13 : 30 | Japan | (Group E) |
 | (Sat) 19/Jun 2010 12:00 | Cameroon | 20 : 30 | Denmark | (Group E) |
-|{: colspan='4'} **Matchday 10**  |
+
+##### Matchday 10 
+
+
 | (Sun) 20/Jun 2010 12:00 | Slovakia | 13 : 30 | Paraguay | (Group F) |
 | (Sun) 20/Jun 2010 12:00 | Italy | 16 : 0 | New Zealand | (Group F) |
 | (Sun) 20/Jun 2010 12:00 | Brazil | 20 : 30 | Côte d'Ivoire | (Group G) |
-|{: colspan='4'} **Matchday 11**  |
+
+##### Matchday 11 
+
+
 | (Mon) 21/Jun 2010 12:00 | Portugal | 13 : 30 | North Korea | (Group G) |
 | (Mon) 21/Jun 2010 12:00 | Chile | 16 : 0 | Switzerland | (Group H) |
 | (Mon) 21/Jun 2010 12:00 | Spain | 20 : 30 | Honduras | (Group H) |
-|{: colspan='4'} **Matchday 12**  |
+
+##### Matchday 12 
+
+
 | (Tue) 22/Jun 2010 12:00 | Mexico | 16 : 0 | Uruguay | (Group A) |
 | (Tue) 22/Jun 2010 12:00 | France | 16 : 0 | South Africa | (Group A) |
 | (Tue) 22/Jun 2010 12:00 | Nigeria | 20 : 30 | South Korea | (Group B) |
 | (Tue) 22/Jun 2010 12:00 | Greece | 20 : 30 | Argentina | (Group B) |
-|{: colspan='4'} **Matchday 13**  |
+
+##### Matchday 13 
+
+
 | (Wed) 23/Jun 2010 12:00 | Slovenia | 16 : 0 | England | (Group C) |
 | (Wed) 23/Jun 2010 12:00 | United States | 16 : 0 | Algeria | (Group C) |
 | (Wed) 23/Jun 2010 12:00 | Ghana | 20 : 30 | Germany | (Group D) |
 | (Wed) 23/Jun 2010 12:00 | Australia | 20 : 30 | Serbia | (Group D) |
-|{: colspan='4'} **Matchday 14**  |
+
+##### Matchday 14 
+
+
 | (Thu) 24/Jun 2010 12:00 | Slovakia | 16 : 0 | Italy | (Group F) |
 | (Thu) 24/Jun 2010 12:00 | Paraguay | 16 : 0 | New Zealand | (Group F) |
 | (Thu) 24/Jun 2010 12:00 | Denmark | 20 : 30 | Japan | (Group E) |
 | (Thu) 24/Jun 2010 12:00 | Cameroon | 20 : 30 | Netherlands | (Group E) |
-|{: colspan='4'} **Matchday 15**  |
+
+##### Matchday 15 
+
+
 | (Fri) 25/Jun 2010 12:00 | Portugal | 16 : 0 | Brazil | (Group G) |
 | (Fri) 25/Jun 2010 12:00 | North Korea | 16 : 0 | Côte d'Ivoire | (Group G) |
 | (Fri) 25/Jun 2010 12:00 | Chile | 20 : 30 | Spain | (Group H) |
 | (Fri) 25/Jun 2010 12:00 | Switzerland | 20 : 30 | Honduras | (Group H) |
-|{: colspan='4'} **Round of 16**  |
+
+##### Round of 16 
+
+
 | (Sat) 26/Jun 2010 12:00 | Uruguay | 16 : 0 | South Korea |  |
 | (Sat) 26/Jun 2010 12:00 | United States | 20 : 30 / 1 : 2 n.V. | Ghana |  |
 | (Sun) 27/Jun 2010 12:00 | Germany | 16 : 0 | England |  |
@@ -519,17 +612,29 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 | (Mon) 28/Jun 2010 12:00 | Brazil | 20 : 30 | Chile |  |
 | (Tue) 29/Jun 2010 12:00 | Paraguay | 16 : 0 / 0 : 0 n.V. / 5 : 3 i.E. | Japan |  |
 | (Tue) 29/Jun 2010 12:00 | Spain | 20 : 30 | Portugal |  |
-|{: colspan='4'} **Quarterfinals**  |
+
+##### Quarterfinals 
+
+
 | (Fri) 2/Jul 2010 12:00 | Netherlands | 16 : 0 | Brazil |  |
 | (Fri) 2/Jul 2010 12:00 | Uruguay | 20 : 30 / 1 : 1 n.V. / 4 : 2 i.E. | Ghana |  |
 | (Sat) 3/Jul 2010 12:00 | Argentina | 16 : 0 | Germany |  |
 | (Sat) 3/Jul 2010 12:00 | Paraguay | 20 : 30 | Spain |  |
-|{: colspan='4'} **Semifinals**  |
+
+##### Semifinals 
+
+
 | (Tue) 6/Jul 2010 12:00 | Uruguay | 20 : 30 | Netherlands |  |
 | (Wed) 7/Jul 2010 12:00 | Germany | 20 : 30 | Spain |  |
-|{: colspan='4'} **Third-place play-off**  |
+
+##### Third-place play-off 
+
+
 | (Sat) 10/Jul 2010 12:00 | Uruguay | 20 : 30 | Germany |  |
-|{: colspan='4'} **Final**  |
+
+##### Final 
+
+
 | (Sun) 11/Jul 2010 12:00 | Netherlands | 20 : 30 / 0 : 1 n.V. | Spain |  |
 
 ### World Cup 2014
@@ -538,38 +643,38 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 32 Teams
 
 
-[Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
-[Russia (RUS)](ru.html#rus)  (Russia, Europe) <br>
-[Netherlands (NED)](nl.html#ned)  (Netherlands, Europe) <br>
-[Germany (GER)](de.html#ger)  (Germany, Europe) <br>
-[Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
-[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-[Italy (ITA)](it.html#ita)  (Italy, Europe) <br>
-[Croatia (CRO)](hr.html#cro)  (Croatia, Europe) <br>
-[France (FRA)](fr.html#fra)  (France, Europe) <br>
-[England (ENG)](en.html#eng)  (England, Europe) <br>
-[Switzerland (SUI)](ch.html#sui)  (Switzerland, Europe) <br>
-[Belgium (BEL)](be.html#bel)  (Belgium, Europe) <br>
-[Bosnia-Herzegovina (BIH)](ba.html#bih)  (Bosnia and Herzegovina, Europe) <br>
-[Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
-[Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
-[Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
-[Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
-[Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-[Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-[United States (USA)](us.html#usa)  (United States, North America) <br>
-[Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
-[Costa Rica (CRC)](cr.html#crc)  (Costa Rica, Central America) <br>
-[Argentina (ARG)](ar.html#arg)  (Argentina, South America) <br>
-[Brazil (BRA)](br.html#bra)  (Brazil, South America) <br>
-[Chile (CHI)](cl.html#chi)  (Chile, South America) <br>
-[Uruguay (URU)](uy.html#uru)  (Uruguay, South America) <br>
-[Colombia (COL)](co.html#col)  (Colombia, South America) <br>
-[Ecuador (ECU)](ec.html#ecu)  (Ecuador, South America) <br>
-[Australia (AUS)](au.html#aus)  (Australia, Asia & Australia) <br>
-[Japan (JPN)](jp.html#jpn)  (Japan, Asia & Australia) <br>
-[South Korea (KOR)](kr.html#kor)  (South Korea, Asia & Australia) <br>
-[Iran (IRN)](ir.html#irn)  (Iran, Middle East) <br>
+[Greece (GRE)](gr.html#gre)  (Europe) <br>
+[Russia (RUS)](ru.html#rus)  (Europe) <br>
+[Netherlands (NED)](nl.html#ned)  (Europe) <br>
+[Germany (GER)](de.html#ger)  (Europe) <br>
+[Portugal (POR)](pt.html#por)  (Europe) <br>
+[Spain (ESP)](es.html#esp)  (Europe) <br>
+[Italy (ITA)](it.html#ita)  (Europe) <br>
+[Croatia (CRO)](hr.html#cro)  (Europe) <br>
+[France (FRA)](fr.html#fra)  (Europe) <br>
+[England (ENG)](en.html#eng)  (Europe) <br>
+[Switzerland (SUI)](ch.html#sui)  (Europe) <br>
+[Belgium (BEL)](be.html#bel)  (Europe) <br>
+[Bosnia-Herzegovina (BIH)](ba.html#bih)  (Europe) <br>
+[Algeria (ALG)](dz.html#alg)  (Africa) <br>
+[Côte d'Ivoire (CIV)](ci.html#civ)  (Africa) <br>
+[Ghana (GHA)](gh.html#gha)  (Africa) <br>
+[Cameroon (CMR)](cm.html#cmr)  (Africa) <br>
+[Nigeria (NGA)](ng.html#nga)  (Africa) <br>
+[Mexico (MEX)](mx.html#mex)  (North America) <br>
+[United States (USA)](us.html#usa)  (North America) <br>
+[Honduras (HON)](hn.html#hon)  (Central America) <br>
+[Costa Rica (CRC)](cr.html#crc)  (Central America) <br>
+[Argentina (ARG)](ar.html#arg)  (South America) <br>
+[Brazil (BRA)](br.html#bra)  (South America) <br>
+[Chile (CHI)](cl.html#chi)  (South America) <br>
+[Uruguay (URU)](uy.html#uru)  (South America) <br>
+[Colombia (COL)](co.html#col)  (South America) <br>
+[Ecuador (ECU)](ec.html#ecu)  (South America) <br>
+[Australia (AUS)](au.html#aus)  (Asia & Australia) <br>
+[Japan (JPN)](jp.html#jpn)  (Asia & Australia) <br>
+[South Korea (KOR)](kr.html#kor)  (Asia & Australia) <br>
+[Iran (IRN)](ir.html#irn)  (Middle East) <br>
 
 
 
@@ -596,74 +701,134 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 7 •  Matchday 8 •  Matchday 9 •  Matchday 10 •  Matchday 11 •  Matchday 12 •  Matchday 13 •  Matchday 14 •  Matchday 15 •  Round of 16 •  Quarter-finals •  Semi-finals •  Round 19  -  Match for third place •  Final
 
 
-|{: colspan='4'} **Matchday 1**  |
-| (Thu) 12/Jun 2014 12:00 | Brazil | - : - | Croatia | (Group A) |
-|{: colspan='4'} **Matchday 2**  |
-| (Fri) 13/Jun 2014 12:00 | Mexico | - : - | Cameroon | (Group A) |
-| (Fri) 13/Jun 2014 12:00 | Spain | - : - | Netherlands | (Group B) |
-| (Fri) 13/Jun 2014 12:00 | Chile | - : - | Australia | (Group B) |
-|{: colspan='4'} **Matchday 3**  |
-| (Sat) 14/Jun 2014 12:00 | Colombia | - : - | Greece | (Group C) |
-| (Sat) 14/Jun 2014 12:00 | Côte d'Ivoire | - : - | Japan | (Group C) |
-| (Sat) 14/Jun 2014 12:00 | Uruguay | - : - | Costa Rica | (Group D) |
-| (Sat) 14/Jun 2014 12:00 | England | - : - | Italy | (Group D) |
-|{: colspan='4'} **Matchday 4**  |
-| (Sun) 15/Jun 2014 12:00 | Switzerland | - : - | Ecuador | (Group E) |
-| (Sun) 15/Jun 2014 12:00 | France | - : - | Honduras | (Group E) |
-| (Sun) 15/Jun 2014 12:00 | Argentina | - : - | Bosnia-Herzegovina | (Group F) |
-|{: colspan='4'} **Matchday 5**  |
-| (Mon) 16/Jun 2014 12:00 | Iran | - : - | Nigeria | (Group F) |
-| (Mon) 16/Jun 2014 12:00 | Germany | - : - | Portugal | (Group G) |
-| (Mon) 16/Jun 2014 12:00 | Ghana | - : - | United States | (Group G) |
-|{: colspan='4'} **Matchday 6**  |
-| (Tue) 17/Jun 2014 12:00 | Belgium | - : - | Algeria | (Group H) |
-| (Tue) 17/Jun 2014 12:00 | Russia | - : - | South Korea | (Group H) |
-| (Tue) 17/Jun 2014 12:00 | Brazil | - : - | Mexico | (Group A) |
-|{: colspan='4'} **Matchday 7**  |
-| (Wed) 18/Jun 2014 12:00 | Cameroon | - : - | Croatia | (Group A) |
-| (Wed) 18/Jun 2014 12:00 | Spain | - : - | Chile | (Group B) |
-| (Wed) 18/Jun 2014 12:00 | Australia | - : - | Netherlands | (Group B) |
-|{: colspan='4'} **Matchday 8**  |
-| (Thu) 19/Jun 2014 12:00 | Colombia | - : - | Côte d'Ivoire | (Group C) |
-| (Thu) 19/Jun 2014 12:00 | Japan | - : - | Greece | (Group C) |
-| (Thu) 19/Jun 2014 12:00 | Uruguay | - : - | England | (Group D) |
-|{: colspan='4'} **Matchday 9**  |
-| (Fri) 20/Jun 2014 12:00 | Italy | - : - | Costa Rica | (Group D) |
-| (Fri) 20/Jun 2014 12:00 | Switzerland | - : - | France | (Group E) |
-| (Fri) 20/Jun 2014 12:00 | Honduras | - : - | Ecuador | (Group E) |
-|{: colspan='4'} **Matchday 10**  |
-| (Sat) 21/Jun 2014 12:00 | Argentina | - : - | Iran | (Group F) |
-| (Sat) 21/Jun 2014 12:00 | Nigeria | - : - | Bosnia-Herzegovina | (Group F) |
-| (Sat) 21/Jun 2014 12:00 | Germany | - : - | Ghana | (Group G) |
-|{: colspan='4'} **Matchday 11**  |
-| (Sun) 22/Jun 2014 12:00 | United States | - : - | Portugal | (Group G) |
-| (Sun) 22/Jun 2014 12:00 | Belgium | - : - | Russia | (Group H) |
-| (Sun) 22/Jun 2014 12:00 | South Korea | - : - | Algeria | (Group H) |
-|{: colspan='4'} **Matchday 12**  |
-| (Mon) 23/Jun 2014 12:00 | Cameroon | - : - | Brazil | (Group A) |
-| (Mon) 23/Jun 2014 12:00 | Croatia | - : - | Mexico | (Group A) |
-| (Mon) 23/Jun 2014 12:00 | Australia | - : - | Spain | (Group B) |
-| (Mon) 23/Jun 2014 12:00 | Netherlands | - : - | Chile | (Group B) |
-|{: colspan='4'} **Matchday 13**  |
-| (Tue) 24/Jun 2014 12:00 | Japan | - : - | Colombia | (Group C) |
-| (Tue) 24/Jun 2014 12:00 | Côte d'Ivoire | - : - | Greece | (Group C) |
-| (Tue) 24/Jun 2014 12:00 | Italy | - : - | Uruguay | (Group D) |
-| (Tue) 24/Jun 2014 12:00 | Costa Rica | - : - | England | (Group D) |
-|{: colspan='4'} **Matchday 14**  |
-| (Wed) 25/Jun 2014 12:00 | Honduras | - : - | Switzerland | (Group E) |
-| (Wed) 25/Jun 2014 12:00 | Ecuador | - : - | France | (Group E) |
-| (Wed) 25/Jun 2014 12:00 | Nigeria | - : - | Argentina | (Group F) |
-| (Wed) 25/Jun 2014 12:00 | Bosnia-Herzegovina | - : - | Iran | (Group F) |
-|{: colspan='4'} **Matchday 15**  |
-| (Thu) 26/Jun 2014 12:00 | United States | - : - | Germany | (Group G) |
-| (Thu) 26/Jun 2014 12:00 | Portugal | - : - | Ghana | (Group G) |
-| (Thu) 26/Jun 2014 12:00 | South Korea | - : - | Belgium | (Group H) |
-| (Thu) 26/Jun 2014 12:00 | Algeria | - : - | Russia | (Group H) |
-|{: colspan='4'} **Round of 16**  |
-|{: colspan='4'} **Quarter-finals**  |
-|{: colspan='4'} **Semi-finals**  |
-|{: colspan='4'} **Round 19  -  Match for third place**  |
-|{: colspan='4'} **Final**  |
+
+##### Matchday 1 
+
+
+| (Thu) 12/Jun 2014 12:00 | Brazil | 17 : 0 | Croatia | (Group A) |
+
+##### Matchday 2 
+
+
+| (Fri) 13/Jun 2014 12:00 | Mexico | 13 : 0 | Cameroon | (Group A) |
+| (Fri) 13/Jun 2014 12:00 | Spain | 16 : 0 | Netherlands | (Group B) |
+| (Fri) 13/Jun 2014 12:00 | Chile | 18 : 0 | Australia | (Group B) |
+
+##### Matchday 3 
+
+
+| (Sat) 14/Jun 2014 12:00 | Colombia | 13 : 0 | Greece | (Group C) |
+| (Sat) 14/Jun 2014 12:00 | Côte d'Ivoire | 22 : 0 | Japan | (Group C) |
+| (Sat) 14/Jun 2014 12:00 | Uruguay | 16 : 0 | Costa Rica | (Group D) |
+| (Sat) 14/Jun 2014 12:00 | England | 18 : 0 | Italy | (Group D) |
+
+##### Matchday 4 
+
+
+| (Sun) 15/Jun 2014 12:00 | Switzerland | 13 : 0 | Ecuador | (Group E) |
+| (Sun) 15/Jun 2014 12:00 | France | 16 : 0 | Honduras | (Group E) |
+| (Sun) 15/Jun 2014 12:00 | Argentina | 19 : 0 | Bosnia-Herzegovina | (Group F) |
+
+##### Matchday 5 
+
+
+| (Mon) 16/Jun 2014 12:00 | Iran | 16 : 0 | Nigeria | (Group F) |
+| (Mon) 16/Jun 2014 12:00 | Germany | 13 : 0 | Portugal | (Group G) |
+| (Mon) 16/Jun 2014 12:00 | Ghana | 19 : 0 | United States | (Group G) |
+
+##### Matchday 6 
+
+
+| (Tue) 17/Jun 2014 12:00 | Belgium | 13 : 0 | Algeria | (Group H) |
+| (Tue) 17/Jun 2014 12:00 | Russia | 18 : 0 | South Korea | (Group H) |
+| (Tue) 17/Jun 2014 12:00 | Brazil | 16 : 0 | Mexico | (Group A) |
+
+##### Matchday 7 
+
+
+| (Wed) 18/Jun 2014 12:00 | Cameroon | 18 : 0 | Croatia | (Group A) |
+| (Wed) 18/Jun 2014 12:00 | Spain | 16 : 0 | Chile | (Group B) |
+| (Wed) 18/Jun 2014 12:00 | Australia | 13 : 0 | Netherlands | (Group B) |
+
+##### Matchday 8 
+
+
+| (Thu) 19/Jun 2014 12:00 | Colombia | 13 : 0 | Côte d'Ivoire | (Group C) |
+| (Thu) 19/Jun 2014 12:00 | Japan | 19 : 0 | Greece | (Group C) |
+| (Thu) 19/Jun 2014 12:00 | Uruguay | 16 : 0 | England | (Group D) |
+
+##### Matchday 9 
+
+
+| (Fri) 20/Jun 2014 12:00 | Italy | 13 : 0 | Costa Rica | (Group D) |
+| (Fri) 20/Jun 2014 12:00 | Switzerland | 16 : 0 | France | (Group E) |
+| (Fri) 20/Jun 2014 12:00 | Honduras | 19 : 0 | Ecuador | (Group E) |
+
+##### Matchday 10 
+
+
+| (Sat) 21/Jun 2014 12:00 | Argentina | 13 : 0 | Iran | (Group F) |
+| (Sat) 21/Jun 2014 12:00 | Nigeria | 18 : 0 | Bosnia-Herzegovina | (Group F) |
+| (Sat) 21/Jun 2014 12:00 | Germany | 16 : 0 | Ghana | (Group G) |
+
+##### Matchday 11 
+
+
+| (Sun) 22/Jun 2014 12:00 | United States | 18 : 0 | Portugal | (Group G) |
+| (Sun) 22/Jun 2014 12:00 | Belgium | 13 : 0 | Russia | (Group H) |
+| (Sun) 22/Jun 2014 12:00 | South Korea | 16 : 0 | Algeria | (Group H) |
+
+##### Matchday 12 
+
+
+| (Mon) 23/Jun 2014 12:00 | Cameroon | 17 : 0 | Brazil | (Group A) |
+| (Mon) 23/Jun 2014 12:00 | Croatia | 17 : 0 | Mexico | (Group A) |
+| (Mon) 23/Jun 2014 12:00 | Australia | 13 : 0 | Spain | (Group B) |
+| (Mon) 23/Jun 2014 12:00 | Netherlands | 13 : 0 | Chile | (Group B) |
+
+##### Matchday 13 
+
+
+| (Tue) 24/Jun 2014 12:00 | Japan | 16 : 0 | Colombia | (Group C) |
+| (Tue) 24/Jun 2014 12:00 | Côte d'Ivoire | 17 : 0 | Greece | (Group C) |
+| (Tue) 24/Jun 2014 12:00 | Italy | 13 : 0 | Uruguay | (Group D) |
+| (Tue) 24/Jun 2014 12:00 | Costa Rica | 13 : 0 | England | (Group D) |
+
+##### Matchday 14 
+
+
+| (Wed) 25/Jun 2014 12:00 | Honduras | 16 : 0 | Switzerland | (Group E) |
+| (Wed) 25/Jun 2014 12:00 | Ecuador | 17 : 0 | France | (Group E) |
+| (Wed) 25/Jun 2014 12:00 | Nigeria | 13 : 0 | Argentina | (Group F) |
+| (Wed) 25/Jun 2014 12:00 | Bosnia-Herzegovina | 13 : 0 | Iran | (Group F) |
+
+##### Matchday 15 
+
+
+| (Thu) 26/Jun 2014 12:00 | United States | 13 : 0 | Germany | (Group G) |
+| (Thu) 26/Jun 2014 12:00 | Portugal | 13 : 0 | Ghana | (Group G) |
+| (Thu) 26/Jun 2014 12:00 | South Korea | 17 : 0 | Belgium | (Group H) |
+| (Thu) 26/Jun 2014 12:00 | Algeria | 17 : 0 | Russia | (Group H) |
+
+##### Round of 16 
+
+
+
+##### Quarter-finals 
+
+
+
+##### Semi-finals 
+
+
+
+##### Round 19  -  Match for third place 
+
+
+
+##### Final 
+
+
 
 ### World Cup Quali Europe 2014
 
@@ -671,23 +836,23 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 17 Teams
 
 
-[Greece (GRE)](gr.html#gre)  (Greece, Europe) <br>
-[Germany (GER)](de.html#ger)  (Germany, Europe) <br>
-[Portugal (POR)](pt.html#por)  (Portugal, Europe) <br>
-[Spain (ESP)](es.html#esp)  (Spain, Europe) <br>
-[Irland (IRL)](ie.html#irl)  (Irland, Europe) <br>
-[Croatia (CRO)](hr.html#cro)  (Croatia, Europe) <br>
-[Ukraine (UKR)](ua.html#ukr)  (Ukraine, Europe) <br>
-[Sweden (SWE)](se.html#swe)  (Sweden, Europe) <br>
-[France (FRA)](fr.html#fra)  (France, Europe) <br>
-[Faroe Islands (FRO)](fo.html#fro)  (Faroe Islands, Europe) <br>
-[Kazakhstan (KAZ)](kz.html#kaz)  (Kazakhstan, Europe) <br>
-[Austria (AUT)](at.html#aut)  (Austria, Europe) <br>
-[Belarus (BLR)](by.html#blr)  (Belarus, Europe) <br>
-[Finland (FIN)](fi.html#fin)  (Finland, Europe) <br>
-[Georgia (GEO)](ge.html#geo)  (Georgia, Europe) <br>
-[Romania (ROU)](ro.html#rou)  (Romania, Europe) <br>
-[Iceland (ISL)](is.html#isl)  (Iceland, Europe) <br>
+[Greece (GRE)](gr.html#gre)  (Europe) <br>
+[Germany (GER)](de.html#ger)  (Europe) <br>
+[Portugal (POR)](pt.html#por)  (Europe) <br>
+[Spain (ESP)](es.html#esp)  (Europe) <br>
+[Irland (IRL)](ie.html#irl)  (Europe) <br>
+[Croatia (CRO)](hr.html#cro)  (Europe) <br>
+[Ukraine (UKR)](ua.html#ukr)  (Europe) <br>
+[Sweden (SWE)](se.html#swe)  (Europe) <br>
+[France (FRA)](fr.html#fra)  (Europe) <br>
+[Faroe Islands (FRO)](fo.html#fro)  (Europe) <br>
+[Kazakhstan (KAZ)](kz.html#kaz)  (Europe) <br>
+[Austria (AUT)](at.html#aut)  (Europe) <br>
+[Belarus (BLR)](by.html#blr)  (Europe) <br>
+[Finland (FIN)](fi.html#fin)  (Europe) <br>
+[Georgia (GEO)](ge.html#geo)  (Europe) <br>
+[Romania (ROU)](ro.html#rou)  (Europe) <br>
+[Iceland (ISL)](is.html#isl)  (Europe) <br>
 
 
 
@@ -708,74 +873,116 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 7 •  Matchday 8 •  Matchday 9 •  Matchday 10 •  Matchday 11 •  Matchday 12 •  Round 13  -  Play-off 1st Leg •  Round 14  -  Play-off 2nd Leg  (Knockout)
 
 
-|{: colspan='4'} **Matchday 1** / Fr. 7. Sep 2012 |
+
+##### Matchday 1  / Fr. 7. Sep 2012
+
+
 | (Fri) 7/Sep 2012 15:00 | Germany | 3 : 0 | Faroe Islands | (Group C) |
 | (Fri) 7/Sep 2012 15:00 | Georgia | 1 : 0 | Belarus | (Group I) |
 | (Fri) 7/Sep 2012 15:00 | Kazakhstan | 1 : 2 | Irland | (Group C) |
 | (Fri) 7/Sep 2012 15:00 | Finland | 0 : 1 | France | (Group I) |
-|{: colspan='4'} **Matchday 2** / Di. 11. Sep 2012 |
+
+##### Matchday 2  / Di. 11. Sep 2012
+
+
 | (Tue) 11/Sep 2012 15:00 | Austria | 1 : 2 | Germany | (Group C) |
 | (Tue) 11/Sep 2012 15:00 | Georgia | 0 : 1 | Spain | (Group I) |
 | (Tue) 11/Sep 2012 15:00 | Sweden | 2 : 0 | Kazakhstan | (Group C) |
 | (Tue) 11/Sep 2012 15:00 | France | 3 : 1 | Belarus | (Group I) |
-|{: colspan='4'} **Matchday 3** / Fr. 12. Okt 2012 |
+
+##### Matchday 3  / Fr. 12. Okt 2012
+
+
 | (Fri) 12/Oct 2012 20:45 | Irland | 1 : 6 | Germany | (Group C) |
 | (Fri) 12/Oct 2012 17:30 | Finland | 1 : 1 | Georgia | (Group I) |
 | (Fri) 12/Oct 2012 18:00 | Faroe Islands | 1 : 2 | Sweden | (Group C) |
 | (Fri) 12/Oct 2012 20:00 | Belarus | 0 : 4 | Spain | (Group I) |
 | (Fri) 12/Oct 2012 18:00 | Kazakhstan | 0 : 0 | Austria | (Group C) |
-|{: colspan='4'} **Matchday 4** / Di. 16. Okt 2012 |
+
+##### Matchday 4  / Di. 16. Okt 2012
+
+
 | (Tue) 16/Oct 2012 21:00 | Spain | 1 : 1 | France | (Group I) |
 | (Tue) 16/Oct 2012 20:45 | Germany | 4 : 4 | Sweden | (Group C) |
 | (Tue) 16/Oct 2012 18:00 | Belarus | 2 : 0 | Georgia | (Group I) |
 | (Tue) 16/Oct 2012 20:00 | Faroe Islands | 1 : 4 | Irland | (Group C) |
 | (Tue) 16/Oct 2012 20:30 | Austria | 4 : 0 | Kazakhstan | (Group C) |
-|{: colspan='4'} **Matchday 5** / Fr. 22. Mär 2013 |
+
+##### Matchday 5  / Fr. 22. Mär 2013
+
+
 | (Fri) 22/Mar 2013 15:00 | France | 3 : 1 | Georgia | (Group I) |
 | (Fri) 22/Mar 2013 15:00 | Spain | 1 : 1 | Finland | (Group I) |
 | (Fri) 22/Mar 2013 15:00 | Kazakhstan | 0 : 3 | Germany | (Group C) |
 | (Fri) 22/Mar 2013 15:00 | Austria | 6 : 0 | Faroe Islands | (Group C) |
 | (Fri) 22/Mar 2013 15:00 | Sweden | 0 : 0 | Irland | (Group C) |
-|{: colspan='4'} **Matchday 6** / Di. 26. Mär 2013 |
+
+##### Matchday 6  / Di. 26. Mär 2013
+
+
 | (Tue) 26/Mar 2013 15:00 | France | 0 : 1 | Spain | (Group I) |
 | (Tue) 26/Mar 2013 15:00 | Germany | 4 : 1 | Kazakhstan | (Group C) |
 | (Tue) 26/Mar 2013 15:00 | Irland | 2 : 2 | Austria | (Group C) |
-|{: colspan='4'} **Matchday 7** / Fr. 7. Jun 2013 |
+
+##### Matchday 7  / Fr. 7. Jun 2013
+
+
 | (Fri) 7/Jun 2013 15:00 | Finland | 1 : 0 | Belarus | (Group I) |
 | (Fri) 7/Jun 2013 15:00 | Irland | 3 : 0 | Faroe Islands | (Group C) |
 | (Fri) 7/Jun 2013 15:00 | Austria | 2 : 1 | Sweden | (Group C) |
-|{: colspan='4'} **Matchday 8** / Di. 11. Jun 2013 |
+
+##### Matchday 8  / Di. 11. Jun 2013
+
+
 | (Tue) 11/Jun 2013 15:00 | Belarus | 1 : 1 | Finland | (Group I) |
 | (Tue) 11/Jun 2013 15:00 | Sweden | 2 : 0 | Faroe Islands | (Group C) |
-|{: colspan='4'} **Matchday 9** / Fr. 6. Sep 2013 |
+
+##### Matchday 9  / Fr. 6. Sep 2013
+
+
 | (Fri) 6/Sep 2013 15:00 | Georgia | 0 : 0 | France | (Group I) |
 | (Fri) 6/Sep 2013 15:00 | Finland | 0 : 2 | Spain | (Group I) |
 | (Fri) 6/Sep 2013 15:00 | Germany | 3 : 0 | Austria | (Group C) |
 | (Fri) 6/Sep 2013 15:00 | Kazakhstan | 2 : 1 | Faroe Islands | (Group C) |
 | (Fri) 6/Sep 2013 15:00 | Irland | 1 : 2 | Sweden | (Group C) |
-|{: colspan='4'} **Matchday 10** / Di. 10. Sep 2013 |
+
+##### Matchday 10  / Di. 10. Sep 2013
+
+
 | (Tue) 10/Sep 2013 15:00 | Belarus | 2 : 4 | France | (Group I) |
 | (Tue) 10/Sep 2013 15:00 | Georgia | 0 : 1 | Finland | (Group I) |
 | (Tue) 10/Sep 2013 15:00 | Faroe Islands | 0 : 3 | Germany | (Group C) |
 | (Tue) 10/Sep 2013 15:00 | Austria | 1 : 0 | Irland | (Group C) |
 | (Tue) 10/Sep 2013 15:00 | Kazakhstan | 0 : 1 | Sweden | (Group C) |
-|{: colspan='4'} **Matchday 11** / Fr. 11. Okt 2013 |
+
+##### Matchday 11  / Fr. 11. Okt 2013
+
+
 | (Fri) 11/Oct 2013 15:00 | Spain | 2 : 1 | Belarus | (Group I) |
 | (Fri) 11/Oct 2013 15:00 | Germany | 3 : 0 | Irland | (Group C) |
 | (Fri) 11/Oct 2013 15:00 | Faroe Islands | 1 : 1 | Kazakhstan | (Group C) |
 | (Fri) 11/Oct 2013 15:00 | Sweden | 2 : 1 | Austria | (Group C) |
-|{: colspan='4'} **Matchday 12** / Di. 15. Okt 2013 |
+
+##### Matchday 12  / Di. 15. Okt 2013
+
+
 | (Tue) 15/Oct 2013 15:00 | France | 3 : 0 | Finland | (Group I) |
 | (Tue) 15/Oct 2013 15:00 | Spain | 2 : 0 | Georgia | (Group I) |
 | (Tue) 15/Oct 2013 15:00 | Sweden | 3 : 5 | Germany | (Group C) |
 | (Tue) 15/Oct 2013 15:00 | Faroe Islands | 0 : 3 | Austria | (Group C) |
 | (Tue) 15/Oct 2013 15:00 | Irland | 3 : 1 | Kazakhstan | (Group C) |
-|{: colspan='4'} **Round 13  -  Play-off 1st Leg** / Fr Nov 15, 2013 |
+
+##### Round 13  -  Play-off 1st Leg  / Fr Nov 15, 2013
+
+
 | (Fri) 15/Nov 2013 19:45 | Portugal | 1 : 0 | Sweden |  |
 | (Fri) 15/Nov 2013 21:45 | Ukraine | 2 : 0 | France |  |
 | (Fri) 15/Nov 2013 21:45 | Greece | 3 : 1 | Romania |  |
 | (Fri) 15/Nov 2013 19:00 | Iceland | 0 : 0 | Croatia |  |
-|{: colspan='4'} **Round 14  -  Play-off 2nd Leg  (Knockout)** / Tu Nov 19, 2013 |
+
+##### Round 14  -  Play-off 2nd Leg  (Knockout)  / Tu Nov 19, 2013
+
+
 | (Tue) 19/Nov 2013 20:45 | Sweden | 2 : 3 | Portugal |  |
 | (Tue) 19/Nov 2013 21:00 | France | 3 : 0 | Ukraine |  |
 | (Tue) 19/Nov 2013 21:00 | Romania | 1 : 1 | Greece |  |
@@ -787,14 +994,14 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 8 Teams
 
 
-[Mexico (MEX)](mx.html#mex)  (México [Mexico], North America) <br>
-[United States (USA)](us.html#usa)  (United States, North America) <br>
-[Honduras (HON)](hn.html#hon)  (Honduras, Central America) <br>
-[Costa Rica (CRC)](cr.html#crc)  (Costa Rica, Central America) <br>
-[El Salvador (SLV)](sv.html#slv)  (El Salvador, Central America) <br>
-[Panama (PAN)](pa.html#pan)  (Panamá [Panama], Central America) <br>
-[Jamaica (JAM)](jm.html#jam)  (Jamaica, Caribbean) <br>
-[Guyana (GUY)](gy.html#guy)  (Guyana, Caribbean) <br>
+[Mexico (MEX)](mx.html#mex)  (North America) <br>
+[United States (USA)](us.html#usa)  (North America) <br>
+[Honduras (HON)](hn.html#hon)  (Central America) <br>
+[Costa Rica (CRC)](cr.html#crc)  (Central America) <br>
+[El Salvador (SLV)](sv.html#slv)  (Central America) <br>
+[Panama (PAN)](pa.html#pan)  (Central America) <br>
+[Jamaica (JAM)](jm.html#jam)  (Caribbean) <br>
+[Guyana (GUY)](gy.html#guy)  (Caribbean) <br>
 
 
 
@@ -815,62 +1022,113 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Matchday 7 •  Matchday 8 •  Matchday 9 •  Matchday 10 •  Matchday 11
 
 
-|{: colspan='4'} **Matchday 1**  |
+
+##### Matchday 1 
+
+
 | (Sat) 9/Jun 2012 12:00 | Mexico | 3 : 1 | Guyana | (Group 2) |
 | (Sat) 9/Jun 2012 12:00 | Costa Rica | 2 : 2 | El Salvador | (Group 2) |
-|{: colspan='4'} **Matchday 2**  |
+
+##### Matchday 2 
+
+
 | (Wed) 13/Jun 2012 12:00 | Guyana | 0 : 4 | Costa Rica | (Group 2) |
 | (Wed) 13/Jun 2012 12:00 | El Salvador | 1 : 2 | Mexico | (Group 2) |
-|{: colspan='4'} **Matchday 3**  |
+
+##### Matchday 3 
+
+
 | (Sat) 8/Sep 2012 12:00 | El Salvador | 2 : 2 | Guyana | (Group 2) |
 | (Sat) 8/Sep 2012 12:00 | Costa Rica | 0 : 2 | Mexico | (Group 2) |
-|{: colspan='4'} **Matchday 4**  |
+
+##### Matchday 4 
+
+
 | (Wed) 12/Sep 2012 12:00 | Guyana | 2 : 3 | El Salvador | (Group 2) |
 | (Wed) 12/Sep 2012 12:00 | Mexico | 1 : 0 | Costa Rica | (Group 2) |
-|{: colspan='4'} **Matchday 5**  |
+
+##### Matchday 5 
+
+
 | (Sat) 13/Oct 2012 12:00 | Guyana | 0 : 5 | Mexico | (Group 2) |
 | (Sat) 13/Oct 2012 12:00 | El Salvador | 0 : 1 | Costa Rica | (Group 2) |
-|{: colspan='4'} **Matchday 6**  |
+
+##### Matchday 6 
+
+
 | (Wed) 17/Oct 2012 12:00 | Mexico | 2 : 0 | El Salvador | (Group 2) |
 | (Wed) 17/Oct 2012 12:00 | Costa Rica | 7 : 0 | Guyana | (Group 2) |
-|{: colspan='4'} **Matchday 1**  |
+
+##### Matchday 1 
+
+
 | (Wed) 6/Feb 2013 15:00 | Honduras | 2 : 1 | United States | (Group HEX) |
 | (Wed) 6/Feb 2013 20:30 | Mexico | 0 : 0 | Jamaica | (Group HEX) |
 | (Wed) 6/Feb 2013 21:00 | Panama | 2 : 2 | Costa Rica | (Group HEX) |
-|{: colspan='4'} **Matchday 2**  |
+
+##### Matchday 2 
+
+
 | (Fri) 22/Mar 2013 12:00 | Honduras | 2 : 2 | Mexico | (Group HEX) |
 | (Fri) 22/Mar 2013 12:00 | Jamaica | 1 : 1 | Panama | (Group HEX) |
 | (Fri) 22/Mar 2013 12:00 | United States | 1 : 0 | Costa Rica | (Group HEX) |
-|{: colspan='4'} **Matchday 3**  |
+
+##### Matchday 3 
+
+
 | (Tue) 26/Mar 2013 12:00 | Costa Rica | 2 : 0 | Jamaica | (Group HEX) |
 | (Tue) 26/Mar 2013 12:00 | Mexico | 0 : 0 | United States | (Group HEX) |
 | (Tue) 26/Mar 2013 12:00 | Panama | 2 : 0 | Honduras | (Group HEX) |
-|{: colspan='4'} **Matchday 4**  |
+
+##### Matchday 4 
+
+
 | (Tue) 4/Jun 2013 12:00 | Jamaica | 0 : 1 | Mexico | (Group HEX) |
-|{: colspan='4'} **Matchday 5**  |
+
+##### Matchday 5 
+
+
 | (Fri) 7/Jun 2013 12:00 | Panama | 0 : 0 | Mexico | (Group HEX) |
 | (Fri) 7/Jun 2013 12:00 | Jamaica | 1 : 2 | United States | (Group HEX) |
 | (Fri) 7/Jun 2013 12:00 | Costa Rica | 1 : 0 | Honduras | (Group HEX) |
-|{: colspan='4'} **Matchday 6**  |
+
+##### Matchday 6 
+
+
 | (Tue) 11/Jun 2013 12:00 | Mexico | 0 : 0 | Costa Rica | (Group HEX) |
 | (Tue) 11/Jun 2013 12:00 | United States | 2 : 0 | Panama | (Group HEX) |
 | (Tue) 11/Jun 2013 12:00 | Honduras | 2 : 0 | Jamaica | (Group HEX) |
-|{: colspan='4'} **Matchday 7**  |
+
+##### Matchday 7 
+
+
 | (Tue) 18/Jun 2013 12:00 | United States | 1 : 0 | Honduras | (Group HEX) |
 | (Tue) 18/Jun 2013 12:00 | Costa Rica | 2 : 0 | Panama | (Group HEX) |
-|{: colspan='4'} **Matchday 8**  |
+
+##### Matchday 8 
+
+
 | (Fri) 6/Sep 2013 12:00 | Mexico | 1 : 2 | Honduras | (Group HEX) |
 | (Fri) 6/Sep 2013 12:00 | Panama | 0 : 0 | Jamaica | (Group HEX) |
 | (Fri) 6/Sep 2013 12:00 | Costa Rica | 3 : 1 | United States | (Group HEX) |
-|{: colspan='4'} **Matchday 9**  |
+
+##### Matchday 9 
+
+
 | (Tue) 10/Sep 2013 12:00 | United States | 2 : 0 | Mexico | (Group HEX) |
 | (Tue) 10/Sep 2013 12:00 | Honduras | 2 : 2 | Panama | (Group HEX) |
 | (Tue) 10/Sep 2013 12:00 | Jamaica | 1 : 1 | Costa Rica | (Group HEX) |
-|{: colspan='4'} **Matchday 10**  |
+
+##### Matchday 10 
+
+
 | (Fri) 11/Oct 2013 12:00 | Mexico | 2 : 1 | Panama | (Group HEX) |
 | (Fri) 11/Oct 2013 12:00 | Honduras | 1 : 0 | Costa Rica | (Group HEX) |
 | (Fri) 11/Oct 2013 12:00 | United States | 2 : 0 | Jamaica | (Group HEX) |
-|{: colspan='4'} **Matchday 11**  |
+
+##### Matchday 11 
+
+
 | (Tue) 15/Oct 2013 12:00 | Costa Rica | 2 : 1 | Mexico | (Group HEX) |
 | (Tue) 15/Oct 2013 12:00 | Jamaica | 2 : 2 | Honduras | (Group HEX) |
 | (Tue) 15/Oct 2013 12:00 | Panama | 2 : 3 | United States | (Group HEX) |
@@ -881,16 +1139,16 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
 #### 10 Teams
 
 
-[Algeria (ALG)](dz.html#alg)  (Algeria, Africa) <br>
-[Tunisia (TUN)](tn.html#tun)  (Tunisia, Africa) <br>
-[Egypt (EGY)](eg.html#egy)  (Egypt, Africa) <br>
-[Côte d'Ivoire (CIV)](ci.html#civ)  (Côte d'Ivoire, Africa) <br>
-[Ghana (GHA)](gh.html#gha)  (Ghana, Africa) <br>
-[Cameroon (CMR)](cm.html#cmr)  (Cameroon, Africa) <br>
-[Nigeria (NGA)](ng.html#nga)  (Nigeria, Africa) <br>
-[Burkina Faso (BFA)](bf.html#bfa)  (Burkina Faso, Africa) <br>
-[Ethiopia (ETH)](et.html#eth)  (Ethiopia, Africa) <br>
-[Senegal (SEN)](sn.html#sen)  (Senegal, Africa) <br>
+[Algeria (ALG)](dz.html#alg)  (Africa) <br>
+[Tunisia (TUN)](tn.html#tun)  (Africa) <br>
+[Egypt (EGY)](eg.html#egy)  (Africa) <br>
+[Côte d'Ivoire (CIV)](ci.html#civ)  (Africa) <br>
+[Ghana (GHA)](gh.html#gha)  (Africa) <br>
+[Cameroon (CMR)](cm.html#cmr)  (Africa) <br>
+[Nigeria (NGA)](ng.html#nga)  (Africa) <br>
+[Burkina Faso (BFA)](bf.html#bfa)  (Africa) <br>
+[Ethiopia (ETH)](et.html#eth)  (Africa) <br>
+[Senegal (SEN)](sn.html#sen)  (Africa) <br>
 
 
 
@@ -903,13 +1161,19 @@ Send them along to the Open Sports forum/mailing list @ `groups.google.com/group
  Round 1  -  Playoff 1st Leg •  Round 2  -  Playoff 2nd Leg
 
 
-|{: colspan='4'} **Round 1  -  Playoff 1st Leg** / 11-15 October |
+
+##### Round 1  -  Playoff 1st Leg  / 11-15 October
+
+
 | (Sat) 12/Oct 2013 17:00 | Côte d'Ivoire | 3 : 1 | Senegal |  |
 | (Sat) 12/Oct 2013 16:00 | Burkina Faso | 3 : 2 | Algeria |  |
 | (Sun) 13/Oct 2013 16:00 | Ethiopia | 1 : 2 | Nigeria |  |
 | (Sun) 13/Oct 2013 18:00 | Tunisia | 0 : 0 | Cameroon |  |
 | (Tue) 15/Oct 2013 16:00 | Ghana | 6 : 1 | Egypt |  |
-|{: colspan='4'} **Round 2  -  Playoff 2nd Leg** / 15-19 November |
+
+##### Round 2  -  Playoff 2nd Leg  / 15-19 November
+
+
 | (Sat) 16/Nov 2013 19:00 | Senegal | 1 : 1 | Côte d'Ivoire |  |
 | (Sat) 16/Nov 2013 16:00 | Nigeria | 2 : 0 | Ethiopia |  |
 | (Sun) 17/Nov 2013 15:00 | Cameroon | 4 : 1 | Tunisia |  |
@@ -4749,7 +5013,7 @@ Ukraine  (UKR)  _#ukr_{: .key} <br>
 
 
  
-## Argentina (ARG) - 1 Clubs
+## Argentina (ARG) - 0 Clubs
 {: #ar }
 
 
@@ -5103,7 +5367,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
  
-## Bolivia (BOL) - 1 Clubs
+## Bolivia (BOL) - 0 Clubs
 {: #bo }
 
 
@@ -5121,7 +5385,7 @@ Bolivia  (BOL)  _#bol_{: .key} <br>
 
 
  
-## Brazil (BRA) - 1 Clubs
+## Brazil (BRA) - 0 Clubs
 {: #br }
 
 
@@ -5517,7 +5781,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
  
-## Chile (CHI) - 1 Clubs
+## Chile (CHI) - 0 Clubs
 {: #cl }
 
 
@@ -5535,7 +5799,7 @@ Chile  (CHI)  _#chi_{: .key} <br>
 
 
  
-## Colombia (COL) - 1 Clubs
+## Colombia (COL) - 0 Clubs
 {: #co }
 
 
@@ -5553,7 +5817,7 @@ Colombia  (COL)  _#col_{: .key} <br>
 
 
  
-## Ecuador (ECU) - 1 Clubs
+## Ecuador (ECU) - 0 Clubs
 {: #ec }
 
 
@@ -5571,7 +5835,7 @@ Ecuador  (ECU)  _#ecu_{: .key} <br>
 
 
  
-## Paraguay (PAR) - 1 Clubs
+## Paraguay (PAR) - 0 Clubs
 {: #py }
 
 
@@ -5589,7 +5853,7 @@ Paraguay  (PAR)  _#par_{: .key} <br>
 
 
  
-## Peru (PER) - 1 Clubs
+## Peru (PER) - 0 Clubs
 {: #pe }
 
 
@@ -5607,7 +5871,7 @@ Peru  (PER)  _#per_{: .key} <br>
 
 
  
-## Uruguay (URU) - 1 Clubs
+## Uruguay (URU) - 0 Clubs
 {: #uy }
 
 
@@ -5625,7 +5889,7 @@ Uruguay  (URU)  _#uru_{: .key} <br>
 
 
  
-## Venezuela (VEN) - 1 Clubs
+## Venezuela (VEN) - 0 Clubs
 {: #ve }
 
 
@@ -8258,39 +8522,39 @@ Tahiti  (TAH)  _#tah_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
-Happel-Stadion  -- Wien <br>
-Hanappi-Stadion  -- Wien <br>
-Horr-Stadion  -- Wien <br>
-Hohe Warte  -- Wien <br>
-Wiener Sportclub-Platz  -- Wien <br>
-Simmeringer Had  -- Wien <br>
-$UPC$-Arena  -- Graz <br>
-Gruabn  -- Graz <br>
-Franz-Fekete-Stadion  -- Kapfenberg <br>
-Stadion Hartberg  -- Hartberg <br>
-Linzer Stadion  -- Linz <br>
-$Keine Sorgen$ Arena  -- Ried <br>
-Vorwärts-Stadion  -- Steyr <br>
-Wiener Neustädter Stadion  -- Wiener Neustadt <br>
-Bundesstadion Südstadt  -- Maria Enzersdorf <br>
-$NV$-Arena  -- St. Pölten <br>
-Voithplatz  -- St. Pölten <br>
-Sportplatz Horn  -- Horn <br>
-Sepp-Doll-Stadion  -- Krems <br>
-Pappelstadion  -- Mattersburg <br>
-Heidebodenstadion  -- Parndorf <br>
-Wörtherseestadion  -- Klagenfurt <br>
-Lavanttal-Arena  -- Wolfsberg <br>
-Goldeckstadion  -- Spittal (an der Drau) <br>
-Wals-Siezenheim-Stadion  -- Salzburg (Wals-Siezenheim) <br>
-Untersberg-Arena  -- Grödig <br>
-Tivoli  -- Innsbruck <br>
-Kufstein Arena  -- Kufstein <br>
-Alpenstadion  -- Wattens <br>
-Schnabelholz  -- Altach <br>
-Reichshofstadion  -- Lustenau <br>
-Bodenseestadion  -- Bregenz <br>
-Stadion Birkenwiese  -- Dornbirn <br>
+Happel-Stadion • Ernst-Happel-Stadion • Praterstadion  (1931)  max. 53295 attendance   _#happelstadion_{: .key}  -- Wien <br>
+Wörtherseestadion • $Hypo$-Arena  (2008)  max. 32000 attendance   _#woertherseestadion_{: .key}  -- Klagenfurt <br>
+Wals-Siezenheim-Stadion • $Red Bull$ Arena  (2003)  max. 31020 attendance   _#walssiezenheimstadion_{: .key}  -- Salzburg (Wals-Siezenheim) <br>
+Linzer Stadion • Stadion auf der Gugl  (1952)  max. 20104 attendance   _#linzerstadion_{: .key}  -- Linz <br>
+Hanappi-Stadion • Gerhard-Hanappi-Stadion • Weststadion  (1977)  max. 18456 attendance   _#hanappistadion_{: .key}  -- Wien <br>
+Tivoli • Tivoli-Neu Stadion  (2000)  max. 17400 attendance   _#tivoli_{: .key}  -- Innsbruck <br>
+Pappelstadion  (1952)  max. 15700 attendance   _#pappelstadion_{: .key}  -- Mattersburg <br>
+$UPC$-Arena  (1997)  max. 15323 attendance   _#upcarena_{: .key}  -- Graz <br>
+Horr-Stadion • Franz-Horr-Stadion • $Generali$ Arena  (1925)  max. 13135 attendance   _#horrstadion_{: .key}  -- Wien <br>
+Franz-Fekete-Stadion  (1950)  max. 12000 attendance   _#franzfeketestadion_{: .key}  -- Kapfenberg <br>
+Bundesstadion Südstadt  (1967)  max. 12000 attendance   _#bundesstadionsuedstadt_{: .key}  -- Maria Enzersdorf <br>
+Bodenseestadion • $Casino$-Stadion  (1951)  max. 12000 attendance   _#bodenseestadion_{: .key}  -- Bregenz <br>
+Stadion Birkenwiese  (1935)  max. 12000 attendance   _#stadionbirkenwiese_{: .key}  -- Dornbirn <br>
+Gruabn  (1919)  max. 10500 attendance   _#gruabn_{: .key}  -- Graz <br>
+Vorwärts-Stadion   max. 10000 attendance   _#vorwaertsstadion_{: .key}  -- Steyr <br>
+Sepp-Doll-Stadion • Kremserstadion  (1923)  max. 10000 attendance   _#seppdollstadion_{: .key}  -- Krems <br>
+Reichshofstadion  (1953)  max. 8800 attendance   _#reichshofstadion_{: .key}  -- Lustenau <br>
+Wiener Sportclub-Platz  (1904)  max. 8700 attendance   _#wienersportclubplatz_{: .key}  -- Wien <br>
+Schnabelholz • $Cashpoint$ Arena  (1990)  max. 8500 attendance   _#schnabelholz_{: .key}  -- Altach <br>
+$NV$-Arena • Niederösterreich-Arena  (2012)  max. 8000 attendance   _#nvarena_{: .key}  -- St. Pölten <br>
+Voithplatz   max. 8000 attendance   _#voithplatz_{: .key}  -- St. Pölten <br>
+Lavanttal-Arena  (2003)  max. 7700 attendance   _#lavanttalarena_{: .key}  -- Wolfsberg <br>
+$Keine Sorgen$ Arena  (2003)  max. 7334 attendance   _#keinesorgenarena_{: .key}  -- Ried <br>
+Wiener Neustädter Stadion • Stadion Wiener Neustadt  (1955)  max. 7036 attendance   _#wienerneustaedterstadion_{: .key}  -- Wiener Neustadt <br>
+Goldeckstadion   max. 6500 attendance   _#goldeckstadion_{: .key}  -- Spittal (an der Drau) <br>
+Hohe Warte • Stadion Hohe Warte   max. 6000 attendance   _#hohewarte_{: .key}  -- Wien <br>
+Stadion Hartberg   max. 6000 attendance   _#stadionhartberg_{: .key}  -- Hartberg <br>
+Alpenstadion   max. 5500 attendance   _#alpenstadion_{: .key}  -- Wattens <br>
+Simmeringer Had  (1920)  max. 5000 attendance   _#simmeringerhad_{: .key}  -- Wien <br>
+Heidebodenstadion   max. 5000 attendance   _#heidebodenstadion_{: .key}  -- Parndorf <br>
+Kufstein Arena • Grenzlandstadion  (1925)  max. 5000 attendance   _#kufsteinarena_{: .key}  -- Kufstein <br>
+Sportplatz Horn   max. 3000 attendance   _#sportplatzhorn_{: .key}  -- Horn <br>
+Untersberg-Arena  (1989)  max. 2955 attendance   _#untersbergarena_{: .key}  -- Grödig <br>
 
 </div>
 
@@ -8301,10 +8565,10 @@ Stadion Birkenwiese  -- Dornbirn <br>
 
 <div class='columns300' markdown='1'>
 
-Wembley  -- London <br>
-Ashburton Grove  -- London <br>
-Old Trafford  -- Manchester <br>
-St. James' Park  -- Newcastle <br>
+Wembley • Wembley Stadium  (2007)  max. 90000 attendance   _#wembley_{: .key}  -- London <br>
+Old Trafford  (1910)  max. 76212 attendance   _#oldtrafford_{: .key}  -- Manchester <br>
+Ashburton Grove • $Emirates$ Stadium  (2006)  max. 60361 attendance   _#ashburtongrove_{: .key}  -- London <br>
+St. James' Park   max. 1891 attendance   _#stjamespark_{: .key}  -- Newcastle <br>
 
 </div>
 
@@ -8315,8 +8579,8 @@ St. James' Park  -- Newcastle <br>
 
 <div class='columns300' markdown='1'>
 
-Stade de France  -- Paris (Saint-Denis) <br>
-Stade Vélodrome  -- Marseille <br>
+Stade de France  (1998)  max. 81338 attendance   _#stadedefrance_{: .key}  -- Paris (Saint-Denis) <br>
+Stade Vélodrome  (1937)  max. 60031 attendance   _#stadevelodrome_{: .key}  -- Marseille <br>
 
 </div>
 
@@ -8327,42 +8591,42 @@ Stade Vélodrome  -- Marseille <br>
 
 <div class='columns300' markdown='1'>
 
-Waldstadion  -- Frankfurt <br>
-Olympiastadion  <br>
-Alte Försterei  <br>
-Stadion der Freundschaft  <br>
-Volksparkstadion  <br>
-Millerntor-Stadion  <br>
-Weserstadion  <br>
-Westfalenstadion  -- Dortmund <br>
-Arena Auf Schalke  -- Gelsenkirchen <br>
-Müngersdorfer Stadion  -- Köln <br>
-Stadion im Borussia-Park  -- Mönchengladbach <br>
-Ulrich-Haberland-Stadion  -- Leverkusen <br>
-Düsseldorf Arena  <br>
-Ruhrstadion  -- Bochum <br>
-Bielefelder Alm  -- Bielefeld <br>
-$Benteler$-Arena  -- Paderborn <br>
-$Allianz$ Arena  <br>
-Frankenstadion  <br>
-Augsburg Arena  -- Augsburg <br>
-Ronhof  -- Fürth <br>
-$Audi$-Sportpark  -- Ingolstadt <br>
-Gottlieb-Daimler-Stadion  -- Stuttgart <br>
-Rhein-Neckar-Arena  -- Sinsheim <br>
-Dreisamstadion  -- Freiburg (im Breisgau) <br>
-Wildparkstadion  -- Karlsruhe <br>
-Städtisches Waldstadion Aalen  -- Aalen <br>
-Hardtwaldstadion  -- Sandhausen <br>
-Stadion am Bornheimer Hang  -- Frankfurt <br>
-Niedersachsenstadion  -- Hannover <br>
-$Volkswagen$ Arena  -- Wolfsburg <br>
-Eintracht-Stadion  -- Braunschweig <br>
-Zentralstadion  -- Leipzig <br>
-Dynamo-Stadion  -- Dresden <br>
-Erzgebirgsstadion  -- Aue <br>
-Fritz-Walter-Stadion  -- Kaiserslautern <br>
-$Coface$ Arena  -- Mainz <br>
+Olympiastadion  (1936)  max. 74176 attendance  ; Olympischer Platz 3 // 14053 Berlin  _#olympiastadion_{: .key}  <br>
+Westfalenstadion • $Signal Iduna$ Park   max. 67000 attendance   _#westfalenstadion_{: .key}  -- Dortmund <br>
+$Allianz$ Arena  (2005)  max. 66016 attendance  ; Werner-Heisenberg-Allee 25 // 80939 München  _#allianzarena_{: .key}  <br>
+Düsseldorf Arena • $Esprit$ Arena  (2005)  max. 54600 attendance  ; Arena-Straße 1 // 40474 Düsseldorf  _#duesseldorfarena_{: .key}  <br>
+Gottlieb-Daimler-Stadion • $Mercedes-Benz$ Arena   max. 54267 attendance   _#gottliebdaimlerstadion_{: .key}  -- Stuttgart <br>
+Stadion im Borussia-Park   max. 54049 attendance   _#stadionimborussiapark_{: .key}  -- Mönchengladbach <br>
+Arena Auf Schalke • $Veltins$-Arena   max. 53804 attendance   _#arenaaufschalke_{: .key}  -- Gelsenkirchen <br>
+Volksparkstadion • $Imtech$ Arena  (1953)  max. 51055 attendance  ; Sylvesterallee 7 // 22525 Hamburg  _#volksparkstadion_{: .key}  <br>
+Waldstadion • $Commerzbank$-Arena   max. 48132 attendance   _#waldstadion_{: .key}  -- Frankfurt <br>
+Müngersdorfer Stadion • $RheinEnergie$ Stadion  (2004)  max. 46134 attendance   _#muengersdorferstadion_{: .key}  -- Köln <br>
+Niedersachsenstadion • $HDI$-Arena   max. 44652 attendance   _#niedersachsenstadion_{: .key}  -- Hannover <br>
+Zentralstadion • $Red Bull$ Arena   max. 44199 attendance   _#zentralstadion_{: .key}  -- Leipzig <br>
+Fritz-Walter-Stadion   max. 43450 attendance   _#fritzwalterstadion_{: .key}  -- Kaiserslautern <br>
+Weserstadion   max. 42100 attendance  ; Franz-Böhmert-Straße 7 // 28205 Bremen  _#weserstadion_{: .key}  <br>
+Frankenstadion • $Grundig$-Stadion   max. 41926 attendance  ; Max-Morlock-Platz 1 // 90480 Nürnberg  _#frankenstadion_{: .key}  <br>
+$Coface$ Arena  (2011)  max. 33500 attendance   _#cofacearena_{: .key}  -- Mainz <br>
+Dynamo-Stadion • Rudolf-Harbig-Stadion • $Glücksgas$-Stadion   max. 32066 attendance   _#dynamostadion_{: .key}  -- Dresden <br>
+Augsburg Arena • $SGL$ Arena  (2009)  max. 30660 attendance   _#augsburgarena_{: .key}  -- Augsburg <br>
+Ulrich-Haberland-Stadion • $Bay$Arena  (1958)  max. 30210 attendance   _#ulrichhaberlandstadion_{: .key}  -- Leverkusen <br>
+Rhein-Neckar-Arena • $Wirsol$ Rhein-Neckar-Arena  (2009)  max. 30150 attendance   _#rheinneckararena_{: .key}  -- Sinsheim <br>
+$Volkswagen$ Arena  (2002)  max. 30000 attendance   _#volkswagenarena_{: .key}  -- Wolfsburg <br>
+Wildparkstadion  (1955)  max. 29699 attendance   _#wildparkstadion_{: .key}  -- Karlsruhe <br>
+Millerntor-Stadion   max. 29633 attendance  ; Auf dem Heiligengeistfeld // 20359 Hamburg  _#millerntorstadion_{: .key}  <br>
+Ruhrstadion • $Rewirpower$-Stadion  (1911)  max. 29299 attendance   _#ruhrstadion_{: .key}  -- Bochum <br>
+Bielefelder Alm • Alm-Stadion • $Schüco$ Arena  (1926)  max. 27300 attendance   _#bielefelderalm_{: .key}  -- Bielefeld <br>
+Dreisamstadion • $Mage Solar$ Stadion  (1954)  max. 24000 attendance   _#dreisamstadion_{: .key}  -- Freiburg (im Breisgau) <br>
+Eintracht-Stadion  (1923)  max. 23325 attendance   _#eintrachtstadion_{: .key}  -- Braunschweig <br>
+Stadion der Freundschaft  (1930)  max. 22528 attendance  ; Am Eliaspark 1 // 03042 Cottbus  _#stadionderfreundschaft_{: .key}  <br>
+Alte Försterei • Stadion An der Alten Försterei  (1920)  max. 21738 attendance  ; An der Wuhlheide 263 // 12555 Berlin  _#altefoersterei_{: .key}  <br>
+Ronhof • Sportpark Ronhof • $Trolli$ Arena  (1910)  max. 18000 attendance   _#ronhof_{: .key}  -- Fürth <br>
+Erzgebirgsstadion • $Sparkassen$-Erzgebirgsstadion   max. 15711 attendance   _#erzgebirgsstadion_{: .key}  -- Aue <br>
+$Audi$-Sportpark  (2010)  max. 15690 attendance   _#audisportpark_{: .key}  -- Ingolstadt <br>
+$Benteler$-Arena  (2008)  max. 15000 attendance   _#bentelerarena_{: .key}  -- Paderborn <br>
+Städtisches Waldstadion Aalen • $Scholz$ Arena  (1949)  max. 13251 attendance   _#staedtischeswaldstadionaalen_{: .key}  -- Aalen <br>
+Stadion am Bornheimer Hang • $Frankfurter Volksbank$ Stadion  (1931)  max. 12542 attendance   _#stadionambornheimerhang_{: .key}  -- Frankfurt <br>
+Hardtwaldstadion  (1951)  max. 12100 attendance   _#hardtwaldstadion_{: .key}  -- Sandhausen <br>
 
 </div>
 
@@ -8373,10 +8637,10 @@ $Coface$ Arena  -- Mainz <br>
 
 <div class='columns300' markdown='1'>
 
-Stadio Olimpico di Roma  -- Roma <br>
-Stadio San Nicola  -- Bari <br>
-Stadio Giuseppe Meazza  -- Milano <br>
-Stadio San Paolo  -- Napoli <br>
+Stadio Giuseppe Meazza • San Siro  (1926)  max. 80074 attendance   _#stadiogiuseppemeazza_{: .key}  -- Milano <br>
+Stadio Olimpico di Roma  (1927)  max. 72698 attendance   _#stadioolimpicodiroma_{: .key}  -- Roma <br>
+Stadio San Paolo  (1959)  max. 60240 attendance   _#stadiosanpaolo_{: .key}  -- Napoli <br>
+Stadio San Nicola  (1990)  max. 58248 attendance   _#stadiosannicola_{: .key}  -- Bari <br>
 
 </div>
 
@@ -8387,8 +8651,8 @@ Stadio San Paolo  -- Napoli <br>
 
 <div class='columns300' markdown='1'>
 
-Amsterdam ArenA  -- Amsterdam <br>
-Stadion Feijenoord  -- Rotterdam <br>
+Amsterdam ArenA  (1996)  max. 51628 attendance   _#amsterdamarena_{: .key}  -- Amsterdam <br>
+Stadion Feijenoord • De Kuip  (1937)  max. 51137 attendance   _#stadionfeijenoord_{: .key}  -- Rotterdam <br>
 
 </div>
 
@@ -8399,9 +8663,9 @@ Stadion Feijenoord  -- Rotterdam <br>
 
 <div class='columns300' markdown='1'>
 
-Estádio da Luz  -- Lisboa <br>
-Estádio José Alvalade XXI  -- Lisboa <br>
-Estádio do Dragão  -- Porto <br>
+Estádio da Luz  (2003)  max. 65647 attendance   _#estadiodaluz_{: .key}  -- Lisboa <br>
+Estádio do Dragão  (2003)  max. 50476 attendance   _#estadiododragao_{: .key}  -- Porto <br>
+Estádio José Alvalade XXI  (2003)  max. 50466 attendance   _#estadiojosealvaladexxi_{: .key}  -- Lisboa <br>
 
 </div>
 
@@ -8412,13 +8676,13 @@ Estádio do Dragão  -- Porto <br>
 
 <div class='columns300' markdown='1'>
 
-Estadio Santiago Bernabéu  -- Madrid <br>
-Estadio Vicente Calderón  -- Madrid <br>
-Camp Nou  -- Barcelona <br>
-Estadi Olímpic Lluís Companys  -- Barcelona <br>
-Estadio Benito Villamarín  -- Sevilla <br>
-Estadio Olímpico de Sevilla  -- Sevilla <br>
-Estadio Mestalla  -- Valencia <br>
+Camp Nou  (1957)  max. 96636 attendance   _#campnou_{: .key}  -- Barcelona <br>
+Estadio Santiago Bernabéu  (1947)  max. 85454 attendance   _#estadiosantiagobernabeu_{: .key}  -- Madrid <br>
+Estadio Olímpico de Sevilla  (1997)  max. 57619 attendance   _#estadioolimpicodesevilla_{: .key}  -- Sevilla <br>
+Estadi Olímpic Lluís Companys  (1927)  max. 55121 attendance   _#estadiolimpiclluiscompanys_{: .key}  -- Barcelona <br>
+Estadio Vicente Calderón  (1966)  max. 55005 attendance   _#estadiovicentecalderon_{: .key}  -- Madrid <br>
+Estadio Mestalla  (1923)  max. 52602 attendance   _#estadiomestalla_{: .key}  -- Valencia <br>
+Estadio Benito Villamarín  (1929)  max. 51309 attendance   _#estadiobenitovillamarin_{: .key}  -- Sevilla <br>
 
 </div>
 
@@ -8429,10 +8693,10 @@ Estadio Mestalla  -- Valencia <br>
 
 <div class='columns300' markdown='1'>
 
-Stade de Genève  -- Geneva <br>
-St. Jakob-Park  -- Basel <br>
-Stade de Suisse  -- Bern <br>
-Letzigrund  -- Zurich <br>
+St. Jakob-Park   max. 42000 attendance   _#stjakobpark_{: .key}  -- Basel <br>
+Stade de Suisse   max. 31907 attendance   _#stadedesuisse_{: .key}  -- Bern <br>
+Stade de Genève   max. 31228 attendance   _#stadedegeneve_{: .key}  -- Geneva <br>
+Letzigrund   max. 30000 attendance   _#letzigrund_{: .key}  -- Zurich <br>
 
 </div>
 
@@ -8448,18 +8712,18 @@ Letzigrund  -- Zurich <br>
 
 <div class='columns300' markdown='1'>
 
-Maracanã  -- Rio de Janeiro <br>
-Estádio Nacional Mané Garrincha  -- Brasília <br>
-Arena Corinthians  -- São Paulo <br>
-Estádio Castelão  -- Fortaleza <br>
-Estádio Mineirão  -- Belo Horizonte <br>
-Arena Fonte Nova  -- Salvador <br>
-Arena Pantanal  -- Cuiabá <br>
-Arena Amazônia  -- Manaus <br>
-Arena das Dunas  -- Natal <br>
-Estádio Beira-Rio  -- Porto Alegre <br>
-Arena Pernambuco  -- Recife <br>
-Arena da Baixada  -- Curitiba <br>
+Maracanã • Estádio do Maracanã   max. 76935 attendance   _#maracana_{: .key}  -- Rio de Janeiro <br>
+Estádio Nacional Mané Garrincha   max. 70042 attendance   _#estadionacionalmanegarrincha_{: .key}  -- Brasília <br>
+Arena Corinthians   max. 68000 attendance   _#arenacorinthians_{: .key}  -- São Paulo <br>
+Estádio Castelão   max. 64846 attendance   _#estadiocastelao_{: .key}  -- Fortaleza <br>
+Estádio Mineirão   max. 62547 attendance   _#estadiomineirao_{: .key}  -- Belo Horizonte <br>
+Arena Fonte Nova   max. 56000 attendance   _#arenafontenova_{: .key}  -- Salvador <br>
+Estádio Beira-Rio   max. 51300 attendance   _#estadiobeirario_{: .key}  -- Porto Alegre <br>
+Arena Pernambuco   max. 46154 attendance   _#arenapernambuco_{: .key}  -- Recife <br>
+Arena da Baixada   max. 43981 attendance   _#arenadabaixada_{: .key}  -- Curitiba <br>
+Arena Pantanal   max. 42968 attendance   _#arenapantanal_{: .key}  -- Cuiabá <br>
+Arena Amazônia   max. 42374 attendance   _#arenaamazonia_{: .key}  -- Manaus <br>
+Arena das Dunas   max. 42086 attendance   _#arenadasdunas_{: .key}  -- Natal <br>
 
 </div>
 
@@ -8475,7 +8739,7 @@ Arena da Baixada  -- Curitiba <br>
 
 <div class='columns300' markdown='1'>
 
-$Saputo$ Stadium  -- Montreal  <br>
+$Saputo$ Stadium  (2008)  max. 20341 attendance   _#saputostadium_{: .key}  -- Montreal  <br>
 
 </div>
 
@@ -8486,24 +8750,24 @@ $Saputo$ Stadium  -- Montreal  <br>
 
 <div class='columns300' markdown='1'>
 
-Estadio Azteca  <br>
-Estadio Azul  <br>
-Estadio Olímpico Universitario  <br>
-Estadio Nemesio Díez  <br>
-Estadio Jalisco  <br>
-Estadio Guadalajara  <br>
-Estadio Tecnológico  <br>
-Estadio Universitario  <br>
-Estadio Morelos  <br>
-Estadio Hidalgo  <br>
-Estadio Cuauhtémoc  <br>
-Estadio La Corregidora  <br>
-Estadio Luis "Pirata" Fuente  <br>
-Estadio Moctezuma  <br>
-Estadio León  <br>
-Estadio Caliente  <br>
-Estadio Olímpico Andrés Quintana Roo  <br>
-Estadio Zoque Víctor Manuel Reyna  <br>
+Estadio Azteca • Azteca  (1966)  max. 105084 attendance  ; Calzada de Tlalpan 3465 // México, D.F.  _#azteca_{: .key}  <br>
+Estadio Olímpico Universitario • Olímpico Universitario  (1952)  max. 70500 attendance  ; Av. Insurgents Sur s/n, Ciudad Universitaria, Coyoacán // México, D.F. C.P. 08400  _#olimpicouniversitario_{: .key}  <br>
+Estadio Jalisco • Jalisco  (1960)  max. 56713 attendance  ; Calle Siete Colinas 1772, Col. Independencia // Guadalajara, Jalisco  _#jalisco_{: .key}  <br>
+Estadio Guadalajara • Estadio $Omnilife$ • $Omnilife$  (2010)  max. 49850 attendance  ; Av. Vallarta y Anillo Periférico, Zona Metropolitana de Guadalajara // Zapopan (Guadalajara), Jalisco  _#guadalajara_{: .key}  <br>
+Estadio Cuauhtémoc • Cuauhtémoc  (1968)  max. 46648 attendance  ; Calz. Ignacio Zaragoza s/n, Col. Unidad Deportiva Puebla // Puebla, Puebla  _#cuauhtemoc_{: .key}  <br>
+Estadio Universitario • Universitario  (1967)  max. 42000 attendance  ; Av. Universidad s/n, San Nicolás de los Garza // Monterrey | Nuevo León  _#universitario_{: .key}  <br>
+Estadio Azul • Azul  (1946)  max. 40000 attendance  ; Indiana 260, Col. Nápoles // México | D. F.  _#azul_{: .key}  <br>
+Estadio Morelos • Morelos  (1989)  max. 38869 attendance  ; Libramiento Norte s/n, Col. Leandro Valle // Morelia, Michoacán  _#morelos_{: .key}  <br>
+Estadio Tecnológico • Tecnológico  (1950)  max. 36485 attendance  ; Av. Junco de la Vega s/n Col. Estadio // Monterrey, Nuevo León  _#tecnologico_{: .key}  <br>
+Estadio La Corregidora • La Corregidora • Corregidora  (1985)  max. 34130 attendance  ; Av. de las Torres s/n, Col. Colinas del Cimatario // Querétaro, Querétaro  _#corregidora_{: .key}  <br>
+Estadio León • León • Estadio Nou Camp  (1967)  max. 33943 attendance  ; Boulevard Adolfo López Mateos 1810, Col. La Martinica // León, Guanajuato  _#leon_{: .key}  <br>
+Estadio Zoque Víctor Manuel Reyna • Víctor Manuel Reyna  (1982)  max. 31500 attendance  ; Calz. de las Etnias s/n, esq. Blvd Fidel Velázquez, Col. Infonavit el Grijalva // Tuxtla Gutiérrez, Chiapas  _#victormanuelreyna_{: .key}  <br>
+Estadio Hidalgo • Hidalgo  (1993)  max. 30000 attendance  ; Blvd Felipe Ángeles s/n, Col. Santa Julia // Pachuca | Hidalgo  _#hidalgo_{: .key}  <br>
+Estadio Luis "Pirata" Fuente • Luis "Pirata" Fuente  (1968)  max. 30000 attendance  ; Av. Paseos Jacarandas y Paseo Jardín Fraccionamiento Virginia Boca del Río // Veracruz, Veracruz  _#luispiratafuente_{: .key}  <br>
+Estadio Moctezuma • Estadio $Corona$  (2009)  max. 30000 attendance  ; Calz. Territorio Santos Modelo No. 1, Col. Conjunto de Todos los Santos // Torreón, Coahuila  _#moctezuma_{: .key}  <br>
+Estadio Nemesio Díez • Nemesio Díez  (1954)  max. 27000 attendance  ; Constituyentes No. 1000, Col. La Merced // Toluca, Estado de México  _#nemesiodiez_{: .key}  <br>
+Estadio Caliente • Caliente  (2007)  max. 24000 attendance  ; Boulevard Agua Caliente 12027, Col. Hipódromo // Tijuana, Baja California  _#caliente_{: .key}  <br>
+Estadio Olímpico Andrés Quintana Roo • Olímpico Andrés Quintana Roo  (2007)  max. 18500 attendance  ; Av. Mayapan, Kabah y Av. La Luna s/n, Colonia Centro // Cancún, Quintana Roo  _#andresquintanaroo_{: .key}  <br>
 
 </div>
 
@@ -8514,27 +8778,27 @@ Estadio Zoque Víctor Manuel Reyna  <br>
 
 <div class='columns300' markdown='1'>
 
-Rose Bowl  -- Pasadena <br>
-$StubHub$ Center  -- Carson <br>
-$CenturyLink$ Field  -- Seattle <br>
-$Sports Authority$ Field  -- Denver <br>
-$Dick's Sporting Goods$ Park  -- Commerce City <br>
-$Red Bull$ Arena  -- Harrison <br>
-$PPL$ Park  <br>
-Georgia Dome  <br>
-$M&T Bank$ Stadium  -- Baltimore <br>
-RFK Memorial Stadium  <br>
-Soldier Field  <br>
-$Toyota$ Park  <br>
-Crew Stadium  <br>
-$Sun Life$ Stadium  -- Miami (Miami Gardens) <br>
-$BBVA Compass$ Stadium  <br>
-Cowboys Stadium  <br>
-$Toyota$ Stadium  <br>
-Civic Stadium  <br>
-$Rio Tinto$ Stadium  -- Salt Lake City (Sandy) <br>
-Rentschler Field  <br>
-$Gillette$ Stadium  <br>
+Rose Bowl   max. 92542 attendance   _#rosebowl_{: .key}  -- Pasadena <br>
+Cowboys Stadium • $AT&T$ Stadium  (2009)  max. 80000 attendance  ; One Legends Way // Arlington | TX 76011  _#cowboysstadium_{: .key}  <br>
+$Sports Authority$ Field   max. 76125 attendance   _#sportsauthorityfield_{: .key}  -- Denver <br>
+$Sun Life$ Stadium   max. 74918 attendance   _#sunlifestadium_{: .key}  -- Miami (Miami Gardens) <br>
+Georgia Dome  (1992)  max. 71228 attendance  ; 1 Georgia Dome Drive Northwest // Atlanta | GA 30313-1591  _#georgiadome_{: .key}  <br>
+$M&T Bank$ Stadium   max. 71008 attendance   _#mtbankstadium_{: .key}  -- Baltimore <br>
+$CenturyLink$ Field   max. 67000 attendance   _#centurylinkfield_{: .key}  -- Seattle <br>
+Soldier Field  (1924)  max. 61500 attendance  ; 1410 S Museum Campus Drive // Chicago | IL 60605  _#soldierfield_{: .key}  <br>
+Rentschler Field  (2003)  max. 40000 attendance  ; 615 Silver Lane // East Hartford | CT 06118  _#rentschlerfield_{: .key}  <br>
+$StubHub$ Center  (2003)  max. 27000 attendance   _#stubhubcenter_{: .key}  -- Carson <br>
+$Red Bull$ Arena  (2010)  max. 25189 attendance   _#redbullarena_{: .key}  -- Harrison <br>
+$Gillette$ Stadium  (2002)  max. 22385 attendance  ; Foxborough // Massachusetts  _#gillettestadium_{: .key}  <br>
+$BBVA Compass$ Stadium  (2012)  max. 22000 attendance  ; 2200 Texas Avenue // Houston | TX 77003  _#bbvacompassstadium_{: .key}  <br>
+$Toyota$ Stadium  (2005)  max. 21193 attendance  ; 9200 World Cup Way // Ste 202 // Frisco | TX 75034-4958  _#toyotastadium_{: .key}  <br>
+Civic Stadium • Multnomah Field • Multnomah Stadium • $Jeld-Wen$ Field  (1926)  max. 20323 attendance  ; 1844 SW Morrison // Portland | OR 97205  _#civicstadium_{: .key}  <br>
+$Rio Tinto$ Stadium   max. 20213 attendance   _#riotintostadium_{: .key}  -- Salt Lake City (Sandy) <br>
+Crew Stadium • Columbus Crew Stadium  (1999)  max. 20145 attendance  ; 1 Black and Gold Boulevard // Columbus | OH 43211-2091  _#crewstadium_{: .key}  <br>
+$Toyota$ Park  (2006)  max. 20000 attendance  ; Bridgeview // Illinois  _#toyotapark_{: .key}  <br>
+RFK Memorial Stadium  (1961)  max. 19467 attendance  ; Washington // DC  _#rfkmemorialstadium_{: .key}  <br>
+$PPL$ Park  (2010)  max. 18500 attendance  ; Chester // Pennsylvania  _#pplpark_{: .key}  <br>
+$Dick's Sporting Goods$ Park  (2007)  max. 18086 attendance   _#dickssportinggoodspark_{: .key}  -- Commerce City <br>
 
 </div>
 
@@ -8560,8 +8824,8 @@ $Gillette$ Stadium  <br>
 
 <div class='columns300' markdown='1'>
 
-Stade de Marrakech  -- Marrakesh <br>
-Stade Adrar  -- Agadir <br>
+Stade Adrar   max. 45480 attendance   _#stadeadrar_{: .key}  -- Agadir <br>
+Stade de Marrakech   max. 45240 attendance   _#stadedemarrakech_{: .key}  -- Marrakesh <br>
 
 </div>
 
@@ -8572,16 +8836,16 @@ Stade Adrar  -- Agadir <br>
 
 <div class='columns300' markdown='1'>
 
-Ellis Park Stadium  -- Johannesburg <br>
-Soccer City  -- Johannesburg <br>
-Cape Town Stadium  -- Cape Town <br>
-Moses Mabhida Stadium  -- Durban <br>
-Loftus Versfeld Stadium  -- Pretoria <br>
-Nelson Mandela Bay Stadium  -- Port Elizabeth <br>
-Peter Mokaba Stadium  -- Polokwane <br>
-Mbombela Stadium  -- Nelspruit <br>
-Free State Stadium  -- Bloemfontein <br>
-Royal Bafokeng Stadium  -- Rustenburg <br>
+Soccer City   max. 84490 attendance   _#soccercity_{: .key}  -- Johannesburg <br>
+Cape Town Stadium   max. 64100 attendance   _#capetownstadium_{: .key}  -- Cape Town <br>
+Moses Mabhida Stadium   max. 62760 attendance   _#mosesmabhidastadium_{: .key}  -- Durban <br>
+Ellis Park Stadium   max. 55686 attendance   _#ellisparkstadium_{: .key}  -- Johannesburg <br>
+Loftus Versfeld Stadium   max. 42858 attendance   _#loftusversfeldstadium_{: .key}  -- Pretoria <br>
+Nelson Mandela Bay Stadium   max. 42486 attendance   _#nelsonmandelabaystadium_{: .key}  -- Port Elizabeth <br>
+Peter Mokaba Stadium   max. 41733 attendance   _#petermokabastadium_{: .key}  -- Polokwane <br>
+Mbombela Stadium   max. 40929 attendance   _#mbombelastadium_{: .key}  -- Nelspruit <br>
+Free State Stadium   max. 40911 attendance   _#freestatestadium_{: .key}  -- Bloemfontein <br>
+Royal Bafokeng Stadium   max. 38646 attendance   _#royalbafokengstadium_{: .key}  -- Rustenburg <br>
 
 </div>
 
@@ -8607,7 +8871,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 {: #others }
 
 
-## National Teams A-Z Index _(76)_{:.count}
+## National Teams A-Z Index _(86)_{:.count}
 
 
  A •  B •  C •  D •  E •  F •  G •  H •  I •  J •  K •  L •  M •  N •  O •  P •  Q •  R •  S •  T •  U •  V •  W •  X •  Y •  Z
@@ -8620,6 +8884,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 **[Algeria (ALG)](dz.html#alg)** ( [Algeria (ALG)](dz.html) ) _#alg_{: .key} <br>
 **[Angola (ANG)](ao.html#ang)** ( [Angola (ANG)](ao.html) ) _#ang_{: .key} <br>
+**[Argentina (ARG)](ar.html#arg)** ( [Argentina (ARG)](ar.html) ) _#arg_{: .key} <br>
 **[Australia (AUS)](au.html#aus)** ( [Australia (AUS)](au.html) ) _#aus_{: .key} <br>
 **[Austria (AUT)](at.html#aut)** ( [Austria (AUT)](at.html) ) _#aut_{: .key} <br>
 
@@ -8637,6 +8902,8 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 **[Bosnia-Herzegovina (BIH)](ba.html#bih)** ( [Bosnia and Herzegovina (BIH)](ba.html) ) _#bih_{: .key} <br>
 **[Belarus (BLR)](by.html#blr)** ( [Belarus (BLR)](by.html) ) _#blr_{: .key} <br>
 **[Belize (BLZ)](bz.html#blz)** ( [Belize (BLZ)](bz.html) ) _#blz_{: .key} <br>
+**[Bolivia (BOL)](bo.html#bol)** ( [Bolivia (BOL)](bo.html) ) _#bol_{: .key} <br>
+**[Brazil (BRA)](br.html#bra)** ( [Brazil (BRA)](br.html) ) _#bra_{: .key} <br>
 
 </div>
 
@@ -8648,9 +8915,11 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 <div class='columns300' markdown='1'>
 
 **[Canada (CAN)](ca.html#can)** ( [Canada (CAN)](ca.html) ) _#can_{: .key} <br>
+**[Chile (CHI)](cl.html#chi)** ( [Chile (CHI)](cl.html) ) _#chi_{: .key} <br>
 **[Côte d'Ivoire (CIV)](ci.html#civ)** ( [Côte d'Ivoire (CIV)](ci.html) ) _#civ_{: .key} <br>
 **[Cameroon (CMR)](cm.html#cmr)** ( [Cameroon (CMR)](cm.html) ) _#cmr_{: .key} <br>
 **[Congo DR (COD)](cd.html#cod)** ( [Congo DR (COD)](cd.html) ) _#cod_{: .key} <br>
+**[Colombia (COL)](co.html#col)** ( [Colombia (COL)](co.html) ) _#col_{: .key} <br>
 **[Cape Verde (CPV)](cv.html#cpv)** ( [Cape Verde (CPV)](cv.html) ) _#cpv_{: .key} <br>
 **[Costa Rica (CRC)](cr.html#crc)** ( [Costa Rica (CRC)](cr.html) ) _#crc_{: .key} <br>
 **[Croatia (CRO)](hr.html#cro)** ( [Croatia (CRO)](hr.html) ) _#cro_{: .key} <br>
@@ -8677,6 +8946,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
+**[Ecuador (ECU)](ec.html#ecu)** ( [Ecuador (ECU)](ec.html) ) _#ecu_{: .key} <br>
 **[Egypt (EGY)](eg.html#egy)** ( [Egypt (EGY)](eg.html) ) _#egy_{: .key} <br>
 **[England (ENG)](en.html#eng)** ( [England (ENG)](en.html) ) _#eng_{: .key} <br>
 **[Spain (ESP)](es.html#esp)** ( [Spain (ESP)](es.html) ) _#esp_{: .key} <br>
@@ -8823,6 +9093,8 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 <div class='columns300' markdown='1'>
 
 **[Panama (PAN)](pa.html#pan)** ( [Panamá [Panama] (PAN)](pa.html) ) _#pan_{: .key} <br>
+**[Paraguay (PAR)](py.html#par)** ( [Paraguay (PAR)](py.html) ) _#par_{: .key} <br>
+**[Peru (PER)](pe.html#per)** ( [Peru (PER)](pe.html) ) _#per_{: .key} <br>
 **[Poland (POL)](pl.html#pol)** ( [Poland (POL)](pl.html) ) _#pol_{: .key} <br>
 **[Portugal (POR)](pt.html#por)** ( [Portugal (POR)](pt.html) ) _#por_{: .key} <br>
 **[North Korea (PRK)](kp.html#prk)** ( [North Korea (PRK)](kp.html) ) _#prk_{: .key} <br>
@@ -8892,6 +9164,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 <div class='columns300' markdown='1'>
 
 **[Ukraine (UKR)](ua.html#ukr)** ( [Ukraine (UKR)](ua.html) ) _#ukr_{: .key} <br>
+**[Uruguay (URU)](uy.html#uru)** ( [Uruguay (URU)](uy.html) ) _#uru_{: .key} <br>
 **[United States (USA)](us.html#usa)** ( [United States (USA)](us.html) ) _#usa_{: .key} <br>
 
 </div>
@@ -8903,6 +9176,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
+**[Venezuela (VEN)](ve.html#ven)** ( [Venezuela (VEN)](ve.html) ) _#ven_{: .key} <br>
 
 </div>
 
@@ -8948,7 +9222,7 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 </div>
 
 
-## Clubs A-Z Index _(10)_{:.count}
+## Clubs A-Z Index _(0)_{:.count}
 
 
  A •  B •  C •  D •  E •  F •  G •  H •  I •  J •  K •  L •  M •  N •  O •  P •  Q •  R •  S •  T •  U •  V •  W •  X •  Y •  Z
@@ -8959,7 +9233,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Argentina (ARG)](ar.html#arg)** ( [Argentina (ARG)](ar.html) ) _#arg_{: .key} <br>
 
 </div>
 
@@ -8970,8 +9243,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Bolivia (BOL)](bo.html#bol)** ( [Bolivia (BOL)](bo.html) ) _#bol_{: .key} <br>
-**[Brazil (BRA)](br.html#bra)** ( [Brazil (BRA)](br.html) ) _#bra_{: .key} <br>
 
 </div>
 
@@ -8982,8 +9253,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Chile (CHI)](cl.html#chi)** ( [Chile (CHI)](cl.html) ) _#chi_{: .key} <br>
-**[Colombia (COL)](co.html#col)** ( [Colombia (COL)](co.html) ) _#col_{: .key} <br>
 
 </div>
 
@@ -9004,7 +9273,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Ecuador (ECU)](ec.html#ecu)** ( [Ecuador (ECU)](ec.html) ) _#ecu_{: .key} <br>
 
 </div>
 
@@ -9115,8 +9383,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Paraguay (PAR)](py.html#par)** ( [Paraguay (PAR)](py.html) ) _#par_{: .key} <br>
-**[Peru (PER)](pe.html#per)** ( [Peru (PER)](pe.html) ) _#per_{: .key} <br>
 
 </div>
 
@@ -9167,7 +9433,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Uruguay (URU)](uy.html#uru)** ( [Uruguay (URU)](uy.html) ) _#uru_{: .key} <br>
 
 </div>
 
@@ -9178,7 +9443,6 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 <div class='columns300' markdown='1'>
 
-**[Venezuela (VEN)](ve.html#ven)** ( [Venezuela (VEN)](ve.html) ) _#ven_{: .key} <br>
 
 </div>
 
@@ -9229,8 +9493,8 @@ Royal Bafokeng Stadium  -- Rustenburg <br>
 
 Stats:
 
-- 76 National Teams
-- 10 Clubs
+- 86 National Teams
+- 0 Clubs
 - 254 Games
 - 6 Leagues & Tournaments
 - 7 Events
