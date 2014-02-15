@@ -4,7 +4,7 @@ title: Liechtenstein (LIE)
 permalink: /li.html
 ---
 
-## Liechtenstein (LIE) - 2 Teams
+## Liechtenstein (LIE) - 2 Clubs
 {: #li }
 
 

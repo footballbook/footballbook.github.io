@@ -4,7 +4,7 @@ title: Turkey (TUR)
 permalink: /tr.html
 ---
 
-## Turkey (TUR) - 0 Clubs
+## Turkey (TUR) - 9 Clubs
 {: #tr }
 
 
@@ -15,8 +15,22 @@ permalink: /tr.html
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(8)_{:.count}
 
+Beşiktaş JK   _#besiktas_{: .key} <br>
+{: .team #besiktas }
+Bursaspor   _#bursaspor_{: .key} <br>
+{: .team #bursaspor }
+Eskişehirspor   _#eskisehirspor_{: .key} <br>
+{: .team #eskisehirspor }
+Gaziantepspor   _#gaziantepspor_{: .key} <br>
+{: .team #gaziantepspor }
+Kayserispor   _#kayserispor_{: .key} <br>
+{: .team #kayserispor }
+Sivasspor   _#sivasspor_{: .key} <br>
+{: .team #sivasspor }
+Trabzonspor AŞ   _#trabzonspor_{: .key} <br>
+{: .team #trabzonspor }
 Turkey  (TUR)  _#tur_{: .key} <br>
 {: .team #tur }
 

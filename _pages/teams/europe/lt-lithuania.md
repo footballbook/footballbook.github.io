@@ -4,7 +4,7 @@ title: Lithuania (LTU)
 permalink: /lt.html
 ---
 
-## Lithuania (LTU) - 8 Teams
+## Lithuania (LTU) - 8 Clubs
 {: #lt }
 
 

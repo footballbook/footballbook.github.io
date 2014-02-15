@@ -4,7 +4,7 @@ title: Andorra (AND)
 permalink: /ad.html
 ---
 
-## Andorra (AND) - 4 Teams
+## Andorra (AND) - 4 Clubs
 {: #ad }
 
 

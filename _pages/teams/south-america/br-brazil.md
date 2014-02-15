@@ -4,11 +4,12 @@ title: Brazil (BRA)
 permalink: /br.html
 ---
 
-## Brazil (BRA) - 0 Clubs
+## Brazil (BRA) - 24 Clubs
 {: #br }
 
 
 
+ Campeonato Brasileiro Série A _#br_{: .key}
 
 
 
@@ -134,7 +135,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-### Bahia _(0)_{:.count}
+### Bahia _(2)_{:.count}
 {: #br-ba }
 
 
@@ -143,6 +144,10 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Bahia • Bahia BA • EC Bahia • Esporte Clube Bahia  (BAI)  -- Salvador _#bahia_{: .key} <br>
+{: .team #bahia }
+Vitória • EC Vitória • Esporte Clube Vitória  (VIT)  -- Salvador _#vitoria_{: .key} <br>
+{: .team #vitoria }
 
 </div>
 
@@ -190,7 +195,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-### Pernambuco _(0)_{:.count}
+### Pernambuco _(2)_{:.count}
 {: #br-pe }
 
 
@@ -199,6 +204,10 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Náutico • C Náutico Capibaribe • Náutico PE • Clube Náutico Capibaribe  (NAU)  -- Recife _#nautico_{: .key} <br>
+{: .team #nautico }
+Sport • Sport Recife • Sport PE • Sport Club do Recife   -- Recife _#sportrecife_{: .key} <br>
+{: .team #sportrecife }
 
 </div>
 
@@ -260,7 +269,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-### Goiás _(0)_{:.count}
+### Goiás _(2)_{:.count}
 {: #br-go }
 
 
@@ -269,6 +278,10 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Atlético GO • Atlético/GO • Atlético Goianiense • Atlético C Goianiense • Atlético Clube Goianiense  (ACG)  -- Goiânia _#atleticogo_{: .key} <br>
+{: .team #atleticogo }
+Goiás • Goiás EC • Goiás Esporte Clube  (GOI)  -- Goiânia _#goias_{: .key} <br>
+{: .team #goias }
 
 </div>
 
@@ -316,7 +329,7 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 
 
-### Minas Gerais _(0)_{:.count}
+### Minas Gerais _(2)_{:.count}
 {: #br-mg }
 
 
@@ -325,12 +338,16 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Atlético Mineiro • C Atlético Mineiro • Atlético MG • Atlético/MG • Clube Atlético Mineiro  (CAM)  -- Belo Horizonte _#atleticomg_{: .key} <br>
+{: .team #atleticomg }
+Cruzeiro • Cruzeiro EC • Cruzeiro MG • Cruzeiro Esporte Clube  (CRU)  -- Belo Horizonte _#cruzeiro_{: .key} <br>
+{: .team #cruzeiro }
 
 </div>
 
 
 
-### Rio de Janeiro _(0)_{:.count}
+### Rio de Janeiro _(4)_{:.count}
 {: #br-rj }
 
 
@@ -339,12 +356,20 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Botafogo • Botafogo RJ • Botafogo FR • Botafogo de Futebol e Regatas  (BOT)  -- Rio de Janeiro _#botafogo_{: .key} <br>
+{: .team #botafogo }
+Flamengo • CR Flamengo • Flamengo RJ • Flamengo Rio de Janeiro • Clube de Regatas do Flamengo  (FLA)  -- Rio de Janeiro _#flamengo_{: .key} <br>
+{: .team #flamengo }
+Fluminense • Fluminense FC • Fluminense RJ • Fluminense Rio de Janeiro • Fluminense Football Club  (FLU)  -- Rio de Janeiro _#fluminense_{: .key} <br>
+{: .team #fluminense }
+Vasco • CR Vasco da Gama • Vasco RJ • Vasco da Gama • Vasco da Gama Rio de Janeiro • Club de Regatas Vasco da Gama  (VAS)  -- Rio de Janeiro _#vascodagama_{: .key} <br>
+{: .team #vascodagama }
 
 </div>
 
 
 
-### São Paulo _(0)_{:.count}
+### São Paulo _(6)_{:.count}
 {: #br-sp }
 
 
@@ -353,12 +378,24 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Corinthians • SC Corinthians Paulista • Corinthians SP • Corinthians São Paulo • Sport Club Corinthians Paulista  (COR)  -- São Paulo _#corinthians_{: .key} <br>
+{: .team #corinthians }
+Palmeiras • Palmeiras SP • SE Palmeiras • SE Palmeiras São Paulo • Sociedade Esportiva Palmeiras  (PAL)  -- São Paulo _#palmeiras_{: .key} <br>
+{: .team #palmeiras }
+Ponte Preta • AA Ponte Preta • Associação Atlética Ponte Preta  (PON)  -- Campinas _#pontepreta_{: .key} <br>
+{: .team #pontepreta }
+Portuguesa • A Portuguesa de Desportos • Portuguesa SP • Portuguesa São Paulo • Associação Portuguesa de Desportos  (POR)  -- São Paulo _#portuguesa_{: .key} <br>
+{: .team #portuguesa }
+Santos • Santos SP • Santos FC • FC Santos • Santos Futebol Clube  (SAN)  -- Santos _#santossp_{: .key} <br>
+{: .team #santossp }
+São Paulo • São Paulo FC • FC São Paulo • São Paulo SP • São Paulo Futebol Clube  (SAO)  -- São Paulo _#saopaulo_{: .key} <br>
+{: .team #saopaulo }
 
 </div>
 
 
 
-### Paraná _(0)_{:.count}
+### Paraná _(2)_{:.count}
 {: #br-pr }
 
 
@@ -367,12 +404,16 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Atlético Paranaense • C Atlético Paranaense • Atlético PR • Atlético/PR • Clube Atlético Paranaense  (CAP)  -- Curitiba _#atleticopr_{: .key} <br>
+{: .team #atleticopr }
+Coritiba • Coritiba FC • Coritiba PR • Coritiba FC • Coritiba Football Club  (CTB)  -- Curitiba _#coritiba_{: .key} <br>
+{: .team #coritiba }
 
 </div>
 
 
 
-### Rio Grande do Sul _(0)_{:.count}
+### Rio Grande do Sul _(2)_{:.count}
 {: #br-rs }
 
 
@@ -381,12 +422,16 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Grêmio • Grêmio RS • Grêmio Porto Alegre • Grêmio FBPA • Grêmio Foot-Ball Porto Alegrense  (GRE)  -- Porto Alegre _#gremio_{: .key} <br>
+{: .team #gremio }
+Internacional • SC Internacional • Internacional RS • Internacional Porto Alegre • Sport Club Internacional  (INT)  -- Porto Alegre _#interrs_{: .key} <br>
+{: .team #interrs }
 
 </div>
 
 
 
-### Santa Catarina _(0)_{:.count}
+### Santa Catarina _(2)_{:.count}
 {: #br-sc }
 
 
@@ -395,6 +440,10 @@ Brazil  (BRA)  _#bra_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Criciúma • Criciúma EC • Criciúma Esporte Clube  (CRI)  -- Criciúma _#criciuma_{: .key} <br>
+{: .team #criciuma }
+Figueirense • Figueirense FC • Figueirense SC • Figueirense Futebol Clube  (FIG)  -- Florianópolis _#figueirense_{: .key} <br>
+{: .team #figueirense }
 
 </div>
 

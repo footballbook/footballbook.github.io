@@ -4,7 +4,7 @@ title: Estonia (EST)
 permalink: /ee.html
 ---
 
-## Estonia (EST) - 6 Teams
+## Estonia (EST) - 6 Clubs
 {: #ee }
 
 

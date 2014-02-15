@@ -4,7 +4,7 @@ title: Luxembourg (LUX)
 permalink: /lu.html
 ---
 
-## Luxembourg (LUX) - 7 Teams
+## Luxembourg (LUX) - 7 Clubs
 {: #lu }
 
 

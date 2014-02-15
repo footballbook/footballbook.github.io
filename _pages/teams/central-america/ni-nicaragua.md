@@ -4,7 +4,7 @@ title: Nicaragua (NCA)
 permalink: /ni.html
 ---
 
-## Nicaragua (NCA) - 1 Teams
+## Nicaragua (NCA) - 1 Clubs
 {: #ni }
 
 

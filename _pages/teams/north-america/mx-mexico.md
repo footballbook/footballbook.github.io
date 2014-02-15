@@ -4,7 +4,7 @@ title: México [Mexico] (MEX)
 permalink: /mx.html
 ---
 
-## México [Mexico] (MEX) - 0 Clubs
+## México [Mexico] (MEX) - 18 Clubs
 {: #mx }
 
 
@@ -15,10 +15,12 @@ permalink: /mx.html
 [Aguascalientes](#mx-ag) _(1)_{:.count} • [Baja California](#mx-bc) _(3)_{:.count} • [Baja California Sur](#mx-bs) _(7)_{:.count} • [Campeche](#mx-cm) _(1)_{:.count} • [Chiapas](#mx-cs) _(1)_{:.count} • [Chihuahua](#mx-ch) _(2)_{:.count} • [Coahuila](#mx-co) _(2)_{:.count} • [Colima](#mx-cl) _(1)_{:.count} • [Distrito Federal](#mx-df) _(1)_{:.count} • [Durango](#mx-dg) _(1)_{:.count} • [Guanajuato](#mx-gt) _(2)_{:.count} • [Guerrero](#mx-gr) _(2)_{:.count} • [Hidalgo](#mx-hg) _(1)_{:.count} • [Jalisco](#mx-ja) _(1)_{:.count} • [México](#mx-me) _(1)_{:.count} • [Michoacán](#mx-mi) _(1)_{:.count} • [Morelos](#mx-mo) _(1)_{:.count} • [Nayarit](#mx-na) _(1)_{:.count} • [Nuevo León](#mx-nl) _(2)_{:.count} • [Oaxaca](#mx-oa) _(2)_{:.count} • [Puebla](#mx-pb) _(1)_{:.count} • [Querétaro](#mx-qe) _(1)_{:.count} • [Quintana Roo](#mx-qr) _(2)_{:.count} • [San Luis Potosí](#mx-sl) _(1)_{:.count} • [Sinaloa](#mx-si) _(2)_{:.count} • [Sonora](#mx-so) _(2)_{:.count} • [Tabasco](#mx-tb) _(1)_{:.count} • [Tamaulipas](#mx-tm) _(1)_{:.count} • [Tlaxcala](#mx-tl) _(1)_{:.count} • [Veracruz](#mx-ve) _(1)_{:.count} • [Yucatán](#mx-yu) _(1)_{:.count} • [Zacatecas](#mx-za) _(1)_{:.count} • **Uncategorized** _(1)_{:.count}
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 Mexico  (MEX)  _#mex_{: .key} <br>
 {: .team #mex }
+Veracruz • Tiburones Rojos (de Veracruz)   _#veracruz_{: .key} <br>
+{: .team #veracruz }
 
 
 
@@ -36,7 +38,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-### Baja California _(0)_{:.count}
+### Baja California _(1)_{:.count}
 {: #mx-bc }
 
 
@@ -45,12 +47,14 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Tijuana • Club Tijuana • Xolos • Club Tijuana Xoloitzcuintles de Caliente  (TIJ)  -- Tijuana _#tijuana_{: .key} <br>
+{: .team #tijuana }
 
 </div>
 
 
 
-### Baja California Sur _(0)_{:.count}
+### Baja California Sur _(2)_{:.count}
 {: #mx-bs }
 
 
@@ -59,6 +63,10 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Bolívar • Club Bolívar   -- La Paz _#bolivar_{: .key} <br>
+{: .team #bolivar }
+The Strongest • Club The Strongest   -- La Paz _#thestrongest_{: .key} <br>
+{: .team #thestrongest }
 
 </div>
 
@@ -78,7 +86,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-### Chiapas _(0)_{:.count}
+### Chiapas _(1)_{:.count}
 {: #mx-cs }
 
 
@@ -87,6 +95,8 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Jaguares • Chiapas • Jaguares de Chiapas  (JAG)  -- Tuxtla (Gutiérrez) _#jaguares_{: .key} <br>
+{: .team #jaguares }
 
 </div>
 
@@ -106,7 +116,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-### Coahuila _(0)_{:.count}
+### Coahuila _(1)_{:.count}
 {: #mx-co }
 
 
@@ -115,6 +125,8 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Santos • Santos Laguna  (SAN)  -- Torreón _#santos_{: .key} <br>
+{: .team #santos }
 
 </div>
 
@@ -134,7 +146,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-### Distrito Federal _(0)_{:.count}
+### Distrito Federal _(3)_{:.count}
 {: #mx-df }
 
 
@@ -143,6 +155,12 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+América • Club América • América de Mexico • Águilas  (AME)  -- México _#america_{: .key} <br>
+{: .team #america }
+Cruz Azul • Cruz Azul FC • Cruz Azul Fútbol Club  (CAZ)  -- México _#cruzazul_{: .key} <br>
+{: .team #cruzazul }
+Pumas • UNAM • Pumas UNAM • Universidad_Nacional  (PUM)  -- México _#pumas_{: .key} <br>
+{: .team #pumas }
 
 </div>
 
@@ -162,7 +180,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-### Guanajuato _(0)_{:.count}
+### Guanajuato _(1)_{:.count}
 {: #mx-gt }
 
 
@@ -171,6 +189,8 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+León • Club León  (LEO)  -- León _#leon_{: .key} <br>
+{: .team #leon }
 
 </div>
 
@@ -190,7 +210,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-### Hidalgo _(0)_{:.count}
+### Hidalgo _(1)_{:.count}
 {: #mx-hg }
 
 
@@ -199,12 +219,14 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Pachuca  (PAC)  -- Pachuca _#pachuca_{: .key} <br>
+{: .team #pachuca }
 
 </div>
 
 
 
-### Jalisco _(0)_{:.count}
+### Jalisco _(2)_{:.count}
 {: #mx-ja }
 
 
@@ -213,12 +235,16 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Atlas  (ATS)  -- Guadalajara _#atlas_{: .key} <br>
+{: .team #atlas }
+Guadalajara • Chivas • Guadalajara Chivas • Deportivo Guadalajara  (GUA)  -- Guadalajara _#chivas_{: .key} <br>
+{: .team #chivas }
 
 </div>
 
 
 
-### México _(0)_{:.count}
+### México _(1)_{:.count}
 {: #mx-me }
 
 
@@ -227,12 +253,14 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Toluca • Deportivo Toluca  (TOL)  -- Toluca (de Lerdo) _#toluca_{: .key} <br>
+{: .team #toluca }
 
 </div>
 
 
 
-### Michoacán _(0)_{:.count}
+### Michoacán _(1)_{:.count}
 {: #mx-mi }
 
 
@@ -241,6 +269,8 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Morelia • Monarcas • Monarcas Morelia • Atletico Monarcas Morelia  (MOR)  -- Morelia _#morelia_{: .key} <br>
+{: .team #morelia }
 
 </div>
 
@@ -274,7 +304,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-### Nuevo León _(0)_{:.count}
+### Nuevo León _(2)_{:.count}
 {: #mx-nl }
 
 
@@ -283,6 +313,10 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Monterrey • CF Monterrey • Rayados (de Monterrey)  (MTY)  -- Monterrey _#monterrey_{: .key} <br>
+{: .team #monterrey }
+Tigres • UANL • Tigres UANL • UA. Nuevo León  (TIG)  -- Monterrey _#tigres_{: .key} <br>
+{: .team #tigres }
 
 </div>
 
@@ -302,7 +336,7 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 
 
-### Puebla _(0)_{:.count}
+### Puebla _(1)_{:.count}
 {: #mx-pb }
 
 
@@ -311,12 +345,14 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Puebla • Puebla F.C.  (PUE)  -- Puebla _#puebla_{: .key} <br>
+{: .team #puebla }
 
 </div>
 
 
 
-### Querétaro _(0)_{:.count}
+### Querétaro _(1)_{:.count}
 {: #mx-qe }
 
 
@@ -325,12 +361,14 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Querétaro • Querétaro F.C. • Gallos Blancos (de Querétaro)  (QRO)  -- Querétaro _#queretaro_{: .key} <br>
+{: .team #queretaro }
 
 </div>
 
 
 
-### Quintana Roo _(0)_{:.count}
+### Quintana Roo _(1)_{:.count}
 {: #mx-qr }
 
 
@@ -339,6 +377,8 @@ Mexico  (MEX)  _#mex_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Atlante • Potros (de Hierro)  (ATL)  -- Cancún _#atlante_{: .key} <br>
+{: .team #atlante }
 
 </div>
 

@@ -11,7 +11,49 @@ permalink: /cl.2013_14.html
 #### 42 Teams
 
 
- [Anderlecht](be.html#anderlecht)   •  [FC Basel 1893 (BAS)](ch.html#basel)   •  [Plzeň](cz.html#plzen)   •  [Paris St. Germain (PSG)](fr.html#paris)   •  [Marseille (OM)](fr.html#marseille)   •  [Lyon (OL)](fr.html#lyon)   •  [Ajax](nl.html#ajax)   •  [PSV](nl.html#psv)   •  [Porto](pt.html#porto)   •  [Benfica](pt.html#benfica)   •  [FC Paços de Ferreira](pt.html#ferreira)   •  [Steaua (SBU)](ro.html#steaua)   •  [Zenit](ru.html#zenit)   •  [CSKA Moskva](ru.html#moskva)   •  [Galatasaray](tr.html#galatasaray)   •  [Fenerbahçe](tr.html#fenerbahce)   •  [Shakhtar Donetsk](ua.html#donezk)   •  [Legia](pl.html#legiawarszawa)   •  [Maribor](si.html#maribor)   •  [Ludogorets](bg.html#razgrad)   •  [Shakhter](kz.html#karagandy)   •  [FC København](dk.html#kobenhavn)   •  [Dinamo Zagreb](hr.html#zagreb)   •  [Olympiakos Piräus](gr.html#olympiacos)   •  [PAOK FC](gr.html#paok)   •  [Celtic](sc.html#celtic)   •  [FK Austria Wien (AUS)](at.html#austria)   •  [FC Bayern München (FCB)](de.html#bayern)   •  [Borussia Dortmund (BVB)](de.html#dortmund)   •  [Bayer 04 Leverkusen (B04)](de.html#leverkusen)   •  [Schalke 04 (S04)](de.html#schalke)   •  [Chelsea (CHE)](en.html#chelsea)   •  [Arsenal (ARS)](en.html#arsenal)   •  [Manchester United (MUN)](en.html#manunited)   •  [Manchester City (MCI)](en.html#mancity)   •  [Barcelona (BAR)](es.html#barcelona)   •  [R. Madrid (RMD)](es.html#madrid)   •  [Atlético (ATL)](es.html#atletico)   •  [R. Sociedad (RSO)](es.html#realsociedad)   •  [Milan (MIL)](it.html#milan)   •  [Juventus (JUV)](it.html#juventus)   •  [Napoli (NAP)](it.html#napoli)  
+[Anderlecht](be.html#anderlecht)  (Brussel, Bruxelles•Brussel [Brussels (Capital Region)], Belgium, Europe) <br>
+[FC Basel 1893 (BAS)](ch.html#basel)  (Basel, Basel-Stadt, Switzerland, Europe) <br>
+[Plzeň](cz.html#plzen)  (Plzeň [Pilsen], Plzeň [• Pilsen], Czech Republic, Europe) <br>
+[Paris St. Germain (PSG)](fr.html#paris)  (Paris (Saint-Denis), Ile-de-France, France, Europe) <br>
+[Marseille (OM)](fr.html#marseille)  (Marseille, Provence-Alpes-Côte d'Azur, France, Europe) <br>
+[Lyon (OL)](fr.html#lyon)  (Lyon, Rhône-Alpes, France, Europe) <br>
+[Ajax](nl.html#ajax)  (Amsterdam, Netherlands, Europe) <br>
+[PSV](nl.html#psv)  (Netherlands, Europe) <br>
+[Porto](pt.html#porto)  (Porto, Portugal, Europe) <br>
+[Benfica](pt.html#benfica)  (Lisboa, Portugal, Europe) <br>
+[FC Paços de Ferreira](pt.html#ferreira)  (Portugal, Europe) <br>
+[Steaua (SBU)](ro.html#steaua)  (București [Bucharest], București, Romania, Europe) <br>
+[Zenit](ru.html#zenit)  (St. Petersburg, Russia, Europe) <br>
+[CSKA Moskva](ru.html#moskva)  (Moskva [Moscow], Russia, Europe) <br>
+[Galatasaray](tr.html#galatasaray)  (Istanbul, Turkey, Europe) <br>
+[Fenerbahçe](tr.html#fenerbahce)  (Istanbul, Turkey, Europe) <br>
+[Shakhtar Donetsk](ua.html#donezk)  (Donetsk, Ukraine, Europe) <br>
+[Legia](pl.html#legiawarszawa)  (Poland, Europe) <br>
+[Maribor](si.html#maribor)  (Slovenia, Europe) <br>
+[Ludogorets](bg.html#razgrad)  (Bulgaria, Europe) <br>
+[Shakhter](kz.html#karagandy)  (Kazakhstan, Europe) <br>
+[FC København](dk.html#kobenhavn)  (Denmark, Europe) <br>
+[Dinamo Zagreb](hr.html#zagreb)  (Zagreb, Croatia, Europe) <br>
+[Olympiakos Piräus](gr.html#olympiacos)  (Piräus, Greece, Europe) <br>
+[PAOK FC](gr.html#paok)  (Greece, Europe) <br>
+[Celtic](sc.html#celtic)  (Glasgow, Scotland, Europe) <br>
+[FK Austria Wien (AUS)](at.html#austria)  (Wien, Wien [Vienna], Austria, Europe) <br>
+[FC Bayern München (FCB)](de.html#bayern)  (München [Munich], Bayern [Bavaria], Germany, Europe) <br>
+[Borussia Dortmund (BVB)](de.html#dortmund)  (Dortmund, Nordrhein-Westfalen [North Rhine-Westphalia], Germany, Europe) <br>
+[Bayer 04 Leverkusen (B04)](de.html#leverkusen)  (Leverkusen, Nordrhein-Westfalen [North Rhine-Westphalia], Germany, Europe) <br>
+[Schalke 04 (S04)](de.html#schalke)  (Gelsenkirchen, Nordrhein-Westfalen [North Rhine-Westphalia], Germany, Europe) <br>
+[Chelsea (CHE)](en.html#chelsea)  (London, Greater London, England, Europe) <br>
+[Arsenal (ARS)](en.html#arsenal)  (London, Greater London, England, Europe) <br>
+[Manchester United (MUN)](en.html#manunited)  (Manchester, North West England, England, Europe) <br>
+[Manchester City (MCI)](en.html#mancity)  (Manchester, North West England, England, Europe) <br>
+[Barcelona (BAR)](es.html#barcelona)  (Barcelona, Cataluña, Spain, Europe) <br>
+[R. Madrid (RMD)](es.html#madrid)  (Madrid, Madrid, Spain, Europe) <br>
+[Atlético (ATL)](es.html#atletico)  (Madrid, Madrid, Spain, Europe) <br>
+[R. Sociedad (RSO)](es.html#realsociedad)  (San Sebastián, Pais Vasco, Spain, Europe) <br>
+[Milan (MIL)](it.html#milan)  (Milano, Lombardia [Lombardy], Italy, Europe) <br>
+[Juventus (JUV)](it.html#juventus)  (Torino [Turin], Piemonte [Piedmont], Italy, Europe) <br>
+[Napoli (NAP)](it.html#napoli)  (Napoli, Campania, Italy, Europe) <br>
+
 
 
 
@@ -19,14 +61,14 @@ permalink: /cl.2013_14.html
 
  Group A •  Group B •  Group C •  Group D •  Group E •  Group F •  Group G •  Group H
 
-| Group A | -- |  | Shakhtar Donetsk  | Bayer 04 Leverkusen  | Manchester United  | R. Sociedad  |
-| Group B | -- |  | Galatasaray  | FC København  | R. Madrid  | Juventus  |
-| Group C | -- |  | Anderlecht  | Paris St. Germain  | Benfica  | Olympiakos Piräus  |
-| Group D | -- |  | Plzeň  | CSKA Moskva  | FC Bayern München  | Manchester City  |
-| Group E | -- |  | FC Basel 1893  | Steaua  | Schalke 04  | Chelsea  |
-| Group F | -- |  | Marseille  | Borussia Dortmund  | Arsenal  | Napoli  |
-| Group G | -- |  | Porto  | Zenit  | FK Austria Wien  | Atlético  |
-| Group H | -- |  | Ajax  | Celtic  | Barcelona  | Milan  |
+| Group A --  | Shakhtar Donetsk  | Bayer 04 Leverkusen  | Manchester United  | R. Sociedad  |
+| Group B --  | Galatasaray  | FC København  | R. Madrid  | Juventus  |
+| Group C --  | Anderlecht  | Paris St. Germain  | Benfica  | Olympiakos Piräus  |
+| Group D --  | Plzeň  | CSKA Moskva  | FC Bayern München  | Manchester City  |
+| Group E --  | FC Basel 1893  | Steaua  | Schalke 04  | Chelsea  |
+| Group F --  | Marseille  | Borussia Dortmund  | Arsenal  | Napoli  |
+| Group G --  | Porto  | Zenit  | FK Austria Wien  | Atlético  |
+| Group H --  | Ajax  | Celtic  | Barcelona  | Milan  |
 
  
 
@@ -37,7 +79,10 @@ permalink: /cl.2013_14.html
  Play-off Round  / 1st Leg •  Play-off Round  / 2nd Leg •  Matchday 1 •  Matchday 2 •  Matchday 3 •  Matchday 4 •  Matchday 5 •  Matchday 6 •  Round of 16 •  Quarter-finals •  Semi-finals •  Final
 
 
-| **Play-off Round  / 1st Leg** / Tu+We 20-21 August 2013 |
+
+##### Play-off Round  / 1st Leg  / Tu+We 20-21 August 2013
+
+
 | (Tue) 20/Aug 2013 17:00 | Shakhter | 2 : 0 | Celtic |  |
 | (Tue) 20/Aug 2013 20:45 | Lyon | 0 : 2 | R. Sociedad |  |
 | (Tue) 20/Aug 2013 20:45 | FC Paços de Ferreira | 1 : 4 | Zenit |  |
@@ -48,7 +93,10 @@ permalink: /cl.2013_14.html
 | (Wed) 21/Aug 2013 20:45 | Steaua | 1 : 1 | Legia |  |
 | (Wed) 21/Aug 2013 20:45 | Schalke 04 | 1 : 1 | PAOK FC |  |
 | (Wed) 21/Aug 2013 20:45 | Fenerbahçe | 0 : 3 | Arsenal |  |
-| **Play-off Round  / 2nd Leg** / Tu+We 27-28 August 2013 |
+
+##### Play-off Round  / 2nd Leg  / Tu+We 27-28 August 2013
+
+
 | (Tue) 27/Aug 2013 20:45 | FK Austria Wien | 2 : 3 | Dinamo Zagreb |  |
 | (Tue) 27/Aug 2013 20:45 | FC Basel 1893 | 2 : 0 | Ludogorets |  |
 | (Tue) 27/Aug 2013 20:45 | Legia | 2 : 2 | Steaua |  |
@@ -59,7 +107,10 @@ permalink: /cl.2013_14.html
 | (Wed) 28/Aug 2013 20:45 | Maribor | 0 : 1 | Plzeň |  |
 | (Wed) 28/Aug 2013 20:45 | Celtic | 3 : 0 | Shakhter |  |
 | (Wed) 28/Aug 2013 20:45 | R. Sociedad | 2 : 0 | Lyon |  |
-| **Matchday 1**  |
+
+##### Matchday 1 
+
+
 | (Tue) 17/Sep 2013 20:45 | Manchester United | 4 : 2 | Bayer 04 Leverkusen | (Group A) |
 | (Tue) 17/Sep 2013 20:45 | R. Sociedad | 0 : 2 | Shakhtar Donetsk | (Group A) |
 | (Tue) 17/Sep 2013 20:45 | Galatasaray | 1 : 6 | R. Madrid | (Group B) |
@@ -76,7 +127,10 @@ permalink: /cl.2013_14.html
 | (Wed) 18/Sep 2013 20:45 | FK Austria Wien | 0 : 1 | Porto | (Group G) |
 | (Wed) 18/Sep 2013 20:45 | Barcelona | 4 : 0 | Ajax | (Group H) |
 | (Wed) 18/Sep 2013 20:45 | Milan | 2 : 0 | Celtic | (Group H) |
-| **Matchday 2**  |
+
+##### Matchday 2 
+
+
 | (Wed) 2/Oct 2013 20:45 | Shakhtar Donetsk | 1 : 1 | Manchester United | (Group A) |
 | (Wed) 2/Oct 2013 20:45 | Bayer 04 Leverkusen | 2 : 1 | R. Sociedad | (Group A) |
 | (Wed) 2/Oct 2013 20:45 | Juventus | 2 : 2 | Galatasaray | (Group B) |
@@ -93,7 +147,10 @@ permalink: /cl.2013_14.html
 | (Tue) 1/Oct 2013 20:45 | Zenit | 0 : 0 | FK Austria Wien | (Group G) |
 | (Tue) 1/Oct 2013 20:45 | Ajax | 1 : 1 | Milan | (Group H) |
 | (Tue) 1/Oct 2013 20:45 | Celtic | 0 : 1 | Barcelona | (Group H) |
-| **Matchday 3**  |
+
+##### Matchday 3 
+
+
 | (Wed) 23/Oct 2013 20:45 | Bayer 04 Leverkusen | 4 : 0 | Shakhtar Donetsk | (Group A) |
 | (Wed) 23/Oct 2013 20:45 | Manchester United | 1 : 0 | R. Sociedad | (Group A) |
 | (Wed) 23/Oct 2013 20:45 | R. Madrid | 2 : 1 | Juventus | (Group B) |
@@ -110,7 +167,10 @@ permalink: /cl.2013_14.html
 | (Tue) 22/Oct 2013 20:45 | FK Austria Wien | 0 : 3 | Atlético | (Group G) |
 | (Tue) 22/Oct 2013 20:45 | Milan | 1 : 1 | Barcelona | (Group H) |
 | (Tue) 22/Oct 2013 20:45 | Celtic | 2 : 1 | Ajax | (Group H) |
-| **Matchday 4**  |
+
+##### Matchday 4 
+
+
 | (Tue) 5/Nov 2013 20:45 | Shakhtar Donetsk | 0 : 0 | Bayer 04 Leverkusen | (Group A) |
 | (Tue) 5/Nov 2013 20:45 | R. Sociedad | 0 : 0 | Manchester United | (Group A) |
 | (Tue) 5/Nov 2013 20:45 | Juventus | 2 : 2 | R. Madrid | (Group B) |
@@ -127,7 +187,10 @@ permalink: /cl.2013_14.html
 | (Wed) 6/Nov 2013 20:45 | Atlético | 4 : 0 | FK Austria Wien | (Group G) |
 | (Wed) 6/Nov 2013 20:45 | Barcelona | 3 : 1 | Milan | (Group H) |
 | (Wed) 6/Nov 2013 20:45 | Ajax | 1 : 0 | Celtic | (Group H) |
-| **Matchday 5**  |
+
+##### Matchday 5 
+
+
 | (Wed) 27/Nov 2013 20:45 | Bayer 04 Leverkusen | 0 : 5 | Manchester United | (Group A) |
 | (Wed) 27/Nov 2013 20:45 | Shakhtar Donetsk | 4 : 0 | R. Sociedad | (Group A) |
 | (Wed) 27/Nov 2013 20:45 | R. Madrid | 4 : 1 | Galatasaray | (Group B) |
@@ -144,7 +207,10 @@ permalink: /cl.2013_14.html
 | (Tue) 26/Nov 2013 20:45 | Porto | 1 : 1 | FK Austria Wien | (Group G) |
 | (Tue) 26/Nov 2013 20:45 | Ajax | 2 : 1 | Barcelona | (Group H) |
 | (Tue) 26/Nov 2013 20:45 | Celtic | 0 : 3 | Milan | (Group H) |
-| **Matchday 6**  |
+
+##### Matchday 6 
+
+
 | (Tue) 10/Dec 2013 20:45 | Manchester United | 1 : 0 | Shakhtar Donetsk | (Group A) |
 | (Tue) 10/Dec 2013 20:45 | R. Sociedad | 0 : 1 | Bayer 04 Leverkusen | (Group A) |
 | (Tue) 10/Dec 2013 20:45 | Galatasaray | 1 : 0 | Juventus | (Group B) |
@@ -161,7 +227,19 @@ permalink: /cl.2013_14.html
 | (Wed) 11/Dec 2013 20:45 | FK Austria Wien | 4 : 1 | Zenit | (Group G) |
 | (Wed) 11/Dec 2013 20:45 | Milan | 0 : 0 | Ajax | (Group H) |
 | (Wed) 11/Dec 2013 20:45 | Barcelona | 6 : 1 | Celtic | (Group H) |
-| **Round of 16** / (Tu+We) 18-19 & 25-26 February 2014, (Tu+We) 11-12 & 18-19 March 2014 |
-| **Quarter-finals** / (Tu+We) 1-2 April 2014, (Tu+We) 8-9 April 2014 |
-| **Semi-finals** / (Tu+We) 22-23 April 2014, (Tu+We) 29-30 April 2014 |
-| **Final** / (Sa) 24 May 2014 @ Estádio da Luz, Lisbon |
+
+##### Round of 16  / (Tu+We) 18-19 & 25-26 February 2014, (Tu+We) 11-12 & 18-19 March 2014
+
+
+
+##### Quarter-finals  / (Tu+We) 1-2 April 2014, (Tu+We) 8-9 April 2014
+
+
+
+##### Semi-finals  / (Tu+We) 22-23 April 2014, (Tu+We) 29-30 April 2014
+
+
+
+##### Final  / (Sa) 24 May 2014 @ Estádio da Luz, Lisbon
+
+

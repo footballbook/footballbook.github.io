@@ -4,21 +4,26 @@ title: Italy (ITA)
 permalink: /it.html
 ---
 
-## Italy (ITA) - 0 Clubs
+## Italy (ITA) - 23 Clubs
 {: #it }
 
 
 
+ Serie A _#it_{: .key}
 
 
 
 [Valle d'Aosta [Aosta Valley]](#it-ao) _(1)_{:.count} • [Liguria](#it-li) _(1)_{:.count} • [Lombardia [Lombardy]](#it-lo) _(2)_{:.count} • [Piemonte [Piedmont]](#it-pi) _(1)_{:.count} • [Emilia-Romagna](#it-er) _(2)_{:.count} • [Friuli-Venezia Giulia](#it-fv) _(2)_{:.count} • [Trentino-Alto Adige (Südtirol)](#it-tr) _(1)_{:.count} • [Veneto](#it-ve) _(2)_{:.count} • [Lazio](#it-la) _(1)_{:.count} • [Marche](#it-ma) _(1)_{:.count} • [Toscana [Tuscany]](#it-to) _(2)_{:.count} • [Umbria](#it-um) _(1)_{:.count} • [Abruzzo](#it-ab) _(2)_{:.count} • [Puglia [Apulia]](#it-pu) _(1)_{:.count} • [Basilicata](#it-ba) _(1)_{:.count} • [Calabria](#it-ca) _(1)_{:.count} • [Campania](#it-cm) _(1)_{:.count} • [Molise](#it-mo) _(1)_{:.count} • [Sardegna [Sardinia]](#it-sa) _(1)_{:.count} • [Sicilia [Sicily]](#it-si) _(3)_{:.count}
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(3)_{:.count}
 
 Italy  (ITA)  _#ita_{: .key} <br>
 {: .team #ita }
+Livorno • AS Livorno • A.S. Livorno Calcio • Associazione Sportiva Livorno Calcio  (LIV)  _#livorno_{: .key} <br>
+{: .team #livorno }
+Sassuolo • U.S. Sassuolo Calcio • Unione Sportiva Sassuolo Calcio  (SAS)  _#sassuolo_{: .key} <br>
+{: .team #sassuolo }
 
 
 
@@ -36,7 +41,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-### Liguria _(0)_{:.count}
+### Liguria _(2)_{:.count}
 {: #it-li }
 
 
@@ -45,12 +50,16 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Genoa • Genoa CFC • Genoa Cricket and Football Club  (GEN)  -- Genova [Genoa] _#genoa_{: .key} <br>
+{: .team #genoa }
+Sampdoria • Unione Calcio Sampdoria • Sampdoria Genoa  (SAM)  -- Genova [Genoa] _#sampdoria_{: .key} <br>
+{: .team #sampdoria }
 
 </div>
 
 
 
-### Lombardia [Lombardy] _(0)_{:.count}
+### Lombardia [Lombardy] _(3)_{:.count}
 {: #it-lo }
 
 
@@ -59,12 +68,18 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Atalanta • Atalanta Bergamo • Atalanta Bergamasca Calcio • Atalanta BC  (ATA)  -- Bergamo _#atalanta_{: .key} <br>
+{: .team #atalanta }
+Inter • Internazionale • FC Internazionale Milano  (INT)  -- Milano _#inter_{: .key} <br>
+{: .team #inter }
+Milan • AC Milan • Associazione Calcio Milan  (MIL)  -- Milano _#milan_{: .key} <br>
+{: .team #milan }
 
 </div>
 
 
 
-### Piemonte [Piedmont] _(0)_{:.count}
+### Piemonte [Piedmont] _(2)_{:.count}
 {: #it-pi }
 
 
@@ -73,12 +88,16 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Juventus • Juventus FC • Juventus Football Club • Juventus Torino  (JUV)  -- Torino [Turin] _#juventus_{: .key} <br>
+{: .team #juventus }
+Torino • Torino FC • Torino Football Club  (TOR)  -- Torino [Turin] _#torino_{: .key} <br>
+{: .team #torino }
 
 </div>
 
 
 
-### Emilia-Romagna _(0)_{:.count}
+### Emilia-Romagna _(2)_{:.count}
 {: #it-er }
 
 
@@ -87,12 +106,16 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Bologna • FC Bologna • Bologna FC • Bologna Football Club 1909  (BOL)  -- Bologna _#bologna_{: .key} <br>
+{: .team #bologna }
+Parma • Parma FC • Parma Football Club  (PAR)  -- Parma _#parma_{: .key} <br>
+{: .team #parma }
 
 </div>
 
 
 
-### Friuli-Venezia Giulia _(0)_{:.count}
+### Friuli-Venezia Giulia _(1)_{:.count}
 {: #it-fv }
 
 
@@ -101,6 +124,8 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Udinese • Udinese Calcio  (UDI)  -- Udine _#udinese_{: .key} <br>
+{: .team #udinese }
 
 </div>
 
@@ -120,7 +145,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-### Veneto _(0)_{:.count}
+### Veneto _(2)_{:.count}
 {: #it-ve }
 
 
@@ -129,12 +154,16 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Chievo • Chievo Verona • Associazione Calcio Chievo Verona  (CHI)  -- Verona _#chievoverona_{: .key} <br>
+{: .team #chievoverona }
+Verona • Hellas Verona • Hellas Verona F.C. • Hellas Verona Football Club  (HEL)  -- Verona _#hellasverona_{: .key} <br>
+{: .team #hellasverona }
 
 </div>
 
 
 
-### Lazio _(0)_{:.count}
+### Lazio _(2)_{:.count}
 {: #it-la }
 
 
@@ -143,6 +172,10 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Lazio • SS Lazio • Società Sportiva Lazio • Lazio Roma  (LAZ)  -- Roma _#lazio_{: .key} <br>
+{: .team #lazio }
+Roma • AS Roma • Associazione Sportiva Roma  (ROM)  -- Roma _#roma_{: .key} <br>
+{: .team #roma }
 
 </div>
 
@@ -162,7 +195,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-### Toscana [Tuscany] _(0)_{:.count}
+### Toscana [Tuscany] _(2)_{:.count}
 {: #it-to }
 
 
@@ -171,6 +204,10 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+AC Siena • Associazione Calcio Siena  (SIE)  -- Siena _#siena_{: .key} <br>
+{: .team #siena }
+Fiorentina • ACF Fiorentina • AC Firenze • Associazione Calcio Firenze Fiorentina  (FIO)  -- Firenze [Florence] _#fiorentina_{: .key} <br>
+{: .team #fiorentina }
 
 </div>
 
@@ -190,7 +227,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-### Abruzzo _(0)_{:.count}
+### Abruzzo _(1)_{:.count}
 {: #it-ab }
 
 
@@ -199,6 +236,8 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Pescara Calcio • Delfino Pescara 1936  (PES)  -- Pescara _#pescara_{: .key} <br>
+{: .team #pescara }
 
 </div>
 
@@ -246,7 +285,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-### Campania _(0)_{:.count}
+### Campania _(1)_{:.count}
 {: #it-cm }
 
 
@@ -255,6 +294,8 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Napoli • SSC Napoli • Società Sportiva Calcio Napoli  (NAP)  -- Napoli _#napoli_{: .key} <br>
+{: .team #napoli }
 
 </div>
 
@@ -274,7 +315,7 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 
 
-### Sardegna [Sardinia] _(0)_{:.count}
+### Sardegna [Sardinia] _(1)_{:.count}
 {: #it-sa }
 
 
@@ -283,12 +324,14 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Cagliari • Cagliari Calcio  (CAG)  -- Cagliari _#cagliari_{: .key} <br>
+{: .team #cagliari }
 
 </div>
 
 
 
-### Sicilia [Sicily] _(0)_{:.count}
+### Sicilia [Sicily] _(2)_{:.count}
 {: #it-si }
 
 
@@ -297,6 +340,10 @@ Italy  (ITA)  _#ita_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Catania • Calcio Catania  (CAT)  -- Catania _#catania_{: .key} <br>
+{: .team #catania }
+Palermo • US Palermo • Unione Sportiva Città di Palermo  (PAL)  -- Palermo _#palermo_{: .key} <br>
+{: .team #palermo }
 
 </div>
 

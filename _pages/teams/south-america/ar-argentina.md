@@ -4,7 +4,7 @@ title: Argentina (ARG)
 permalink: /ar.html
 ---
 
-## Argentina (ARG) - 0 Clubs
+## Argentina (ARG) - 20 Clubs
 {: #ar }
 
 
@@ -22,7 +22,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-### Ciudad de Buenos Aires _(0)_{:.count}
+### Ciudad de Buenos Aires _(12)_{:.count}
 {: #ar-c }
 
 
@@ -31,12 +31,36 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+All Boys • Club Atlético All Boys   -- Buenos Aires _#allboys_{: .key} <br>
+{: .team #allboys }
+Argentions • Argentinos Jrs • Asociación Atlética Argentinos Juniors   -- Buenos Aires _#argentinos_{: .key} <br>
+{: .team #argentinos }
+Arsenal • Arsenal de Sarandí • Arsenal FC • Arsenal Fútbol Club   -- Buenos Aires _#arsenalsarandi_{: .key} <br>
+{: .team #arsenalsarandi }
+Boca • Boca Jrs • Boca Juniors • Club Atlético Boca Juniors   -- Buenos Aires _#bocajuniors_{: .key} <br>
+{: .team #bocajuniors }
+Independiente • CA Independiente de Avellaneda • Club Atlético Independiente   -- Buenos Aires _#independiente_{: .key} <br>
+{: .team #independiente }
+Lanús • Club Atlético Lanús   -- Buenos Aires _#lanus_{: .key} <br>
+{: .team #lanus }
+Quilmes • Quilmes AC • Quilmes Atlético Club   -- Buenos Aires _#quilmes_{: .key} <br>
+{: .team #quilmes }
+Racing • Racing Club   -- Buenos Aires _#racing_{: .key} <br>
+{: .team #racing }
+River • River Plate • Club Atlético River Plate   -- Buenos Aires _#riverplate_{: .key} <br>
+{: .team #riverplate }
+San Lorenzo • Club Atlético San Lorenzo de Almagro   -- Buenos Aires _#sanlorenzo_{: .key} <br>
+{: .team #sanlorenzo }
+Tigre • CA Tigre • Club Atlético Tigre   -- Buenos Aires _#tigre_{: .key} <br>
+{: .team #tigre }
+Vélez • Vélez Sarsfield • CA Vélez • Club Atlético Vélez Sarsfield   -- Buenos Aires _#velez_{: .key} <br>
+{: .team #velez }
 
 </div>
 
 
 
-### Provincia de Buenos Aires _(0)_{:.count}
+### Provincia de Buenos Aires _(1)_{:.count}
 {: #ar-b }
 
 
@@ -45,6 +69,8 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Estudiantes • Estudiantes LP • Club Estudiantes de La Plata   -- La Plata _#estudiantes_{: .key} <br>
+{: .team #estudiantes }
 
 </div>
 
@@ -92,7 +118,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-### Córdoba _(0)_{:.count}
+### Córdoba _(1)_{:.count}
 {: #ar-x }
 
 
@@ -101,6 +127,8 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Belgrano • Club Atlético Belgrano   -- Córdoba _#belgrano_{: .key} <br>
+{: .team #belgrano }
 
 </div>
 
@@ -190,7 +218,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-### Mendoza _(0)_{:.count}
+### Mendoza _(1)_{:.count}
 {: #ar-m }
 
 
@@ -199,6 +227,8 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+Godoy Cruz • Club Deportivo Godoy Cruz Antonio Tomba   -- Mendoza _#godoycruz_{: .key} <br>
+{: .team #godoycruz }
 
 </div>
 
@@ -260,7 +290,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-### San Juan _(0)_{:.count}
+### San Juan _(1)_{:.count}
 {: #ar-j }
 
 
@@ -269,6 +299,8 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+San Martín • San Martín San Juan • Club Atlético San Martín   -- San Juan _#sanmartin_{: .key} <br>
+{: .team #sanmartin }
 
 </div>
 
@@ -302,7 +334,7 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 
 
-### Santa Fe _(0)_{:.count}
+### Santa Fe _(2)_{:.count}
 {: #ar-s }
 
 
@@ -311,6 +343,10 @@ Argentina  (ARG)  _#arg_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+At. de Rafaela • Atl. Rafaela • Atlético Rafaela • Atlético de Rafaela • Asociación Mutual Social y Deportiva Atlético de Rafaela   -- Rafaela _#rafaela_{: .key} <br>
+{: .team #rafaela }
+Newell's • N.O. Boys • Club Atlético Newell's Old Boys   -- Rosario _#newells_{: .key} <br>
+{: .team #newells }
 
 </div>
 

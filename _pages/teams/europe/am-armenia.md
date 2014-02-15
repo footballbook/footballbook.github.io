@@ -4,7 +4,7 @@ title: Armenia (ARM)
 permalink: /am.html
 ---
 
-## Armenia (ARM) - 7 Teams
+## Armenia (ARM) - 7 Clubs
 {: #am }
 
 

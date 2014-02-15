@@ -4,7 +4,7 @@ title: China (CHN)
 permalink: /cn.html
 ---
 
-## China (CHN) - 1 Teams
+## China (CHN) - 1 Clubs
 {: #cn }
 
 

@@ -4,7 +4,7 @@ title: Norway (NOR)
 permalink: /no.html
 ---
 
-## Norway (NOR) - 11 Teams
+## Norway (NOR) - 11 Clubs
 {: #no }
 
 

@@ -4,7 +4,7 @@ title: Malta (MLT)
 permalink: /mt.html
 ---
 
-## Malta (MLT) - 6 Teams
+## Malta (MLT) - 6 Clubs
 {: #mt }
 
 

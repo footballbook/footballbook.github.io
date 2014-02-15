@@ -4,7 +4,7 @@ title: Puerto Rico (PUR)
 permalink: /pr.html
 ---
 
-## Puerto Rico (PUR) - 1 Teams
+## Puerto Rico (PUR) - 1 Clubs
 {: #pr }
 
 

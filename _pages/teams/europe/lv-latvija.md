@@ -4,7 +4,7 @@ title: Latvija [Latvia] (LVA)
 permalink: /lv.html
 ---
 
-## Latvija [Latvia] (LVA) - 7 Teams
+## Latvija [Latvia] (LVA) - 7 Clubs
 {: #lv }
 
 

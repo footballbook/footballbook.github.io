@@ -4,7 +4,7 @@ title: Albania (ALB)
 permalink: /al.html
 ---
 
-## Albania (ALB) - 9 Teams
+## Albania (ALB) - 9 Clubs
 {: #al }
 
 

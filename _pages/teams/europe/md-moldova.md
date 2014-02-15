@@ -4,7 +4,7 @@ title: Moldova (MDA)
 permalink: /md.html
 ---
 
-## Moldova (MDA) - 7 Teams
+## Moldova (MDA) - 7 Clubs
 {: #md }
 
 

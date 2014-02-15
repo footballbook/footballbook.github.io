@@ -4,7 +4,7 @@ title: Israel (ISR)
 permalink: /il.html
 ---
 
-## Israel (ISR) - 7 Teams
+## Israel (ISR) - 7 Clubs
 {: #il }
 
 

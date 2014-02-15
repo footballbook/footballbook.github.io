@@ -4,7 +4,7 @@ title: Azerbaijan (AZE)
 permalink: /az.html
 ---
 
-## Azerbaijan (AZE) - 7 Teams
+## Azerbaijan (AZE) - 7 Clubs
 {: #az }
 
 

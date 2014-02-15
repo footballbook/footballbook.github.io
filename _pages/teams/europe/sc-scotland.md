@@ -4,7 +4,7 @@ title: Scotland (SCO)
 permalink: /sc.html
 ---
 
-## Scotland (SCO) - 10 Teams
+## Scotland (SCO) - 10 Clubs
 {: #sc }
 
 

@@ -4,7 +4,7 @@ title: Switzerland (SUI)
 permalink: /ch.html
 ---
 
-## Switzerland (SUI) - 0 Clubs
+## Switzerland (SUI) - 10 Clubs
 {: #ch }
 
 
@@ -78,7 +78,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-### St. Gallen _(0)_{:.count}
+### St. Gallen _(1)_{:.count}
 {: #ch-sg }
 
 
@@ -87,6 +87,8 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+FC St. Gallen • St. Gallen  (SG)  -- St. Gallen _#stgallen_{: .key} <br>
+{: .team #stgallen }
 
 </div>
 
@@ -120,7 +122,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-### Zürich _(0)_{:.count}
+### Zürich _(2)_{:.count}
 {: #ch-zh }
 
 
@@ -129,12 +131,16 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+FC Zürich  (FCZ)  -- Zürich _#zuerich_{: .key} <br>
+{: .team #zuerich }
+Grasshopper Club Zürich • Grasshoppers • Grasshoppers Zürich  (GC)  -- Zürich _#grasshopper_{: .key} <br>
+{: .team #grasshopper }
 
 </div>
 
 
 
-### Luzern _(0)_{:.count}
+### Luzern _(1)_{:.count}
 {: #ch-lu }
 
 
@@ -143,6 +149,8 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+FC Luzern • Luzern  (LUZ)  -- Luzern _#luzern_{: .key} <br>
+{: .team #luzern }
 
 </div>
 
@@ -218,7 +226,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-### Basel-Stadt _(0)_{:.count}
+### Basel-Stadt _(1)_{:.count}
 {: #ch-bs }
 
 
@@ -227,6 +235,8 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+FC Basel 1893 • Basel • FC Basel  (BAS)  -- Basel _#basel_{: .key} <br>
+{: .team #basel }
 
 </div>
 
@@ -246,7 +256,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-### Aargau _(0)_{:.count}
+### Aargau _(1)_{:.count}
 {: #ch-ag }
 
 
@@ -255,12 +265,14 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+FC Aarau • Aarau  (AAR)  -- Aarau _#aarau_{: .key} <br>
+{: .team #aarau }
 
 </div>
 
 
 
-### Bern _(0)_{:.count}
+### Bern _(2)_{:.count}
 {: #ch-be }
 
 
@@ -269,6 +281,10 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+BSC Young Boys • Young Boys • Young Boys Bern • Berner Sport Club Young Boys  (YB)  -- Bern _#youngboys_{: .key} <br>
+{: .team #youngboys }
+FC Thun • Thun  (THU)  -- Thun _#thun_{: .key} <br>
+{: .team #thun }
 
 </div>
 
@@ -330,7 +346,7 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 
 
-### Vaud | Waadt _(0)_{:.count}
+### Vaud | Waadt _(1)_{:.count}
 {: #ch-vd }
 
 
@@ -339,12 +355,14 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+FC Lausanne-Sport • Lausanne • FC Lausanne  (LS)  -- Lausanne _#lausanne_{: .key} <br>
+{: .team #lausanne }
 
 </div>
 
 
 
-### Valais | Wallis _(0)_{:.count}
+### Valais | Wallis _(1)_{:.count}
 {: #ch-vs }
 
 
@@ -353,6 +371,8 @@ Switzerland  (SUI)  _#sui_{: .key} <br>
 
 <div class='columns300' markdown='1'>
 
+FC Sion • Sion  (SIO)  -- Sion _#sion_{: .key} <br>
+{: .team #sion }
 
 </div>
 

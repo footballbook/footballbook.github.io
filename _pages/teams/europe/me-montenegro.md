@@ -4,7 +4,7 @@ title: Montenegro (MNE)
 permalink: /me.html
 ---
 
-## Montenegro (MNE) - 7 Teams
+## Montenegro (MNE) - 7 Clubs
 {: #me }
 
 

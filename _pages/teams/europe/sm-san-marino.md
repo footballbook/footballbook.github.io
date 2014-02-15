@@ -4,7 +4,7 @@ title: San Marino (SMR)
 permalink: /sm.html
 ---
 
-## San Marino (SMR) - 7 Teams
+## San Marino (SMR) - 7 Clubs
 {: #sm }
 
 

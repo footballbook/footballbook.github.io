@@ -4,7 +4,7 @@ title: Russia (RUS)
 permalink: /ru.html
 ---
 
-## Russia (RUS) - 0 Clubs
+## Russia (RUS) - 12 Clubs
 {: #ru }
 
 
@@ -15,8 +15,24 @@ permalink: /ru.html
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(9)_{:.count}
 
+Anzhi Makhachkala • FC Anzhi Makhachkala   _#anzhi_{: .key} <br>
+{: .team #anzhi }
+FC Alania Vladikavkaz   _#vladikavkaz_{: .key} <br>
+{: .team #vladikavkaz }
+FC Amkar Perm   _#amkarperm_{: .key} <br>
+{: .team #amkarperm }
+FC Dinamo Moskva   _#dinamomoskva_{: .key} <br>
+{: .team #dinamomoskva }
+FC Lokomotiv Moskva   _#lokomotiv_{: .key} <br>
+{: .team #lokomotiv }
+FC Moskva   _#fcmoskva_{: .key} <br>
+{: .team #fcmoskva }
+FC Sibir Novosibirsk   _#novosibirsk_{: .key} <br>
+{: .team #novosibirsk }
+PFC Krylya Sovetov Samara   _#samara_{: .key} <br>
+{: .team #samara }
 Russia  (RUS)  _#rus_{: .key} <br>
 {: .team #rus }
 

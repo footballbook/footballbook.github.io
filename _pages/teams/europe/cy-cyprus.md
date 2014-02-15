@@ -4,7 +4,7 @@ title: Cyprus (CYP)
 permalink: /cy.html
 ---
 
-## Cyprus (CYP) - 7 Teams
+## Cyprus (CYP) - 7 Clubs
 {: #cy }
 
 

@@ -4,7 +4,7 @@ title: Macedonia (MKD)
 permalink: /mk.html
 ---
 
-## Macedonia (MKD) - 9 Teams
+## Macedonia (MKD) - 9 Clubs
 {: #mk }
 
 

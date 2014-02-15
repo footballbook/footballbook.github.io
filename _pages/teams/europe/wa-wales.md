@@ -4,7 +4,7 @@ title: Wales (WAL)
 permalink: /wa.html
 ---
 
-## Wales (WAL) - 9 Teams
+## Wales (WAL) - 9 Clubs
 {: #wa }
 
 

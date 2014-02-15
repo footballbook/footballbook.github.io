@@ -4,7 +4,7 @@ title: Northern Ireland (NIR)
 permalink: /nd.html
 ---
 
-## Northern Ireland (NIR) - 6 Teams
+## Northern Ireland (NIR) - 6 Clubs
 {: #nd }
 
 

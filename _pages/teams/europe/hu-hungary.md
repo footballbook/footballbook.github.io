@@ -4,7 +4,7 @@ title: Hungary (HUN)
 permalink: /hu.html
 ---
 
-## Hungary (HUN) - 11 Teams
+## Hungary (HUN) - 11 Clubs
 {: #hu }
 
 

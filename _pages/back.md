@@ -11,9 +11,9 @@ permalink: /back.html
 Stats:
 
 - 86 National Teams
-- 0 Clubs
-- 254 Games
-- 6 Leagues & Tournaments
-- 7 Events
+- 864 Clubs
+- 3629 Games
+- 31 Leagues & Tournaments
+- 48 Events
 - 159 Stadiums
 
