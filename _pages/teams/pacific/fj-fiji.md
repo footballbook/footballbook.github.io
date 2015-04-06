@@ -5,41 +5,22 @@ permalink: /fj.html
 ---
 
 
-## Fiji   ++
-(FIJ)  ++
--                     ++
-0 Clubs
+## Fiji (FIJ) - 0 Clubs
 {: #fj }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Fiji  ++
- (FIJ) ++
- ++
-_#fij_{: .key} ++
-<br>
+Fiji  (FIJ)  _#fij_{: .key} <br>
 {: .team #fij }
 
 
-
-
-.. 
  

@@ -5,41 +5,22 @@ permalink: /ki.html
 ---
 
 
-## Kiribati   ++
-(KIR)  ++
--                     ++
-0 Clubs
+## Kiribati (KIR) - 0 Clubs
 {: #ki }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Kiribati  ++
- (KIR) ++
- ++
-_#kir_{: .key} ++
-<br>
+Kiribati  (KIR)  _#kir_{: .key} <br>
 {: .team #kir }
 
 
-
-
-.. 
  

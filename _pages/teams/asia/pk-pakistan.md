@@ -5,41 +5,22 @@ permalink: /pk.html
 ---
 
 
-## Pakistan   ++
-(PAK)  ++
--                     ++
-0 Clubs
+## Pakistan (PAK) - 0 Clubs
 {: #pk }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Pakistan  ++
- (PAK) ++
- ++
-_#pak_{: .key} ++
-<br>
+Pakistan  (PAK)  _#pak_{: .key} <br>
 {: .team #pak }
 
 
-
-
-.. 
  

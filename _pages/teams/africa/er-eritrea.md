@@ -5,41 +5,22 @@ permalink: /er.html
 ---
 
 
-## Eritrea   ++
-(ERI)  ++
--                     ++
-0 Clubs
+## Eritrea (ERI) - 0 Clubs
 {: #er }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Eritrea  ++
- (ERI) ++
- ++
-_#eri_{: .key} ++
-<br>
+Eritrea  (ERI)  _#eri_{: .key} <br>
 {: .team #eri }
 
 
-
-
-.. 
  

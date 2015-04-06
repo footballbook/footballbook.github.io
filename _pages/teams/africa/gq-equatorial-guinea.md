@@ -5,41 +5,22 @@ permalink: /gq.html
 ---
 
 
-## Equatorial Guinea   ++
-(EQG)  ++
--                     ++
-0 Clubs
+## Equatorial Guinea (EQG) - 0 Clubs
 {: #gq }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Equatorial Guinea • Equat. Guinea  ++
- (EQG) ++
- ++
-_#eqg_{: .key} ++
-<br>
+Equatorial Guinea • Equat. Guinea  (EQG)  _#eqg_{: .key} <br>
 {: .team #eqg }
 
 
-
-
-.. 
  

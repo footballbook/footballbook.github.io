@@ -5,41 +5,22 @@ permalink: /sg.html
 ---
 
 
-## Singapore   ++
-(SIN)  ++
--                     ++
-0 Clubs
+## Singapore (SIN) - 0 Clubs
 {: #sg }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Singapore  ++
- (SIN) ++
- ++
-_#sin_{: .key} ++
-<br>
+Singapore  (SIN)  _#sin_{: .key} <br>
 {: .team #sin }
 
 
-
-
-.. 
  

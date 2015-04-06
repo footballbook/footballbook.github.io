@@ -5,59 +5,28 @@ permalink: /cl.html
 ---
 
 
-## Chile   ++
-(CHI)  ++
--                     ++
-5 Clubs
+## Chile (CHI) - 5 Clubs
 {: #cl }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(3)_{:.count}
 
 
-..
-..
-Chile  ++
- (CHI) ++
- ++
-_#chi_{: .key} ++
-<br>
+Chile  (CHI)  _#chi_{: .key} <br>
 {: .team #chi }
 
-..
-..
-Huachipato • CD Huachipato • Club Deportivo Huachipato  ++
- ++
- ++
-_#huachipato_{: .key} ++
-<br>
+Huachipato • CD Huachipato • Club Deportivo Huachipato   _#huachipato_{: .key} <br>
 {: .team #huachipato }
 
-..
-..
-Iquique • Deportes Iquique • Club Deportes Iquique  ++
- ++
- ++
-_#iquique_{: .key} ++
-<br>
+Iquique • Deportes Iquique • Club Deportes Iquique   _#iquique_{: .key} <br>
 {: .team #iquique }
 
 
-
-
-.. 
  

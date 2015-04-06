@@ -5,41 +5,22 @@ permalink: /sr.html
 ---
 
 
-## Suriname   ++
-(SUR)  ++
--                     ++
-0 Clubs
+## Suriname (SUR) - 0 Clubs
 {: #sr }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Suriname  ++
- (SUR) ++
- ++
-_#sur_{: .key} ++
-<br>
+Suriname  (SUR)  _#sur_{: .key} <br>
 {: .team #sur }
 
 
-
-
-.. 
  

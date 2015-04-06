@@ -5,41 +5,22 @@ permalink: /ci.html
 ---
 
 
-## Côte d'Ivoire   ++
-(CIV)  ++
--                     ++
-0 Clubs
+## Côte d'Ivoire (CIV) - 0 Clubs
 {: #ci }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Côte d'Ivoire  ++
- (CIV) ++
- ++
-_#civ_{: .key} ++
-<br>
+Côte d'Ivoire  (CIV)  _#civ_{: .key} <br>
 {: .team #civ }
 
 
-
-
-.. 
  

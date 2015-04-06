@@ -5,41 +5,22 @@ permalink: /st.html
 ---
 
 
-## São Tomé and Príncipe   ++
-(STP)  ++
--                     ++
-0 Clubs
+## São Tomé and Príncipe (STP) - 0 Clubs
 {: #st }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-São Tomé and Príncipe • São Tomé e Príncipe • São Tomé/Pr.  ++
- (STP) ++
- ++
-_#stp_{: .key} ++
-<br>
+São Tomé and Príncipe • São Tomé e Príncipe • São Tomé/Pr.  (STP)  _#stp_{: .key} <br>
 {: .team #stp }
 
 
-
-
-.. 
  

@@ -5,122 +5,49 @@ permalink: /rs.html
 ---
 
 
-## Serbia   ++
-(SRB)  ++
--                     ++
-9 Clubs
+## Serbia (SRB) - 9 Clubs
 {: #rs }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(10)_{:.count}
 
 
-..
-..
-FK Borac Čačak  ++
- ++
- ++
-_#cacak_{: .key} ++
-<br>
+FK Borac Čačak   _#cacak_{: .key} <br>
 {: .team #cacak }
 
-..
-..
-FK Crvena zvezda  ++
- ++
- ++
-_#crvenazvezda_{: .key} ++
-<br>
+FK Crvena zvezda   _#crvenazvezda_{: .key} <br>
 {: .team #crvenazvezda }
 
-..
-..
-FK Jagodina  ++
- ++
- ++
-_#jagodina_{: .key} ++
-<br>
+FK Jagodina   _#jagodina_{: .key} <br>
 {: .team #jagodina }
 
-..
-..
-FK Partizan • Partizan • Partizan Beograd  ++
- ++
- ++
-_#partizan_{: .key} ++
-<br>
+FK Partizan • Partizan • Partizan Beograd   _#partizan_{: .key} <br>
 {: .team #partizan }
 
-..
-..
-FK Rad  ++
- ++
- ++
-_#rad_{: .key} ++
-<br>
+FK Rad   _#rad_{: .key} <br>
 {: .team #rad }
 
-..
-..
-FK Sloboda Užice  ++
- ++
- ++
-_#uzice_{: .key} ++
-<br>
+FK Sloboda Užice   _#uzice_{: .key} <br>
 {: .team #uzice }
 
-..
-..
-FK Spartak Zlatibor voda  ++
- ++
- ++
-_#zlatibor_{: .key} ++
-<br>
+FK Spartak Zlatibor voda   _#zlatibor_{: .key} <br>
 {: .team #zlatibor }
 
-..
-..
-FK Vojvodina  ++
- ++
- ++
-_#vojvodina_{: .key} ++
-<br>
+FK Vojvodina   _#vojvodina_{: .key} <br>
 {: .team #vojvodina }
 
-..
-..
-OFK Beograd  ++
- ++
- ++
-_#beograd_{: .key} ++
-<br>
+OFK Beograd   _#beograd_{: .key} <br>
 {: .team #beograd }
 
-..
-..
-Serbia  ++
- (SRB) ++
- ++
-_#srb_{: .key} ++
-<br>
+Serbia  (SRB)  _#srb_{: .key} <br>
 {: .team #srb }
 
 
-
-
-.. 
  

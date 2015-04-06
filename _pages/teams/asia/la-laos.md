@@ -5,41 +5,22 @@ permalink: /la.html
 ---
 
 
-## Laos   ++
-(LAO)  ++
--                     ++
-0 Clubs
+## Laos (LAO) - 0 Clubs
 {: #la }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Laos  ++
- (LAO) ++
- ++
-_#lao_{: .key} ++
-<br>
+Laos  (LAO)  _#lao_{: .key} <br>
 {: .team #lao }
 
 
-
-
-.. 
  

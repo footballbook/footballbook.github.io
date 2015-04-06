@@ -5,50 +5,25 @@ permalink: /ma.html
 ---
 
 
-## Morocco   ++
-(MAR)  ++
--                     ++
-1 Clubs
+## Morocco (MAR) - 1 Clubs
 {: #ma }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Morocco  ++
- (MAR) ++
- ++
-_#mar_{: .key} ++
-<br>
+Morocco  (MAR)  _#mar_{: .key} <br>
 {: .team #mar }
 
-..
-..
-Raja Casablanca • Raja Club Athletic  ++
- ++
- ++
-_#casablanca_{: .key} ++
-<br>
+Raja Casablanca • Raja Club Athletic   _#casablanca_{: .key} <br>
 {: .team #casablanca }
 
 
-
-
-.. 
  

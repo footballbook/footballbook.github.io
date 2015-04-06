@@ -5,41 +5,22 @@ permalink: /mm.html
 ---
 
 
-## Myanmar   ++
-(MYA)  ++
--                     ++
-0 Clubs
+## Myanmar (MYA) - 0 Clubs
 {: #mm }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Myanmar  ++
- (MYA) ++
- ++
-_#mya_{: .key} ++
-<br>
+Myanmar  (MYA)  _#mya_{: .key} <br>
 {: .team #mya }
 
 
-
-
-.. 
  

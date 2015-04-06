@@ -5,41 +5,22 @@ permalink: /mw.html
 ---
 
 
-## Malawi   ++
-(MWI)  ++
--                     ++
-0 Clubs
+## Malawi (MWI) - 0 Clubs
 {: #mw }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Malawi  ++
- (MWI) ++
- ++
-_#mwi_{: .key} ++
-<br>
+Malawi  (MWI)  _#mwi_{: .key} <br>
 {: .team #mwi }
 
 
-
-
-.. 
  

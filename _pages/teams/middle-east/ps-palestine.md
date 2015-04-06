@@ -5,41 +5,22 @@ permalink: /ps.html
 ---
 
 
-## Palestine   ++
-(PLE)  ++
--                     ++
-0 Clubs
+## Palestine (PLE) - 0 Clubs
 {: #ps }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Palestine  ++
- (PLE) ++
- ++
-_#ple_{: .key} ++
-<br>
+Palestine  (PLE)  _#ple_{: .key} <br>
 {: .team #ple }
 
 
-
-
-.. 
  

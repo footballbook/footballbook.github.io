@@ -7,7 +7,7 @@ permalink: /index.html
 # The Free World Football Almanac
 
 
-Last Update:  2015-04-06 16:56:39 +0200
+Last Update:  2015-04-06 21:24:30 +0200
 
 
 Auto-built from the open public domain football data (`football.db`)
@@ -28,364 +28,28 @@ Send them along to the Open Sports forum/mailing list
 [A-Z National Teams, Clubs](#az)
 
 
-.. 
 
 ### Leagues & Tournaments _(29)_{: .count}
 {: #events}
 
-
-| ++
-World Cup ++
-_#world_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014](world.2014.html)  ++   
-  ++
-| ++
- ++
-|
-
-
-| ++
-World Cup Quali Europe ++
-_#world.quali.europe_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014](world.quali.europe.2014.html)  ++   
-  ++
-| ++
- ++
-|
-
-
-| ++
-World Cup Quali North/Central America and Caribbean ++
-_#world.quali.northamerica_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014](world.quali.northamerica.2014.html)  ++   
-  ++
-| ++
- ++
-|
-
-
-| ++
-World Cup Quali South America ++
-_#world.quali.southamerica_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014](world.quali.southamerica.2014.html)  ++   
-  ++
-| ++
- ++
-|
-
-
-| ++
-World Cup Quali Africa ++
-_#world.quali.africa_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014](world.quali.africa.2014.html)  ++   
-  ++
-| ++
- ++
-|
-
-
-| ++
-World Cup Quali Asia (w/ Australia) ++
-_#world.quali.asia_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014](world.quali.asia.2014.html)  ++   
-  ++
-| ++
- ++
-|
-
-
-| ++
-World Cup Quali South Pacific ++
-_#world.quali.pacific_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014](world.quali.pacific.2014.html)  ++   
-  ++
-| ++
- ++
-|
-
-
-| ++
-World Cup Quali Intercontinental Playoffs ++
-_#world.quali.playoffs_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014](world.quali.playoffs.2014.html)  ++   
-  ++
-| ++
- ++
-|
-
-
-
-
-
-
-
-
-
-
-| ++
-English Premier League ++
-_#en_{: .key} ++
-| ++
-_(3)_{: .count}  ++
-| ++
- ++
- ++
-[2012/13](en.2012_13.html)  ++   
- ++
-• ++
-[2013/14](en.2013_14.html)  ++   
- ++
-• ++
-[2014/15](en.2014_15.html)  ++   
-  ++
-| ++
- ++
-[England (ENG)](eng.html)  ++  
- ++
-|
-
-
-| ++
-Deutsche Bundesliga ++
-_#de_{: .key} ++
-| ++
-_(3)_{: .count}  ++
-| ++
- ++
- ++
-[2012/13](de.2012_13.html)  ++   
- ++
-• ++
-[2013/14](de.2013_14.html)  ++   
- ++
-• ++
-[2014/15](de.2014_15.html)  ++   
-  ++
-| ++
- ++
-[Germany (GER)](de.html)  ++  
- ++
-|
-
-
-| ++
-Deutsche 2. Bundesliga ++
-_#de.2_{: .key} ++
-| ++
-_(3)_{: .count}  ++
-| ++
- ++
- ++
-[2012/13](de.2.2012_13.html)  ++   
- ++
-• ++
-[2013/14](de.2.2013_14.html)  ++   
- ++
-• ++
-[2014/15](de.2.2014_15.html)  ++   
-  ++
-| ++
- ++
-[Germany (GER)](de.html)  ++  
- ++
-|
-
-
-| ++
-Deutsche 3. Liga ++
-_#de.3_{: .key} ++
-| ++
-_(2)_{: .count}  ++
-| ++
- ++
- ++
-[2012/13](de.3.2012_13.html)  ++   
- ++
-• ++
-[2013/14](de.3.2013_14.html)  ++   
-  ++
-| ++
- ++
-[Germany (GER)](de.html)  ++  
- ++
-|
-
-
-| ++
-DFB Pokal ++
-_#de.cup_{: .key} ++
-| ++
-_(2)_{: .count}  ++
-| ++
- ++
- ++
-[2012/13](de.cup.2012_13.html)  ++   
- ++
-• ++
-[2013/14](de.cup.2013_14.html)  ++   
-  ++
-| ++
- ++
-[Germany (GER)](de.html)  ++  
- ++
-|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| ++
-Primera División ++
-_#es_{: .key} ++
-| ++
-_(3)_{: .count}  ++
-| ++
- ++
- ++
-[2012/13](es.2012_13.html)  ++   
- ++
-• ++
-[2013/14](es.2013_14.html)  ++   
- ++
-• ++
-[2014/15](es.2014_15.html)  ++   
-  ++
-| ++
- ++
-[Spain (ESP)](es.html)  ++  
- ++
-|
-
-
-
-
-| ++
-Serie A ++
-_#it_{: .key} ++
-| ++
-_(2)_{: .count}  ++
-| ++
- ++
- ++
-[2013/14](it.2013_14.html)  ++   
- ++
-• ++
-[2014/15](it.2014_15.html)  ++   
-  ++
-| ++
- ++
-[Italy (ITA)](it.html)  ++  
- ++
-|
-
-
-| ++
-Ligue 1 ++
-_#fr_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014/15](fr.2014_15.html)  ++   
-  ++
-| ++
- ++
-[France (FRA)](fr.html)  ++  
- ++
-|
-
-
-| ++
-Ligue 2 ++
-_#fr.2_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014/15](fr.2.2014_15.html)  ++   
-  ++
-| ++
- ++
-[France (FRA)](fr.html)  ++  
- ++
-|
-
-
-| ++
-Champions League (Europe) ++
-_#cl_{: .key} ++
-| ++
-_(1)_{: .count}  ++
-| ++
- ++
- ++
-[2014/15](cl.2014_15.html)  ++   
-  ++
-| ++
- ++
-|
-
-
-
-
+| World Cup _#world_{: .key} | _(1)_{: .count} |   [2014](world.2014.html)  |  |
+| World Cup Quali Europe _#world.quali.europe_{: .key} | _(1)_{: .count} |   [2014](world.quali.europe.2014.html)  |  |
+| World Cup Quali North/Central America and Caribbean _#world.quali.northamerica_{: .key} | _(1)_{: .count} |   [2014](world.quali.northamerica.2014.html)  |  |
+| World Cup Quali South America _#world.quali.southamerica_{: .key} | _(1)_{: .count} |   [2014](world.quali.southamerica.2014.html)  |  |
+| World Cup Quali Africa _#world.quali.africa_{: .key} | _(1)_{: .count} |   [2014](world.quali.africa.2014.html)  |  |
+| World Cup Quali Asia (w/ Australia) _#world.quali.asia_{: .key} | _(1)_{: .count} |   [2014](world.quali.asia.2014.html)  |  |
+| World Cup Quali South Pacific _#world.quali.pacific_{: .key} | _(1)_{: .count} |   [2014](world.quali.pacific.2014.html)  |  |
+| World Cup Quali Intercontinental Playoffs _#world.quali.playoffs_{: .key} | _(1)_{: .count} |   [2014](world.quali.playoffs.2014.html)  |  |
+| English Premier League _#en_{: .key} | _(3)_{: .count} |   [2012/13](en.2012_13.html)  • [2013/14](en.2013_14.html)  • [2014/15](en.2014_15.html)  |  [England (ENG)](eng.html)  |
+| Deutsche Bundesliga _#de_{: .key} | _(3)_{: .count} |   [2012/13](de.2012_13.html)  • [2013/14](de.2013_14.html)  • [2014/15](de.2014_15.html)  |  [Germany (GER)](de.html)  |
+| Deutsche 2. Bundesliga _#de.2_{: .key} | _(3)_{: .count} |   [2012/13](de.2.2012_13.html)  • [2013/14](de.2.2013_14.html)  • [2014/15](de.2.2014_15.html)  |  [Germany (GER)](de.html)  |
+| Deutsche 3. Liga _#de.3_{: .key} | _(2)_{: .count} |   [2012/13](de.3.2012_13.html)  • [2013/14](de.3.2013_14.html)  |  [Germany (GER)](de.html)  |
+| DFB Pokal _#de.cup_{: .key} | _(2)_{: .count} |   [2012/13](de.cup.2012_13.html)  • [2013/14](de.cup.2013_14.html)  |  [Germany (GER)](de.html)  |
+| Primera División _#es_{: .key} | _(3)_{: .count} |   [2012/13](es.2012_13.html)  • [2013/14](es.2013_14.html)  • [2014/15](es.2014_15.html)  |  [Spain (ESP)](es.html)  |
+| Serie A _#it_{: .key} | _(2)_{: .count} |   [2013/14](it.2013_14.html)  • [2014/15](it.2014_15.html)  |  [Italy (ITA)](it.html)  |
+| Ligue 1 _#fr_{: .key} | _(1)_{: .count} |   [2014/15](fr.2014_15.html)  |  [France (FRA)](fr.html)  |
+| Ligue 2 _#fr.2_{: .key} | _(1)_{: .count} |   [2014/15](fr.2.2014_15.html)  |  [France (FRA)](fr.html)  |
+| Champions League (Europe) _#cl_{: .key} | _(1)_{: .count} |   [2014/15](cl.2014_15.html)  |  |
 
 
 
@@ -397,14 +61,11 @@ _(1)_{: .count}  ++
 
 
 
-
-
 #### Europe
 {: #europe }
 
 
 <div class='columns3' markdown='1'>
-
 
 [Albania (ALB)](al.html) -- _1 National Team_{:.count}, _9 Clubs_{:.count}  <br>
 [Andorra (AND)](ad.html) -- _1 National Team_{:.count}, _4 Clubs_{:.count}  <br>
@@ -460,10 +121,7 @@ _(1)_{: .count}  ++
 [Ukraine (UKR)](ua.html) -- _1 National Team_{:.count}, _9 Clubs_{:.count}  <br>
 [Wales (WAL)](wal.html) -- _1 National Team_{:.count}, _9 Clubs_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -473,7 +131,6 @@ _(1)_{: .count}  ++
 
 
 <div class='columns3' markdown='1'>
-
 
 [Argentina (ARG)](ar.html) -- _1 National Team_{:.count}, _20 Clubs_{:.count}  <br>
 [Bolivia (BOL)](bo.html) -- _1 National Team_{:.count}, _5 Clubs_{:.count}  <br>
@@ -489,10 +146,7 @@ _(1)_{: .count}  ++
 [Uruguay (URU)](uy.html) -- _1 National Team_{:.count}, _16 Clubs_{:.count}  <br>
 [Venezuela (VEN)](ve.html) -- _1 National Team_{:.count}, _18 Clubs_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -503,16 +157,12 @@ _(1)_{: .count}  ++
 
 <div class='columns3' markdown='1'>
 
-
 [Bermuda (BMU)](bm.html) -- _1 National Team_{:.count}  <br>
 [Canada (CAN)](ca.html) -- _1 National Team_{:.count}  <br>
 [México [Mexico] (MEX)](mx.html) -- _1 National Team_{:.count}  <br>
 [United States (USA)](us.html) -- _1 National Team_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -523,7 +173,6 @@ _(1)_{: .count}  ++
 
 <div class='columns3' markdown='1'>
 
-
 [Belize (BLZ)](bz.html) -- _1 National Team_{:.count}  <br>
 [Costa Rica (CRC)](cr.html) -- _1 National Team_{:.count}, _3 Clubs_{:.count}  <br>
 [El Salvador (SLV)](sv.html) -- _1 National Team_{:.count}, _5 Clubs_{:.count}  <br>
@@ -532,10 +181,7 @@ _(1)_{: .count}  ++
 [Nicaragua (NCA)](ni.html) -- _1 National Team_{:.count}, _1 Clubs_{:.count}  <br>
 [Panamá [Panama] (PAN)](pa.html) -- _1 National Team_{:.count}, _5 Clubs_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -545,7 +191,6 @@ _(1)_{: .count}  ++
 
 
 <div class='columns3' markdown='1'>
-
 
 [Anguilla (AIA)](ai.html) -- _1 National Team_{:.count}  <br>
 [Antigua and Barbuda (ATG)](ag.html) -- _1 National Team_{:.count}  <br>
@@ -573,10 +218,7 @@ _(1)_{: .count}  ++
 [Turks and Caicos Islands (TCA)](tc.html) -- _1 National Team_{:.count}  <br>
 [United States Virgin Islands (VIR)](vi.html) -- _1 National Team_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -586,7 +228,6 @@ _(1)_{: .count}  ++
 
 
 <div class='columns3' markdown='1'>
-
 
 [Algeria (ALG)](dz.html) -- _1 National Team_{:.count}  <br>
 [Angola (ANG)](ao.html) -- _1 National Team_{:.count}  <br>
@@ -644,10 +285,7 @@ _(1)_{: .count}  ++
 [Zambia (ZAM)](zm.html) -- _1 National Team_{:.count}  <br>
 [Zimbabwe (ZIM)](zw.html) -- _1 National Team_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -657,7 +295,6 @@ _(1)_{: .count}  ++
 
 
 <div class='columns3' markdown='1'>
-
 
 [Bahrain (BHR)](bh.html) -- _1 National Team_{:.count}  <br>
 [Iran (IRN)](ir.html) -- _1 National Team_{:.count}  <br>
@@ -674,10 +311,7 @@ _(1)_{: .count}  ++
 [United Arab Emirates (UAE)](ae.html) -- _1 National Team_{:.count}  <br>
 [Yemen (YEM)](ye.html) -- _1 National Team_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -687,7 +321,6 @@ _(1)_{: .count}  ++
 
 
 <div class='columns3' markdown='1'>
-
 
 [Afghanistan (AFG)](af.html) -- _1 National Team_{:.count}  <br>
 [Bangladesh (BAN)](bd.html) -- _1 National Team_{:.count}  <br>
@@ -722,10 +355,7 @@ _(1)_{: .count}  ++
 [Uzbekistan (UZB)](uz.html) -- _1 National Team_{:.count}  <br>
 [Vietnam (VIE)](vn.html) -- _1 National Team_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -735,7 +365,6 @@ _(1)_{: .count}  ++
 
 
 <div class='columns3' markdown='1'>
-
 
 [American Samoa (ASM)](as.html) -- _1 National Team_{:.count}  <br>
 [Australia (AUS)](au.html) -- _1 National Team_{:.count}, _9 Clubs_{:.count}  <br>
@@ -755,10 +384,7 @@ _(1)_{: .count}  ++
 [Tuvalu (TUV)](tv.html) -- _1 National Team_{:.count}  <br>
 [Vanuatu (VAN)](vu.html) -- _1 National Team_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -770,11 +396,7 @@ _(1)_{: .count}  ++
 <div class='columns3' markdown='1'>
 
 
-
-
 </div>
-
-
 
 
 

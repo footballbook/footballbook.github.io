@@ -5,41 +5,22 @@ permalink: /lk.html
 ---
 
 
-## Sri Lanka   ++
-(SRI)  ++
--                     ++
-0 Clubs
+## Sri Lanka (SRI) - 0 Clubs
 {: #lk }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Sri Lanka  ++
- (SRI) ++
- ++
-_#sri_{: .key} ++
-<br>
+Sri Lanka  (SRI)  _#sri_{: .key} <br>
 {: .team #sri }
 
 
-
-
-.. 
  

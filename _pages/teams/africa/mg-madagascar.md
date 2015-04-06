@@ -5,41 +5,22 @@ permalink: /mg.html
 ---
 
 
-## Madagascar   ++
-(MAD)  ++
--                     ++
-0 Clubs
+## Madagascar (MAD) - 0 Clubs
 {: #mg }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Madagascar  ++
- (MAD) ++
- ++
-_#mad_{: .key} ++
-<br>
+Madagascar  (MAD)  _#mad_{: .key} <br>
 {: .team #mad }
 
 
-
-
-.. 
  

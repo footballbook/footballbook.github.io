@@ -5,41 +5,22 @@ permalink: /tc.html
 ---
 
 
-## Turks and Caicos Islands   ++
-(TCA)  ++
--                     ++
-0 Clubs
+## Turks and Caicos Islands (TCA) - 0 Clubs
 {: #tc }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Turks and Caicos Islands  ++
- (TCA) ++
- ++
-_#tca_{: .key} ++
-<br>
+Turks and Caicos Islands  (TCA)  _#tca_{: .key} <br>
 {: .team #tca }
 
 
-
-
-.. 
  

@@ -5,27 +5,16 @@ permalink: /mc.html
 ---
 
 
-## Monaco   ++
-(MCO)  ++
--                     ++
-1 Clubs
+## Monaco (MCO) - 1 Clubs
 {: #mc }
 
 
-.. 
 
 
 
 
-.. 
 
 
 
 
-.. 
-.. 
-
-
-
-.. 
  

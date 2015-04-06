@@ -5,41 +5,22 @@ permalink: /bz.html
 ---
 
 
-## Belize   ++
-(BLZ)  ++
--                     ++
-0 Clubs
+## Belize (BLZ) - 0 Clubs
 {: #bz }
 
 
-.. 
 
 
 
 
-.. 
 
-
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Belize  ++
- (BLZ) ++
- ++
-_#blz_{: .key} ++
-<br>
+Belize  (BLZ)  _#blz_{: .key} <br>
 {: .team #blz }
 
 
-
-
-.. 
  
