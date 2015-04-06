@@ -1,358 +1,395 @@
 ---
-layout: book
+layout: default
 title: France (FRA)
 permalink: /fr.html
 ---
 
-## France (FRA) - 20 Clubs
+
+## France   ++
+(FRA)  ++
+-                     ++
+39 Clubs
 {: #fr }
 
 
+.. 
 
 
+  ++
+Ligue 1  ++
+_#fr_{: .key}
 
+ •   ++
+Ligue 2  ++
+_#fr.2_{: .key}
 
-[Ile-de-France](#fr-if) _(1)_{:.count} • [Champagne-Ardenne](#fr-ca) _(2)_{:.count} • [Picardie](#fr-pd) _(0)_{:.count} • [Haute-Normandie](#fr-hn) _(0)_{:.count} • [Centre](#fr-ct) _(0)_{:.count} • [Basse-Normandie](#fr-bn) _(0)_{:.count} • [Bourgogne](#fr-bg) _(0)_{:.count} • [Nord-Pas-de-Calais](#fr-nc) _(2)_{:.count} • [Languedoc-Roussillon](#fr-lr) _(2)_{:.count} • [Alsace](#fr-al) _(1)_{:.count} • [Franche-Comté](#fr-fc) _(1)_{:.count} • [Pays de la Loire](#fr-pl) _(1)_{:.count} • [Bretagne [Brittany]](#fr-br) _(3)_{:.count} • [Poitou-Charentes](#fr-pc) _(0)_{:.count} • [Aquitaine](#fr-aq) _(1)_{:.count} • [Midi-Pyrénées](#fr-mp) _(1)_{:.count} • [Limousin](#fr-lm) _(0)_{:.count} • [Rhône-Alpes](#fr-ra) _(3)_{:.count} • [Auvergne](#fr-av) _(0)_{:.count} • [Provence-Alpes-Côte d'Azur](#fr-ac) _(2)_{:.count} • [Corse](#fr-cr) _(2)_{:.count}
 
 
-### Uncategorized _(1)_{:.count}
+.. 
 
-France  (FRA)  _#fra_{: .key} <br>
-{: .team #fra }
 
 
 
-### Ile-de-France _(1)_{:.count}
-{: #fr-if }
+.. 
+.. 
 
 
+### Uncategorized _(39)_{:.count}
 
 
+..
+..
+AC Ajaccio • Athletic Club Ajaccien  ++
+ (ACA) ++
+ ++
+_#ajaccio_{: .key} ++
+<br>
+{: .team #ajaccio }
 
-<div class='columns300' markdown='1'>
+..
+..
+AC Arles Avignon • Athletic Club Arles-Avignon  ++
+ (ACA) ++
+ ++
+_#avignon_{: .key} ++
+<br>
+{: .team #avignon }
 
-Paris St. Germain • Paris S.Germai • Paris Saint Germain • Paris Saint-Germain  (PSG)  -- Paris (Saint-Denis) _#paris_{: .key} <br>
-{: .team #paris }
+..
+..
+AJ Auxerre • Association de la Jeunesse Auxerroise  ++
+ (AJA) ++
+ ++
+_#auxerre_{: .key} ++
+<br>
+{: .team #auxerre }
 
-</div>
-
-
-
-### Champagne-Ardenne _(2)_{:.count}
-{: #fr-ca }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-ES Troyes AC • ESTAC Troyes • Espérance Sportive Troyes Aube Champagne  (TRO)  -- Troyes _#troyes_{: .key} <br>
-{: .team #troyes }
-Stade de Reims • Stade Reims  (REI)  -- Reims _#reims_{: .key} <br>
-{: .team #reims }
-
-</div>
-
-
-
-### Picardie _(0)_{:.count}
-{: #fr-pd }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-
-</div>
-
-
-
-### Haute-Normandie _(0)_{:.count}
-{: #fr-hn }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-
-</div>
-
-
-
-### Centre _(0)_{:.count}
-{: #fr-ct }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-
-</div>
-
-
-
-### Basse-Normandie _(0)_{:.count}
-{: #fr-bn }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-
-</div>
-
-
-
-### Bourgogne _(0)_{:.count}
-{: #fr-bg }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-
-</div>
-
-
-
-### Nord-Pas-de-Calais _(2)_{:.count}
-{: #fr-nc }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-OSC Lille • Lille OSC • LOSC Lille  (LIL)  -- Lille _#lille_{: .key} <br>
-{: .team #lille }
-Valenciennes FC  (VAL)  -- Valenciennes _#valenciennes_{: .key} <br>
-{: .team #valenciennes }
-
-</div>
-
-
-
-### Languedoc-Roussillon _(2)_{:.count}
-{: #fr-lr }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-AS Nancy • AS Nancy-Lorraine • Association Sportive Nancy-Lorraine  (NAL)  -- Nancy _#nancy_{: .key} <br>
+..
+..
+AS Nancy-Lorraine • Association Sportive Nancy-Lorraine  ++
+ ++
+ ++
+_#nancy_{: .key} ++
+<br>
 {: .team #nancy }
-HSC Montpellier • Montpellier • Montpellier Hérault SC  (MHS)  -- Montpellier _#montpellier_{: .key} <br>
-{: .team #montpellier }
 
-</div>
+..
+..
+AS Saint-Étienne • Association sportive de Saint-Étienne  ++
+ ++
+ ++
+_#saintetienne_{: .key} ++
+<br>
+{: .team #saintetienne }
 
+..
+..
+Angers SCO • Angers Sporting Club de l'Ouest  ++
+ (SCO) ++
+ ++
+_#angers_{: .key} ++
+<br>
+{: .team #angers }
 
-
-### Alsace _(0)_{:.count}
-{: #fr-al }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-
-</div>
-
-
-
-### Franche-Comté _(1)_{:.count}
-{: #fr-fc }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-FC Sochaux-Montbéliard • Football Club Sochaux-Montbéliard  (SOC)  -- Sochaux _#sochaux_{: .key} <br>
-{: .team #sochaux }
-
-</div>
-
-
-
-### Pays de la Loire _(0)_{:.count}
-{: #fr-pl }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-
-</div>
-
-
-
-### Bretagne [Brittany] _(3)_{:.count}
-{: #fr-br }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-FC Lorient  (LOR)  -- Lorient _#lorient_{: .key} <br>
-{: .team #lorient }
-Stade Brestois • Stade Brestois 29  (BRS)  -- Brest _#brest_{: .key} <br>
-{: .team #brest }
-Stade Rennais FC • Stade Rennais Football Club  (REN)  -- Rennes _#rennes_{: .key} <br>
-{: .team #rennes }
-
-</div>
-
-
-
-### Poitou-Charentes _(0)_{:.count}
-{: #fr-pc }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-
-</div>
-
-
-
-### Aquitaine _(1)_{:.count}
-{: #fr-aq }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-Bordeaux • Girondins de Bordeaux • FC Girondins de Bordeaux • Football Club des Girondins de Bordeaux  (BOR)  -- Bordeaux _#bordeaux_{: .key} <br>
+..
+..
+Bordeaux • Girondins de Bordeaux • Football Club des Girondins de Bordeaux  ++
+ ++
+ ++
+_#bordeaux_{: .key} ++
+<br>
 {: .team #bordeaux }
 
-</div>
+..
+..
+Chamois Niortais • Chamois Niortais Football Club  ++
+ ++
+ ++
+_#niort_{: .key} ++
+<br>
+{: .team #niort }
 
+..
+..
+Châteauroux • La Berrichonne de Châteauroux  ++
+ (LBC) ++
+ ++
+_#chateauroux_{: .key} ++
+<br>
+{: .team #chateauroux }
 
+..
+..
+Clermont Foot • Clermont Foot 63  ++
+ ++
+ ++
+_#clermont_{: .key} ++
+<br>
+{: .team #clermont }
 
-### Midi-Pyrénées _(1)_{:.count}
-{: #fr-mp }
+..
+..
+Dijon FCO • Dijon Football Côte-d'Or  ++
+ ++
+ ++
+_#dijon_{: .key} ++
+<br>
+{: .team #dijon }
 
+..
+..
+EA Guingamp • En Avant Guingamp • En Avant de Guingamp  ++
+ (EAG) ++
+ ++
+_#guingamp_{: .key} ++
+<br>
+{: .team #guingamp }
 
+..
+..
+ESTAC Troyes • Espérance Sportive Troyes Aube Champagne  ++
+ ++
+ ++
+_#troyes_{: .key} ++
+<br>
+{: .team #troyes }
 
+..
+..
+FC Lorient • Football Club Lorient-Bretagne Sud  ++
+ (FCL) ++
+ ++
+_#lorient_{: .key} ++
+<br>
+{: .team #lorient }
 
+..
+..
+FC Metz • Football Club de Metz  ++
+ (FCM) ++
+ ++
+_#metz_{: .key} ++
+<br>
+{: .team #metz }
 
-<div class='columns300' markdown='1'>
+..
+..
+FC Nantes • Football Club de Nantes  ++
+ (FCN) ++
+ ++
+_#nantes_{: .key} ++
+<br>
+{: .team #nantes }
 
-Toulouse FC  (TFC)  -- Toulouse _#toulouse_{: .key} <br>
-{: .team #toulouse }
+..
+..
+FC Sochaux-Montbéliard • Football Club de Sochaux-Montbéliard  ++
+ ++
+ ++
+_#sochaux_{: .key} ++
+<br>
+{: .team #sochaux }
 
-</div>
+..
+..
+France  ++
+ (FRA) ++
+ ++
+_#fra_{: .key} ++
+<br>
+{: .team #fra }
 
+..
+..
+GFC Ajaccio • Gazélec Football Club Ajaccio  ++
+ ++
+ ++
+_#ajacciogfc_{: .key} ++
+<br>
+{: .team #ajacciogfc }
 
+..
+..
+Havre AC • Le Havre Athletic Club Football  ++
+ (HAC) ++
+ ++
+_#havre_{: .key} ++
+<br>
+{: .team #havre }
 
-### Limousin _(0)_{:.count}
-{: #fr-lm }
+..
+..
+LOSC Lille  ++
+ ++
+ ++
+_#lille_{: .key} ++
+<br>
+{: .team #lille }
 
-
-
-
-
-<div class='columns300' markdown='1'>
-
-
-</div>
-
-
-
-### Rhône-Alpes _(3)_{:.count}
-{: #fr-ra }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-AS Saint-Étienne • Association Sportive de Saint-Étienne Loire  (STE)  -- Saint-Étienne _#saintetienne_{: .key} <br>
-{: .team #saintetienne }
-Lyon • Olympique Lyonnais  (OL)  -- Lyon _#lyon_{: .key} <br>
+..
+..
+Lyon • Olympique Lyonnais  ++
+ (OL) ++
+ ++
+_#lyon_{: .key} ++
+<br>
 {: .team #lyon }
-Évian TG • Évian TG FC • Évian Thonon Gaillard FC  (EVI)  -- Thonon-les-Bains _#evian_{: .key} <br>
-{: .team #evian }
 
-</div>
-
-
-
-### Auvergne _(0)_{:.count}
-{: #fr-av }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-
-</div>
-
-
-
-### Provence-Alpes-Côte d'Azur _(2)_{:.count}
-{: #fr-ac }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-Marseille • Olympique Marseille • Olympique de Marseille  (OM)  -- Marseille _#marseille_{: .key} <br>
+..
+..
+Marseille • Olympique Marseille • Olympique de Marseille  ++
+ (OM) ++
+ ++
+_#marseille_{: .key} ++
+<br>
 {: .team #marseille }
-OGC Nice • Olympique Gymnaste Club Nice Côte d'Azur  (NIC)  -- Nice _#nice_{: .key} <br>
+
+..
+..
+Montpellier • HSC Montpellier • Montpellier-Herault Sports Club  ++
+ ++
+ ++
+_#montpellier_{: .key} ++
+<br>
+{: .team #montpellier }
+
+..
+..
+Nîmes Olympique  ++
+ ++
+ ++
+_#nimes_{: .key} ++
+<br>
+{: .team #nimes }
+
+..
+..
+OGC Nice • Olympique Gymnaste Club Nice Côte d'Azur  ++
+ ++
+ ++
+_#nice_{: .key} ++
+<br>
 {: .team #nice }
 
-</div>
+..
+..
+RC Lens • Racing Club de Lens  ++
+ (RCL) ++
+ ++
+_#lens_{: .key} ++
+<br>
+{: .team #lens }
 
-
-
-### Corse _(2)_{:.count}
-{: #fr-cr }
-
-
-
-
-
-<div class='columns300' markdown='1'>
-
-AC Ajaccio • Athletic Club Ajaccio  (ACA)  -- Ajaccio _#ajaccio_{: .key} <br>
-{: .team #ajaccio }
-SC Bastia • Sporting Club de Bastia  (BAS)  -- Bastia _#bastia_{: .key} <br>
+..
+..
+SC Bastia • Sporting Club de Bastia  ++
+ (SCB) ++
+ ++
+_#bastia_{: .key} ++
+<br>
 {: .team #bastia }
 
-</div>
+..
+..
+SM Caen • Stade Malherbe de Caen  ++
+ (SMC) ++
+ ++
+_#caen_{: .key} ++
+<br>
+{: .team #caen }
+
+..
+..
+Stade Brestois 29  ++
+ ++
+ ++
+_#brest_{: .key} ++
+<br>
+{: .team #brest }
+
+..
+..
+Stade Lavallois • Stade Lavallois Mayenne Football Club  ++
+ ++
+ ++
+_#laval_{: .key} ++
+<br>
+{: .team #laval }
+
+..
+..
+Stade Rennais FC • Stade Rennais Football Club  ++
+ ++
+ ++
+_#rennes_{: .key} ++
+<br>
+{: .team #rennes }
+
+..
+..
+Stade de Reims • Stade Reims  ++
+ (SDR) ++
+ ++
+_#reims_{: .key} ++
+<br>
+{: .team #reims }
+
+..
+..
+Toulouse FC •  Toulouse Football Club  ++
+ (TFC) ++
+ ++
+_#toulouse_{: .key} ++
+<br>
+{: .team #toulouse }
+
+..
+..
+Tours FC • Tours Football Club  ++
+ ++
+ ++
+_#tours_{: .key} ++
+<br>
+{: .team #tours }
+
+..
+..
+US Créteil-Lusitanos • Union Sportive Créteil-Lusitanos  ++
+ ++
+ ++
+_#creteil_{: .key} ++
+<br>
+{: .team #creteil }
+
+..
+..
+US Orléans • Union sportive Orléans Loiret football  ++
+ (USO) ++
+ ++
+_#orleans_{: .key} ++
+<br>
+{: .team #orleans }
+
+..
+..
+Valenciennes FC • Valenciennes Football Club  ++
+ ++
+ ++
+_#valenciennes_{: .key} ++
+<br>
+{: .team #valenciennes }
+
+..
+..
+Évian TG • Évian TG FC • Évian Thonon Gaillard FC • Evian Thonon Gaillard Football Club  ++
+ (ETG) ++
+ ++
+_#evian_{: .key} ++
+<br>
+{: .team #evian }
 
 
+
+
+.. 
  

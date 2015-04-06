@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: default
 title: Back
 permalink: /back.html
 ---
@@ -10,10 +10,10 @@ permalink: /back.html
 
 Stats:
 
-- 86 National Teams
-- 864 Clubs
-- 3629 Games
-- 31 Leagues & Tournaments
-- 48 Events
-- 159 Stadiums
+- 222 National Teams
+- 818 Clubs
+- 6117 Games
+- 49 Leagues & Tournaments
+- 29 Events
+- 0 Stadiums
 
