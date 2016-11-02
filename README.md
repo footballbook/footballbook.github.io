@@ -1,10 +1,10 @@
 # The Free World Football Almanac
 
-- [openfootball.github.io/book](http://openfootball.github.io/book) - HTML page version
-- [openfootball.github.io/book/book.html](http://openfootball.github.io/book/book.html) - All-in-one-page HTML version
+- [footballbook.github.io](http://footballbook.github.io) - HTML page version
+- [footballbook.github.io/book.html](http://footballbook.github.io/book.html) - All-in-one-page HTML version
 
 <!--
-- [book.pdf @ Build Releases](https://github.com/openfootball/build/releases) - PDF booklet version; look for the download book.pdf button on the Build Releases page
+- [book.pdf @ Build Releases](https://github.com/footballbook/???/releases) - PDF booklet version; look for the download book.pdf button on the Build Releases page
 -->
 
 
