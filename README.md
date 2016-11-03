@@ -1,4 +1,4 @@
-# The Free World Football Almanac
+# The Free World Football Book
 
 - [footballbook.github.io](http://footballbook.github.io) - HTML page version
 - [footballbook.github.io/book.html](http://footballbook.github.io/book.html) - All-in-one-page HTML version
